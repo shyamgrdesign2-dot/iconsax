@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MetaQuest2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MetaQuest2__clip0_2085_384393)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.81 7.70996H8.19C4.77 7.70996 2 10.48 2 13.9C2 17.32 4.77 20.09 8.19 20.09H15.81C19.23 20.09 22 17.32 22 13.9C22 10.48 19.23 7.70996 15.81 7.70996ZM8.94 17.23C8.94 17.64 8.6 17.98 8.19 17.98C7.78 17.98 7.44 17.64 7.44 17.23V15.33C7.44 14.92 7.78 14.58 8.19 14.58C8.6 14.58 8.94 14.92 8.94 15.33V17.23ZM12.75 17.23C12.75 17.64 12.41 17.98 12 17.98C11.59 17.98 11.25 17.64 11.25 17.23V15.33C11.25 14.92 11.59 14.58 12 14.58C12.41 14.58 12.75 14.92 12.75 15.33V17.23ZM16.56 17.23C16.56 17.64 16.22 17.98 15.81 17.98C15.4 17.98 15.06 17.64 15.06 17.23V15.33C15.06 14.92 15.4 14.58 15.81 14.58C16.22 14.58 16.56 14.92 16.56 15.33V17.23Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 4.75H8C7.59 4.75 7.25 4.41 7.25 4C7.25 3.59 7.59 3.25 8 3.25H16C16.41 3.25 16.75 3.59 16.75 4C16.75 4.41 16.41 4.75 16 4.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MetaQuest2__clip0_2085_384393", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MetaQuest2_default = MetaQuest2;
+export {
+  MetaQuest2_default as default
+};

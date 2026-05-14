@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiShop = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiShop__clip0_3111_12002)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 5.2L20.9 5.45C20.11 5.63 19.49 6.24 19.31 7.03L19.05 8.13C19.02 8.25 18.85 8.25 18.83 8.13L18.58 7.03C18.4 6.24 17.79 5.62 17 5.44L15.9 5.18C15.78 5.15 15.78 4.98 15.9 4.96L17 4.71C17.79 4.53 18.41 3.92 18.59 3.13L18.85 2.03C18.88 1.91 19.05 1.91 19.07 2.03L19.32 3.13C19.5 3.92 20.11 4.54 20.9 4.72L22 4.98C22.12 5.01 22.12 5.18 22 5.2Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.59 9.06999C14.76 10.72 16.25 12.06 17.9 12.06C19.02 12.06 19.98 11.55 20.57 10.76V11.28V15.77C20.57 20.26 18.77 22.06 14.28 22.06H8.89C4.4 22.06 2.6 20.26 2.6 15.77V11.28", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.93 2.06H9.26L8.59 8.74C8.41 10.57 9.76 12.06 11.59 12.06C13.42 12.06 14.77 10.57 14.59 8.74", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.23 12.06C6.88 12.06 8.37 10.72 8.53 9.07L8.75 6.86L9.23 2.06H6.18C3.56 2.06 2.56 3.06 2.2 5.66L1.93 8.41C1.73 10.42 3.21 12.06 5.23 12.06Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.59 17.06C9.92 17.06 9.09 17.89 9.09 19.56V22.06H14.09V19.56C14.09 17.89 13.26 17.06 11.59 17.06Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiShop__clip0_3111_12002", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiShop_default = AiShop;
+export {
+  AiShop_default as default
+};

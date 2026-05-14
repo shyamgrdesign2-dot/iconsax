@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Zeppelin = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Zeppelin__clip0_4482_3930)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.5 18.0799C18.1944 18.0799 22 14.9101 22 10.9999C22 7.08975 18.1944 3.91992 13.5 3.91992C8.80558 3.91992 5 7.08975 5 10.9999C5 14.9101 8.80558 18.0799 13.5 18.0799Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.44 15.9698L5.28003 17.7698C3.48003 19.2698 2 18.5798 2 16.2298V5.7698C2 3.4198 3.48003 2.7298 5.28003 4.2298L7.17999 5.8098", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5 9H2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5 13H2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.63 9.82962C16.47 7.52962 10.57 7.51962 5.40002 9.81962", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.63 12.0996C16.47 14.3996 10.57 14.4096 5.40002 12.1096", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10 18V19C10 20.1 10.9 21 12 21H15C16.1 21 17 20.1 17 19V18", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Zeppelin__clip0_4482_3930", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Zeppelin_default = Zeppelin;
+export {
+  Zeppelin_default as default
+};

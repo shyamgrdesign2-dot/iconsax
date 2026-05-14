@@ -1,0 +1,52 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Instrument5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Instrument5__clip0_2085_392263)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.4499 8.80043C12.3199 7.68043 10.5999 7.42043 9.19991 8.18043C8.81991 8.38043 8.45991 8.63043 8.10991 8.93043C8.40991 9.62043 8.28991 10.4404 7.72991 11.0004C6.99991 11.7304 5.81991 11.7304 5.08991 11.0004C4.94991 10.8604 4.83991 10.7004 4.75991 10.5304C4.56991 10.6804 4.38991 10.8304 4.20991 11.0004C1.86991 13.3404 1.42991 16.8104 2.98991 19.2704", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.73999 21.0196C7.19999 22.5796 10.66 22.1396 13.01 19.7996C13.18 19.6296 13.33 19.4396 13.48 19.2496C13.31 19.1596 13.15 19.0596 13.01 18.9196C12.28 18.1896 12.28 17.0096 13.01 16.2796C13.57 15.7196 14.4 15.5896 15.08 15.8996C15.37 15.5596 15.62 15.1896 15.83 14.8096C16.59 13.4096 16.34 11.6796 15.21 10.5596", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.91991 15.8398L8.15991 14.0798L18.4699 3.75977L20.2399 5.52977L9.91991 15.8398Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.19994 21.5596L2.43994 19.7996L4.63994 17.5996L6.39994 19.3596L4.19994 21.5596Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 21.9997L3.32 20.6797", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.40991 15.8398L8.16991 17.5998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.47 3.76V2H22V5.53H20.24", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.72 3.75977L17.6 4.63977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.3601 6.40039L20.2401 7.28039", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.97 5.51953L15.85 6.39953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.6001 8.16016L18.4801 9.04016", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M2.88989 3.51953L8.21989 8.84953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.1599 15.79L20.4899 21.12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.76001 4.40035C4.73001 3.43035 6.31001 3.43035 7.28001 4.40035L10.64 7.76035", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.25 13.3604L17.85 14.9604C18.82 15.9304 18.82 17.5104 17.85 18.4804", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Instrument5__clip0_2085_392263", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Instrument5_default = Instrument5;
+export {
+  Instrument5_default as default
+};

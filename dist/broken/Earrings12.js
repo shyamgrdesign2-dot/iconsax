@@ -1,0 +1,20 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Earrings12 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M2.2 13.99C2.8 12.29 4.15 10.94 5.85 10.34C6.48 10.12 7.15 10 7.85 10C8.55 10 9.23 10.12 9.85 10.34C7.52 11.16 5.85 13.39 5.85 16C5.85 18.61 7.52 20.84 9.85 21.66C9.23 21.88 8.55 22 7.85 22C5 22 2.61 20.01 2 17.34", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M5.8501 6C6.95467 6 7.8501 5.10457 7.8501 4C7.8501 2.89543 6.95467 2 5.8501 2C4.74553 2 3.8501 2.89543 3.8501 4C3.8501 5.10457 4.74553 6 5.8501 6Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M5.8501 6V10.34", stroke: "currentColor", strokeWidth: "1.41", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M21.8501 21.66C21.2301 21.88 20.5501 22 19.8501 22C16.5401 22 13.8501 19.31 13.8501 16C13.8501 13.39 15.5201 11.16 17.8501 10.34C18.4801 10.12 19.1501 10 19.8501 10C20.5501 10 21.2301 10.12 21.8501 10.34C19.5201 11.16 17.8501 13.39 17.8501 16C17.8501 18.61 19.5201 20.84 21.8501 21.66Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M17.8501 6C18.9547 6 19.8501 5.10457 19.8501 4C19.8501 2.89543 18.9547 2 17.8501 2C16.7455 2 15.8501 2.89543 15.8501 4C15.8501 5.10457 16.7455 6 17.8501 6Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M17.8501 6V10.34", stroke: "currentColor", strokeWidth: "1.41", strokeLinejoin: "round" }),
+  " "
+] });
+var Earrings12_default = Earrings12;
+export {
+  Earrings12_default as default
+};

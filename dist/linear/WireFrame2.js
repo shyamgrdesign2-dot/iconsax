@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const WireFrame2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#WireFrame2__clip0_4482_11056)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.5596 16.44H17.9996C20.2096 16.44 21.9996 14.65 21.9996 12.44V6C21.9996 3.79 20.2096 2 17.9996 2H11.5596C9.34957 2 7.55957 3.79 7.55957 6V12.44C7.55957 14.65 9.34957 16.44 11.5596 16.44Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4397 9.78006C16.4397 8.55006 15.4497 7.56006 14.2197 7.56006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.8896 7.56006H7.55957", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4404 16.4399V13.1099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 19.7798C2 21.0098 2.99 21.9998 4.22 21.9998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 16.4399V13.1099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.22 7.56006C2.99 7.56006 2 8.55006 2 9.78006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2197 21.9998C15.4497 21.9998 16.4397 21.0098 16.4397 19.7798", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.8896 22H7.55957", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "WireFrame2__clip0_4482_11056", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var WireFrame2_default = WireFrame2;
+export {
+  WireFrame2_default as default
+};

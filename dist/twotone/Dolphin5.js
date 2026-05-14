@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Dolphin5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Dolphin5__clip0_2085_391903)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.1 6.89C21.83 7.15 22.26 8.08 21.81 8.71C21.61 8.99 21.16 9.15 20.63 9.15C18.31 9.15 6.03001 9.81 8.02001 16.78C8.02001 16.78 10.04 19.66 9.02001 20.98C9.02001 20.98 6.03001 20.43 6.03001 18.44C6.03001 18.44 4.33001 19.77 2.01001 18.77C2.01001 18.77 2.72001 16.11 5.37001 15.12C5.37001 15.12 5.70001 7.82 9.02001 6.16C9.02001 6.16 8.69001 3.54 6.70001 3.21C6.70001 3.21 11.01 2.51 12.34 4.17C12.34 4.17 18.31 2.51 19.97 6.49L21.11 6.89H21.1Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.9701 9.49023C17.9701 9.49023 16.5601 12.5902 14.6501 12.8002C14.1801 12.8502 14.6501 9.82023 14.6501 9.82023", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Dolphin5__clip0_2085_391903", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Dolphin5_default = Dolphin5;
+export {
+  Dolphin5_default as default
+};

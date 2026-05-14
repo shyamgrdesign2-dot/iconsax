@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const PriceListHome = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#PriceListHome__clip0_4482_10622)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.55957 15.3302L9.62957 13.2602C10.0196 12.8702 10.6496 12.8702 11.0396 13.2602L12.3996 14.6202C12.7896 15.0102 13.4196 15.0102 13.8096 14.6202L16.4396 11.9902", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.88 7.09988L8.88 3.09988C10.71 1.63988 13.3 1.63988 15.13 3.09988L20.13 7.09988C21.32 8.04988 22.01 9.48988 22.01 10.9999V17.5599C22.01 20.0099 20.02 21.9999 17.57 21.9999H6.44C3.99 21.9999 2 20.0099 2 17.5599V10.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "PriceListHome__clip0_4482_10622", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var PriceListHome_default = PriceListHome;
+export {
+  PriceListHome_default as default
+};

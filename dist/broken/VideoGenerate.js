@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const VideoGenerate = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#VideoGenerate__clip0_2085_390273)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.7602 20.5899C18.6602 20.8299 18.5802 21.0899 18.5302 21.3499C18.5302 21.3799 18.4802 21.3799 18.4702 21.3499C18.1302 19.6799 16.8202 18.3699 15.1402 18.0199C15.1102 18.0199 15.1102 17.9699 15.1402 17.9599C16.8202 17.6199 18.1202 16.3099 18.4702 14.6299C18.4702 14.5999 18.5202 14.5999 18.5302 14.6299C18.8702 16.2999 20.1802 17.6099 21.8602 17.9599C21.8902 17.9599 21.8902 18.0099 21.8602 18.0199C21.6602 18.0599 21.4602 18.1199 21.2702 18.1899", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 13.5998V13.2898C22 12.1398 22 11.5698 21.78 11.1298C21.58 10.7398 21.27 10.4298 20.88 10.2298C20.44 10.0098 19.87 10.0098 18.72 10.0098H2.54004V15.2298C2.54004 17.5198 2.54004 18.6698 2.99004 19.5498C3.38004 20.3198 4.01004 20.9498 4.78004 21.3398C5.66004 21.7898 6.80004 21.7898 9.10004 21.7898H12.53", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.58009 9.6199L2.36009 8.7599C2.07009 7.5899 1.92009 7.0099 2.04009 6.5099C2.15009 6.0799 2.39009 5.6899 2.74009 5.4099C3.14009 5.0899 3.73009 4.9699 4.91009 4.7499C9.36009 3.8799 16.7601 2.4499 17.9101 2.2399C19.5801 1.9499 21.2501 3.4799 21.4701 4.7299C21.6901 5.9799 21.0601 6.3599 20.2201 6.5099C19.3801 6.6599 2.57009 9.6199 2.57009 9.6199H2.58009Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "VideoGenerate__clip0_2085_390273", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var VideoGenerate_default = VideoGenerate;
+export {
+  VideoGenerate_default as default
+};

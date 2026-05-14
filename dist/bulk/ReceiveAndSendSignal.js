@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ReceiveAndSendSignal = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ReceiveAndSendSignal__clip0_4482_951)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21 12.5C21 15.11 19.94 17.49 18.21 19.21C16.49 20.94 14.11 22 11.5 22C6.28 22 2 17.72 2 12.5C2 9.89 3.06004 7.51 4.79004 5.79C6.51004 4.06 8.89 3 11.5 3C12.31 3 13.0799 3.1 13.8199 3.28C13.2999 4.06 13 4.99 13 6C13 8.77 15.23 11 18 11C19.01 11 19.94 10.7 20.72 10.18C20.9 10.92 21 11.69 21 12.5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.69995 8.31982V16.6798", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.5 11.3599V16.6799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3 13.6401V16.6801", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18 1C16.51 1 15.18 1.64 14.28 2.68C14.11 2.87 13.9499 3.07 13.8199 3.28C13.2999 4.06 13 4.99 13 6C13 8.77 15.23 11 18 11C19.01 11 19.94 10.7 20.72 10.18C20.93 10.05 21.1299 9.89 21.3199 9.72C22.3599 8.82 23 7.49 23 6C23 3.23 20.77 1 18 1ZM17.64 7.95C17.64 8.25 17.4601 8.53 17.1801 8.64C17.0901 8.68 16.99 8.7 16.89 8.7C16.69 8.7 16.5 8.62 16.36 8.48L14.78 6.9C14.49 6.61 14.49 6.13 14.78 5.84C15.07 5.55 15.55 5.55 15.84 5.84L16.14 6.14V4.15C16.14 3.74 16.48 3.4 16.89 3.4C17.3 3.4 17.64 3.74 17.64 4.15V7.95ZM21.22 6.26C20.93 6.55 20.45 6.55 20.16 6.26L19.86 5.96V7.95C19.86 8.36 19.52 8.7 19.11 8.7C18.7 8.7 18.36 8.36 18.36 7.95V4.15C18.36 3.85 18.5399 3.57 18.8199 3.46C19.0999 3.34 19.42 3.41 19.64 3.62L21.22 5.2C21.51 5.49 21.51 5.97 21.22 6.26Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ReceiveAndSendSignal__clip0_4482_951", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ReceiveAndSendSignal_default = ReceiveAndSendSignal;
+export {
+  ReceiveAndSendSignal_default as default
+};

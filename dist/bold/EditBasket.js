@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const EditBasket = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#EditBasket__clip0_4482_1732)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 7H8C5.25 7 3 9.25 3 12V17C3 19.75 5.25 22 8 22H16C18.75 22 21 19.75 21 17V12C21 9.25 18.75 7 16 7ZM13.77 14.43L12.24 16.16C12.11 16.29 11.94 16.4 11.76 16.45L10.42 16.75C10.13 16.81 9.90001 16.63 9.92001 16.33L10 14.96C10.01 14.77 10.08 14.58 10.22 14.44L11.75 12.71C12.22 12.15 13.07 12.08 13.63 12.56C14.18 13.03 14.25 13.87 13.77 14.43Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.8399 8.75C15.4299 8.75 15.0899 8.41 15.0899 8V5.84C15.0899 4.14 13.7099 2.75 11.9999 2.75C10.2899 2.75 8.90991 4.13 8.90991 5.84V8C8.90991 8.41 8.56991 8.75 8.15991 8.75C7.74991 8.75 7.40991 8.41 7.40991 8V5.84C7.40991 3.31 9.46991 1.25 11.9999 1.25C14.5299 1.25 16.5899 3.31 16.5899 5.84V8C16.5899 8.41 16.2499 8.75 15.8399 8.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "EditBasket__clip0_4482_1732", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var EditBasket_default = EditBasket;
+export {
+  EditBasket_default as default
+};

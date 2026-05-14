@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Walking = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Walking__clip0_4482_6985)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.5201 15.7501C21.6901 16.5301 21.5401 18.2901 20.2601 18.8601C18.3101 19.7301 16.0601 19.5401 14.2901 18.3601L5.28014 12.3601C3.64014 11.2701 3.20015 9.06013 4.29015 7.42013L6.2401 4.49013C6.8301 3.61013 7.73012 3.64013 8.26012 4.56013C9.21012 6.21013 11.0101 7.19013 12.9101 7.08013L14.5001 6.99013C15.0401 6.96013 15.5301 7.30013 15.7001 7.81013L16.5401 10.4501C16.6701 10.8501 16.8201 11.2401 17.0001 11.6201", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.68994 20.1504H8.81006", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.68994 17.0195H4.78003", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Walking__clip0_4482_6985", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Walking_default = Walking;
+export {
+  Walking_default as default
+};

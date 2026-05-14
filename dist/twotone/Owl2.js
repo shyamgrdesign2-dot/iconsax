@@ -1,0 +1,44 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Owl2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Owl2__clip0_2085_384876)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.21997 9.78C4.21997 5.48 7.69997 2 12 2C16.3 2 19.78 5.48 19.78 9.78V14C19.78 18.42 16.2 22 11.78 22H4.21997V9.78Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.21997 22.0001H7.54997C9.99997 22.0001 11.99 20.0101 11.99 17.5601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 17.56C16.2967 17.56 19.78 14.0768 19.78 9.78C19.78 5.48322 16.2967 2 12 2C7.7032 2 4.21997 5.48322 4.21997 9.78C4.21997 14.0768 7.7032 17.56 12 17.56Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M13.1099 12.0001L12.1999 11.0901C12.0899 10.9801 11.9199 10.9801 11.8099 11.0901L10.8999 12.0001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M4.21997 10.89V9.74005C4.21997 8.10005 5.24997 6.63005 6.79997 6.08005C9.32997 5.18005 12 7.05005 12 9.74005V10.89", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M19.78 10.89V9.74005C19.78 8.10005 18.75 6.63005 17.2 6.08005C14.67 5.18005 12 7.05005 12 9.74005V10.89", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M6.55996 9.09009C6.49996 9.26009 6.45996 9.45009 6.45996 9.65009C6.45996 10.5801 7.20996 11.3301 8.13996 11.3301C9.06996 11.3301 9.81996 10.5801 9.81996 9.65009C9.81996 9.45009 9.78996 9.27009 9.72996 9.09009H6.55996Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M14.31 9.09009C14.25 9.26009 14.21 9.45009 14.21 9.65009C14.21 10.5801 14.96 11.3301 15.89 11.3301C16.82 11.3301 17.57 10.5801 17.57 9.65009C17.57 9.45009 17.54 9.27009 17.47 9.09009H14.31Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M6.43994 22.0002V18.6702", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Owl2__clip0_2085_384876", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Owl2_default = Owl2;
+export {
+  Owl2_default as default
+};

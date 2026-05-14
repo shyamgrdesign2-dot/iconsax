@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Skating = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Skating__clip0_4482_6974)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.6598 9.62012L13.3297 7.47012C13.7597 6.92012 13.3698 6.12012 12.6698 6.12012H9.83972C9.38972 6.12012 8.95977 6.30012 8.63977 6.62012L6.50977 8.75012", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3 21L6.42004 19.68C7.01004 19.45 7.44005 18.92 7.55005 18.29L8.16003 14.62C8.23003 14.21 8.40002 13.83 8.65002 13.5", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.1302 7.87012L14.5002 10.0401C14.0902 10.5901 14.4803 11.3701 15.1703 11.3701H17.0002", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.2701 18.0005V16.9905C13.2701 16.5505 13.0402 16.1405 12.6602 15.8905L10.8701 14.7305", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11 18H17.76C19.13 18 20.38 17.23 21 16", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13 20C12.45 20 12 20.45 12 21C12 21.55 12.45 22 13 22C13.55 22 14 21.55 14 21C14 20.45 13.55 20 13 20Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18 20C17.45 20 17 20.45 17 21C17 21.55 17.45 22 18 22C18.55 22 19 21.55 19 21C19 20.45 18.55 20 18 20Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.6599 5.04988L18.3198 4.38988C18.8598 3.84988 18.8598 2.94988 18.3198 2.40988C17.7798 1.86988 16.8798 1.86988 16.3398 2.40988L15.6799 3.06989C15.1399 3.60989 15.1399 4.50988 15.6799 5.04988C16.2299 5.58988 17.1199 5.58988 17.6599 5.04988Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Skating__clip0_4482_6974", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Skating_default = Skating;
+export {
+  Skating_default as default
+};

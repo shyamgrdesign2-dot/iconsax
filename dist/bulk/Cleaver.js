@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cleaver = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cleaver__clip0_4482_6275)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12.4401 4.26965L5.80005 10.9097C5.39005 11.3197 5.39005 11.9797 5.80005 12.3897L11.7001 18.2897L21.3001 8.68965C21.7101 8.27965 21.7101 7.61965 21.3001 7.20965L18.3501 4.25965C16.7101 2.63965 14.0701 2.63965 12.4401 4.26965Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.52996 13.1299L3.11996 16.5399C2.14996 17.5099 2.14996 19.0899 3.11996 20.0599L3.28996 20.2299C4.25996 21.1999 5.83996 21.1999 6.80996 20.2299C7.52996 19.5099 7.73996 18.4199 7.33996 17.4899C7.06996 16.8699 7.20996 16.1399 7.68996 15.6599L8.36996 14.9799L6.52996 13.1299Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.8 8.90039C15.4904 8.90039 16.05 8.34075 16.05 7.65039C16.05 6.96003 15.4904 6.40039 14.8 6.40039C14.1097 6.40039 13.55 6.96003 13.55 7.65039C13.55 8.34075 14.1097 8.90039 14.8 8.90039Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cleaver__clip0_4482_6275", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cleaver_default = Cleaver;
+export {
+  Cleaver_default as default
+};

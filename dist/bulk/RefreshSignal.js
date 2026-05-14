@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const RefreshSignal = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#RefreshSignal__clip0_4482_939)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21 12.5C21 15.11 19.94 17.49 18.21 19.21C16.49 20.94 14.11 22 11.5 22C6.28 22 2 17.72 2 12.5C2 9.89 3.05998 7.51 4.78998 5.79C6.50998 4.06 8.89 3 11.5 3C12.31 3 13.08 3.1 13.82 3.28C13.3 4.06 13 4.99 13 6C13 8.77 15.23 11 18 11C19.01 11 19.94 10.7 20.72 10.18C20.9 10.92 21 11.69 21 12.5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.69995 8.31982V16.6798", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.5 11.3599V16.6799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3 13.6401V16.6801", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18 1C16.51 1 15.18 1.64 14.28 2.68C14.11 2.87 13.95 3.07 13.82 3.28C13.3 4.06 13 4.99 13 6C13 8.77 15.23 11 18 11C19.01 11 19.94 10.7 20.72 10.18C20.93 10.05 21.13 9.89 21.32 9.72C22.36 8.82 23 7.49 23 6C23 3.23 20.77 1 18 1ZM16.22 7.57C16.13 7.61 16.03 7.63 15.93 7.63C15.64 7.63 15.36 7.46 15.24 7.17C14.77 6.04 15.02 4.75 15.88 3.89C16.61 3.16 17.66 2.86 18.67 3.1C19.07 3.2 19.32 3.6 19.23 4C19.13 4.4 18.73 4.65 18.33 4.56C17.83 4.44 17.31 4.59 16.94 4.95C16.51 5.38 16.39 6.02 16.62 6.59C16.78 6.97 16.6 7.41 16.22 7.57ZM20.13 8.11C19.57 8.67 18.8 8.98 18.02 8.98C17.85 8.98 17.68 8.97 17.51 8.94C17.1 8.87 16.83 8.48 16.9 8.07C16.97 7.66 17.36 7.39 17.77 7.46C18.26 7.54 18.73 7.39 19.07 7.05C19.5 6.62 19.62 5.98 19.39 5.41C19.23 5.03 19.41 4.59 19.79 4.43C20.17 4.27 20.61 4.45 20.77 4.83C21.24 5.96 20.99 7.25 20.13 8.11Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "RefreshSignal__clip0_4482_939", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var RefreshSignal_default = RefreshSignal;
+export {
+  RefreshSignal_default as default
+};

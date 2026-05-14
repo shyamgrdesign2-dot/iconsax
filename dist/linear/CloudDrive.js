@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CloudDrive = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CloudDrive__clip0_4482_12064)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.67953 15.6797H18.3095C20.0495 15.6797 21.4695 17.0897 21.4695 18.8397C21.4695 20.5797 20.0595 21.9997 18.3095 21.9997H5.67953C3.93953 21.9997 2.51953 20.5897 2.51953 18.8397C2.51953 17.0997 3.92953 15.6797 5.67953 15.6797Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.74023 18.8398H17.2402", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.2501 12.5296H8.32012C6.40012 12.5296 4.80012 11.0596 4.65012 9.14957C4.50012 7.23957 5.84012 5.52957 7.73012 5.21957C8.34012 3.10957 10.3901 1.75957 12.5601 2.03957C14.7301 2.30957 16.3901 4.12957 16.4601 6.31957C18.1401 6.42957 19.4201 7.84957 19.3701 9.52957C19.3201 11.2096 17.9401 12.5396 16.2501 12.5396V12.5296Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CloudDrive__clip0_4482_12064", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CloudDrive_default = CloudDrive;
+export {
+  CloudDrive_default as default
+};

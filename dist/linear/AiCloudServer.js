@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiCloudServer = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiCloudServer__clip0_3111_11826)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.65 19.22H14.34C14.71 19.22 15.06 19.03 15.26 18.73L15.71 18.05C15.92 17.74 16.26 17.56 16.63 17.56H20.87C21.48 17.56 21.98 18.06 21.98 18.67V19.78C21.98 21.01 20.98 22 19.76 22H4.22C2.99 22 2 21.01 2 19.78V18.73C2 18.08 2.53 17.55 3.18 17.55H7.35C7.72 17.55 8.07 17.74 8.27 18.04L8.72 18.72C8.93 19.03 9.27 19.21 9.65 19.21V19.22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.89 17.56V12.59", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.11 17.56V5.53C3.11 4.23 4.16 3.18 5.46 3.18H11.34", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.76 6.66L19.61 6.92C18.79 7.11 18.15 7.74 17.95 8.56L17.68 9.7C17.65 9.82 17.48 9.82 17.45 9.7L17.19 8.55C17 7.73 16.37 7.09 15.55 6.89L14.41 6.62C14.29 6.59 14.29 6.42 14.41 6.39L15.56 6.13C16.38 5.94 17.02 5.31 17.22 4.49L17.49 3.35C17.52 3.23 17.69 3.23 17.72 3.35L17.98 4.5C18.17 5.32 18.8 5.96 19.62 6.16L20.76 6.43C20.88 6.46 20.88 6.63 20.76 6.66Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiCloudServer__clip0_3111_11826", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiCloudServer_default = AiCloudServer;
+export {
+  AiCloudServer_default as default
+};

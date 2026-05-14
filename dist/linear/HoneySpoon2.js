@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HoneySpoon2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HoneySpoon2__clip0_2085_391218)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.67001 14.0605V19.3105C2.67001 20.0405 3.26001 20.6305 3.99001 20.6305C4.72001 20.6305 5.31001 20.0405 5.31001 19.3105V18.7105C5.31001 18.0205 5.87001 17.4705 6.55001 17.4705C7.23001 17.4705 7.79001 18.0305 7.79001 18.7105V20.4505C7.79001 21.1405 8.35001 21.7005 9.04001 21.7005C9.73001 21.7005 10.29 21.1405 10.29 20.4505V15.2905", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.84 4.98055V12.6105C4.84 13.3905 4.2 14.0305 3.42 14.0305C2.64 14.0305 2 13.3905 2 12.6105V4.98055C2 4.20055 2.64 3.56055 3.42 3.56055C4.2 3.56055 4.84 4.20055 4.84 4.98055Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.44 4.98055V12.6105C14.44 13.3905 13.8 14.0305 13.02 14.0305C12.24 14.0305 11.6 13.3905 11.6 12.6105V4.98055C11.6 4.20055 12.24 3.56055 13.02 3.56055C13.8 3.56055 14.44 4.20055 14.44 4.98055Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.22 3.99078V13.6008C8.22 14.5308 7.46 15.2908 6.53 15.2908C5.6 15.2908 4.84 14.5308 4.84 13.6008V3.99078C4.84 3.06078 5.6 2.30078 6.53 2.30078C7.46 2.30078 8.22 3.06078 8.22 3.99078Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.6 3.99078V13.6008C11.6 14.5308 10.84 15.2908 9.91 15.2908C8.98 15.2908 8.22 14.5308 8.22 13.6008V3.99078C8.22 3.06078 8.98 2.30078 9.91 2.30078C10.84 2.30078 11.6 3.06078 11.6 3.99078Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 6.69141H14.44V10.7514H22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HoneySpoon2__clip0_2085_391218", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HoneySpoon2_default = HoneySpoon2;
+export {
+  HoneySpoon2_default as default
+};

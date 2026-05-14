@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HomeBook = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HomeBook__clip0_4482_10221)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2599 3.0498C19.5899 3.0498 21.4699 4.9398 21.4699 7.2598V17.7898C21.4699 20.1198 19.5799 21.9998 17.2599 21.9998H15.1499", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9998 3.0498H6.73979C4.40979 3.0498 2.52979 4.9398 2.52979 7.2598V11.4698", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.94979 21.9998H4.52979C3.42979 21.9998 2.52979 21.0998 2.52979 19.9998V17.4198C2.52979 16.8098 2.80979 16.2398 3.27979 15.8598L5.43979 14.1298C6.16979 13.5498 7.20978 13.5498 7.93979 14.1298L10.1998 15.9398C10.6698 16.3198 10.9498 16.8898 10.9498 17.4998V19.9898C10.9498 21.0898 10.0498 21.9898 8.94979 21.9898V21.9998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 8.84V3.05C12 2.47 12.47 2 13.05 2H16.21C16.79 2 17.26 2.47 17.26 3.05V8.84C17.26 9.03 17.15 9.21 16.98 9.3C16.81 9.39 16.6 9.38 16.44 9.27L14.63 8.06L12.82 9.27C12.66 9.38 12.45 9.39 12.28 9.3C12.11 9.21 12 9.03 12 8.84Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HomeBook__clip0_4482_10221", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HomeBook_default = HomeBook;
+export {
+  HomeBook_default as default
+};

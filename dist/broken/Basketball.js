@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Basketball = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Basketball__clip0_2085_385689)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.37 16.9998C9.37 17.8698 10.08 18.5798 10.95 18.5798C11.82 18.5798 12.53 17.8698 12.53 16.9998C12.53 16.1298 11.82 15.4198 10.95 15.4198C10.08 15.4198 9.37 16.1298 9.37 16.9998ZM9.37 16.9998C9.37 15.7698 11.5 13.3298 13.26 11.0798M13.26 11.0798C15.26 8.51984 16.77 6.20984 14.11 6.20984M13.26 11.0798C12.58 11.0998 11.81 11.1498 10.95 11.2098C4.11 11.7398 9.11 6.20984 14.11 6.20984M13.26 11.0798C17.99 10.9498 18.45 12.3398 15.69 20.1598H17.8M14.11 6.20984C10.95 4.88984 4.9 3.83984 2 3.83984M14.63 8.57984C10.42 10.1598 6.74 13.3198 2.52 20.1598H4.63M22 6.46984C22 7.62984 21.06 8.57984 19.89 8.57984C18.72 8.57984 17.78 7.63984 17.78 6.46984C17.78 5.29984 18.72 4.35984 19.89 4.35984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Basketball__clip0_2085_385689", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Basketball_default = Basketball;
+export {
+  Basketball_default as default
+};

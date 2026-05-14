@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Meteor5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Meteor5__clip0_2085_385629)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.5 8.58022C3.82 7.51022 4.56 6.61022 5.54 6.11022L7.13 5.29022C8.38 4.65022 9.9 5.10022 10.61 6.33022L12.1 8.89022C12.47 9.52022 12.65 9.84022 12.89 10.0002C13.22 10.2302 13.64 10.2802 14.02 10.1402C14.29 10.0402 14.54 9.78022 15.05 9.26022C16.24 8.04022 18.22 8.24022 19.16 9.68022L20.33 11.4802C20.98 12.4802 21.17 13.7302 20.85 14.8902L20.51 16.1202C20.2 17.2302 19.45 18.1502 18.45 18.6702L12.84 21.5502C11.51 22.2302 9.93 22.1002 8.72 21.2202L3.69 17.5302C2.29 16.5002 1.68 14.6602 2.19 12.9702", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11 15.5L9.5 17", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 10.75C8.06 10.16 7.59 9.87003 7.15 10.05C6.71 10.23 6.48 10.82 6 12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Meteor5__clip0_2085_385629", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Meteor5_default = Meteor5;
+export {
+  Meteor5_default as default
+};

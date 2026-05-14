@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const VideoCamera2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#VideoCamera2__clip0_4482_14321)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 11.5705L20.62 10.0705C20.93 9.94047 21.28 9.98047 21.56 10.1605C21.84 10.3405 22 10.6605 22 10.9905V16.9905C22 17.3205 21.83 17.6405 21.56 17.8205C21.28 18.0105 20.93 18.0405 20.62 17.9105L17 16.4105", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 11C2 9.34 3.34 8 5 8H14C15.66 8 17 9.34 17 11V17C17 18.66 15.66 20 14 20H5C3.34 20 2 18.66 2 17V15.68", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14 8V6.83C14 6.3 13.79 5.79 13.41 5.42L12.58 4.59C12.2 4.21 11.7 4 11.17 4H5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "VideoCamera2__clip0_4482_14321", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var VideoCamera2_default = VideoCamera2;
+export {
+  VideoCamera2_default as default
+};

@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SpoonAndFork = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SpoonAndFork__clip0_4482_5643)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.3001 17.7401V18.2701C21.3001 20.3401 19.6301 22.0101 17.5601 22.0001C16.5401 22.0101 15.6001 21.5901 14.9201 20.9101C14.2501 20.2401 13.8301 19.3101 13.8301 18.2701V17.7401C13.8301 16.7601 14.2201 15.8101 14.9201 15.1001L15.7301 14.3101C16.1101 13.9301 16.3201 13.4001 16.3201 12.8601V12.0801C16.6701 12.3201 17.1201 12.4801 17.5801 12.4801C18.0401 12.4801 18.4701 12.3301 18.8101 12.0901V12.8601C18.8101 13.4001 19.0201 13.9301 19.4001 14.3101L20.2001 15.1001C20.9101 15.8101 21.3001 16.7601 21.3001 17.7401Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.75989 4.16995L8.74988 10.2899C8.74988 10.9799 8.43988 11.59 7.93988 12L7.90988 12.03C7.88988 12.03 7.88988 12.04 7.87988 12.05C7.52988 12.31 7.05989 12.48 6.56989 12.48C6.10989 12.48 5.66988 12.32 5.30988 12.08C5.28988 12.07 5.27988 12.05 5.24988 12.05L5.21988 12.02C4.70988 11.61 4.37988 11 4.37988 10.31V4.17995C4.37988 2.97995 5.35989 1.99995 6.56989 2.00995C7.16989 1.98995 7.71986 2.22995 8.10986 2.61995C8.52986 3.01995 8.75989 3.55995 8.75989 4.16995Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.7699 4.17018L19.7599 10.2902C19.7599 10.9802 19.4499 11.5902 18.9499 12.0002L18.9199 12.0302C18.9099 12.0302 18.9099 12.0302 18.8899 12.0402C18.8599 12.0602 18.8399 12.0802 18.8099 12.0902C18.4699 12.3302 18.0399 12.4802 17.5799 12.4802C17.1199 12.4802 16.6699 12.3202 16.3199 12.0802C16.2999 12.0702 16.2799 12.0502 16.2599 12.0402L16.2299 12.0102C15.7199 11.6002 15.3999 10.9902 15.3999 10.3002V4.17018C15.3999 2.96018 16.3799 1.98018 17.5899 2.00018C18.1799 1.98018 18.7399 2.22018 19.1299 2.61018C19.5299 3.02018 19.7599 3.56018 19.7699 4.17018Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M7.91992 19.3896V20.6996", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M10.5305 15.9698V20.6898C10.5305 21.4198 9.95047 21.9898 9.23047 21.9898C8.51047 21.9998 7.93045 21.4198 7.93045 20.6898C7.93045 21.4198 7.34046 21.9998 6.63046 21.9898C6.27046 21.9898 5.95045 21.8498 5.71045 21.6098C5.47045 21.3698 5.33044 21.0398 5.33044 20.6798C5.33044 21.4098 4.74046 21.9898 4.03046 21.9798C3.31046 21.9798 2.73047 21.4098 2.73047 20.6798V15.9598C2.73047 15.3798 3.01046 14.8398 3.50046 14.5198L4.57047 13.8098C5.06047 13.4798 5.35046 12.9498 5.35046 12.3498V12.0598C5.71046 12.2998 6.15044 12.4598 6.61044 12.4598C7.10044 12.4598 7.57047 12.2898 7.92047 12.0298C7.94047 12.0198 7.94047 12.0098 7.95047 12.0098V12.3498C7.95047 12.9498 8.24047 13.4798 8.73047 13.8098L9.79047 14.5198C10.2505 14.8598 10.5305 15.3898 10.5305 15.9698Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M5.31055 19.3896V20.6996", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M5.31055 19.3896V20.6996", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M7.91992 19.3896V20.6996", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SpoonAndFork__clip0_4482_5643", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SpoonAndFork_default = SpoonAndFork;
+export {
+  SpoonAndFork_default as default
+};

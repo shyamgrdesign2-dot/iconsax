@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Kettlebell = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Kettlebell__clip0_2085_385765)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5002 9L17.7402 5.59C18.1902 4.35 17.7402 2.98 16.4802 2.6C15.4302 2.28 13.9502 2 12.0002 2C10.0502 2 8.58023 2.28 7.52023 2.6C6.26023 2.98 5.80023 4.35 6.26023 5.59L7.50023 9M19.7402 13.98C19.9102 14.63 20.0002 15.3 20.0002 16C20.0002 18.12 19.1802 20.04 17.8302 21.47C17.5002 21.83 17.0202 22 16.5302 22H7.46023C6.97023 22 6.49023 21.83 6.16023 21.47C4.82023 20.04 3.99023 18.11 3.99023 16C3.99023 11.58 7.57023 8 11.9902 8C14.3802 8 16.5202 9.05 17.9902 10.7M15.0002 16C15.0002 17.66 13.6602 19 12.0002 19C10.3402 19 9.00023 17.66 9.00023 16C9.00023 14.34 10.3402 13 12.0002 13C13.6602 13 15.0002 14.34 15.0002 16Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Kettlebell__clip0_2085_385765", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Kettlebell_default = Kettlebell;
+export {
+  Kettlebell_default as default
+};

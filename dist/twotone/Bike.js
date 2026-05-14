@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bike = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Bike__clip0_2085_389662)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.4499 14.73L15.6299 4.72998C15.6299 4.72998 18.8099 4.72998 19.2699 6.99998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M5.63989 8.3602L6.54989 12.0002L16.0899 7.4502", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.82007 8.35986H7.45007", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.64 19.28C7.65032 19.28 9.28 17.6503 9.28 15.64C9.28 13.6297 7.65032 12 5.64 12C3.62968 12 2 13.6297 2 15.64C2 17.6503 3.62968 19.28 5.64 19.28Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.4499 19.2802C19.9628 19.2802 21.9999 17.2431 21.9999 14.7302C21.9999 12.2173 19.9628 10.1802 17.4499 10.1802C14.937 10.1802 12.8999 12.2173 12.8999 14.7302C12.8999 17.2431 14.937 19.2802 17.4499 19.2802Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Bike__clip0_2085_389662", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Bike_default = Bike;
+export {
+  Bike_default as default
+};

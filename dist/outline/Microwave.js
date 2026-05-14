@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Microwave = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Microwave__clip0_4482_5487)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7 21.75C6.59 21.75 6.25 21.41 6.25 21V19C6.25 18.59 6.59 18.25 7 18.25C7.41 18.25 7.75 18.59 7.75 19V21C7.75 21.41 7.41 21.75 7 21.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 21.75C16.59 21.75 16.25 21.41 16.25 21V19C16.25 18.59 16.59 18.25 17 18.25C17.41 18.25 17.75 18.59 17.75 19V21C17.75 21.41 17.41 21.75 17 21.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19 19.75H5C2.93 19.75 1.25 18.07 1.25 16V8C1.25 5.93 2.93 4.25 5 4.25H19C21.07 4.25 22.75 5.93 22.75 8V16C22.75 18.07 21.07 19.75 19 19.75ZM5 5.75C3.76 5.75 2.75 6.76 2.75 8V16C2.75 17.24 3.76 18.25 5 18.25H19C20.24 18.25 21.25 17.24 21.25 16V8C21.25 6.76 20.24 5.75 19 5.75H5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13 19.75H5C2.93 19.75 1.25 18.07 1.25 16V8C1.25 5.93 2.93 4.25 5 4.25H13C15.07 4.25 16.75 5.93 16.75 8V16C16.75 18.07 15.07 19.75 13 19.75ZM5 5.75C3.76 5.75 2.75 6.76 2.75 8V16C2.75 17.24 3.76 18.25 5 18.25H13C14.24 18.25 15.25 17.24 15.25 16V8C15.25 6.76 14.24 5.75 13 5.75H5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 13.75C11.59 13.75 11.25 13.41 11.25 13V11C11.25 10.59 11.59 10.25 12 10.25C12.41 10.25 12.75 10.59 12.75 11V13C12.75 13.41 12.41 13.75 12 13.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Microwave__clip0_4482_5487", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Microwave_default = Microwave;
+export {
+  Microwave_default as default
+};

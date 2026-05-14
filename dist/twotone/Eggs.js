@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Eggs = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Eggs__clip0_2085_384847)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M19.6002 3.16C19.5402 3.15 19.4802 3.14 19.4202 3.13", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M20.4201 12.83C19.7701 13.85 19.0501 14.8 18.2701 15.57C18.6301 12.98 17.3901 10.11 15.5701 7.38001C14.8201 6.28001 13.9701 5.38001 13.0501 4.65001C12.9101 4.53001 12.7801 4.43001 12.6401 4.32001C15.0401 2.97001 17.5601 2.84001 19.4401 3.13001C20.2601 3.31001 20.8301 3.77001 21.2201 4.27001C21.7101 4.87001 21.9201 5.63001 21.9801 6.40001C22.1301 8.30001 21.8201 10.64 20.4301 12.83H20.4201Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M19.4201 3.12999C19.4201 3.12999 19.3701 3.11999 19.3401 3.10999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.2601 15.57C18.0301 17.27 17.1201 18.85 15.2301 20.19C14.0001 21.07 12.5401 21.63 11.0301 21.83C5.27008 22.56 2.97008 18 2.13008 12.62C1.58008 8.98005 2.74008 5.80005 4.08008 3.69005C5.30008 2.02005 7.29008 1.98005 8.14008 2.16005C9.54008 2.54005 11.1301 3.23005 12.6101 4.32005C12.7501 4.43005 12.8801 4.53005 13.0201 4.65005C13.9401 5.38005 14.7901 6.29005 15.5401 7.38005C17.3701 10.11 18.6001 12.98 18.2401 15.57H18.2601Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Eggs__clip0_2085_384847", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Eggs_default = Eggs;
+export {
+  Eggs_default as default
+};

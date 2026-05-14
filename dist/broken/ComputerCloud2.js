@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ComputerCloud2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ComputerCloud2__clip0_4482_12346)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.0498 8.03953V4.62953C3.0498 3.46953 3.9898 2.51953 5.1598 2.51953H10.4198", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.3198 14.1103H4.6298C3.7598 14.1103 3.0498 13.4003 3.0498 12.5303", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.8403 21.4696H4.11034C3.45034 21.4696 2.83034 21.1596 2.43034 20.6296C2.03034 20.0996 1.91034 19.4196 2.09034 18.7796L3.21034 14.8596C3.34034 14.4096 3.75034 14.0996 4.22034 14.0996H18.7403C19.2103 14.0996 19.6203 14.4096 19.7503 14.8596L20.8703 18.7796C21.0503 19.4196 20.9203 20.0996 20.5303 20.6296C20.1303 21.1596 19.5103 21.4696 18.8503 21.4696H18.8403Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.9502 18.3203H17.0002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9997 7.25972C21.9997 8.70972 20.8197 9.88972 19.3697 9.88972H13.5797C12.4197 9.88972 11.4697 8.94972 11.4697 7.77972C11.4697 6.60972 12.4097 5.66972 13.5797 5.66972C13.5797 4.12972 14.6897 2.80972 16.2097 2.54972C17.7297 2.29972 19.2097 3.18972 19.7097 4.64972C21.0197 4.81972 21.9997 5.92972 21.9997 7.24972V7.25972Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ComputerCloud2__clip0_4482_12346", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ComputerCloud2_default = ComputerCloud2;
+export {
+  ComputerCloud2_default as default
+};

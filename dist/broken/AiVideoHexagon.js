@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiVideoHexagon = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiVideoHexagon__clip0_3111_14878)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.2499 5.40999L20.1899 5.64999C19.4299 5.81999 18.8299 6.41999 18.6499 7.16999L18.3999 8.22999C18.3699 8.33999 18.2099 8.33999 18.1899 8.22999L17.9499 7.16999C17.7799 6.40999 17.1799 5.80999 16.4299 5.62999L15.3699 5.37999C15.2599 5.34999 15.2599 5.18999 15.3699 5.16999L16.4299 4.92999C17.1899 4.75999 17.7899 4.15999 17.9699 3.40999L18.2199 2.34999C18.2499 2.23999 18.4099 2.23999 18.4299 2.34999L18.6699 3.40999C18.8399 4.16999 19.4399 4.76999 20.1899 4.94999L21.2499 5.19999C21.3599 5.22999 21.3599 5.38999 21.2499 5.40999Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.3099 10.22V15.51C21.3099 16.66 20.6899 17.73 19.6999 18.31L13.6099 21.83C12.6099 22.4 11.3799 22.4 10.3799 21.83L4.28993 18.31C3.28993 17.74 2.67993 16.67 2.67993 15.51V8.48999C2.67993 7.33999 3.29993 6.26999 4.28993 5.68999L10.3799 2.16999C11.3799 1.59999 12.6099 1.59999 13.6099 2.16999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2999 13.44C15.6599 12.65 15.6599 11.36 14.2999 10.57L13.2299 9.94999L12.1599 9.32999C10.7999 8.53999 9.67993 9.18999 9.67993 10.77V12V12.01V13.24C9.67993 14.0816 9.9977 14.6593 10.5002 14.8961", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiVideoHexagon__clip0_3111_14878", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiVideoHexagon_default = AiVideoHexagon;
+export {
+  AiVideoHexagon_default as default
+};

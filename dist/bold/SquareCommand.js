@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareCommand = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareCommand__clip0_4482_1313)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.25 8C17.25 7.31 16.69 6.75 16 6.75C15.31 6.75 14.75 7.31 14.75 8V9.25H16C16.69 9.25 17.25 8.69 17.25 8Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.25 8C9.25 7.31 8.69 6.75 8 6.75C7.31 6.75 6.75 7.31 6.75 8C6.75 8.69 7.31 9.25 8 9.25H9.25V8Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.25 10.75H10.75V13.25H13.25V10.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.75 16C6.75 16.69 7.31 17.25 8 17.25C8.69 17.25 9.25 16.69 9.25 16V14.75H8C7.31 14.75 6.75 15.31 6.75 16Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.25 2 2 4.25 2 7V17C2 19.75 4.25 22 7 22H17C19.75 22 22 19.75 22 17V7C22 4.25 19.75 2 17 2ZM16 18.75C14.48 18.75 13.25 17.52 13.25 16V14.75H10.75V16C10.75 17.52 9.51 18.75 8 18.75C6.48 18.75 5.25 17.52 5.25 16C5.25 14.48 6.48 13.25 8 13.25H9.25V10.75H8C6.48 10.75 5.25 9.52 5.25 8C5.25 6.48 6.48 5.25 8 5.25C9.52 5.25 10.75 6.48 10.75 8V9.25H13.25V8C13.25 6.48 14.49 5.25 16 5.25C17.52 5.25 18.75 6.48 18.75 8C18.75 9.52 17.52 10.75 16 10.75H14.75V13.25H16C17.52 13.25 18.75 14.48 18.75 16C18.75 17.52 17.51 18.75 16 18.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 14.75H14.75V16C14.75 16.69 15.31 17.25 16 17.25C16.69 17.25 17.25 16.69 17.25 16C17.25 15.31 16.69 14.75 16 14.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareCommand__clip0_4482_1313", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareCommand_default = SquareCommand;
+export {
+  SquareCommand_default as default
+};

@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Feedback2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Feedback2__clip0_4482_15199)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.1104 14.3203H15.3204", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 9.87988L11 11.9999L9 14.1099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.0797 4.92018C22.6897 8.53018 22.9997 14.2702 19.7897 18.2502C16.5897 22.2202 10.9097 23.1402 6.61966 20.3802L3.78966 20.8502C3.60966 20.8802 3.42966 20.8202 3.30966 20.6902C3.17966 20.5602 3.12966 20.3802 3.14966 20.2102L3.61966 17.3802C0.85966 13.0902 1.77966 7.41018 5.74966 4.21018C8.51966 1.98018 12.1497 1.45018 15.3197 2.56018", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Feedback2__clip0_4482_15199", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Feedback2_default = Feedback2;
+export {
+  Feedback2_default as default
+};

@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Nuclear = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Nuclear__clip0_4482_168)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.74 6.74006L13.61 8.69006C13.55 8.80006 13.58 8.95006 13.69 9.02006C14.44 9.53006 14.92 10.3501 14.99 11.2601C14.99 11.3901 15.1 11.4901 15.22 11.4901H17.3C17.77 11.4901 18 11.2501 17.98 10.9701C17.82 9.20006 16.89 7.59006 15.44 6.57006C15.32 6.49006 15.18 6.47006 15.05 6.50006C14.93 6.53006 14.81 6.62006 14.74 6.74006Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.25 6.74006L10.5 8.90006C9.57 9.43006 8.99 10.4201 8.99 11.4901H6.5C6.36 11.4901 6.23 11.4301 6.14 11.3301C6.04 11.2401 5.99 11.1001 6 10.9701C6.16 9.20006 7.09 7.59006 8.54 6.57006C8.66 6.49006 8.8 6.47006 8.94 6.50006C9.08 6.53006 9.19 6.62006 9.25 6.74006Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.74 16.25L13.73 14.5C13.61 14.29 13.36 14.19 13.13 14.28C12.41 14.59 11.59 14.59 10.87 14.28C10.64 14.19 10.39 14.29 10.27 14.5L9.26002 16.25C9.19002 16.37 9.17002 16.51 9.21002 16.64C9.25002 16.77 9.34002 16.88 9.46002 16.95C11.07 17.71 12.93 17.71 14.54 16.95C14.66 16.89 14.76 16.78 14.8 16.64C14.83 16.51 14.81 16.37 14.74 16.25Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22H7C4.25 22 2 19.75 2 17V7C2 4.25 4.25 2 7 2H17C19.75 2 22 4.25 22 7V17C22 19.75 19.75 22 17 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 11.5H12.01", stroke: "currentColor", strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Nuclear__clip0_4482_168", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Nuclear_default = Nuclear;
+export {
+  Nuclear_default as default
+};

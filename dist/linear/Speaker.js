@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Speaker = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Speaker__clip0_4482_14182)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.8798 21.97H6.11977C5.50977 21.97 5.00977 21.47 5.00977 20.86V3.11C5.00977 2.5 5.50977 2 6.11977 2H17.8798C18.4898 2 18.9898 2.5 18.9898 3.11V20.86C18.9898 21.47 18.4898 21.97 17.8798 21.97Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7501 12.0101C16.2701 13.5301 16.2701 15.9901 14.7501 17.5001C13.2301 19.0201 10.7701 19.0201 9.26012 17.5001C7.74012 15.9801 7.74012 13.5201 9.26012 12.0101C10.7801 10.4901 13.2401 10.4901 14.7501 12.0101Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.4198 14.7947C12.4198 15.0172 12.2283 15.2079 12.0048 15.1761C11.7814 15.1761 11.5898 14.9854 11.5898 14.7629C11.5898 14.5403 11.7814 14.3496 12.0048 14.3496C12.1006 14.3496 12.2283 14.3814 12.2922 14.4768C12.356 14.5403 12.4198 14.6675 12.4198 14.7629", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.4198 6.46458C12.4198 6.68711 12.2283 6.87784 12.0048 6.84605C11.7814 6.84605 11.5898 6.65532 11.5898 6.43279C11.5898 6.21027 11.7814 6.01953 12.0048 6.01953C12.1006 6.01953 12.2283 6.05132 12.2922 6.14669C12.356 6.21027 12.4198 6.33743 12.4198 6.43279", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Speaker__clip0_4482_14182", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Speaker_default = Speaker;
+export {
+  Speaker_default as default
+};

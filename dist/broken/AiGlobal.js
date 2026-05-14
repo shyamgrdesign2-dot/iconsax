@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiGlobal = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiGlobal__clip0_3111_15155)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.29 12C22.29 6.31999 17.68 1.70999 12 1.70999C10.5973 1.70999 9.25997 1.99111 8.04115 2.50003M12 22.29C6.31996 22.29 1.70996 17.68 1.70996 12C1.70996 10.9566 1.86553 9.94928 2.15471 9.00003", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.87984 2.73999H8.90984C6.89984 8.74999 6.89984 15.25 8.90984 21.26H7.87984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.0898 2.73999C16.0898 5.73999 16.5898 8.86999 16.5898 12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.73999 16.12V15.09C5.73999 16.09 8.86999 16.59 12 16.59", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.73999 8.91C8.74999 6.9 15.25 6.9 21.26 8.91", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.8598 18.03L20.6998 18.3C19.8698 18.49 19.2198 19.14 19.0298 19.97L18.7598 21.13C18.7298 21.25 18.5498 21.25 18.5298 21.13L18.2598 19.97C18.0698 19.14 17.4198 18.49 16.5898 18.3L15.4298 18.03C15.3098 18 15.3098 17.82 15.4298 17.8L16.5898 17.53C17.4198 17.34 18.0698 16.69 18.2598 15.86L18.5298 14.7C18.5598 14.58 18.7398 14.58 18.7598 14.7L19.0298 15.86C19.2198 16.69 19.8698 17.34 20.6998 17.53L21.8598 17.8C21.9798 17.83 21.9798 18.01 21.8598 18.03Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiGlobal__clip0_3111_15155", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiGlobal_default = AiGlobal;
+export {
+  AiGlobal_default as default
+};

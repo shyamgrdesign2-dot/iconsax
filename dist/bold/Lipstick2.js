@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Lipstick2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Lipstick2__clip0_4482_4527)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.75 11.89L15.11 13.52L15.31 13.72C15.7 14.11 15.7 14.74 15.31 15.13L9.43003 21.01C8.65003 21.79 7.38004 21.79 6.60005 21.01L3.50004 17.92C2.72004 17.13 2.72004 15.87 3.50004 15.09L9.38004 9.21004C9.77004 8.82004 10.4 8.82004 10.8 9.21004L10.99 9.40004L12.62 7.77004C13.01 7.38004 13.65 7.38004 14.04 7.77004L16.75 10.48C17.14 10.87 17.14 11.5 16.75 11.89Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.0401 5.34959L20.3601 2.90959C20.2401 2.45959 19.6801 2.24959 19.3901 2.53959L16.1601 5.76959C15.7201 6.20959 15.7201 6.92959 16.1601 7.36959L17.1501 8.35959C17.5901 8.79959 18.3101 8.79959 18.7501 8.35959L20.8401 6.26959C21.0601 6.03959 21.1401 5.68959 21.0401 5.34959Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Lipstick2__clip0_4482_4527", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Lipstick2_default = Lipstick2;
+export {
+  Lipstick2_default as default
+};

@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Coffee6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Coffee6__clip0_2085_392313)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.14 2.37981L6.70002 2.76981C6.18002 2.79981 5.77002 3.23981 5.77002 3.76981V4.98981H18.22V3.06981C18.22 2.48981 17.73 2.02981 17.15 2.06981L14.96 2.21981", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.4698 4.99023H5.52979C4.97979 4.99023 4.52979 5.44023 4.52979 5.99023V6.48023C4.52979 7.03023 4.97979 7.48023 5.52979 7.48023H18.4698C19.0198 7.48023 19.4698 7.03023 19.4698 6.48023V5.99023C19.4698 5.44023 19.0198 4.99023 18.4698 4.99023Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.14 21.9995H8.85002C7.81002 21.9995 6.95002 21.2095 6.86002 20.1695L5.77002 7.47949H18.22L17.13 20.1695C17.04 21.1995 16.18 21.9995 15.14 21.9995Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.1296 12.46C12.6696 12.46 12.2696 12.67 11.9896 12.98C11.7096 12.66 11.3096 12.46 10.8496 12.46C10.0096 12.46 9.32959 13.14 9.32959 13.98C9.32959 15.66 11.9896 17.02 11.9896 17.02C11.9896 17.02 14.6496 15.66 14.6496 13.98C14.6496 13.14 13.9696 12.46 13.1296 12.46Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.19 19.5097L18.01 9.96973H5.97998L6.79998 19.5097H17.19Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Coffee6__clip0_2085_392313", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Coffee6_default = Coffee6;
+export {
+  Coffee6_default as default
+};

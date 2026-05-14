@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Drink3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Drink3__clip0_2085_391054)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.48 3.75977L20.24 5.51977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27001 10.71H17.02C17.66 10.71 18.13 11.3 18 11.93L15.95 21.22C15.85 21.68 15.44 22 14.97 22H6.54C6.07 22 5.66 21.67 5.56 21.22L4.63 16.98", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.64 10.71C16.86 10.37 17.04 9.99 17.17 9.6C17.5 8.6 18.07 7.69 18.82 6.94L22.01 3.76L20.25 2L17.06 5.19C16.31 5.94 15.4 6.5 14.4 6.84C13.67 7.08 12.96 7.5 12.41 8.04L9.73001 10.72", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.51 8.21973H3.24C2.55 8.21973 2 8.77973 2 9.45973V15.9697C2 16.5197 2.45 16.9697 3 16.9697H7.27C7.82 16.9697 8.27 16.5197 8.27 15.9697V9.45973C8.27 8.76973 8.83 8.21973 9.51 8.21973ZM9.51 8.21973C10.2 8.21973 10.76 8.77973 10.76 9.45973V9.66973", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.76 13.2502L12.11 16.2502C12.3 16.6802 12.74 16.9802 13.24 16.9802H18.26C18.95 16.9802 19.5 16.4202 19.5 15.7402C19.5 15.3202 19.5 15.4102 17.89 12.4102", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Drink3__clip0_2085_391054", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Drink3_default = Drink3;
+export {
+  Drink3_default as default
+};

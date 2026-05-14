@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Gopro2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Gopro2__clip0_4482_14196)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19 3H6C4.34 3 3 4.34 3 6V13C3 14.66 4.34 16 6 16H19C20.66 16 22 14.66 22 13V6C22 4.34 20.66 3 19 3ZM10 9.5C10 9.78 9.78 10 9.5 10H6.5C6.22 10 6 9.78 6 9.5V6.5C6 6.22 6.22 6 6.5 6H9.5C9.78 6 10 6.22 10 6.5V9.5ZM20 9.67C20 10.96 18.96 12 17.67 12H15.34C14.05 12 13.01 10.96 13.01 9.67V7.34C13.01 6.05 14.05 5.01 15.34 5.01H17.67C18.96 5.01 20 6.05 20 7.34V9.67Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5001 9.67008C17.1463 9.67008 17.6701 9.14625 17.6701 8.50008C17.6701 7.85391 17.1463 7.33008 16.5001 7.33008C15.8539 7.33008 15.3301 7.85391 15.3301 8.50008C15.3301 9.14625 15.8539 9.67008 16.5001 9.67008Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11 16V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14 16V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.5 18.5H5C5.55 18.5 6 18.95 6 19.5V20.5C6 21.05 5.55 21.5 5 21.5H3.5C2.67 21.5 2 20.83 2 20C2 19.17 2.67 18.5 3.5 18.5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11 20H6", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Gopro2__clip0_4482_14196", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Gopro2_default = Gopro2;
+export {
+  Gopro2_default as default
+};

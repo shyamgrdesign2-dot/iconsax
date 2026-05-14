@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CoffeeMaker = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CoffeeMaker__clip0_4482_3728)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.82996 21.0004V19.8204C6.82996 19.5804 6.91998 19.3504 7.06998 19.1704L9.00998 16.9004H14.84L16.78 19.1704C16.94 19.3504 17.02 19.5804 17.02 19.8204V21.0004C17.02 21.5504 16.57 22.0004 16.02 22.0004H7.81998C7.27998 22.0004 6.82996 21.5504 6.82996 21.0004Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.37994 16.9002H14.4799L18.2199 6.7002H3.17993L5.99994 8.7902C6.58994 9.2302 7.02995 9.8302 7.25995 10.5302L9.37994 16.9002Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.55005 6.7H15.3V6C15.3 4.9 14.4 4 13.3 4H10.55C9.45005 4 8.55005 4.9 8.55005 6V6.7Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.66 4H13.18V2.42C13.18 1.91 12.77 1.5 12.26 1.5H11.57C11.06 1.5 10.65 1.91 10.65 2.42V4H10.66Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.03 10H18C19.66 10 21 11.34 21 13V15", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CoffeeMaker__clip0_4482_3728", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CoffeeMaker_default = CoffeeMaker;
+export {
+  CoffeeMaker_default as default
+};

@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Helmets = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Helmets__clip0_4482_6383)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.8 21.4004C21.25 21.4004 20.8 20.9504 20.8 20.4004C20.8 19.8504 21.24 19.4004 21.8 19.4004H21.81C22.36 19.4004 22.81 19.8504 22.81 20.4004C22.81 20.9504 22.35 21.4004 21.8 21.4004Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.56002 20.0399L9.55003 20.0299L6.09002 16.5599C2.83002 13.2799 2.83002 7.97988 6.09002 4.69988C8.60002 2.16988 12.57 1.41988 16.04 3.26988C16.74 3.63988 17.35 4.14988 17.91 4.69988C21.17 7.97988 21.17 13.2799 17.91 16.5599L14.45 20.0299L13.25 21.2299C12.55 21.9299 11.4 21.9299 10.71 21.2199L9.56002 20.0399Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.9 19.6102C19.17 19.6102 21 17.7701 21 15.5101C21 13.2401 19.16 11.4102 16.9 11.4102C14.63 11.4102 12.8 13.2501 12.8 15.5101C12.79 17.7701 14.63 19.6102 16.9 19.6102Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Helmets__clip0_4482_6383", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Helmets_default = Helmets;
+export {
+  Helmets_default as default
+};

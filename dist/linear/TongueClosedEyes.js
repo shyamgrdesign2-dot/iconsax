@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const TongueClosedEyes = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#TongueClosedEyes__clip0_4482_3701)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.5 11.5C21.5 16.02 18.36 19.79 14.13 20.76V14.94C13.42 15.02 12.71 15.06 12 15.06C11.29 15.06 10.58 15.02 9.88 14.94V20.76C5.65 19.8 2.5 16.02 2.5 11.5C2.5 6.25 6.75 2 12 2C17.25 2 21.5 6.25 21.5 11.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.5 7.58008L10.5 9.58008L7.5 11.5801", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5 7.58008L13.5 9.58008L16.5 11.5801", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.80997 14.5703C8.48997 14.7303 9.17997 14.8603 9.87997 14.9403V17.7903C8.81997 17.1903 7.99995 16.1503 7.60995 14.8803C7.59995 14.8603 7.59998 14.8303 7.59998 14.8103C7.59998 14.6903 7.68997 14.5703 7.80997 14.5703Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4 14.8103C16.4 14.8303 16.4 14.8603 16.39 14.8803C16.01 16.1503 15.19 17.1903 14.13 17.7803V14.9403C14.82 14.8503 15.51 14.7303 16.19 14.5703C16.31 14.5703 16.4 14.6903 16.4 14.8103Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.13 14.9404V20.8204C14.13 21.3104 13.89 21.7604 13.5 22.0804C13.12 22.4004 12.58 22.6004 12 22.6004C10.83 22.6004 9.88 21.8004 9.88 20.8204V14.9404C10.58 15.0204 11.29 15.0604 12 15.0604C12.71 15.0604 13.42 15.0204 14.13 14.9404Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "TongueClosedEyes__clip0_4482_3701", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var TongueClosedEyes_default = TongueClosedEyes;
+export {
+  TongueClosedEyes_default as default
+};

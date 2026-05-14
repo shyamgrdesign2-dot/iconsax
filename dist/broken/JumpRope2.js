@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const JumpRope2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#JumpRope2__clip0_2085_385758)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.4299 8.67V22M10.5699 8.67V15.1C10.5699 15.77 9.85988 17.96 9.85988 17.96M19.6199 12.48C19.6199 17.41 16.3499 20.1 11.9999 20.1C7.64988 20.1 4.37988 17.41 4.37988 12.48C5.32988 10.58 7.64988 7.72 11.9999 7.72C14.4299 7.72 16.2299 8.61 17.5099 9.73M13.8999 3.9C13.8999 4.95 13.0499 5.8 11.9999 5.8C10.9499 5.8 10.0999 4.95 10.0999 3.9C10.0999 2.85 10.9499 2 11.9999 2C13.0499 2 13.8999 2.85 13.8999 3.9Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "JumpRope2__clip0_2085_385758", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var JumpRope2_default = JumpRope2;
+export {
+  JumpRope2_default as default
+};

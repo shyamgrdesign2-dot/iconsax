@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Discord = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Discord__clip0_4482_11754)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.0107 16.25C15.4207 16.9 13.7307 17.24 12.0107 17.25C10.2907 17.24 8.60074 16.9 7.01074 16.25", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3398 13.1699C16.1698 13.1699 16.8398 12.3899 16.8398 11.4199C16.8398 10.4499 16.1698 9.66992 15.3398 9.66992C14.5098 9.66992 13.8398 10.4499 13.8398 11.4199C13.8398 12.3899 14.5098 13.1699 15.3398 13.1699Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.68066 13.1699C9.51066 13.1699 10.1807 12.3899 10.1807 11.4199C10.1807 10.4499 9.51066 9.66992 8.68066 9.66992C7.85066 9.66992 7.18066 10.4499 7.18066 11.4199C7.18066 12.3899 7.85066 13.1699 8.68066 13.1699Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.94043 9.39C3.40043 8.03 4.04043 6.72 4.83043 5.5C6.16043 4.91 7.57043 4.49 9.00043 4.25C9.11043 4.6 9.19043 4.96 9.27043 5.32C10.1704 5.17 11.0804 5.1 12.0004 5.09C12.9104 5.09 13.8304 5.17 14.7304 5.32C14.8104 4.96 14.9004 4.6 15.0004 4.25C16.4404 4.49 17.8404 4.91 19.1704 5.5C21.5004 9.09 22.4404 13.4 21.8004 17.63C20.4304 18.54 18.9304 19.25 17.3704 19.75C16.7204 18.79 16.1604 17.77 15.6904 16.7", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.31027 16.7001C7.85027 17.7701 7.28027 18.7901 6.63027 19.7501C5.06027 19.2501 3.57027 18.5401 2.20027 17.6301C1.96027 16.0301 1.94027 14.4101 2.14027 12.8301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Discord__clip0_4482_11754", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Discord_default = Discord;
+export {
+  Discord_default as default
+};

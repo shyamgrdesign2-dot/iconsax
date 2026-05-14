@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Break = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Break__clip0_4482_5790)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.7401 13.1902C21.1301 18.1002 16.8701 21.8902 11.7501 21.7502C6.6501 21.6102 2.3901 17.3502 2.2501 12.2502C2.1101 7.14022 5.8901 2.88023 10.8101 2.26023C11.4601 2.18023 12.0301 2.69023 12.0301 3.35023V6.65022C12.0301 7.18022 11.6401 7.61022 11.1301 7.72022C8.85011 8.20022 7.23009 10.4702 7.80009 13.0002C8.16009 14.5702 9.44011 15.8502 11.0101 16.2102C13.5401 16.7902 15.8101 15.1602 16.2901 12.8802C16.4001 12.3602 16.8301 11.9802 17.3601 11.9802H20.6601C21.3101 11.9702 21.8201 12.5402 21.7401 13.1902Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12.03 4.90039C15.93 4.90039 19.1 8.0604 19.1 11.9704", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Break__clip0_4482_5790", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Break_default = Break;
+export {
+  Break_default as default
+};

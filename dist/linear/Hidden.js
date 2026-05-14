@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Hidden = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Hidden__clip0_4482_12490)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.23858 2 2 4.23858 2 7V17C2 19.7614 4.23858 22 7 22H17C19.7614 22 22 19.7614 22 17V7C22 4.23858 19.7614 2 17 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2203 12.0003C14.2203 13.2303 13.2303 14.2203 12.0003 14.2203C10.7703 14.2203 9.78027 13.2303 9.78027 12.0003C9.78027 10.7703 10.7703 9.78027 12.0003 9.78027C13.2303 9.78027 14.2203 10.7703 14.2203 12.0003Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0004 17.1201C14.1804 17.1201 16.2204 15.8301 17.6404 13.6001C18.2004 12.7301 18.2004 11.2601 17.6404 10.3901C16.2204 8.16012 14.1904 6.87012 12.0004 6.87012C9.81043 6.87012 7.78043 8.16012 6.36043 10.3901C5.80043 11.2601 5.80043 12.7301 6.36043 13.6001C7.78043 15.8301 9.81043 17.1201 12.0004 17.1201Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Hidden__clip0_4482_12490", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Hidden_default = Hidden;
+export {
+  Hidden_default as default
+};

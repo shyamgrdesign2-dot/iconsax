@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FireHeart6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FireHeart6__clip0_2085_392318)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.6799 12.9301C19.5399 9.58015 18.7599 7.12015 17.8999 5.76015C17.6299 5.33015 16.9999 5.53015 16.9799 6.03015C16.9299 7.19015 16.5399 8.08015 16.0799 8.75015C15.8999 9.01015 15.5099 9.04015 15.2999 8.80015C14.2999 7.65015 13.4699 5.20015 14.5799 2.80015C14.7599 2.41015 14.4299 1.99015 14.0099 2.09015C12.3199 2.50015 9.35987 3.80015 8.72987 7.30015C8.63987 7.78015 8.00987 7.90015 7.78987 7.47015C7.39987 6.74015 7.20987 5.96015 7.15987 5.16015C7.12987 4.67015 6.49987 4.49015 6.23987 4.91015C5.31987 6.41015 4.33987 9.20015 6.39987 12.8101", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.3398 12.7997L21.9998 11.9697", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.3398 16.9502L21.9998 17.7802", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.66 12.7997L2 11.9697", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.66 16.9502L2 17.7802", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.91979 20.6198C11.0598 21.4398 11.9998 21.9198 11.9998 21.9198C11.9998 21.9198 18.2298 18.7398 18.2298 14.8098C18.2298 14.1198 18.0298 13.4698 17.6798 12.9298C17.0498 11.9198 15.9398 11.2598 14.6698 11.2598C13.5998 11.2598 12.6498 11.7398 11.9998 12.4798C11.3498 11.7398 10.3998 11.2598 9.33979 11.2598C8.11979 11.2598 7.03979 11.8698 6.39979 12.7998C6.00979 13.3698 5.77979 14.0698 5.77979 14.8098C5.77979 16.1598 6.50978 17.4098 7.45978 18.4798", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FireHeart6__clip0_2085_392318", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FireHeart6_default = FireHeart6;
+export {
+  FireHeart6_default as default
+};

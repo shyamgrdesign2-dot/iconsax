@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const GymEquipment10 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#GymEquipment10__clip0_2085_385744)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.13 16.8301H3.09C2.8 16.8301 2.53 16.9401 2.32 17.1501C2.12 17.3501 2 17.6301 2 17.9201V18.8701C2 19.1601 2.11 19.4301 2.32 19.6401C2.52 19.8401 2.8 19.9601 3.09 19.9601H20.92C21.21 19.9601 21.48 19.8501 21.69 19.6401C21.89 19.4401 22.01 19.1601 22.01 18.8701V17.9201C22.01 17.6301 21.9 17.3601 21.69 17.1501C21.49 16.9501 21.21 16.8301 20.92 16.8301H8.01", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.11 6.69043L17.48 16.8004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5898 8.12004L20.5298 6.46004C20.7298 6.35004 20.9098 6.19004 21.0498 6.01004C21.1898 5.83004 21.2998 5.62004 21.3598 5.39004C21.4798 4.93004 21.4098 4.45004 21.1798 4.04004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "GymEquipment10__clip0_2085_385744", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var GymEquipment10_default = GymEquipment10;
+export {
+  GymEquipment10_default as default
+};

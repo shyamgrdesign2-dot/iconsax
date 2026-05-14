@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareCreativeCommons = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareCreativeCommons__clip0_4482_1652)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.25 2 2 4.25 2 7V17C2 19.75 4.25 22 7 22H17C19.75 22 22 19.75 22 17V7C22 4.25 19.75 2 17 2ZM8.99 13.99C9.47 13.99 9.94 13.81 10.3 13.49C10.61 13.22 11.08 13.24 11.36 13.56C11.63 13.87 11.6 14.34 11.29 14.62C10.65 15.18 9.83 15.49 8.99 15.49C7.07 15.49 5.5 13.93 5.5 12C5.5 10.08 7.06 8.51 8.99 8.51C9.84 8.51 10.65 8.82 11.29 9.38C11.6 9.65 11.63 10.13 11.36 10.44C11.08 10.75 10.61 10.78 10.3 10.51C9.94 10.19 9.47 10.01 8.99 10.01C7.89 10.01 7 10.9 7 12C7 13.1 7.89 13.99 8.99 13.99ZM15.94 13.99C16.42 13.99 16.89 13.81 17.25 13.49C17.56 13.22 18.03 13.24 18.31 13.56C18.58 13.87 18.55 14.34 18.24 14.62C17.6 15.18 16.78 15.49 15.94 15.49C14.02 15.49 12.45 13.93 12.45 12C12.45 10.08 14.01 8.51 15.94 8.51C16.79 8.51 17.6 8.82 18.24 9.38C18.55 9.65 18.58 10.13 18.31 10.44C18.03 10.75 17.56 10.78 17.25 10.51C16.89 10.19 16.42 10.01 15.94 10.01C14.84 10.01 13.95 10.9 13.95 12C13.96 13.1 14.85 13.99 15.94 13.99Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareCreativeCommons__clip0_4482_1652", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareCreativeCommons_default = SquareCreativeCommons;
+export {
+  SquareCreativeCommons_default as default
+};

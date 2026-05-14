@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FairUse = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FairUse__clip0_4482_14660)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17 2H7C4.23858 2 2 4.23858 2 7V17C2 19.7614 4.23858 22 7 22H17C19.7614 22 22 19.7614 22 17V7C22 4.23858 19.7614 2 17 2Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7803 7.92016H10.6003C10.1803 7.92016 9.78027 8.08016 9.49027 8.38016C9.19027 8.68016 9.03027 9.07016 9.03027 9.49016V15.3302C9.03027 15.7402 9.37027 16.0802 9.78027 16.0802C10.1903 16.0802 10.5303 15.7402 10.5303 15.3302V13.3002H13.6703C14.0803 13.3002 14.4203 12.9602 14.4203 12.5502C14.4203 12.1402 14.0803 11.8002 13.6703 11.8002H10.5303V9.48016L10.6003 9.41016H14.7803C15.1903 9.41016 15.5303 9.07016 15.5303 8.66016C15.5303 8.25016 15.1903 7.91016 14.7803 7.91016V7.92016Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FairUse__clip0_4482_14660", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FairUse_default = FairUse;
+export {
+  FairUse_default as default
+};

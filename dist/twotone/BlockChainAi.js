@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BlockChainAi = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BlockChainAi__clip0_4482_13870)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.7402 7.5H8.24023C7.54988 7.5 6.99023 8.05964 6.99023 8.75V15C6.99023 15.6904 7.54988 16.25 8.24023 16.25H15.7402C16.4306 16.25 16.9902 15.6904 16.9902 15V8.75C16.9902 8.05964 16.4306 7.5 15.7402 7.5Z", stroke: "currentColor", strokeWidth: "1.5" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.24023 13.1299C3.93059 13.1299 4.49023 12.5702 4.49023 11.8799C4.49023 11.1895 3.93059 10.6299 3.24023 10.6299C2.54988 10.6299 1.99023 11.1895 1.99023 11.8799C1.99023 12.5702 2.54988 13.1299 3.24023 13.1299Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.49023 11.8799H6.99023", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 11.8799H19.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.75 13.1299C21.4404 13.1299 22 12.5702 22 11.8799C22 11.1895 21.4404 10.6299 20.75 10.6299C20.0596 10.6299 19.5 11.1895 19.5 11.8799C19.5 12.5702 20.0596 13.1299 20.75 13.1299Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.5 5.25C14.5 3.87 13.38 2.75 12 2.75C10.62 2.75 9.5 3.87 9.5 5.25", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.49023 18.75C9.49023 20.13 10.6102 21.25 11.9902 21.25C13.3702 21.25 14.4902 20.13 14.4902 18.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BlockChainAi__clip0_4482_13870", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BlockChainAi_default = BlockChainAi;
+export {
+  BlockChainAi_default as default
+};

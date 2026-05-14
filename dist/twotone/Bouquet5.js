@@ -1,0 +1,46 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bouquet5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Bouquet5__clip0_2085_392235)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.61 14.9896C17.17 16.7196 13.49 17.8996 9.68999 18.4996L9.29999 18.5596C8.54999 19.3096 7.05999 20.3596 5.94999 21.0996C5.15999 21.6296 4.09999 21.5296 3.42999 20.8496L3.14999 20.5696C2.46999 19.8896 2.36999 18.8396 2.89999 18.0496C3.63999 16.9396 4.68999 15.4496 5.43999 14.6996L5.49999 14.3096C5.79999 12.4096 6.24999 10.5396 6.82999 8.70965C7.41999 6.87965 8.14999 5.09965 9.00999 3.38965", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.27 19.5305L4.46997 13.7305", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.81 12.4C21.46 11.79 21.83 10.92 21.8 10.01C21.02 9.53 20.09 9.42 19.23 9.68", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.6001 3.1997C12.2101 2.5497 13.0801 2.1797 13.9901 2.2097C14.4701 2.9897 14.5801 3.9197 14.3201 4.7797", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.2499 14.7405L21.9999 13.7305C21.0799 12.1405 19.3799 11.4105 18.1899 12.1005C19.0099 11.6205 19.3699 10.5905 19.2099 9.48047", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.4201 9.90039C14.5801 10.5504 14.1301 11.5504 14.1501 12.5704", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.52 4.79C13.4 4.63 12.37 4.99 11.9 5.81C12.59 4.62 11.86 2.91 10.27 2L9.26001 3.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.4299 9.85008C12.4499 9.87008 13.4499 9.41008 14.0999 8.58008", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.98 3.79027C18.74 3.32027 19.67 3.19027 20.55 3.45027C20.81 4.33027 20.67 5.26027 20.21 6.02027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19.4901 9.20021L20.8801 7.81021C21.3601 7.33021 21.2401 6.52021 20.6301 6.21021C19.5201 5.64021 18.3201 5.68021 17.5901 6.41021C18.3201 5.68021 18.3501 4.47021 17.7901 3.37021C17.4801 2.77021 16.6701 2.65021 16.1901 3.12021L14.6601 4.65021C13.3201 5.99021 13.3701 8.18021 14.7901 9.47021C16.1301 10.6702 18.2201 10.4902 19.4901 9.21021V9.20021Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.4301 12.5797C14.4701 12.2697 17.5901 12.9897 20.2401 14.7397L20.6201 14.9897C17.1801 16.7197 13.5001 17.8997 9.70006 18.4997L9.31006 18.5597", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.30994 18.5599L5.43994 14.6899L5.49994 14.2999C6.09994 10.4999 7.28994 6.81988 9.00994 3.37988L9.25994 3.75988C12.2199 8.23988 12.2299 14.0499 9.29994 18.5499L9.30994 18.5599Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Bouquet5__clip0_2085_392235", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Bouquet5_default = Bouquet5;
+export {
+  Bouquet5_default as default
+};

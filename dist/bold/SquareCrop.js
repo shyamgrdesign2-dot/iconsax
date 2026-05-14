@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareCrop = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareCrop__clip0_4482_1602)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.24 2 2 4.24 2 7V17C2 19.76 4.24 22 7 22H17C19.76 22 22 19.76 22 17V7C22 4.24 19.76 2 17 2ZM11.33 7.92H13.53C14.94 7.92 16.08 9.06 16.08 10.47V12.67C16.08 13.08 15.74 13.42 15.33 13.42C14.92 13.42 14.58 13.09 14.58 12.67V10.47C14.58 9.89 14.11 9.42 13.53 9.42H11.33C10.92 9.42 10.58 9.08 10.58 8.67C10.58 8.26 10.92 7.92 11.33 7.92ZM18 16.08H16.08V18C16.08 18.41 15.74 18.75 15.33 18.75C14.92 18.75 14.58 18.41 14.58 18V16.08H10.46C9.04996 16.08 7.91003 14.94 7.91003 13.53V9.41H6C5.59 9.41 5.25 9.07 5.25 8.66C5.25 8.25 5.59 7.91 6 7.91H7.92004V6C7.92004 5.59 8.26004 5.25 8.67004 5.25C9.08004 5.25 9.42004 5.59 9.42004 6V13.53C9.42004 14.11 9.88997 14.58 10.47 14.58H18C18.41 14.58 18.75 14.92 18.75 15.33C18.75 15.74 18.41 16.08 18 16.08Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareCrop__clip0_4482_1602", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareCrop_default = SquareCrop;
+export {
+  SquareCrop_default as default
+};

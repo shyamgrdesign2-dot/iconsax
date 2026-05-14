@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Mastercard = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Mastercard__clip0_4482_13340)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.6899 9.64004C13.9899 10.94 13.9899 13.05 12.6899 14.35C11.3899 15.65 9.27988 15.65 7.97988 14.35C6.67988 13.05 6.67988 10.94 7.97988 9.64004C9.27988 8.34004 11.3899 8.34004 12.6899 9.64004Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.02 9.64004C17.32 10.94 17.32 13.05 16.02 14.35C14.72 15.65 12.61 15.65 11.31 14.35C10.01 13.05 10.01 10.94 11.31 9.64004C12.61 8.34004 14.72 8.34004 16.02 9.64004Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19 20H5C3.34 20 2 18.66 2 17V7C2 5.34 3.34 4 5 4H19C20.66 4 22 5.34 22 7V17C22 18.66 20.66 20 19 20Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Mastercard__clip0_4482_13340", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Mastercard_default = Mastercard;
+export {
+  Mastercard_default as default
+};

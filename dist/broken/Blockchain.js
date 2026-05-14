@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Blockchain = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Blockchain__clip0_4482_13907)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.8004 7.44004V4.03004C15.8004 3.73004 15.6404 3.44004 15.3704 3.29004L12.4204 1.59004C12.1604 1.44004 11.8304 1.44004 11.5704 1.59004L8.62043 3.29004C8.36043 3.44004 8.19043 3.72004 8.19043 4.03004V7.44004C8.19043 7.74004 8.35043 8.03004 8.62043 8.18004L11.5704 9.88004C11.8304 10.03 12.1604 10.03 12.4204 9.88004L15.3704 8.18004C15.6304 8.03004 15.8004 7.75004 15.8004 7.44004Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.31055 3.61035L12.0005 5.74035L15.6905 3.61035", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0004 5.74023V10.0002V13.0202L8.44043 14.8802", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.43 15.2998C2.17 15.4498 2 15.7298 2 16.0398V19.4498C2 19.7498 2.16 20.0398 2.43 20.1898L5.38 21.8898C5.64 22.0398 5.97 22.0398 6.23 21.8898L9.18 20.1898C9.44 20.0398 9.61 19.7598 9.61 19.4498V16.0398C9.61 15.7398 9.45 15.4498 9.18 15.2998L6.23 13.5998C5.97 13.4498 5.64 13.4498 5.38 13.5998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.11035 15.6094L5.80035 17.7394L9.49035 15.6094", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.7998 22.0002V17.7402", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9996 19.44V16.03C21.9996 15.73 21.8396 15.44 21.5696 15.29L18.6196 13.59C18.3596 13.44 18.0296 13.44 17.7696 13.59L14.8196 15.29C14.5596 15.44 14.3896 15.72 14.3896 16.03V19.44C14.3896 19.74 14.5496 20.03 14.8196 20.18L17.7696 21.88C18.0296 22.03 18.3596 22.03 18.6196 21.88L21.5696 20.18C21.8296 20.03 21.9996 19.75 21.9996 19.44Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.5098 15.6104L18.1998 17.7404L21.8898 15.6104", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.1992 22.0002V17.7402", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.56 14.8795L12 13.0195", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Blockchain__clip0_4482_13907", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Blockchain_default = Blockchain;
+export {
+  Blockchain_default as default
+};

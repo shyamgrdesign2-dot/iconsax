@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SelfPlayingArea2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SelfPlayingArea2__clip0_2085_382407)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.87 19.5099L5.37 15.1899C5.55 14.8799 5.88 14.6899 6.24 14.6899H17.77C18.13 14.6899 18.46 14.8799 18.64 15.1899L21.14 19.5099C21.53 20.1799 21.04 21.0099 20.27 21.0099H3.73C2.96 21.0099 2.48 20.1799 2.86 19.5099H2.87Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.00999 17.54H19.99", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 14.6899V21.0099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.41 2.42L18.72 3.73C18.98 3.99 19.14 4.36 19.14 4.74V9.86C19.14 11.05 18.18 12 17 12H14.5C14.28 12 14.06 11.89 13.93 11.71L12.57 9.9C12.43 9.72 12.23 9.61 12 9.61C11.77 9.61 11.56 9.72 11.43 9.9L10.07 11.71C9.93 11.89 9.72 12 9.5 12H7C5.81 12 4.86 11.04 4.86 9.86V4.74C4.86 4.36 5.01 4 5.28 3.73L6.59 2.42C6.86 2.15 7.22 2 7.6 2H16.41C16.79 2 17.15 2.15 17.42 2.42H17.41Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.71001 4.85986H16.28", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SelfPlayingArea2__clip0_2085_382407", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SelfPlayingArea2_default = SelfPlayingArea2;
+export {
+  SelfPlayingArea2_default as default
+};

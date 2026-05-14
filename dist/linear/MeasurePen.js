@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MeasurePen = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MeasurePen__clip0_4482_8910)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33006 9.78001L2.92006 7.37001C1.69006 6.14001 1.69006 4.15001 2.92006 2.93001C3.51006 2.34001 4.31006 2.01001 5.14006 2.01001C5.97006 2.01001 6.77006 2.34001 7.36006 2.93001L9.77006 5.34001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.22021 8.66998L8.66021 4.22998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.67 14.22L20.57 16.12C20.88 16.43 21.09 16.83 21.18 17.26L22 21.34C22.04 21.52 21.98 21.71 21.85 21.84C21.72 21.97 21.53 22.03 21.35 21.99L17.27 21.17C16.84 21.08 16.44 20.87 16.13 20.56L14.23 18.66", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.3998 10.62L7.35977 21.67C6.90977 22.11 6.18977 22.11 5.74977 21.67L2.33977 18.26C1.89977 17.82 1.89977 17.09 2.33977 16.65L16.6398 2.33C17.0898 1.89 17.8098 1.89 18.2498 2.33L21.6598 5.74C22.0998 6.19 22.0998 6.91 21.6598 7.35L18.3898 10.62H18.3998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.47 6.04002L14.21 4.77002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.8801 9.73992L11.0601 7.91992", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.17992 12.3301L7.91992 11.0601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.59978 16.02L4.77979 14.2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MeasurePen__clip0_4482_8910", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MeasurePen_default = MeasurePen;
+export {
+  MeasurePen_default as default
+};

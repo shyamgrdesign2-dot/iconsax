@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Shield = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Shield__clip0_4482_14975)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.24 2 2 4.24 2 7V17C2 19.76 4.24 22 7 22H17C19.76 22 22 19.76 22 17V7C22 4.24 19.76 2 17 2ZM17.23 11.48C17.23 14.35 15.14 17.05 12.29 17.83C12.1 17.88 11.88 17.88 11.69 17.83C8.84 17.04 6.75 14.35 6.75 11.48V8.9C6.75 8.42 7.11 7.87 7.57 7.69L10.84 6.35C11.57 6.05 12.4 6.05 13.14 6.35L16.41 7.69C16.86 7.87 17.23 8.42 17.23 8.9V11.48Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Shield__clip0_4482_14975", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Shield_default = Shield;
+export {
+  Shield_default as default
+};

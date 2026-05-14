@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Meal3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Meal3__clip0_2085_391081)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 14.49V19.47C22 20.16 21.44 20.72 20.76 20.72C20.08 20.72 19.52 20.16 19.52 19.47V14.49H18.28V8.47004C18.28 6.12004 19.78 4.03004 22.01 3.29004V14.49H22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.41 14.4902C18.82 18.0202 15.7 20.7102 12 20.7102C9.39998 20.7102 7.06998 19.3802 5.72998 17.3702", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.98002 4.53027V7.02027C6.98002 7.94027 6.48002 8.75027 5.74002 9.18027V19.4703C5.74002 20.1603 5.18002 20.7203 4.50002 20.7203C3.82002 20.7203 3.26002 20.1603 3.26002 19.4703V9.18027C2.52002 8.75027 2.02002 7.95027 2.02002 7.02027V4.53027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.87 7.79027C8.2 6.54027 10.04 5.78027 12.01 5.78027C14.61 5.78027 16.94 7.11027 18.28 9.12027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.48999 3.29004V7.02004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 3.29004V5.78004C2 6.47004 2.56 7.02004 3.24 7.02004H5.73C6.42 7.02004 6.97 6.46004 6.97 5.78004V3.29004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.78 13.2398C15.78 15.2998 14.07 16.9698 12 16.9698C9.92997 16.9698 8.21997 15.2998 8.21997 13.2398C8.21997 11.1798 9.92997 9.50977 12 9.50977C14.07 9.50977 15.78 11.1798 15.78 13.2398Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Meal3__clip0_2085_391081", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Meal3_default = Meal3;
+export {
+  Meal3_default as default
+};

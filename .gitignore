@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+.env
+.env.local
+
+# crawler state (intermediate)
+crawl-state/
+
+# src/ is regenerated from svg/ in ~1s by `npm run generate`. Keeping it out of
+# git cuts ~18,000 files. dist/ is committed so `npm install` works without a
+# build step.
+src/
+
+# Don't ignore svg/ and dist/ — those are the package contents.

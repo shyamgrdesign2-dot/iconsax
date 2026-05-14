@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bird = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Bird__clip0_2085_382337)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 4.80005C13.77 4.80005 15.46 5.50005 16.71 6.75005C17.96 8.00005 18.66 9.70005 18.66 11.46V21.99H5.32999V11.46C5.32999 9.69005 6.02999 8.00005 7.27999 6.75005C8.52999 5.50005 10.23 4.80005 11.99 4.80005H12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 4.80005C12.99 4.80005 13.93 5.19005 14.63 5.89005C15.33 6.59005 15.72 7.54005 15.72 8.52005V21.66C15.72 21.75 15.69 21.83 15.63 21.89C15.57 21.95 15.49 21.98 15.4 21.98H8.6C8.51 21.98 8.43 21.95 8.37 21.89C8.31 21.83 8.28 21.75 8.28 21.66V8.52005C8.28 7.53005 8.67 6.59005 9.37 5.89005C10.07 5.19005 11.02 4.80005 12 4.80005Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 4.80005V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 4.8C12.77 4.8 13.4 4.17 13.4 3.4C13.4 2.63 12.77 2 12 2C11.23 2 10.6 2.63 10.6 3.4C10.6 4.17 11.23 4.8 12 4.8Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.18 22H4.82001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Bird__clip0_2085_382337", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Bird_default = Bird;
+export {
+  Bird_default as default
+};

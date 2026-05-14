@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Piercing5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Piercing5__clip0_2085_392392)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.33 8.67002C18.33 4.98002 15.33 1.99003 11.64 2.00003C7.95 2.01003 5 5.05002 5 8.74002V16.94C5 19.7 7.21 21.98 9.96 22C12.74 22.02 15 19.77 15 17V16.96C15 15.58 15.52 14.27 16.48 13.28C17.63 12.08 18.34 10.46 18.34 8.66002L18.33 8.67002Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M7.91999 17.0004V17.6304C7.91999 18.6704 8.75999 19.5104 9.78999 19.5104C10.82 19.5104 11.66 18.6704 11.66 17.6304V17.5404C11.66 15.3404 12.67 13.2804 14.35 11.8504C15.27 11.0704 15.85 9.91035 15.83 8.61035C15.8 6.37035 13.97 4.53035 11.72 4.50035C9.38999 4.47035 7.48999 6.35035 7.48999 8.67035V10.2204C7.48999 11.0404 8.15999 11.7204 8.97999 11.7104C9.76999 11.6904 10.41 11.0504 10.41 10.2504C10.41 9.15035 9.51999 8.25035 8.40999 8.25035H7.50999", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.73 5.84961L17.31 3.59961", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.72 7.69004L19 7.04004", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.6399 9.92969L18.8199 10.8597", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Piercing5__clip0_2085_392392", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Piercing5_default = Piercing5;
+export {
+  Piercing5_default as default
+};

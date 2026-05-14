@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiPath = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiPath__clip0_3111_15342)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.1398 18.49L16.2198 18.7C15.5598 18.85 15.0498 19.37 14.8898 20.03L14.6698 20.95C14.6498 21.05 14.5098 21.05 14.4798 20.95L14.2698 20.03C14.1198 19.37 13.5998 18.86 12.9398 18.7L12.0198 18.48C11.9198 18.46 11.9198 18.32 12.0198 18.29L12.9398 18.08C13.5998 17.93 14.1098 17.41 14.2698 16.75L14.4898 15.83C14.5098 15.73 14.6498 15.73 14.6798 15.83L14.8898 16.75C15.0398 17.41 15.5598 17.92 16.2198 18.08L17.1398 18.3C17.2398 18.32 17.2398 18.46 17.1398 18.49Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4995 2.49969L20.7198 6.71C21.9298 7.92 21.8498 9.8 20.5598 10.62L17.5698 12.51L11.5298 6.47L12.4748 4.975", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.7598 15.51L17.5798 12.51", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.5299 6.46L7.1299 6.19C4.6799 6.04 3.8199 6.79 3.5499 9.13L2.4499 18.44C2.2099 20.4 3.6399 21.81 5.5799 21.57L10.6548 20.9756", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.72998 20.31L7.11998 16.91", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiPath__clip0_3111_15342", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiPath_default = AiPath;
+export {
+  AiPath_default as default
+};

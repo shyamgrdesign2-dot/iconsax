@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MilkBottle = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MilkBottle__clip0_2085_383476)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M14.22 6.44H9.78003L10.65 4.84C10.81 4.56 10.89 4.24 10.89 3.92V3.11C10.89 2.5 11.39 2 12 2C12.61 2 13.11 2.5 13.11 3.11V3.92C13.11 4.24 13.19 4.56 13.35 4.84L14.22 6.44Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.89 7.55994V8.10994C15.89 8.71994 15.39 9.21994 14.78 9.21994H9.21999C8.60999 9.21994 8.10999 8.71994 8.10999 8.10994V7.55994C8.10999 6.93994 8.60999 6.43994 9.21999 6.43994H14.78C15.39 6.43994 15.89 6.93994 15.89 7.55994Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16.4401 11.4402V19.7802C16.4401 21.0102 15.4501 22.0002 14.2201 22.0002H9.78006C8.55006 22.0002 7.56006 21.0102 7.56006 19.7802V11.4402C7.56006 10.2202 8.55006 9.22021 9.78006 9.22021H14.2201C15.4501 9.22021 16.4401 10.2202 16.4401 11.4402Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.44 11.5298V13.0298H13.27C12.86 13.0298 12.52 12.6898 12.52 12.2798C12.52 11.8698 12.86 11.5298 13.27 11.5298H16.44Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.44 14.8599V16.3599H12.16C11.75 16.3599 11.41 16.0199 11.41 15.6099C11.41 15.1999 11.75 14.8599 12.16 14.8599H16.44Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.44 18.1899V19.6899H13.27C12.86 19.6899 12.52 19.3599 12.52 18.9399C12.52 18.5199 12.86 18.1899 13.27 18.1899H16.44Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MilkBottle__clip0_2085_383476", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MilkBottle_default = MilkBottle;
+export {
+  MilkBottle_default as default
+};

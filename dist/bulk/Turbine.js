@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Turbine = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Turbine__clip0_4482_10849)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M19.7801 15.47C19.4901 15.98 18.9501 16.27 18.4001 16.27C18.1601 16.27 17.9201 16.21 17.6901 16.1L13.8301 14.18L11.9901 13.27L10.1401 14.19L6.30006 16.11C5.54006 16.48 4.62006 16.21 4.20006 15.48C3.78006 14.75 4.00006 13.81 4.70006 13.35L10.0001 9.82L10.3901 3.5C10.4401 2.66 11.1401 2 11.9801 2C12.8201 2 13.5301 2.66 13.5801 3.5L13.9801 9.83L19.2601 13.34C19.9701 13.8 20.1901 14.74 19.7601 15.47H19.7801Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 12.48C12.8284 12.48 13.5 11.8084 13.5 10.98C13.5 10.1516 12.8284 9.47998 12 9.47998C11.1716 9.47998 10.5 10.1516 10.5 10.98C10.5 11.8084 11.1716 12.48 12 12.48Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2203 21.9998H9.78027L10.1503 14.1998L12.0003 13.2798L13.8403 14.1898L14.2203 21.9998Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22.75H7C6.59 22.75 6.25 22.41 6.25 22C6.25 21.59 6.59 21.25 7 21.25H17C17.41 21.25 17.75 21.59 17.75 22C17.75 22.41 17.41 22.75 17 22.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Turbine__clip0_4482_10849", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Turbine_default = Turbine;
+export {
+  Turbine_default as default
+};

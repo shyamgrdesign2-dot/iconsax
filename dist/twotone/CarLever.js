@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CarLever = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CarLever__clip0_4482_5771)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19.03 18.6399C19.12 20.4699 18.4 21.9999 15.84 21.9999H8.15998C5.59998 21.9999 4.87998 20.4699 4.96998 18.6399L5.44999 9.03992C5.50999 7.68992 6.07997 6.56992 7.42997 6.16992L7.67997 7.38992C7.86997 8.32992 8.68999 8.99991 9.63999 8.99991H14.36C15.31 8.99991 16.13 8.32992 16.32 7.38992L16.57 6.16992C17.92 6.56992 18.49 7.68992 18.55 9.03992L19.03 18.6399Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.5 9V13.21C13.19 13.07 12.85 13 12.5 13H11.5C11.15 13 10.81 13.07 10.5 13.21V9H13.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.79 5.04999L16.57 6.17001L16.32 7.39001C16.13 8.33001 15.3099 9 14.3599 9H9.63996C8.68996 9 7.86994 8.33001 7.67994 7.39001L7.42994 6.17001L7.20994 5.04999C7.07994 4.38999 7.27996 3.71999 7.75996 3.23999L8.40995 2.59C8.78995 2.21 9.29994 2 9.82994 2H14.17C14.7 2 15.2099 2.21 15.5899 2.59L16.2399 3.23999C16.7199 3.71999 16.92 4.38999 16.79 5.04999Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15 15.5V16.5C15 17.88 13.88 19 12.5 19H11.5C10.12 19 9 17.88 9 16.5V15.5C9 14.47 9.62 13.59 10.5 13.21C10.81 13.07 11.15 13 11.5 13H12.5C12.85 13 13.19 13.07 13.5 13.21C14.38 13.59 15 14.47 15 15.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CarLever__clip0_4482_5771", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CarLever_default = CarLever;
+export {
+  CarLever_default as default
+};

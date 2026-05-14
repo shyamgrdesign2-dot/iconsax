@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Syphon5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Syphon5__clip0_2085_392611)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.21 22.0003H20C21.1 22.0003 22 21.1003 22 20.0003V11.7703C22 11.4103 21.9 11.0503 21.71 10.7403L20.09 8.04031C19.73 7.44031 19.08 7.07031 18.38 7.07031H14.84C14.14 7.07031 13.49 7.44031 13.13 8.04031L11.51 10.7403C11.32 11.0503 11.22 11.4103 11.22 11.7703V20.0003C11.22 21.1003 12.12 22.0003 13.22 22.0003H13.21Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.95 9.97031H18.27L18.92 8.46031C19.2 7.80031 18.72 7.07031 18 7.07031H15.22C14.5 7.07031 14.02 7.80031 14.3 8.46031L14.95 9.97031Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 12.8691H11.21", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.6099 7.06V5.94C16.6099 3.76 14.8499 2 12.6699 2C10.4899 2 8.72992 3.76 8.72992 5.94V14.49C8.72992 15.89 7.59992 17.02 6.19992 17.02C4.79992 17.02 3.66992 15.89 3.66992 14.49V12.04", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M2 10.8003L3.66 12.0403L5.32 10.8003V8.07031C5.32 7.52031 4.87 7.07031 4.32 7.07031H3C2.45 7.07031 2 7.52031 2 8.07031V10.8003Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Syphon5__clip0_2085_392611", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Syphon5_default = Syphon5;
+export {
+  Syphon5_default as default
+};

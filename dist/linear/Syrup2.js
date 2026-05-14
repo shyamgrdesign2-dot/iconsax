@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Syrup2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Syrup2__clip0_2085_391246)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.08 22.0005H9.91998C8.95998 22.0005 8.13998 21.3205 7.95998 20.3705L7.13998 16.0805C6.79998 14.2805 7.12998 12.4105 8.06998 10.8405L10.34 7.06055H13.66L15.93 10.8405C16.87 12.4105 17.21 14.2805 16.86 16.0805L16.04 20.3705C15.86 21.3105 15.04 22.0005 14.08 22.0005Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.66 4.53H10.34V3C10.34 2.45 10.79 2 11.34 2H12.66C13.21 2 13.66 2.45 13.66 3V4.53Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.66 7.0593H10.34V4.5293H13.66V7.0593Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.66 19.5091H10.34L9.48998 16.0891C9.07998 14.4491 10.32 12.8691 12 12.8691C13.68 12.8691 14.92 14.4491 14.51 16.0891L13.66 19.5091Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Syrup2__clip0_2085_391246", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Syrup2_default = Syrup2;
+export {
+  Syrup2_default as default
+};

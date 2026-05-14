@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FocusAi = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FocusAi__clip0_3242_29436)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.6199 12.1702L14.9499 12.5602C13.7599 12.8302 12.8199 13.7702 12.5499 14.9602L12.1599 16.6302C12.1199 16.8002 11.8599 16.8002 11.8199 16.6302L11.4299 14.9602C11.1599 13.7702 10.2199 12.8302 9.02992 12.5602L7.35992 12.1702C7.18992 12.1302 7.18992 11.8702 7.35992 11.8302L9.02992 11.4402C10.2199 11.1702 11.1599 10.2302 11.4299 9.04018L11.8199 7.37018C11.8599 7.20018 12.1199 7.20018 12.1599 7.37018L12.5499 9.04018C12.8199 10.2302 13.7599 11.1702 14.9499 11.4402L16.6199 11.8302C16.7899 11.8702 16.7899 12.1302 16.6199 12.1702Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 17.5601V18.6701C2 19.4724 2.28335 20.2083 2.7555 20.783M5.33 22.0001H6.44", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5601 2H18.6701C20.5101 2 22.0001 3.49 22.0001 5.33V6.44", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.44 2H5.33C3.49 2 2 3.49 2 5.33V6.44", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0001 17.5601V18.6701C22.0001 20.5101 20.5101 22.0001 18.6701 22.0001H17.5601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FocusAi__clip0_3242_29436", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FocusAi_default = FocusAi;
+export {
+  FocusAi_default as default
+};

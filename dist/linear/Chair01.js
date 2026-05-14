@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Chair01 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Chair01__clip0_4482_9363)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.66984 2H15.3398C17.1798 2 18.6698 3.49 18.6698 5.33C18.6698 7.17 17.1798 8.66 15.3398 8.66H8.66984C6.82984 8.66 5.33984 7.17 5.33984 5.33C5.33984 3.49 6.82984 2 8.66984 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.43994 16.4399V21.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5596 16.4399V21.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.88978 13.1101H18.1098C18.7198 13.1101 19.2198 13.6101 19.2198 14.2201C19.2198 15.4501 18.2298 16.4401 16.9998 16.4401H6.99978C5.76978 16.4401 4.77979 15.4501 4.77979 14.2201C4.77979 13.6101 5.27978 13.1101 5.88978 13.1101Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4399 13.11V8.47998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.55957 8.47998V13.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Chair01__clip0_4482_9363", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Chair01_default = Chair01;
+export {
+  Chair01_default as default
+};

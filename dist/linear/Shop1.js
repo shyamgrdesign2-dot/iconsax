@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Shop1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Shop1__clip0_4482_549)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 6V9.5C22 10.18 21.72 10.81 21.27 11.26C21.16 11.38 21.03 11.48 20.9 11.57C20.77 11.65 20.64 11.73 20.5 11.79C20.19 11.92 19.86 12 19.5 12C18.12 12 17 10.88 17 9.5C17 10.88 15.88 12 14.5 12C13.12 12 12 10.88 12 9.5C12 10.88 10.88 12 9.5 12C8.12 12 7 10.88 7 9.5C7 10.88 5.88 12 4.5 12C4.14 12 3.81 11.92 3.5 11.79C3.36 11.73 3.22998 11.65 3.09998 11.57C2.83998 11.39 2.61005 11.16 2.43005 10.9C2.16005 10.5 2 10.02 2 9.5V6C2 3.79 3.79 2 6 2H18C20.2 2 22 3.8 22 6Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.5 11.79V18C20.5 20.2 18.7 22 16.5 22H7.5C5.3 22 3.5 20.2 3.5 18V11.79C3.81 11.92 4.14 12 4.5 12C5.88 12 7 10.88 7 9.5C7 10.88 8.12 12 9.5 12C10.88 12 12 10.88 12 9.5C12 10.88 13.12 12 14.5 12C15.88 12 17 10.88 17 9.5C17 10.88 18.12 12 19.5 12C19.86 12 20.19 11.92 20.5 11.79Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14 22H10V19C10 17.9 10.9 17 12 17C13.1 17 14 17.9 14 19V22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Shop1__clip0_4482_549", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Shop1_default = Shop1;
+export {
+  Shop1_default as default
+};

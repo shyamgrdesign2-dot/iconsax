@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Seedlings03 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Seedlings03__clip0_4482_4622)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.69 10H12.75V13H11.25V10H9.30999C8.10999 10 7.38002 8.45 8.03002 7.27L10.42 2.93C11.1 1.69 12.9 1.69 13.58 2.93L15.97 7.27C16.62 8.45 15.89 10 14.69 10Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.4999 17.5002C13.4999 17.0902 13.8399 16.7502 14.2499 16.7502H16.1699C16.4299 16.7502 16.6399 16.5602 16.6699 16.3002L16.78 15.2002C16.9 14.0202 15.9799 12.9902 14.7899 12.9902H9.20996C8.02996 12.9902 7.09991 14.0102 7.21991 15.1902L7.72992 20.1902C7.82992 21.2102 8.68991 21.9902 9.71991 21.9902H14.28C15.31 21.9902 16.16 21.2102 16.27 20.1902L16.4099 18.7902C16.4399 18.5002 16.2099 18.2402 15.9099 18.2402H14.2399C13.8399 18.2502 13.4999 17.9102 13.4999 17.5002Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Seedlings03__clip0_4482_4622", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Seedlings03_default = Seedlings03;
+export {
+  Seedlings03_default as default
+};

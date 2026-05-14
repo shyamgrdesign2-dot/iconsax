@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Tag02 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Tag02__clip0_4482_1763)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.18013 10.3301L4.29012 11.2201C2.73012 12.7801 2.73012 15.3201 4.29012 16.8801L7.12007 19.7101C8.68007 21.2701 11.2201 21.2701 12.7801 19.7101L13.6701 18.8201L5.18013 10.3301Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.5699 5.30023C20.5099 4.29023 19.71 3.49023 18.7 3.43023L13.8199 3.13023C12.9599 3.08023 12.12 3.39023 11.51 4.00023L6.23999 9.27023L14.73 17.7602L20 12.4902C20.61 11.8802 20.92 11.0402 20.87 10.1802L20.5699 5.30023ZM15.61 10.5102C15.03 11.0902 14.07 11.0902 13.49 10.5102C12.91 9.93023 12.91 8.97023 13.49 8.39023C14.07 7.81023 15.03 7.81023 15.61 8.39023C16.19 8.97023 16.19 9.93023 15.61 10.5102Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Tag02__clip0_4482_1763", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Tag02_default = Tag02;
+export {
+  Tag02_default as default
+};

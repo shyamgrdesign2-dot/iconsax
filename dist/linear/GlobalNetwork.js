@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const GlobalNetwork = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#GlobalNetwork__clip0_4482_13773)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.1102 6.70973C19.9302 9.52973 19.9302 14.0997 17.1102 16.9197C14.2902 19.7397 9.72016 19.7397 6.90016 16.9197C4.08016 14.0997 4.08016 9.52973 6.90016 6.70973C9.72016 3.88973 14.2902 3.88973 17.1102 6.70973Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 4.58984V19.0298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.2198 11.8096H4.77979", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.3202 6.13965C15.4502 9.95965 8.55018 9.95965 4.68018 6.13965", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.5398 3.95C22.1498 4.55 22.1498 5.53 21.5398 6.14C20.9298 6.74 19.9298 6.74 19.3198 6.14C18.7098 5.54 18.7098 4.56 19.3198 3.95C19.9298 3.35 20.9298 3.35 21.5398 3.95Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.67994 3.95C5.28994 4.55 5.28994 5.53 4.67994 6.14C4.06994 6.74 3.06994 6.74 2.45994 6.14C1.84994 5.54 1.84994 4.56 2.45994 3.95C3.06994 3.35 4.06994 3.35 4.67994 3.95Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.68018 17.8601C8.55018 14.0401 15.4502 14.0401 19.3202 17.8601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.67994 17.8602C5.28994 18.4602 5.28994 19.4402 4.67994 20.0502C4.06994 20.6502 3.06994 20.6502 2.45994 20.0502C1.84994 19.4502 1.84994 18.4702 2.45994 17.8602C3.06994 17.2602 4.06994 17.2602 4.67994 17.8602Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.5398 17.8602C22.1498 18.4602 22.1498 19.4402 21.5398 20.0502C20.9298 20.6502 19.9298 20.6502 19.3198 20.0502C18.7098 19.4502 18.7098 18.4702 19.3198 17.8602C19.9298 17.2602 20.9298 17.2602 21.5398 17.8602Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "GlobalNetwork__clip0_4482_13773", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var GlobalNetwork_default = GlobalNetwork;
+export {
+  GlobalNetwork_default as default
+};

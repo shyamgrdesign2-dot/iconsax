@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiHeart = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiHeart__clip0_3111_11772)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.43 12.13L14.19 12.42C13.31 12.63 12.62 13.32 12.41 14.2L12.12 15.44C12.09 15.57 11.9 15.57 11.87 15.44L11.58 14.2C11.37 13.32 10.68 12.63 9.79999 12.42L8.55999 12.13C8.42999 12.1 8.42999 11.91 8.55999 11.88L9.79999 11.59C10.68 11.38 11.37 10.69 11.58 9.81L11.87 8.57C11.9 8.44 12.09 8.44 12.12 8.57L12.41 9.81C12.62 10.69 13.31 11.38 14.19 11.59L15.43 11.88C15.56 11.91 15.56 12.1 15.43 12.13Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.41 8.55C22.41 9.79 22.22 10.94 21.87 12C20.23 17.21 15.16 20.32 12.65 21.17C12.29 21.3 11.71 21.3 11.35 21.17C8.84 20.32 3.77 17.21 2.13 12C1.78 10.94 1.59 9.79 1.59 8.55C1.59 5.34 4.18 2.73 7.38 2.73C9.26 2.73 10.95 3.65 12 5.05C13.05 3.65 14.74 2.73 16.62 2.73C19.82 2.73 22.41 5.34 22.41 8.55Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiHeart__clip0_3111_11772", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiHeart_default = AiHeart;
+export {
+  AiHeart_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Brush3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Brush3__clip0_4482_11240)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M20.1498 6.62988L17.7998 8.98988", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.3598 3.83984L15.0098 6.19984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.2398 16.2398L7.75977 7.75977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.79037 12.87L6.65037 13.73C6.76037 13.84 6.82037 13.99 6.81037 14.14C6.80037 14.29 6.74037 14.44 6.62037 14.54L2.78037 17.92C2.30037 18.35 2.01037 18.95 1.99037 19.6C1.97037 20.24 2.22037 20.87 2.67037 21.32C3.13037 21.78 3.75037 22.02 4.39037 22C5.03037 21.98 5.64037 21.69 6.07037 21.21L9.45037 17.37C9.55037 17.26 9.70037 17.19 9.85037 17.18C10.0004 17.18 10.1504 17.23 10.2604 17.34L11.1204 18.2C11.5404 18.62 12.1004 18.85 12.6904 18.85C13.2804 18.85 13.8404 18.62 14.2604 18.2L21.2704 11.19C22.2204 10.24 22.2204 8.71 21.2704 7.76L16.2204 2.71C15.7704 2.26 15.1504 2 14.5104 2C13.8704 2 13.2504 2.26 12.8004 2.71L5.79037 9.72C5.37037 10.14 5.14037 10.7 5.14037 11.29C5.14037 11.88 5.37037 12.44 5.79037 12.86V12.87Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Brush3__clip0_4482_11240", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Brush3_default = Brush3;
+export {
+  Brush3_default as default
+};

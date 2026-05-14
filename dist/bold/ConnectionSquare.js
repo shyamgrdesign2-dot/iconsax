@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ConnectionSquare = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ConnectionSquare__clip0_4482_8108)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.24 2 2 4.24 2 7V17C2 19.76 4.24 22 7 22H17C19.76 22 22 19.76 22 17V7C22 4.24 19.76 2 17 2ZM14.2 15.31C14.05 15.46 13.86 15.53 13.67 15.53C13.48 15.53 13.29 15.46 13.14 15.31C12.53 14.7 11.47 14.7 10.87 15.31C10.58 15.6 10.1 15.6 9.81 15.31C9.52 15.02 9.52 14.54 9.81 14.25C10.98 13.08 13.03 13.08 14.2 14.25C14.49 14.54 14.49 15.02 14.2 15.31ZM16.98 11.6C16.83 11.75 16.64 11.82 16.45 11.82C16.26 11.82 16.07 11.75 15.92 11.6C13.76 9.44 10.25 9.44 8.09 11.6C7.8 11.89 7.32 11.89 7.03 11.6C6.74 11.31 6.74 10.83 7.03 10.54C9.77 7.8 14.24 7.8 16.98 10.54C17.27 10.83 17.27 11.31 16.98 11.6Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ConnectionSquare__clip0_4482_8108", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ConnectionSquare_default = ConnectionSquare;
+export {
+  ConnectionSquare_default as default
+};

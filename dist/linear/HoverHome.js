@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HoverHome = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HoverHome__clip0_4482_10248)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.53 20.95H7C4.24 20.95 2 18.71 2 15.95V7C2 4.24 4.24 2 7 2H15.95C18.71 2 20.95 4.24 20.95 7V12.53", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.3599 18.2001L19.5399 18.9601C19.2899 19.0701 19.0799 19.2701 18.9799 19.5201L18.2099 21.3401C18.0399 21.7501 17.6199 22.0101 17.1799 21.9801C16.7399 21.9501 16.3499 21.6501 16.2299 21.2301L14.6799 15.9701C14.5699 15.6001 14.6799 15.2001 14.9499 14.9301C15.2199 14.6601 15.6199 14.5601 15.9899 14.6601L21.2499 16.2101C21.6799 16.3401 21.9799 16.7201 21.9999 17.1601C22.0299 17.6001 21.7699 18.0201 21.3599 18.1901V18.2001Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.4698 15.1599H8.30977C7.72977 15.1599 7.25977 14.6899 7.25977 14.1099V10.3899C7.25977 9.90988 7.47977 9.45988 7.84977 9.15988L10.4298 7.09988C11.0098 6.63988 11.8298 6.63988 12.3998 7.09988L15.0798 9.24988C15.4498 9.54988 15.6698 9.99988 15.6698 10.4799V11.4899", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HoverHome__clip0_4482_10248", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HoverHome_default = HoverHome;
+export {
+  HoverHome_default as default
+};

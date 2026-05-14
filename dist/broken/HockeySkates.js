@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HockeySkates = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HockeySkates__clip0_2085_385560)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2798 11.7498L17.4698 11.7798C19.1098 12.0098 20.3298 13.4198 20.3298 15.0798V16.4498C20.3298 17.3698 19.5798 18.1198 18.6598 18.1198H15.3798C14.7498 18.1198 14.1498 17.8698 13.6998 17.4298L12.7198 16.4498C12.2798 15.9998 11.6698 15.7598 11.0398 15.7598H9.64979C8.99979 15.7598 8.45979 16.2898 8.45979 16.9398C8.45979 17.2498 8.33979 17.5598 8.10979 17.7798C7.88979 17.9998 7.58978 18.1298 7.26978 18.1298H4.19978C3.27978 18.1298 2.52979 17.3798 2.52979 16.4598V15.8298C2.52979 14.2098 2.72979 12.5898 3.11979 11.0198C3.50979 9.44982 3.70979 7.82982 3.70979 6.20982V3.75982C3.70979 3.44982 3.82979 3.13982 4.05979 2.91982C4.27979 2.69982 4.57979 2.56982 4.89979 2.56982H10.8298C11.1398 2.56982 11.4498 2.68982 11.6698 2.91982C11.8898 3.13982 12.0198 3.43982 12.0198 3.75982V5.71982C12.0198 7.49982 12.7798 9.11982 14.0198 10.2398", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33008 18.5V21.4399", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 18.1099V21.4399", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 19.2197C22 20.4497 21.01 21.4397 19.78 21.4397H2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 5.85986H3.74023", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HockeySkates__clip0_2085_385560", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HockeySkates_default = HockeySkates;
+export {
+  HockeySkates_default as default
+};

@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Ball2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Ball2__clip0_2085_385672)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.92 2.22C11.25 5.21 12 8.52 12 12C12 15.48 11.26 18.8 9.92 21.78M9.92 2.22C10.59 2.08 11.28 2 12 2C12.55 2 13.09 2.04 13.61 2.13M9.92 2.22C7.78 2.67 5.89 3.81 4.5 5.39M9.92 21.78C7.78 21.33 5.9 20.19 4.5 18.61M9.92 21.78C10.59 21.92 11.28 22 12 22C14.89 22 17.49 20.78 19.31 18.82M17.15 3.42C17.95 3.9 18.68 4.5 19.32 5.18M4.5 5.39C3.12 6.95 2.22 8.95 2.04 11.16M4.5 5.39C6.61 6.83 8 9.26 8 12C8 14.74 6.61 17.17 4.5 18.61M2.04 11.16C2.02 11.44 2 11.72 2 12C2 14.54 2.94 16.85 4.5 18.61M2.04 11.16C5.08 9.77 8.45 9 12 9C15.55 9 18.93 9.77 21.96 11.16M21.96 11.16C21.99 11.44 22 11.72 22 12C22 14.64 20.98 17.03 19.31 18.82M21.96 11.16C21.77 8.86 20.8 6.78 19.31 5.18C17.03 6.59 15.5 9.11 15.5 12C15.5 14.89 17.02 17.41 19.31 18.82", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Ball2__clip0_2085_385672", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Ball2_default = Ball2;
+export {
+  Ball2_default as default
+};

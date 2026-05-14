@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Shoes12 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Shoes12__clip0_2085_392434)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.24997 14.2005H8.27997C8.52997 14.2805 12.2 15.3905 15.37 15.3905C17.94 15.3905 20.86 14.6605 22 14.3405V15.9405C22 16.5205 21.61 17.0205 21.04 17.1505C19.52 17.5005 17.37 17.8805 15.37 17.8805C12.6 17.8805 9.62998 17.1605 8.26998 16.7905V17.9305H2.00997V15.4405C2.00997 14.7605 2.56997 14.2005 3.24997 14.2005ZM3.24997 14.2005C3.24997 14.2005 2.13997 13.0805 2.00997 11.7105C1.86997 10.3405 3.24997 7.98047 3.24997 7.98047C3.95997 8.22047 4.67997 8.37047 5.40997 8.43047", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.62988 8.17047C9.28988 8.01047 9.92988 7.77047 10.5499 7.46047L11.9999 6.73047L13.2499 7.98047L14.1399 8.87047C15.1799 9.91047 16.5499 10.6205 17.9999 10.9105L19.9999 11.3105C21.1599 11.5405 21.9999 12.5705 21.9999 13.7505V14.3405", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.2398 10.3408L15.1598 11.9708C14.7898 12.5208 14.0498 12.6908 13.4898 12.3508L12.0498 11.4908C10.3898 10.4908 8.27979 11.6908 8.27979 13.6208V14.2008", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0098 9.22047L13.2498 7.98047", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Shoes12__clip0_2085_392434", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Shoes12_default = Shoes12;
+export {
+  Shoes12_default as default
+};

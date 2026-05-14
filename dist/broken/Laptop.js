@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Laptop = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Laptop__clip0_4482_7228)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3 7.78999V5.60001C3 4.16001 4.34 3 6 3H18C19.66 3 21 4.16001 21 5.60001V16", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3 16V13", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3 16H6.59003C6.86003 16 7.10999 16.11 7.29999 16.29L8.71002 17.7C8.90002 17.89 9.14998 17.99 9.41998 17.99H14.39C14.77 17.99 15.12 17.78 15.28 17.44L15.73 16.55C15.9 16.21 16.25 16 16.62 16H21C21.55 16 22 16.45 22 17V18C22 19.66 20.66 21 19 21H5C3.34 21 2 19.66 2 18V17C2 16.45 2.45 16 3 16Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Laptop__clip0_4482_7228", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Laptop_default = Laptop;
+export {
+  Laptop_default as default
+};

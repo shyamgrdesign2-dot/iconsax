@@ -1,0 +1,48 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Thailand1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Thailand1__clip0_2085_382504)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.01 2.08008C18.05 2.87008 16.84 3.32008 15.54 3.32008", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.47 3.32984C7.17 3.32984 5.95 2.86984 5 2.08984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.28999 5.86031H3.30999C4.94999 6.69031 6.72999 7.10031 8.54999 7.10031H15.43C17.25 7.10031 19.06 6.68031 20.7 5.86031H20.71C19.18 5.86031 17.79 4.95031 17.11 3.58031L16.98 3.32031H7.01999L6.88999 3.58031C6.20999 4.94031 4.80999 5.85031 3.28999 5.85031V5.86031Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 10.8398H2.02C3.66 11.6698 5.48 12.0798 7.31 12.0798H16.68C18.5 12.0798 20.36 11.6598 21.99 10.8398H22H21.27C20.14 10.8398 18.22 9.58984 18.22 9.58984H5.78C4.98 10.3898 3.86 10.8398 2.73 10.8398H2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.78 7.09961V9.58961", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.22 7.09961V9.58961", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.47 18.31V11.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.53 11.75V18.3", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.50999 18.3101V14.5801H14.49V18.3101", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.02 18.3098V12.0898", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.98 18.3098V12.0898", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.15 20.8005H22V18.3105H2V20.8005H7.85", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.51 18.3105L7.02 22.0905H16.98L14.49 18.3105", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Thailand1__clip0_2085_382504", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Thailand1_default = Thailand1;
+export {
+  Thailand1_default as default
+};

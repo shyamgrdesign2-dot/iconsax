@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Melee26 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Melee26__clip0_2085_390219)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.03 21C7.19 21.16 7.19 21.42 7.03 21.58C6.55 22.07 5.76 22.07 5.28 21.58L2.36 18.67C1.88 18.19 1.88 17.4 2.36 16.92C2.52 16.76 2.78 16.76 2.94 16.92L3.53 17.5L4.99 16.04L7.91 18.96L6.44 20.42L7.03 21Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.8702 16.9098C12.5502 17.2298 12.0202 17.2298 11.7002 16.9098L10.8302 16.0398L7.91023 18.9598L4.99023 16.0398L6.45023 14.5798L7.91023 13.1198L7.04023 12.2398C6.72023 11.9198 6.72023 11.3998 7.04023 11.0798C7.36023 10.7598 7.88023 10.7598 8.20023 11.0798L12.8702 15.7498C13.1902 16.0698 13.1902 16.5898 12.8702 16.9098Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.4102 15.0393L21.0402 6.40934C21.1502 6.29934 21.2402 6.18934 21.3302 6.06934", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.91016 11.5398L13.4702 6.97977C13.9602 6.47977 14.1102 6.37977 14.7902 6.37977H15.7202C16.3402 6.37977 16.4302 6.34977 16.8502 5.91977C17.5702 5.19977 18.3002 4.47977 19.0202 3.75977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0002 14.8701H11.9902", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.4102 9.62012L11.9902 10.2001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.7402 7.2793L14.3202 7.8593", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Melee26__clip0_2085_390219", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Melee26_default = Melee26;
+export {
+  Melee26_default as default
+};

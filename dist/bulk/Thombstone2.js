@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Thombstone2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Thombstone2__clip0_2085_382945)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M5.32996 8.67C5.32996 4.99 8.30996 2 12 2C15.69 2 18.67 4.98 18.67 8.67V18.67H5.32996V8.67Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.21997 18.6699H18.78C19.33 18.6699 19.78 19.1199 19.78 19.6699V20.9999C19.78 21.5499 19.33 21.9999 18.78 21.9999H5.21997C4.66997 21.9999 4.21997 21.5499 4.21997 20.9999V19.6699C4.21997 19.1199 4.66997 18.6699 5.21997 18.6699Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 14.97C11.59 14.97 11.25 14.63 11.25 14.22V7.72998C11.25 7.31998 11.59 6.97998 12 6.97998C12.41 6.97998 12.75 7.31998 12.75 7.72998V14.22C12.75 14.63 12.41 14.97 12 14.97Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.4301 10.9199H9.56006C9.15006 10.9199 8.81006 10.5799 8.81006 10.1699C8.81006 9.75992 9.15006 9.41992 9.56006 9.41992H14.4301C14.8401 9.41992 15.1801 9.75992 15.1801 10.1699C15.1801 10.5799 14.8401 10.9199 14.4301 10.9199Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Thombstone2__clip0_2085_382945", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Thombstone2_default = Thombstone2;
+export {
+  Thombstone2_default as default
+};

@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const TextEncrypt = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#TextEncrypt__clip0_4482_13894)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.71992 8.14012C6.71992 8.29026 6.593 8.41894 6.44492 8.3975C6.29685 8.3975 6.16992 8.26881 6.16992 8.11867C6.16992 7.96854 6.29685 7.83984 6.44492 7.83984C6.50839 7.83984 6.593 7.86129 6.63531 7.92564C6.67762 7.96853 6.71992 8.05433 6.71992 8.11867", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.2795 8.14012C12.2795 8.29026 12.1526 8.41894 12.0045 8.3975C11.8564 8.3975 11.7295 8.26881 11.7295 8.11867C11.7295 7.96854 11.8564 7.83984 12.0045 7.83984C12.068 7.83984 12.1526 7.86129 12.1949 7.92564C12.2372 7.96853 12.2795 8.05433 12.2795 8.11867", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.8303 8.14012C17.8303 8.29026 17.7034 8.41894 17.5553 8.3975C17.4072 8.3975 17.2803 8.26881 17.2803 8.11867C17.2803 7.96854 17.4072 7.83984 17.5553 7.83984C17.6187 7.83984 17.7034 7.86129 17.7457 7.92564C17.788 7.96853 17.8303 8.05433 17.8303 8.11867", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.7296 13.6004L21.5096 16.3804C21.8196 16.6904 21.9996 17.1204 21.9996 17.5604C21.9996 18.0004 21.8196 18.4304 21.5096 18.7404L18.7296 21.5204C18.4196 21.8304 17.9896 22.0104 17.5496 22.0104C17.1096 22.0104 16.6796 21.8304 16.3696 21.5204L13.5896 18.7404C13.2796 18.4304 13.0996 18.0004 13.0996 17.5604C13.0996 17.1204 13.2796 16.6904 13.5896 16.3804L16.3696 13.6004C16.6796 13.2904 17.1096 13.1104 17.5496 13.1104C17.9896 13.1104 18.4196 13.2904 18.7296 13.6004Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.17 14H5C3.35 14 2 12.65 2 11V5C2 3.35 3.35 2 5 2H19C20.65 2 22 3.35 22 5V11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "TextEncrypt__clip0_4482_13894", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var TextEncrypt_default = TextEncrypt;
+export {
+  TextEncrypt_default as default
+};

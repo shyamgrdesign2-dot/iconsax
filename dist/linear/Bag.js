@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bag = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Bag__clip0_4482_4185)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.53002 16.6699L4.09997 18.8099C3.74997 20.5599 4.93002 21.9999 6.71002 21.9999H17.27C19.06 21.9999 20.24 20.5599 19.88 18.8099L19.45 16.6699", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.96 16.3298H13.76V15.8598C13.76 15.3398 13.34 14.9198 12.82 14.9198H11.17C10.66 14.9198 10.24 15.3398 10.24 15.8598V16.3298H6.03005C4.40005 16.3298 3.30004 15.0798 3.59004 13.5598L4.67 7.92977C4.88 6.86977 5.97 6.00977 7.11 6.00977H16.87C18.01 6.00977 19.1 6.86977 19.31 7.92977L20.39 13.5598C20.69 15.0798 19.59 16.3298 17.96 16.3298Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.5 6V4C8.5 2.9 9.4 2 10.5 2H13.5C14.6 2 15.5 2.9 15.5 4V6", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.76 15.8599V16.7999C13.76 17.3199 13.34 17.7399 12.82 17.7399H11.18C10.66 17.7399 10.24 17.3199 10.24 16.7999V15.8599C10.24 15.3399 10.66 14.9199 11.17 14.9199H12.82C13.34 14.9199 13.76 15.3399 13.76 15.8599Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Bag__clip0_4482_4185", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Bag_default = Bag;
+export {
+  Bag_default as default
+};

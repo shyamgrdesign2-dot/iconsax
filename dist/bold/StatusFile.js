@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const StatusFile = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#StatusFile__clip0_4482_4325)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 2H8C4.5 2 3 4 3 7V17C3 20 4.5 22 8 22H16C19.5 22 21 20 21 17V7C21 4 19.5 2 16 2ZM11 16.5H7C6.59 16.5 6.25 16.16 6.25 15.75C6.25 15.34 6.59 15 7 15H11C11.41 15 11.75 15.34 11.75 15.75C11.75 16.16 11.41 16.5 11 16.5ZM17 10.5H13.84L13.06 11.67C12.93 11.87 12.7 11.99 12.46 12C12.45 12 12.44 12 12.43 12C12.2 12 11.98 11.89 11.84 11.71L10.15 9.53L9.73001 10.16C9.59001 10.37 9.35999 10.49 9.10999 10.49H7C6.59 10.49 6.25 10.15 6.25 9.74C6.25 9.33 6.59 9 7 9H8.70999L9.48999 7.83C9.61999 7.63 9.85 7.51 10.09 7.5C10.33 7.49 10.56 7.6 10.71 7.79L12.4 9.97L12.82 9.34C12.96 9.13 13.19 9.01 13.44 9.01H17C17.41 9.01 17.75 9.35 17.75 9.76C17.75 10.17 17.41 10.5 17 10.5Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "StatusFile__clip0_4482_4325", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var StatusFile_default = StatusFile;
+export {
+  StatusFile_default as default
+};

@@ -1,0 +1,46 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Trophy67 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Trophy67__clip0_2085_392098)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.92 9.85953V11.3095C6.92 11.9295 6.41 12.4395 5.79 12.4395H4.34C4.03 12.4395 3.73 12.3195 3.51 12.0995L2.34 10.9295C2.12 10.7095 2 10.4095 2 10.0995V8.64953C2 8.02953 2.51 7.51953 3.13 7.51953H4.58C4.89 7.51953 5.19 7.63953 5.41 7.85953L6.58 9.02953C6.8 9.24953 6.92 9.54953 6.92 9.85953Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33984 7.81016C5.50984 7.47016 5.77984 7.19016 6.15984 6.97016C6.92984 6.54016 7.72984 6.29016 8.53984 6.16016", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.5999 6.07031C13.4899 6.16031 14.3899 6.37031 15.2499 6.79031C15.3699 6.84031 15.4799 6.90031 15.5999 6.97031C16.1199 7.26031 16.4399 7.68031 16.5399 8.15031C16.6299 8.62031 16.4999 9.13031 16.1199 9.60031C15.3799 10.5003 13.6999 11.2603 10.8799 11.2603C10.5199 11.2603 10.1799 11.2503 9.85992 11.2203C8.61992 11.1303 7.64992 10.8803 6.91992 10.5403", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.5398 12.4396C4.1998 13.8396 4.0498 15.2896 4.0498 16.2296C4.0498 18.2396 6.8298 19.1296 10.8898 19.1296C14.9498 19.1296 17.7298 18.2296 17.7298 16.2296C17.7298 14.5896 17.2798 11.4096 16.1198 9.59961", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5402 8.14977C17.0002 8.54977 17.4402 8.97977 17.6402 9.18977C18.1702 9.71977 18.9302 10.4998 19.3302 11.1398C19.6302 11.6198 20.2702 11.7798 20.7502 11.4698C21.2402 11.1698 21.3802 10.5298 21.0802 10.0498C20.5902 9.24977 19.7902 8.40977 19.1402 7.76977C18.4702 7.09977 17.6202 6.28977 16.8102 5.77977C16.3202 5.47977 15.6902 5.62977 15.3902 6.10977C15.2602 6.31977 15.2202 6.54977 15.2402 6.77977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.1201 8.78995L21.7301 7.17995C22.0901 6.81995 22.0901 6.23995 21.7301 5.87995L20.9901 5.13995C20.7001 4.84995 20.2701 4.78995 19.9301 4.96995L18.9001 5.93995L18.0801 6.75995", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2402 12.4804L18.7502 10.3604", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.9302 18.9203C13.9702 16.5203 16.0502 14.8103 17.5602 14.3203", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9702 15.0198H9.78016C9.44016 15.0198 9.16016 14.7398 9.16016 14.3998V13.7098C9.16016 13.3698 9.44016 13.0898 9.78016 13.0898H11.9702C12.3102 13.0898 12.5902 13.3698 12.5902 13.7098V14.3998C12.5902 14.7398 12.3102 15.0198 11.9702 15.0198Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.8901 13.0995V11.2295", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.85986 11.2197V13.0997", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.85986 15.0195V15.8195C9.85986 16.0495 9.94986 16.2695 10.1099 16.4295L10.4999 16.8195C10.6999 17.0195 11.0299 17.0195 11.2399 16.8195L11.6299 16.4295C11.7899 16.2695 11.8799 16.0495 11.8799 15.8195V15.0195", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Trophy67__clip0_2085_392098", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Trophy67_default = Trophy67;
+export {
+  Trophy67_default as default
+};

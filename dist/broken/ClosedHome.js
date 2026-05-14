@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ClosedHome = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ClosedHome__clip0_4482_10568)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2595 22C14.6395 22 12.5195 19.88 12.5195 17.26C12.5195 14.64 14.6395 12.52 17.2595 12.52C19.8795 12.52 21.9995 14.64 21.9995 17.26C21.9995 19.88 19.8795 22 17.2595 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.5997 15.9302L15.9297 18.6002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.5997 18.6002L15.9297 15.9302", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 10.5801V17.5601C2 20.0101 3.99 22.0001 6.44 22.0001H10.98", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9999 10.5799C21.9999 9.22988 21.3899 7.94988 20.3299 7.10988L15.4699 3.21988C13.4399 1.59988 10.5599 1.59988 8.52992 3.21988L3.66992 7.10988", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ClosedHome__clip0_4482_10568", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ClosedHome_default = ClosedHome;
+export {
+  ClosedHome_default as default
+};

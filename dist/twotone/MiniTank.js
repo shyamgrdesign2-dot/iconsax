@@ -1,0 +1,44 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MiniTank = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MiniTank__clip0_2085_389903)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.47 15.3604H22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.88 17.4301H4C2.9 17.4301 2 16.5301 2 15.4301V12.3701C2 9.42012 4.11 6.77012 7.04 6.38012C10.59 5.91012 13.64 8.69012 13.64 12.1501V13.6901", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.9199 17.4304V16.1804C10.9199 14.8104 12.0399 13.6904 13.4099 13.6904H15.1299C16.4999 13.6904 17.6199 14.8104 17.6199 16.1804V17.4304", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.63993 17.4297H19.8899C21.0299 17.4297 21.5099 18.6297 20.9699 19.2997L19.2899 21.3697C18.9999 21.7297 18.6699 21.9897 18.2099 21.9897H10.3099C9.84993 21.9897 9.51992 21.7297 9.22992 21.3697L7.55993 19.2997C6.99993 18.6097 7.50993 17.4297 8.63993 17.4297Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M11.7699 20.3396C12.1099 20.3396 12.3899 20.0596 12.3899 19.7196C12.3899 19.3796 12.1099 19.0996 11.7699 19.0996C11.4299 19.0996 11.1499 19.3796 11.1499 19.7196C11.1499 20.0596 11.4299 20.3396 11.7699 20.3396Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M14.2599 20.3396C14.5999 20.3396 14.8799 20.0596 14.8799 19.7196C14.8799 19.3796 14.5999 19.0996 14.2599 19.0996C13.9199 19.0996 13.6399 19.3796 13.6399 19.7196C13.6399 20.0596 13.9199 20.3396 14.2599 20.3396Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M16.7499 20.3396C17.0899 20.3396 17.3699 20.0596 17.3699 19.7196C17.3699 19.3796 17.0899 19.0996 16.7499 19.0996C16.4099 19.0996 16.1299 19.3796 16.1299 19.7196C16.1299 20.0596 16.4099 20.3396 16.7499 20.3396Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.8501 5.94988V2.12988", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.8501 4.49H9.3801C9.9301 4.49 10.3801 4.04 10.3801 3.49V3C10.3801 2.45 9.9301 2 9.3801 2H7.8501V4.49Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M6.58008 12.2898H9.07008V9.7998H6.58008V12.2898Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.62012 14.9404H11.0001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MiniTank__clip0_2085_389903", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MiniTank_default = MiniTank;
+export {
+  MiniTank_default as default
+};

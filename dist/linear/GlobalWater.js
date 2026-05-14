@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const GlobalWater = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#GlobalWater__clip0_4482_10754)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.1302 20.87C15.0302 19.62 15.0302 17.75 16.1302 16.51L17.8102 14.61C18.0202 14.37 18.3202 14.23 18.6402 14.23C18.9602 14.23 19.2602 14.37 19.4702 14.61L21.1502 16.51C22.2502 17.76 22.2502 19.63 21.1502 20.87C20.5202 21.59 19.6002 22 18.6402 22C17.6802 22 16.7702 21.59 16.1302 20.87Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.56982 8.66992H21.4298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0001 22C9.55006 22 7.56006 17.52 7.56006 12C7.56006 6.48 9.55006 2 12.0001 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9998 15.3301H2.56982", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 22C6.48 22 2 17.52 2 12C2 6.48 6.48 2 12 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.42 10.89C16.17 5.89 14.29 2 12 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.93 10.89C21.36 5.83 17.09 2 12 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "GlobalWater__clip0_4482_10754", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var GlobalWater_default = GlobalWater;
+export {
+  GlobalWater_default as default
+};

@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Tag7 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Tag7__clip0_2085_392089)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.40004 7.24984H5.12004C4.52004 7.24984 4.04004 6.75984 4.04004 6.16984C4.04004 5.57984 4.53004 5.08984 5.12004 5.08984H18.87C19.47 5.08984 19.95 5.57984 19.95 6.16984C19.95 6.75984 19.46 7.24984 18.87 7.24984H16.59", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.4199 13.1401C7.4899 13.9401 7.9099 14.6701 8.5699 15.1301L10.8499 16.7001L11.0699 16.8501C11.3499 17.0401 11.6799 17.1401 11.9999 17.1401C12.3199 17.1401 12.6499 17.0401 12.9299 16.8501L13.1399 16.7101L15.4299 15.1301C16.1599 14.6201 16.5999 13.7901 16.5999 12.8901V5.08008H7.3999V9.08008", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.9099 9.59977C13.4599 9.14977 12.7699 9.07977 12.2499 9.39977C12.0999 9.48977 11.8999 9.49977 11.7499 9.39977C11.2299 9.07977 10.5399 9.14977 10.0899 9.59977C9.55988 10.1298 9.55988 10.9798 10.0899 11.5098L11.3199 12.7398C11.6899 13.1098 12.2999 13.1098 12.6699 12.7398L13.8899 11.5198C14.4199 10.9898 14.4299 10.1398 13.8999 9.60977L13.9099 9.59977Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 5.08008V9.47008", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 13.0205V17.1405", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.1398 16.5605V20.8505C13.1398 21.4805 12.6298 22.0005 11.9898 22.0005C11.3498 22.0005 10.8398 21.4905 10.8398 20.8505V16.6905", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.8501 5.08023V3.14023C10.8501 2.51023 11.3601 1.99023 12.0001 1.99023C12.6401 1.99023 13.1501 2.50023 13.1501 3.14023V5.08023", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Tag7__clip0_2085_392089", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Tag7_default = Tag7;
+export {
+  Tag7_default as default
+};

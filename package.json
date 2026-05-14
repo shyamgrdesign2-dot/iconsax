@@ -1,0 +1,64 @@
+{
+  "name": "@iconsax/icons",
+  "version": "0.1.0",
+  "description": "Iconsax Pro icon set as React components and raw SVGs (6 styles: bold, broken, bulk, linear, outline, twotone).",
+  "type": "module",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./bold": {
+      "types": "./dist/bold/index.d.ts",
+      "import": "./dist/bold/index.js"
+    },
+    "./broken": {
+      "types": "./dist/broken/index.d.ts",
+      "import": "./dist/broken/index.js"
+    },
+    "./bulk": {
+      "types": "./dist/bulk/index.d.ts",
+      "import": "./dist/bulk/index.js"
+    },
+    "./linear": {
+      "types": "./dist/linear/index.d.ts",
+      "import": "./dist/linear/index.js"
+    },
+    "./outline": {
+      "types": "./dist/outline/index.d.ts",
+      "import": "./dist/outline/index.js"
+    },
+    "./twotone": {
+      "types": "./dist/twotone/index.d.ts",
+      "import": "./dist/twotone/index.js"
+    },
+    "./svg/*": "./svg/*"
+  },
+  "files": [
+    "dist",
+    "svg",
+    "icons.json",
+    "README.md"
+  ],
+  "scripts": {
+    "crawl:discover": "node scripts/discover.mjs",
+    "crawl:fetch": "node scripts/fetch.mjs",
+    "crawl:all": "node scripts/discover.mjs && node scripts/fetch.mjs",
+    "generate": "node scripts/generate.mjs",
+    "build": "node scripts/build.mjs",
+    "prepublishOnly": "npm run build"
+  },
+  "peerDependencies": {
+    "react": ">=17"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.0",
+    "esbuild": "^0.24.0",
+    "typescript": "^5.5.0"
+  },
+  "keywords": ["icons", "iconsax", "react", "svg"],
+  "license": "UNLICENSED",
+  "private": false
+}

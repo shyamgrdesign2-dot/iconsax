@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const GuideBook = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#GuideBook__clip0_4482_10397)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15 17.75H9C8.59 17.75 8.25 17.41 8.25 17C8.25 16.59 8.59 16.25 9 16.25H15C15.41 16.25 15.75 16.59 15.75 17C15.75 17.41 15.41 17.75 15 17.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M17.4496 2H6.55957C4.35043 2 2.55957 3.79086 2.55957 6V18C2.55957 20.2091 4.35043 22 6.55957 22H17.4496C19.6587 22 21.4496 20.2091 21.4496 18V6C21.4496 3.79086 19.6587 2 17.4496 2Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.67016 12.2799V9.86994C8.67016 9.44994 8.86016 9.04994 9.19016 8.78994L10.9602 7.36994C11.5702 6.87994 12.4302 6.87994 13.0402 7.36994L14.8102 8.78994C15.1402 9.04994 15.3302 9.44994 15.3302 9.86994V12.2799C15.3302 13.0499 14.7102 13.6699 13.9402 13.6699H10.0502C9.68016 13.6699 9.33016 13.5199 9.07016 13.2599C8.81016 12.9999 8.66016 12.6499 8.66016 12.2799H8.67016Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "GuideBook__clip0_4482_10397", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var GuideBook_default = GuideBook;
+export {
+  GuideBook_default as default
+};

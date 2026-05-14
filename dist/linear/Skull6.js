@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Skull6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Skull6__clip0_2085_382224)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.89 10.89C20.89 5.98 16.91 2 12 2C7.08999 2 3.10999 5.98 3.10999 10.89V11.64C3.10999 13.25 3.91999 14.76 5.25999 15.65L5.60999 15.89C6.12999 16.24 6.43999 16.82 6.43999 17.45V18.45C6.43999 19.69 6.43999 20.32 6.67999 20.79C6.88999 21.21 7.22999 21.55 7.64999 21.76C8.12999 22 8.74999 22 9.98999 22H13.99C15.23 22 15.86 22 16.33 21.76C16.75 21.55 17.09 21.21 17.3 20.79C17.54 20.31 17.54 19.69 17.54 18.45V17.45C17.54 16.82 17.85 16.24 18.37 15.89L18.72 15.65C20.06 14.76 20.87 13.25 20.87 11.64V10.89H20.89Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 14.78V17", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.89 3.11011L14.58 4.42011C14.38 4.62011 14.38 4.93011 14.58 5.13011L14.98 5.53011C15.18 5.73011 15.18 6.04011 14.98 6.24011L14.22 7.00011", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.78 19.78V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 19.78V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.22 19.78V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.56001 10.3301L9.41001 11.4401C9.78001 11.6601 9.72001 12.2101 9.31001 12.3401L7.01001 13.1101", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.44 10.3301L14.59 11.4401C14.22 11.6601 14.28 12.2101 14.69 12.3401L16.99 13.1101", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Skull6__clip0_2085_382224", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Skull6_default = Skull6;
+export {
+  Skull6_default as default
+};

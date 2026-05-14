@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Tie2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Tie2__clip0_4482_6701)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.4401 17.5596L12.0001 21.9996L7.56006 17.5596L9.56006 6.59961C11.0401 7.15961 12.9701 7.15961 14.4401 6.59961L16.4401 17.5596Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4401 4.78C16.4401 5.29 15.95 5.76 15.29 6.19C15.03 6.35 14.7501 6.49 14.4401 6.6C12.9601 7.16 11.0301 7.16 9.56006 6.6C9.25006 6.49 8.97008 6.35 8.71008 6.19C8.05008 5.77 7.56006 5.3 7.56006 4.78C7.56006 3.24 9.55006 2 12.0001 2C14.4501 2 16.4401 3.24 16.4401 4.78Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Tie2__clip0_4482_6701", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Tie2_default = Tie2;
+export {
+  Tie2_default as default
+};

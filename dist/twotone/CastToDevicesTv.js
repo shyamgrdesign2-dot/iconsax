@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CastToDevicesTv = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CastToDevicesTv__clip0_2085_385033)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.75 13.74H19.23C20.23 13.74 21.04 12.93 21.04 11.93V3.81C21.04 2.81 20.23 2 19.23 2H4.76996C3.76996 2 2.95996 2.81 2.95996 3.81V11.94C2.95996 12.94 3.76996 13.75 4.76996 13.75H6.35996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.78 13.7402L19.68 15.5502", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.30991 13.7402L4.40991 15.5502", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.39 12.4002C12.65 11.6602 11.44 11.6602 10.7 12.4002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.1799 10.6002C13.4499 8.87023 10.6399 8.87023 8.8999 10.6002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.25 16.25L16.03 17.03C16.19 17.19 16.28 17.41 16.28 17.63V20.7C16.28 21.41 15.71 21.99 14.99 21.99H13.49C13.36 21.99 13.23 21.93 13.15 21.82L12.34 20.74C12.26 20.63 12.13 20.57 12 20.57C11.87 20.57 11.74 20.63 11.66 20.74L10.85 21.82C10.77 21.93 10.64 21.99 10.51 21.99H9.00997C8.29997 21.99 7.71997 21.42 7.71997 20.7V17.63C7.71997 17.4 7.80997 17.18 7.96997 17.03L8.74997 16.25C8.90997 16.09 9.12997 16 9.34997 16H14.64C14.87 16 15.09 16.09 15.24 16.25H15.25Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CastToDevicesTv__clip0_2085_385033", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CastToDevicesTv_default = CastToDevicesTv;
+export {
+  CastToDevicesTv_default as default
+};

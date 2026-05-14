@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Axe25 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Axe25__clip0_2085_390135)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.5498 18.4004C13.0698 18.3204 12.0998 18.0104 11.1698 17.0804C10.9298 16.8404 10.7098 16.5704 10.5298 16.3004C9.7498 15.2204 9.5098 14.2404 9.2498 13.5204L9.1598 13.1404C8.5798 12.8904 7.9898 12.5804 7.4498 12.2704C6.4398 11.6904 5.2298 12.6104 5.5198 13.7404C6.0098 15.6004 6.9198 17.9404 8.6098 19.6304C11.1798 22.2004 13.9498 22.0104 13.9498 22.0104L17.6998 18.3004C18.2198 17.7904 18.3298 17.0104 18.0098 16.3604C17.6998 15.7304 17.5198 14.8804 18.1198 14.0204C18.7498 13.1204 19.6798 12.2604 20.3798 11.6604C20.9098 11.2104 20.9398 10.4004 20.4398 9.9204L19.0898 8.6304C18.5798 8.1304 17.7598 8.1904 17.3198 8.7504C16.7598 9.4804 15.9598 10.4304 15.1498 11.2404L12.4498 13.6304", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M3.16992 2L11.5199 10.3", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Axe25__clip0_2085_390135", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Axe25_default = Axe25;
+export {
+  Axe25_default as default
+};

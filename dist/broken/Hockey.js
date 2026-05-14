@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Hockey = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Hockey__clip0_2085_385558)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.89 7.79L16.73 6.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.5299 20.4202C12.5299 21.5802 10.6399 22.5302 8.31986 22.5302C5.99986 22.5302 4.10986 21.5902 4.10986 20.4202V18.3102C4.10986 17.1502 5.99986 16.2002 8.31986 16.2002C10.6399 16.2002 12.5299 17.1402 12.5299 18.3102V20.4202Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.27002 10.48L13.69 10.82C14.65 10.89 15.54 10.3 15.85 9.38998L16.64 7.01998L18.49 1.47998H22L19.81 8.05998L17.83 14C17.05 16.34 14.97 18 12.52 18.26", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.14 18.1301C2.86 17.7001 2 16.5001 2 15.1501V13.3201C2 12.4401 2.37 11.6001 3.01 11.0001C3.65 10.4001 4.52 10.1001 5.4 10.1701", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Hockey__clip0_2085_385558", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Hockey_default = Hockey;
+export {
+  Hockey_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ForbiddenFile1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ForbiddenFile1__clip0_4482_2634)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.5 14.7C15.5 16.64 13.94 18.2 12 18.2C10.06 18.2 8.5 16.64 8.5 14.7C8.5 12.76 10.06 11.2 12 11.2C13.94 11.2 15.5 12.76 15.5 14.7Z", stroke: "currentColor", strokeWidth: "1.3125", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.53027 17.17L14.4802 12.22", stroke: "currentColor", strokeWidth: "1.3125", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.5 8V6C3.5 3.8 5.3 2 7.5 2H16.5C18.7 2 20.5 3.8 20.5 6V18C20.5 20.2 18.7 22 16.5 22H7.5C5.3 22 3.5 20.2 3.5 18V12.93", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.5 5V6C14.5 7.1 15.4 8 16.5 8H17.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ForbiddenFile1__clip0_4482_2634", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ForbiddenFile1_default = ForbiddenFile1;
+export {
+  ForbiddenFile1_default as default
+};

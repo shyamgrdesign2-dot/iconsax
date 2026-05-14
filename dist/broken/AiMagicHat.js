@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiMagicHat = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiMagicHat__clip0_3111_14328)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.0899 9.23L9.49991 9.37C9.07991 9.47 8.74991 9.8 8.65991 10.21L8.51991 10.8C8.50991 10.86 8.41991 10.86 8.39991 10.8L8.25991 10.21C8.15991 9.79 7.82991 9.46 7.41991 9.37L6.82991 9.23C6.76991 9.22 6.76991 9.13 6.82991 9.11L7.41991 8.97C7.83991 8.87 8.16991 8.54 8.25991 8.13L8.39991 7.54C8.40991 7.48 8.49991 7.48 8.51991 7.54L8.65991 8.13C8.75991 8.55 9.08991 8.88 9.49991 8.97L10.0899 9.11C10.1499 9.12 10.1499 9.21 10.0899 9.23Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.9898 4.28L12.5398 4.38C12.2198 4.45 11.9698 4.7 11.8998 5.02L11.7998 5.47C11.7998 5.47 11.7198 5.52 11.7098 5.47L11.6098 5.02C11.5398 4.7 11.2898 4.45 10.9698 4.38L10.5198 4.28C10.5198 4.28 10.4698 4.2 10.5198 4.19L10.9698 4.09C11.2898 4.02 11.5398 3.77 11.6098 3.45L11.7098 3C11.7098 3 11.7898 2.95 11.7998 3L11.8998 3.45C11.9698 3.77 12.2198 4.02 12.5398 4.09L12.9898 4.19C12.9898 4.19 13.0398 4.27 12.9898 4.28Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.09985 12.55V18.73C5.09985 20.06 5.85985 21.28 7.06985 21.86C9.35825 22.9095 11.891 23.1941 14.3119 22.7139M18.9199 18.73V12.58", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.5499 1.39L14.6499 8.29", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.9599 6.82C21.7599 7.33 22.2799 8.18 22.3499 9.12C22.3499 11.66 17.7199 13.72 11.9999 13.72C6.2799 13.72 1.6499 11.66 1.6499 9.12C1.6499 7.39 3.8099 5.88 6.9899 5.09", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiMagicHat__clip0_3111_14328", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiMagicHat_default = AiMagicHat;
+export {
+  AiMagicHat_default as default
+};

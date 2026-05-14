@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Frisbee = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Frisbee__clip0_2085_386784)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.85999 10C6.85999 5.5 13.22 7.46 12.86 9M12.86 9C12.56 10.3 10.36 15.5 2.85999 20.5L4.35999 22M12.86 9C12.86 10.25 14.36 12.5 17.36 12.5M10.86 7.5C9.35999 10.5 6.85999 11 10.36 13.5C13.86 16 13.36 16.5 8.85999 22H10.86M16.36 4C16.36 5.11 15.46 6 14.36 6C13.26 6 12.36 5.11 12.36 4C12.36 2.89 13.26 2 14.36 2C15.46 2 16.36 2.89 16.36 4ZM20.46 13.6C19.63 15.03 18.38 15.86 17.66 15.45C16.94 15.04 17.03 13.54 17.86 12.1C18.69 10.66 19.94 9.84 20.66 10.25C21.38 10.66 21.29 12.16 20.46 13.6Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Frisbee__clip0_2085_386784", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Frisbee_default = Frisbee;
+export {
+  Frisbee_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiSpeaker = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiSpeaker__clip0_3111_12139)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.61 15.86L6.68 16.07C6.02 16.22 5.49 16.74 5.34 17.4L5.12 18.33C5.1 18.43 4.95 18.43 4.93 18.33L4.72 17.4C4.57 16.74 4.05 16.21 3.39 16.06L2.46 15.84C2.36 15.82 2.36 15.67 2.46 15.65L3.39 15.44C4.05 15.29 4.58 14.77 4.73 14.11L4.95 13.18C4.97 13.08 5.12 13.08 5.14 13.18L5.35 14.11C5.5 14.77 6.02 15.3 6.68 15.45L7.61 15.67C7.71 15.69 7.71 15.84 7.61 15.86Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.93 18.03L10.45 18.98C12.92 20.53 14.95 19.4 14.95 16.49V7.51001C14.95 4.59001 12.92 3.47001 10.45 5.02001L7.59 6.81001C7.28 7.00001 6.91 7.10001 6.55 7.10001H5.15C3.19 7.10001 2.21 8.08001 2.21 10.04V12.61", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.88 8.08002C19.62 10.4 19.62 13.59 17.88 15.92", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.67 5.63C22.5 9.4 22.5 14.59 19.67 18.36", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiSpeaker__clip0_3111_12139", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiSpeaker_default = AiSpeaker;
+export {
+  AiSpeaker_default as default
+};

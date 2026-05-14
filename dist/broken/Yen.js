@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Yen = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Yen__clip0_2085_392549)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.86022 9.40017L9.15022 11.3402H7.02022C6.33022 11.3402 5.78022 11.8902 5.78022 12.5802C5.78022 13.2702 6.33022 13.8302 7.02022 13.8302H10.1402L10.1202 20.1302C10.1202 21.1602 10.9502 22.0002 11.9802 22.0002H11.9902C13.0202 22.0002 13.8502 21.1702 13.8602 20.1402V13.8302H16.9802C17.6702 13.8302 18.2202 13.2702 18.2202 12.5802C18.2202 11.8902 17.6702 11.3402 16.9802 11.3402H14.9002L19.1302 4.94017C19.7002 4.08017 19.4602 2.92017 18.6002 2.36017C17.7402 1.79017 16.5802 2.02017 16.0102 2.88017L12.0202 8.91017L7.99022 2.83017C7.42022 1.98017 6.26022 1.74017 5.40022 2.31017C4.54022 2.88017 4.30022 4.04017 4.87022 4.90017L5.20022 5.40017", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Yen__clip0_2085_392549", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Yen_default = Yen;
+export {
+  Yen_default as default
+};

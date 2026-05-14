@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Icon4gInternet5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Icon4gInternet5__clip0_2085_385163)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.5 10.3943V13.3943", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.75 9.44141H14.82C13.4 9.44141 12.26 10.5914 12.26 12.0014C12.26 13.4214 13.41 14.5614 14.82 14.5614H15.78C15.96 14.5614 16.1 14.4214 16.1 14.2414V12.0014H15.1", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.08987 14.8206V13.5306H9.94987H6.66987C6.23987 13.5306 5.95987 13.0606 6.17987 12.6906C6.78987 11.6506 7.48987 10.4706 8.12987 9.43063C8.40987 8.98063 9.08987 9.18063 9.08987 9.71063V13.5406", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.9199 12H21.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.7599 18.5309C14.1499 22.1409 8.30994 22.1409 4.70994 18.5309C1.09994 14.9209 1.09994 9.08094 4.70994 5.48094C8.31994 1.87094 14.1599 1.87094 17.7599 5.48094", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Icon4gInternet5__clip0_2085_385163", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Icon4gInternet5_default = Icon4gInternet5;
+export {
+  Icon4gInternet5_default as default
+};

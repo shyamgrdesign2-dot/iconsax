@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HandGestureControl2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HandGestureControl2__clip0_2085_385042)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M22.0001 21.4999V19.1699C22.0001 18.3799 21.7201 17.6199 21.2101 17.0199C20.7001 16.4199 20.0001 16.0199 19.2201 15.8899L17.0101 15.5199V10.5399C17.0101 10.0999 16.8401 9.67988 16.5201 9.36988C16.2101 9.05988 15.7901 8.87988 15.3501 8.87988C14.9101 8.87988 14.4901 9.04988 14.1801 9.36988C13.8701 9.67988 13.6901 10.0999 13.6901 10.5399V18.0099L12.3901 17.3599C12.1501 17.2399 11.8801 17.1699 11.6101 17.1699C11.3401 17.1699 11.0701 17.2199 10.8201 17.3399C10.5701 17.4499 10.3601 17.6199 10.1801 17.8299C10.0101 18.0399 9.88006 18.2799 9.82006 18.5499C9.74006 18.8899 9.75006 19.2399 9.86006 19.5699C9.97006 19.8999 10.1701 20.1899 10.4401 20.3999L11.7801 21.4999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 4.35986H13.42", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2301 4.36007C17.2301 3.99007 17.1201 3.63007 16.9201 3.32007C16.7101 3.01007 16.4201 2.77007 16.0801 2.63007C15.7401 2.49007 15.3601 2.45007 15.0001 2.52007C14.6401 2.59007 14.3101 2.77007 14.0401 3.03007C13.7801 3.29007 13.6001 3.62007 13.5301 3.98007C13.4601 4.34007 13.5001 4.72007 13.6401 5.06007C13.7801 5.40007 14.0201 5.69007 14.3301 5.90007C14.6401 6.11007 15.0001 6.21007 15.3701 6.21007C15.8601 6.21007 16.3401 6.01007 16.6901 5.66007C17.0401 5.31007 17.2401 4.84007 17.2401 4.34007L17.2301 4.36007Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HandGestureControl2__clip0_2085_385042", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HandGestureControl2_default = HandGestureControl2;
+export {
+  HandGestureControl2_default as default
+};

@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Wolf5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Wolf5__clip0_2085_391940)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8.82983 11.8496H10.0898", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.8999 11.8496H15.1599", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12 11.8593C12 10.4593 10.86 9.31934 9.45997 9.31934C8.05997 9.31934 6.91997 10.4493 6.91997 11.8593V13.1293C5.84997 13.1293 4.96997 13.9993 4.96997 15.0793V15.6693C6.17997 15.6693 7.29997 16.2993 7.91997 17.3393L10.07 20.9193C10.47 21.5893 11.2 22.0093 11.99 22.0093C12.78 22.0093 13.5 21.5993 13.91 20.9193L16.06 17.3393C16.68 16.2993 17.8 15.6693 19.01 15.6693V15.0793C19.01 14.0093 18.14 13.1293 17.06 13.1293V11.8593C17.06 10.4593 15.93 9.31934 14.52 9.31934C13.11 9.31934 11.98 10.4493 11.98 11.8593H12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.0799 20.9101C7.53994 19.2501 5.79994 18.4301 3.51994 18.2401C2.97994 18.1901 2.57994 17.7101 2.61994 17.1601L2.98994 12.8001C3.36994 8.3501 6.81994 4.6301 11.2699 4.2801C16.2699 3.8901 20.5699 7.6001 20.9799 12.5101L21.3799 17.1701C21.4299 17.7201 21.0199 18.2001 20.4699 18.2501C17.7099 18.4901 16.0899 19.5601 13.9199 20.9201", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27992 5.05976L6.43992 2.89976C6.02992 2.40976 5.23992 2.40976 4.87992 2.93976C3.70992 4.62976 3.52992 6.79976 4.29992 8.60976", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.72 5.05976L17.56 2.89976C17.97 2.40976 18.76 2.40976 19.12 2.93976C20.28 4.62976 20.47 6.79976 19.7 8.60976", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.53 17.2998L12 18.3798L13.47 17.2998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 18.3799V21.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Wolf5__clip0_2085_391940", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Wolf5_default = Wolf5;
+export {
+  Wolf5_default as default
+};

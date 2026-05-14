@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const PineTree3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#PineTree3__clip0_4482_4613)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.38 16.2296L13.1 8.82957H15.28C16.19 8.82957 16.72 7.79957 16.19 7.05957L12.91 2.46957C12.47 1.83957 11.53 1.83957 11.09 2.46957L7.81004 7.05957C7.28004 7.79957 7.81004 8.82957 8.72004 8.82957H10.9L5.62004 16.2296C5.10004 16.9696 5.63005 17.9996 6.54005 17.9996H11.25V21.8796C11.25 22.2896 11.59 22.6296 12 22.6296C12.41 22.6296 12.75 22.2896 12.75 21.8796V17.9996H17.46C18.37 17.9996 18.9 16.9696 18.38 16.2296Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "PineTree3__clip0_4482_4613", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var PineTree3_default = PineTree3;
+export {
+  PineTree3_default as default
+};

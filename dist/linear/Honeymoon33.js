@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Honeymoon33 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Honeymoon33__clip0_2085_391068)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.01 14.7998V17.8498", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.91 21.9996H9.10004V17.8496H14.91V21.9996Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.74 17.8496H8.27002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.26 3.29C17.48 2.5 16.4 2 15.2 2C13.92 2 12.78 2.58 12 3.47C11.22 2.58 10.08 2 8.80003 2C6.44003 2 4.53003 3.91 4.53003 6.27C4.53003 10.98 12 14.81 12 14.81C12 14.81 16.7 12.41 18.64 9.06", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.49001 12.79C3.80001 12.79 3.25001 13.35 3.25001 14.04C3.25001 13.35 2.69001 12.79 2.01001 12.79", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.73 16.5195C5.04 16.5195 4.49 17.0795 4.49 17.7595C4.49 17.0695 3.93 16.5195 3.25 16.5195", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.11 11.04L14.49 17.85H9.51002L6.89001 11.04", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.34 9.05023C21.26 9.05023 22 8.31023 22 7.39023C22 6.60023 21.44 5.94023 20.7 5.77023C20.73 5.62023 20.75 5.47023 20.75 5.31023C20.75 4.16023 19.82 3.24023 18.68 3.24023C17.61 3.24023 16.74 4.05023 16.63 5.10023C16.37 4.98023 16.08 4.90023 15.78 4.90023C14.63 4.90023 13.71 5.83023 13.71 6.97023C13.71 8.11023 14.64 9.04023 15.78 9.04023H20.34V9.05023Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Honeymoon33__clip0_2085_391068", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Honeymoon33_default = Honeymoon33;
+export {
+  Honeymoon33_default as default
+};

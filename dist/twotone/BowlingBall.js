@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BowlingBall = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BowlingBall__clip0_4482_15787)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19.0696 4.92957C22.9796 8.83957 22.9796 15.1696 19.0696 19.0696C15.1596 22.9796 8.82957 22.9796 4.92957 19.0696C1.01957 15.1596 1.01957 8.82957 4.92957 4.92957C8.83957 1.01957 15.1696 1.01957 19.0696 4.92957Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4804 8.12009C16.4804 8.42036 16.2219 8.67773 15.9204 8.63484C15.6188 8.63484 15.3604 8.37746 15.3604 8.07719C15.3604 7.77691 15.6188 7.51953 15.9204 7.51953C16.0496 7.51953 16.2219 7.56243 16.308 7.69112C16.3942 7.77691 16.4804 7.9485 16.4804 8.07719", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.9804 8.90134C10.9804 9.20161 10.7219 9.45898 10.4204 9.41609C10.1188 9.41609 9.86035 9.15871 9.86035 8.85844C9.86035 8.55816 10.1188 8.30078 10.4204 8.30078C10.5496 8.30078 10.7219 8.34368 10.808 8.47237C10.8942 8.55816 10.9804 8.72975 10.9804 8.85844", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.7001 13.6201C15.7001 13.9204 15.4416 14.1777 15.1401 14.1348C14.8385 14.1348 14.5801 13.8775 14.5801 13.5772C14.5801 13.2769 14.8385 13.0195 15.1401 13.0195C15.2693 13.0195 15.4416 13.0624 15.5278 13.1911C15.6139 13.2769 15.7001 13.4485 15.7001 13.5772", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BowlingBall__clip0_4482_15787", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BowlingBall_default = BowlingBall;
+export {
+  BowlingBall_default as default
+};

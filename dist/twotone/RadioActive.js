@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const RadioActive = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#RadioActive__clip0_4482_10884)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.9402 21.9C17.4355 21.9 21.8902 17.4452 21.8902 11.95C21.8902 6.45477 17.4355 2 11.9402 2C6.445 2 1.99023 6.45477 1.99023 11.95C1.99023 17.4452 6.445 21.9 11.9402 21.9Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.9805 13.7702L14.5505 16.5002C14.7005 16.7702 14.9705 16.9602 15.2805 17.0202C15.5905 17.0802 15.9105 17.0002 16.1505 16.8002C17.2005 15.8902 17.9205 14.6502 18.2105 13.2902C18.2805 12.9702 18.2105 12.6402 18.0005 12.3902C17.8005 12.1402 17.4905 11.9902 17.1705 11.9902H14.0505", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9396 14.0399C13.0939 14.0399 14.0296 13.1041 14.0296 11.9499C14.0296 10.7956 13.0939 9.85986 11.9396 9.85986C10.7853 9.85986 9.84961 10.7956 9.84961 11.9499C9.84961 13.1041 10.7853 14.0399 11.9396 14.0399Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.9096 13.7702L9.33957 16.5002C9.18957 16.7702 8.91957 16.9602 8.60957 17.0202C8.29957 17.0802 7.98957 17.0002 7.73957 16.8002C6.68957 15.8902 5.96957 14.6502 5.67957 13.2902C5.60957 12.9702 5.67957 12.6402 5.88957 12.3902C6.08957 12.1402 6.39957 11.9902 6.71957 11.9902H9.83957", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.9103 10.1299L9.33031 7.3999C9.17031 7.1299 9.14031 6.8099 9.24031 6.5099C9.34031 6.2199 9.57031 5.9799 9.86031 5.8699C11.2003 5.4099 12.6603 5.4099 14.0103 5.8699C14.3003 5.9799 14.5303 6.2199 14.6303 6.5099C14.7303 6.7999 14.7003 7.1299 14.5403 7.3999L12.9603 10.1299", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "RadioActive__clip0_4482_10884", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var RadioActive_default = RadioActive;
+export {
+  RadioActive_default as default
+};

@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cmd = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cmd__clip0_4482_14925)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.44 2H7.56C4.49 2 2 4.49 2 7.56V16.45C2 19.52 4.49 22.01 7.56 22.01H16.45C19.52 22.01 22.01 19.52 22.01 16.45V7.56C22.01 4.49 19.52 2 16.45 2H16.44ZM11.41 12.53L8.63 15.31C8.48 15.46 8.29 15.53 8.1 15.53C7.91 15.53 7.72 15.46 7.57 15.31C7.28 15.02 7.28 14.54 7.57 14.25L9.82 12L7.57 9.75C7.28 9.46 7.28 8.98 7.57 8.69C7.86 8.4 8.34 8.4 8.63 8.69L11.41 11.47C11.7 11.76 11.7 12.24 11.41 12.53Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cmd__clip0_4482_14925", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cmd_default = Cmd;
+export {
+  Cmd_default as default
+};

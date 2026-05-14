@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const GolfClub = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#GolfClub__clip0_2085_385731)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.52015 18.3397L6.50015 19.3197M8.46015 17.8497L9.44015 18.8297M15.0102 11.5597C16.5302 8.52974 18.4502 4.55974 19.3402 2.70974C19.6202 2.11974 20.3102 1.84974 20.9202 2.07974C21.6102 2.34974 21.9302 3.14974 21.6002 3.81974L14.4502 18.1297C13.7402 19.5397 12.6302 20.7397 11.1402 21.2697C9.56015 21.8197 7.39015 22.3097 5.52015 21.7797C2.09015 20.7997 0.620154 15.8997 4.54015 15.4097C6.74015 15.1297 8.95015 15.7897 10.4502 16.4097C12.0502 17.0697 12.0002 16.8797 12.9802 15.4097M21.8002 18.8297C21.8002 19.9097 20.9202 20.7897 19.8402 20.7897C18.7602 20.7897 17.8802 19.9097 17.8802 18.8297C17.8802 17.7497 18.7602 16.8697 19.8402 16.8697C20.9202 16.8697 21.8002 17.7497 21.8002 18.8297Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "GolfClub__clip0_2085_385731", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var GolfClub_default = GolfClub;
+export {
+  GolfClub_default as default
+};

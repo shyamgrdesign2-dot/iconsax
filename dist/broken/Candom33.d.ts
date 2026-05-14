@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+declare const Candom33: (props: SVGProps<SVGSVGElement>) => JSX.Element;
+export default Candom33;

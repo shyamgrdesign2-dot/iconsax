@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CoffeeBag2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CoffeeBag2__clip0_2085_391200)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.34 5.40039H6.61001C5.26001 7.29039 4.54001 9.55039 4.54001 11.8704V19.9904C4.54001 21.0904 5.44001 21.9904 6.54001 21.9904H17.48C18.58 21.9904 19.48 21.0904 19.48 19.9904V11.8704C19.48 9.55039 18.75 7.29039 17.41 5.40039H13.68", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.66 5.4H17.39V3C17.39 2.45 16.94 2 16.39 2H7.60999C7.05999 2 6.60999 2.45 6.60999 3V5.4H10.34", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.53 19.0996H19.47", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.76 11.5295C15.06 12.8295 15.32 14.6695 14.35 15.6395C13.38 16.6095 11.54 16.3495 10.24 15.0495C8.93999 13.7495 8.67999 11.9095 9.64999 10.9395C10.62 9.96945 12.46 10.2295 13.76 11.5295Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.35 15.6292L13.94 14.7392C13.58 13.9592 12.85 13.4092 12 13.2892C11.15 13.1692 10.42 12.6192 10.06 11.8392L9.64999 10.9492", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.66 7.48L12 6.65L10.34 7.48V2H13.66V7.48Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CoffeeBag2__clip0_2085_391200", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CoffeeBag2_default = CoffeeBag2;
+export {
+  CoffeeBag2_default as default
+};

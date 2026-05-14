@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiBox = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiBox__clip0_3111_14981)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.54015 18.49L7.53015 18.73C6.81015 18.9 6.24015 19.46 6.07015 20.19L5.83015 21.2C5.80015 21.31 5.65015 21.31 5.63015 21.2L5.39015 20.19C5.22015 19.47 4.66015 18.9 3.93015 18.73L2.92015 18.49C2.81015 18.46 2.81015 18.31 2.92015 18.29L3.93015 18.05C4.65015 17.88 5.22015 17.32 5.39015 16.59L5.63015 15.58C5.66015 15.47 5.81015 15.47 5.83015 15.58L6.07015 16.59C6.24015 17.31 6.80015 17.88 7.53015 18.05L8.54015 18.29C8.65015 18.32 8.65015 18.47 8.54015 18.49Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.12012 7.42001L11.9901 12.55L20.8001 7.45001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 21.65V12.54", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.9201 21.57C11.0701 22.2 12.9401 22.2 14.0901 21.57L19.4501 18.59C20.6701 17.92 21.6601 16.23 21.6601 14.84V9.16001C21.6601 7.77001 20.6701 6.09001 19.4501 5.41001L14.0901 2.43001C12.9301 1.79001 11.0701 1.79001 9.9201 2.43001L4.5601 5.41001C3.3401 6.08001 2.3501 7.77001 2.3501 9.16001V14.84", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.02 13.24V9.56L14.3142 8.00006M7.47998 4.06L9.74694 5.36695", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiBox__clip0_3111_14981", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiBox_default = AiBox;
+export {
+  AiBox_default as default
+};

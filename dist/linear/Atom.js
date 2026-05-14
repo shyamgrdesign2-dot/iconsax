@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Atom = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Atom__clip0_4482_10742)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.68012 6.07017C4.79013 5.94017 3.90012 6.30017 3.34012 7.00017C2.32012 8.76017 5.37012 12.4302 10.1601 15.1902C10.7801 15.5502 11.3901 15.8702 12.0001 16.1602", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 7.83984C12.61 8.12984 13.22 8.44984 13.84 8.80984C18.62 11.5698 21.68 15.2398 20.66 16.9998C20.1 17.6998 19.21 18.0498 18.32 17.9298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.71002 14.5101C3.16002 15.2201 3.02002 16.1701 3.34002 17.0001C4.36002 18.7601 9.06002 17.9501 13.84 15.1901C14.46 14.8301 15.05 14.4601 15.6 14.0801", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.3999 9.91988C8.9599 9.53988 9.5399 9.16988 10.1599 8.80988C14.9399 6.04988 19.6499 5.23988 20.6599 6.99988C20.9799 7.83988 20.8399 8.78988 20.2899 9.48988", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.02 20.4299C10.59 21.4199 11.27 21.9999 11.99 21.9999C14.02 21.9999 15.67 17.5199 15.67 11.9999C15.67 11.2899 15.64 10.5899 15.59 9.91992", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.40031 14.08C8.35031 13.41 8.32031 12.71 8.32031 12C8.32031 6.48 9.97031 2 12.0003 2C12.7303 2 13.4003 2.58 13.9703 3.57", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Atom__clip0_4482_10742", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Atom_default = Atom;
+export {
+  Atom_default as default
+};

@@ -1,0 +1,46 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Camera3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Camera3__clip0_2085_391047)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.48999 15.6905H15.22C16.88 15.6905 18.22 14.3505 18.22 12.6905V9.98047C18.22 8.32047 16.88 6.98047 15.22 6.98047H7.48999C5.82999 6.98047 4.48999 8.32047 4.48999 9.98047V12.6905C4.48999 14.3505 5.82999 15.6905 7.48999 15.6905Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.22 10.0905L20.45 8.62048C21.11 8.18048 22 8.66048 22 9.45048V13.2005C22 14.0005 21.11 14.4705 20.45 14.0305L18.22 12.5605", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.64001 22.0004L11.37 15.6904L15.1 22.0004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.36 11.9598C16.36 12.2998 16.08 12.5798 15.74 12.5798C15.4 12.5798 15.12 12.2998 15.12 11.9598C15.12 11.6198 15.4 11.3398 15.74 11.3398C16.08 11.3398 16.36 11.6198 16.36 11.9598Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.36 9.46961C16.36 9.80961 16.08 10.0896 15.74 10.0896C15.4 10.0896 15.12 9.80961 15.12 9.46961C15.12 9.12961 15.4 8.84961 15.74 8.84961C16.08 8.84961 16.36 9.12961 16.36 9.46961Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 9.75H4.49", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.49 12.25H2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 13.4898V8.50977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.98 4.49C16.98 5.87 15.87 6.98 14.49 6.98C13.11 6.98 12 5.87 12 4.49C12 3.11 13.11 2 14.49 2C15.87 2 16.98 3.11 16.98 4.49Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.11 4.49012C15.11 4.83012 14.83 5.11012 14.49 5.11012C14.15 5.11012 13.87 4.83012 13.87 4.49012C13.87 4.15012 14.15 3.87012 14.49 3.87012C14.83 3.87012 15.11 4.15012 15.11 4.49012Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.76 4.49C10.76 5.87 9.64003 6.98 8.27003 6.98C6.90003 6.98 5.78003 5.87 5.78003 4.49C5.78003 3.11 6.89003 2 8.27003 2C9.65003 2 10.76 3.11 10.76 4.49Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.89002 4.49012C8.89002 4.83012 8.61002 5.11012 8.27002 5.11012C7.93002 5.11012 7.65002 4.83012 7.65002 4.49012C7.65002 4.15012 7.93002 3.87012 8.27002 3.87012C8.61002 3.87012 8.89002 4.15012 8.89002 4.49012Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Camera3__clip0_2085_391047", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Camera3_default = Camera3;
+export {
+  Camera3_default as default
+};

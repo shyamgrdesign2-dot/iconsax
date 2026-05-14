@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ToolsRealityAccessibility = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ToolsRealityAccessibility__clip0_2085_384436)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 1.93994C6.48 1.93994 2 6.41994 2 11.9399C2 17.4599 6.48 21.9399 12 21.9399C17.52 21.9399 22 17.4599 22 11.9399C22 6.41994 17.52 1.93994 12 1.93994ZM12 5.99994C13.33 5.99994 14.41 7.07994 14.41 8.40994C14.41 9.73994 13.33 10.8199 12 10.8199C10.67 10.8199 9.59 9.73994 9.59 8.40994C9.59 7.07994 10.67 5.99994 12 5.99994ZM14.66 15.7399L13.7314 16.3971C13.4954 16.5641 13.3433 16.825 13.3142 17.1126L13.28 17.4499C13.25 17.7599 12.99 17.9999 12.67 17.9999H11.33C11.01 17.9999 10.75 17.7599 10.72 17.4499L10.692 17.154C10.6653 16.8714 10.5197 16.6134 10.2915 16.4445L9.34 15.7399C9.1 15.6199 8.96 15.3599 9.01 15.0899L9.33 13.1399C9.46 12.3999 10.1 11.8499 10.85 11.8499H13.15C13.9 11.8499 14.54 12.3999 14.67 13.1399L14.99 15.0899C15.04 15.3599 14.9 15.6199 14.66 15.7399Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ToolsRealityAccessibility__clip0_2085_384436", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ToolsRealityAccessibility_default = ToolsRealityAccessibility;
+export {
+  ToolsRealityAccessibility_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ThrowingKnife33 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ThrowingKnife33__clip0_2085_387119)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.46001 6.70996L6.71001 9.50996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.65 11.0205L10.98 13.6905", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.19 12.7102C18.33 13.3202 18.15 13.9502 17.7 14.3802L14.18 17.8002C13.81 18.1402 13.3 18.2702 12.82 18.1602L11.13 17.7802C10.2 17.5702 9.35 17.1002 8.67 16.4202L4.55 12.2902C4.44 12.1802 4.29 12.1402 4.14 12.1702C3.57 12.3002 2.95 12.1502 2.51 11.7002C1.83 11.0202 1.83 9.91023 2.51 9.22023L9.23 2.50023C9.91 1.82023 11.02 1.82023 11.71 2.50023C12.15 2.94023 12.31 3.56023 12.18 4.13023C12.15 4.28023 12.19 4.43023 12.3 4.54023L16.5 8.76023C17.12 9.38023 17.56 10.1502 17.79 11.0002L18.19 12.6902V12.7102Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.21 13.3799C19.02 14.7399 20.46 17.2499 21.78 19.5699C22.6 21.0099 20.99 22.5999 19.56 21.7799C17.29 20.4699 14.83 19.0499 13.48 18.2399", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ThrowingKnife33__clip0_2085_387119", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ThrowingKnife33_default = ThrowingKnife33;
+export {
+  ThrowingKnife33_default as default
+};

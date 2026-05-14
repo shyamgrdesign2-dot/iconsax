@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Heal4 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Heal4__clip0_2085_390943)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.39 6.12012L2.93 16.5801C1.69 17.8201 1.69 19.8301 2.93 21.0701C4.17 22.3101 6.18 22.3101 7.42 21.0701L17.88 10.6101L13.39 6.12012Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.31 4.10012L13.55 4.86012C13.16 5.25012 13.16 5.88012 13.55 6.27012L17.72 10.4401C18.11 10.8301 18.74 10.8301 19.13 10.4401L19.89 9.68012C20.28 9.29012 20.28 8.66012 19.89 8.27012L15.72 4.10012C15.33 3.71012 14.7 3.71012 14.31 4.10012Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.2 4.5604L19.44 2.8004C19.01 2.3704 18.31 2.4204 17.94 2.8904L16.44 4.8204L19.17 7.5504L21.1 6.0504C21.58 5.6804 21.62 4.9804 21.19 4.5504L21.2 4.5604Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.22 10.9805L12.12 11.8805", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.98001 16.2207L6.88001 17.1207", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.5 14.5L10.4 15.4", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Heal4__clip0_2085_390943", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Heal4_default = Heal4;
+export {
+  Heal4_default as default
+};

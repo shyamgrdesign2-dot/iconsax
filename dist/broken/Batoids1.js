@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Batoids1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Batoids1__clip0_2085_391943)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.8199 17.0098L13.9299 17.1198C12.6599 18.0698 10.3399 19.3198 9.17994 16.8398C6.69994 15.6798 7.94994 13.3598 8.89994 12.0898L9.00994 12.1998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.64997 4.72953C8.77997 6.34953 7.42997 8.99953 8.98997 12.1795H8.99997C9.18997 12.5895 9.43997 13.0095 9.73997 13.4295C10.1 13.9295 10.53 14.4395 11.05 14.9595C11.57 15.4795 12.08 15.9095 12.58 16.2695C13 16.5695 13.41 16.8095 13.82 17.0095C17.09 18.6295 19.81 17.1795 21.44 16.3095C21.78 16.1195 21.99 15.7495 21.97 15.3695C21.7 10.9095 20.56 7.56953 20.13 6.44953C20.03 6.17953 19.83 5.97953 19.56 5.87953C18.78 5.58953 16.92 4.95953 14.35 4.51953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.17002 16.84L6.57002 19.22C5.53002 20.26 3.85002 20.26 2.81002 19.22C1.72002 18.13 1.71002 16.56 2.81002 15.46", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.87 7.44922C12.06 10.7192 10.47 12.6292 9.73999 13.4292", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.5801 16.2696C13.3801 15.5396 15.2901 13.9596 18.5601 12.1396", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Batoids1__clip0_2085_391943", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Batoids1_default = Batoids1;
+export {
+  Batoids1_default as default
+};

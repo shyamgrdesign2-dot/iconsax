@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiPoweredSupport = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiPoweredSupport__clip0_3111_18677)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.52002 20.82H3.35002C2.75002 20.82 2.27002 20.34 2.27002 19.74V13.25C2.27002 12.65 2.75002 12.17 3.35002 12.17H5.51002C6.11002 12.17 6.59002 12.65 6.59002 13.25V19.74C6.59002 20.34 6.11002 20.82 5.51002 20.82H5.52002Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.0801 16.49H15.2001C15.6701 16.49 16.1201 16.34 16.5001 16.06L19.1101 14.1C19.7601 13.61 20.6801 13.68 21.2501 14.25C21.5601 14.56 21.7301 14.97 21.7301 15.41C21.7301 15.85 21.5601 16.26 21.2501 16.57L19.0101 18.81C18.4101 19.41 17.6401 19.83 16.8001 19.99L13.6301 20.62C13.0001 20.75 12.3501 20.73 11.7301 20.57L8.86008 19.85C8.52008 19.76 8.17008 19.72 7.81008 19.72H6.58008", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.0901 16.49H14.7001C15.1301 16.49 15.5501 16.32 15.8601 16.01C16.1701 15.7 16.3401 15.29 16.3401 14.85V14.52C16.3401 13.77 15.8301 13.11 15.1001 12.93L12.6201 12.31C12.2201 12.21 11.8001 12.16 11.3901 12.16C10.3901 12.16 9.4101 12.46 8.5701 13.01L6.6001 14.32", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M19.8701 3.17999V7.71999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M17.0001 7.71999L14.7901 3.17999L12.5801 7.71999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M13.1301 6.67999H16.4601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiPoweredSupport__clip0_3111_18677", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiPoweredSupport_default = AiPoweredSupport;
+export {
+  AiPoweredSupport_default as default
+};

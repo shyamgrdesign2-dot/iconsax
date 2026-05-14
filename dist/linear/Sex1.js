@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Sex1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Sex1__clip0_2085_387060)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.47 8.26953H16.47C15.62 8.26953 15.02 9.09953 15.29 9.90953L17.23 14.4995V18.4795C17.23 19.0295 17.68 19.4795 18.23 19.4795H18.72C19.27 19.4795 19.72 19.0295 19.72 18.4795V14.4995L21.65 9.90953C21.92 9.09953 21.32 8.26953 20.47 8.26953Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.72 5.78004C19.72 6.47004 19.16 7.02004 18.47 7.02004C17.78 7.02004 17.23 6.46004 17.23 5.78004C17.23 5.10004 17.79 4.54004 18.47 4.54004C19.15 4.54004 19.72 5.10004 19.72 5.78004Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.26998 5.78004C7.26998 6.47004 6.70998 7.02004 6.02998 7.02004C5.34998 7.02004 4.78998 6.46004 4.78998 5.78004C4.78998 5.10004 5.34998 4.54004 6.02998 4.54004C6.70998 4.54004 7.26998 5.10004 7.26998 5.78004Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.72999 9.41977C7.44999 8.71977 6.76999 8.25977 6.01999 8.25977C5.26999 8.25977 4.58999 8.71977 4.30999 9.41977L2.82999 13.1198C2.56999 13.7798 3.04999 14.4898 3.75999 14.4898H4.76999V18.4698C4.76999 19.0198 5.21999 19.4698 5.76999 19.4698H6.25999C6.80999 19.4698 7.25999 19.0198 7.25999 18.4698V14.4898H8.26999C8.97999 14.4898 9.45999 13.7798 9.19999 13.1198L7.71999 9.41977H7.72999Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.25 2V3.29", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.25 5.78027V7.02027", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.25 9.50977V10.7498", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.25 13.2402V14.4802", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.25 16.9805V18.2205", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.25 20.71V22", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Sex1__clip0_2085_387060", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Sex1_default = Sex1;
+export {
+  Sex1_default as default
+};

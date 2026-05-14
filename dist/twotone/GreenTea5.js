@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const GreenTea5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#GreenTea5__clip0_2085_392583)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 17.3887H2C2 18.7587 3.11 19.8787 4.49 19.8787H19.51C20.88 19.8787 22 18.7687 22 17.3887Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.07 17.3894H9.92002C7.63002 17.3894 5.77002 15.5294 5.77002 13.2394V6.10938C5.77002 5.00937 6.67002 4.10938 7.77002 4.10938H16.22C17.32 4.10938 18.22 5.00937 18.22 6.10938V13.2394C18.22 15.5294 16.36 17.3894 14.07 17.3894Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.4999 13.8094C10.4999 13.8094 12.7399 14.2094 13.8699 13.0794C14.9999 11.9494 14.5999 9.70935 14.5999 9.70935C14.5999 9.70935 12.3599 9.30935 11.2299 10.4394C10.0999 11.5694 10.4999 13.8094 10.4999 13.8094Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.9701 12.3398L9.33008 14.9798", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.78003 7.01953H18.23", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.22 11.1693L20.6 10.5793C21.15 10.4393 21.54 9.9393 21.54 9.3693V7.0193C21.54 6.3293 20.98 5.7793 20.3 5.7793H18.23", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "GreenTea5__clip0_2085_392583", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var GreenTea5_default = GreenTea5;
+export {
+  GreenTea5_default as default
+};

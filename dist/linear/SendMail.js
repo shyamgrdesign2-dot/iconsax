@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SendMail = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SendMail__clip0_4482_9761)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 16.7402V22.0002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.89014 19.8901L12.0001 22.0001L14.1101 19.8901", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.6298 17.79H17.4698C19.6798 17.79 21.4698 16 21.4698 13.79V6C21.4698 3.79 19.6798 2 17.4698 2H6.52979C4.31979 2 2.52979 3.79 2.52979 6V13.79C2.52979 16 4.31979 17.79 6.52979 17.79H7.15979", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2602 6.74023L12.8402 8.67023C12.3002 8.90023 11.6902 8.90023 11.1602 8.67023L6.74023 6.74023", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SendMail__clip0_4482_9761", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SendMail_default = SendMail;
+export {
+  SendMail_default as default
+};

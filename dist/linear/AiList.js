@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiList = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiList__clip0_3111_12655)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.88 4.89001L20.95 5.11001C20.28 5.27001 19.76 5.79001 19.61 6.45001L19.39 7.38001C19.37 7.48001 19.22 7.48001 19.2 7.38001L18.98 6.45001C18.82 5.78001 18.3 5.26001 17.64 5.11001L16.71 4.89001C16.61 4.87001 16.61 4.72001 16.71 4.70001L17.64 4.48001C18.31 4.32001 18.83 3.80001 18.98 3.14001L19.2 2.21001C19.22 2.11001 19.37 2.11001 19.39 2.21001L19.61 3.14001C19.77 3.81001 20.29 4.33001 20.95 4.48001L21.88 4.70001C21.98 4.72001 21.98 4.87001 21.88 4.89001Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.13 9.10999H15.77", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.31001 9.10996L7.04001 9.83996L9.23 7.64996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.13 15.91H17.23", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.31001 15.91L7.04001 16.64L9.23 14.45", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.48 2.41998H8.86C4 2.41998 2.05 4.35998 2.05 9.22998V15.06C2.05 19.92 3.99 21.87 8.86 21.87H14.69C19.55 21.87 21.5 19.93 21.5 15.06V10.62", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiList__clip0_3111_12655", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiList_default = AiList;
+export {
+  AiList_default as default
+};

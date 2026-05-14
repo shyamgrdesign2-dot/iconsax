@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MouseCursor = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MouseCursor__clip0_4482_11021)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.0699 16.2798L16.2799 13.0698C16.4199 12.9298 16.4699 12.7298 16.4199 12.5398C16.3699 12.3498 16.2199 12.1998 16.0299 12.1498L11.5899 10.9198C11.3999 10.8698 11.1899 10.9198 11.0499 11.0598C10.9099 11.1998 10.8499 11.4098 10.9099 11.5998L12.1399 16.0398C12.1899 16.2298 12.3399 16.3798 12.5299 16.4298C12.7199 16.4798 12.9199 16.4298 13.0599 16.2898L13.0699 16.2798Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.1701 16.1701L15.0601 15.0601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.03988 15.7601C5.90988 13.6301 5.90988 10.1801 8.03988 8.05014C10.1699 5.92014 13.6199 5.92014 15.7499 8.05014", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.44 2H7.56C4.4893 2 2 4.4893 2 7.56V16.44C2 19.5107 4.4893 22 7.56 22H16.44C19.5107 22 22 19.5107 22 16.44V7.56C22 4.4893 19.5107 2 16.44 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MouseCursor__clip0_4482_11021", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MouseCursor_default = MouseCursor;
+export {
+  MouseCursor_default as default
+};

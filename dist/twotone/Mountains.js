@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Mountains = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Mountains__clip0_4482_5902)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.72 22.2302H4.28008C2.59008 22.2302 1.49004 20.4502 2.24004 18.9302L9.96007 3.50023C10.8001 1.82023 13.2 1.82023 14.04 3.50023L14.68 4.77024L17.79 10.9902L21.7601 18.9302C22.5101 20.4502 21.41 22.2302 19.72 22.2302Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.3499 8.12023C15.2599 9.28023 13.7099 10.0002 11.9999 10.0002C10.2899 10.0002 8.7399 9.28023 7.6499 8.12023L9.9599 3.50023C10.7999 1.82023 13.1999 1.82023 14.0399 3.50023L16.3499 8.12023Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.9999 7C21.9999 9.21 20.2099 11 17.9999 11C17.9299 11 17.8599 11 17.7899 10.99L14.6799 4.77C15.3999 3.7 16.6199 3 17.9999 3C20.2099 3 21.9999 4.79 21.9999 7Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Mountains__clip0_4482_5902", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Mountains_default = Mountains;
+export {
+  Mountains_default as default
+};

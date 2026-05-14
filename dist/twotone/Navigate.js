@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Navigate = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Navigate__clip0_4482_8518)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.44 22.0001H5.33C3.49 22.0001 2 20.5101 2 18.6701V17.5601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5596 2H18.6696C20.5096 2 21.9996 3.49 21.9996 5.33V6.44", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 6.44V5.33C2 3.49 3.49 2 5.33 2H6.44", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9996 17.55V18.66C21.9996 20.5 20.5096 21.99 18.6696 21.99H17.5596", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.2603 17.05L16.3903 8.60999C16.4903 8.32999 16.4203 8.00999 16.2103 7.79999C16.0003 7.58999 15.6803 7.51999 15.4003 7.61999L6.9603 10.75C6.6503 10.87 6.4403 11.18 6.4603 11.52C6.4803 11.86 6.7103 12.14 7.0303 12.23L10.8403 13.19L11.7903 16.98C11.8803 17.3 12.1603 17.53 12.5003 17.55C12.8403 17.57 13.1403 17.37 13.2703 17.06L13.2603 17.05Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Navigate__clip0_4482_8518", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Navigate_default = Navigate;
+export {
+  Navigate_default as default
+};

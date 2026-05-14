@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Avatar7 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Avatar7__clip0_2085_392054)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.3403 16.2906V6.14062L20.4803 7.74062C20.7303 7.93062 20.8803 8.23063 20.8803 8.54063V13.7506C20.8803 15.1506 19.7403 16.2906 18.3403 16.2906Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.66012 16.2906V6.14062L3.52012 7.74062C3.27012 7.93062 3.12012 8.23063 3.12012 8.54063V13.7506C3.12012 15.1506 4.26012 16.2906 5.66012 16.2906Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.98 11.4906L12.44 12.2606C12.16 12.4006 11.83 12.4006 11.55 12.2606L10.01 11.4906C9.66996 11.3206 9.45996 10.9706 9.45996 10.6006V8.1906C9.45996 6.8606 10.41 5.6506 11.74 5.5206C13.26 5.3706 14.54 6.5606 14.54 8.0406V10.5906C14.54 10.9706 14.33 11.3206 13.99 11.4806L13.98 11.4906Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 12.4902V22.0002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.4102 2.37038C13.8202 2.29038 13.2702 2.75038 13.2702 3.37038V5.51038H10.7302V3.37038C10.7302 2.69038 10.0702 2.21038 9.43016 2.41038L6.36016 3.39038C5.94016 3.52038 5.66016 3.90038 5.66016 4.34038V15.3904C5.66016 18.8604 8.33016 21.8904 11.8002 22.0004H12.0002C15.5102 21.9904 18.3402 19.1604 18.3402 15.6604V4.34038C18.3402 3.90038 18.0602 3.52038 17.6402 3.39038L17.4602 3.33038", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 7.41016V9.95016", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.3403 13.75L14.5303 15.02V21.36", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.66016 13.75L9.47016 15.02V21.36", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.3403 10.5801H20.8803", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.12012 10.5801H5.66012", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Avatar7__clip0_2085_392054", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Avatar7_default = Avatar7;
+export {
+  Avatar7_default as default
+};

@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Seal5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Seal5__clip0_2085_391927)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.70994 14.9003L5.68994 14.3203", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.04004 22V11C3.04004 6.05 7.05004 2 12 2C16.95 2 20.96 6.08 20.96 11V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.31 14.3203L16.29 14.9003", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.3101 19.3002L16.1301 17.9902", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.86994 18L5.68994 19.31", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.6601 13.3301C15.3101 13.3301 16.6501 14.6701 16.6501 16.3201C16.6501 17.9701 15.3101 19.3101 13.6601 19.3101C13.0501 19.3101 12.4801 19.1201 12.0001 18.8101C11.5301 19.1301 10.9501 19.3101 10.3401 19.3101C8.6901 19.3101 7.3501 17.9701 7.3501 16.3201C7.3501 14.6701 8.6901 13.3301 10.3401 13.3301H13.6601Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.34994 9.67961C9.34994 10.4096 8.75994 11.0096 8.01994 11.0096C7.27994 11.0096 6.68994 10.4196 6.68994 9.67961C6.68994 8.93961 7.27994 8.34961 8.01994 8.34961C8.75994 8.34961 9.34994 8.93961 9.34994 9.67961Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.3101 9.67961C17.3101 10.4096 16.7201 11.0096 15.9801 11.0096C15.2401 11.0096 14.6501 10.4196 14.6501 9.67961C14.6501 8.93961 15.2401 8.34961 15.9801 8.34961C16.7201 8.34961 17.3101 8.93961 17.3101 9.67961Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 18.6405V15.9805", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.01 15.9805H13", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Seal5__clip0_2085_391927", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Seal5_default = Seal5;
+export {
+  Seal5_default as default
+};

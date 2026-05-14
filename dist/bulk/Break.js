@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Break = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Break__clip0_4482_6358)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.74 13.1902C21.13 18.1002 16.87 21.8902 11.76 21.7502C6.64998 21.6002 2.39997 17.3502 2.24997 12.2402C2.10997 7.13024 5.89997 2.87023 10.81 2.26023C11.46 2.18023 12.03 2.69024 12.03 3.35024V6.64024C12.03 7.17024 11.65 7.60024 11.13 7.71024C8.84998 8.19024 7.22996 10.4602 7.79996 12.9902C8.15996 14.5602 9.43998 15.8402 11.01 16.2002C13.54 16.7702 15.81 15.1502 16.29 12.8702C16.4 12.3502 16.83 11.9702 17.36 11.9702H20.65C21.31 11.9702 21.82 12.5402 21.74 13.1902Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.85 11.9704H18.35C18.35 8.4804 15.52 5.65039 12.03 5.65039V4.15039C16.34 4.15039 19.85 7.6604 19.85 11.9704Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Break__clip0_4482_6358", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Break_default = Break;
+export {
+  Break_default as default
+};

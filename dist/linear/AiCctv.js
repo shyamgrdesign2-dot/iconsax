@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiCctv = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiCctv__clip0_3111_12682)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.64 4.65003L6.73 4.86003C6.08 5.01003 5.57 5.52003 5.42 6.17003L5.21 7.08003C5.19 7.18003 5.05 7.18003 5.03 7.08003L4.82 6.17003C4.67 5.52003 4.16 5.01003 3.51 4.86003L2.6 4.65003C2.5 4.63003 2.5 4.49003 2.6 4.47003L3.51 4.26003C4.16 4.11003 4.67 3.60003 4.82 2.95003L5.03 2.04003C5.05 1.94003 5.19 1.94003 5.21 2.04003L5.42 2.95003C5.57 3.60003 6.08 4.11003 6.73 4.26003L7.64 4.47003C7.74 4.49003 7.74 4.63003 7.64 4.65003Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.2 9.17003C3.01 9.70003 3.03 10.29 3.27 10.8C3.51 11.31 3.94 11.71 4.47 11.9L13.65 15.25C13.92 15.35 14.21 15.33 14.47 15.21C14.73 15.09 14.93 14.87 15.02 14.61L16.04 11.81C16.21 11.36 16.66 11.07 17.14 11.12L21.24 11.52C21.53 11.55 21.8 11.38 21.9 11.11C22.22 10.23 21.77 9.26003 20.89 8.94003L10.85 5.28003", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 15.63H4.14C4.73 15.63 5.21 16.11 5.21 16.7V20.97C5.21 21.56 4.73 22.04 4.14 22.04H2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.48 13.73V16.08C9.48 17.6 8.25 18.83 6.73 18.83H5.21", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.68 8.32006L8.58 7.56006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.02 11.4L19.54 12.9C19.11 14.26 17.7 15.05 16.32 14.72L15.08 14.42", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiCctv__clip0_3111_12682", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiCctv_default = AiCctv;
+export {
+  AiCctv_default as default
+};

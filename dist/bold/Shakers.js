@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Shakers = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Shakers__clip0_4482_14418)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.6504 22.0004H12.5804C11.1404 22.0004 10.0404 20.7304 10.2504 19.3004L10.5504 17.2904L11.3104 12.1104H20.9504C20.9704 12.4404 21.0204 12.7704 21.0704 13.1004L21.9804 19.3104C22.1804 20.7304 21.0804 22.0004 19.6504 22.0004Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.8502 10.71H11.4102V9.69996C11.4102 8.04996 12.7502 6.70996 14.4002 6.70996H17.8202C19.4802 6.70996 20.8202 8.04996 20.8202 9.69996C20.8202 10.04 20.8302 10.37 20.8502 10.71Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.1497 7.40039C10.6797 8.05039 10.4097 8.85039 10.4097 9.70039V11.3404L9.52968 17.2904H4.35968C2.91968 17.2904 1.81968 16.0204 2.02968 14.5904L2.32968 12.5804L3.08968 7.40039H11.1497Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.6304 6H3.19043V4.99C3.19043 3.34 4.53043 2 6.18043 2H9.60043C11.2604 2 12.6004 3.34 12.6004 4.99C12.6004 5.33 12.6004 5.66 12.6304 6Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Shakers__clip0_4482_14418", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Shakers_default = Shakers;
+export {
+  Shakers_default as default
+};

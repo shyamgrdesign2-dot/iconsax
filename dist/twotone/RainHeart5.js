@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const RainHeart5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#RainHeart5__clip0_2085_392280)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.7 7.06C17.77 6.77 17.81 6.46 17.81 6.15C17.81 3.86 15.95 2 13.66 2C11.52 2 9.77995 3.63 9.54995 5.71C9.02995 5.47 8.45995 5.32 7.84995 5.32C5.55995 5.32 3.69995 7.18 3.69995 9.47C3.69995 11.76 5.55995 13.62 7.84995 13.62H16.98C18.81 13.62 20.2999 12.13 20.2999 10.3C20.2999 8.72 19.19 7.39 17.7 7.06Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.07 17.3496C12.64 17.3496 12.26 17.5396 12 17.8396C11.74 17.5396 11.36 17.3496 10.93 17.3496C10.14 17.3496 9.51001 17.9896 9.51001 18.7696C9.51001 20.3396 12 21.6196 12 21.6196C12 21.6196 14.49 20.3496 14.49 18.7696C14.49 17.9796 13.85 17.3496 13.07 17.3496Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M4.76995 18.7998C5.08995 18.7998 5.36995 18.9398 5.56995 19.1698C5.76995 18.9498 6.04995 18.7998 6.36995 18.7998C6.95995 18.7998 7.43995 19.2798 7.43995 19.8698C7.43995 21.0498 5.56995 21.9998 5.56995 21.9998C5.56995 21.9998 3.69995 21.0398 3.69995 19.8698C3.69995 19.2798 4.17995 18.7998 4.76995 18.7998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19.2301 18.7998C18.9101 18.7998 18.6301 18.9398 18.4301 19.1698C18.2301 18.9498 17.9501 18.7998 17.6301 18.7998C17.0401 18.7998 16.5601 19.2798 16.5601 19.8698C16.5601 21.0498 18.4301 21.9998 18.4301 21.9998C18.4301 21.9998 20.3001 21.0398 20.3001 19.8698C20.3001 19.2798 19.8201 18.7998 19.2301 18.7998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.1499 16.9402V15.7002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.84985 16.9402V15.7002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 13.6201V15.6901", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.4299 13.2803V15.2703", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.57007 12.9297V15.2697", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.0601 8.2198C8.91006 6.2398 9.59006 3.6998 11.5801 2.5498", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "RainHeart5__clip0_2085_392280", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var RainHeart5_default = RainHeart5;
+export {
+  RainHeart5_default as default
+};

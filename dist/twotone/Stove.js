@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Stove = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Stove__clip0_4482_6128)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22H7C4.25 22 2 19.75 2 17V7C2 4.25 4.25 2 7 2H17C19.75 2 22 4.25 22 7V17C22 19.75 19.75 22 17 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8.00006 10.9201C9.61273 10.9201 10.92 9.61275 10.92 8.00008C10.92 6.38741 9.61273 5.08008 8.00006 5.08008C6.38739 5.08008 5.08008 6.38741 5.08008 8.00008C5.08008 9.61275 6.38739 10.9201 8.00006 10.9201Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8.38013 8.38012L7.62012 7.62012", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.0001 10.9201C17.6127 10.9201 18.92 9.61275 18.92 8.00008C18.92 6.38741 17.6127 5.08008 16.0001 5.08008C14.3874 5.08008 13.0801 6.38741 13.0801 8.00008C13.0801 9.61275 14.3874 10.9201 16.0001 10.9201Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.3801 7.62012L15.6201 8.38012", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.0001 18.9201C17.6127 18.9201 18.92 17.6127 18.92 16.0001C18.92 14.3874 17.6127 13.0801 16.0001 13.0801C14.3874 13.0801 13.0801 14.3874 13.0801 16.0001C13.0801 17.6127 14.3874 18.9201 16.0001 18.9201Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.3801 16.3801L15.6201 15.6201", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8.00006 18.9201C9.61273 18.9201 10.92 17.6127 10.92 16.0001C10.92 14.3874 9.61273 13.0801 8.00006 13.0801C6.38739 13.0801 5.08008 14.3874 5.08008 16.0001C5.08008 17.6127 6.38739 18.9201 8.00006 18.9201Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8.38013 15.6201L7.62012 16.3801", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Stove__clip0_4482_6128", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Stove_default = Stove;
+export {
+  Stove_default as default
+};

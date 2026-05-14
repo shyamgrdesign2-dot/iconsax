@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Icon6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Icon6__clip0_2085_391183)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 18.27C10.41 18.27 9.11 16.97 9.11 15.38C9.11 15.25 9.11 15.12 9.14 15C9.14 14.97 9.14 14.95 9.15 14.92C9.37 13.55 10.57 12.5 12 12.5C13.59 12.5 14.89 13.8 14.89 15.39C14.89 16.98 13.59 18.28 12 18.28V18.27ZM12 8.76C11.76 8.76 11.53 8.77 11.3 8.8C11.5 8.48 11.72 8.16 11.94 7.85C13.06 6.33 14.12 5.48 14.25 5.37C14.71 5.03 15.01 4.48 15.01 3.87C15.01 2.84 14.17 2 13.14 2C12.72 2 12.34 2.14 12.02 2.37C11.79 2.54 6.38 6.65 5.44 14.36C5.39 14.69 5.36 15.03 5.36 15.38C5.36 19.03 8.33 22 11.98 22C15.63 22 18.6 19.03 18.6 15.38C18.6 11.73 15.63 8.76 11.98 8.76H12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Icon6__clip0_2085_391183", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Icon6_default = Icon6;
+export {
+  Icon6_default as default
+};

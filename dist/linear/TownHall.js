@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const TownHall = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#TownHall__clip0_4482_10026)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.1701 13.2601L18.0601 12.6601C17.5301 9.7301 14.9801 7.6001 12.0001 7.6001C9.02008 7.6001 6.47008 9.7301 5.94008 12.6601L5.83008 13.2601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 4.52002V7.60002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.6 1.9502H12.51C12.2283 1.9502 12 2.17853 12 2.4602V4.5202C12 4.80186 12.2283 5.0302 12.51 5.0302H15.6C15.8817 5.0302 16.11 4.80186 16.11 4.5202V2.4602C16.11 2.17853 15.8817 1.9502 15.6 1.9502Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.89014 13.2603V22.0003", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 13.2603V22.0003", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.1099 13.2603V22.0003", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.23 19.94V15.31C20.23 14.17 19.31 13.25 18.17 13.25H5.83002C4.69002 13.25 3.77002 14.17 3.77002 15.31V19.94C3.77002 21.08 4.69002 22 5.83002 22H18.17C19.31 22 20.23 21.08 20.23 19.94Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "TownHall__clip0_4482_10026", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var TownHall_default = TownHall;
+export {
+  TownHall_default as default
+};

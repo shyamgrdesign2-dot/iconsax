@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const NatureCycle = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#NatureCycle__clip0_4482_10758)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.62988 3.56006H6.23988", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.24007 3.82992C2.07007 6.75992 0.780068 12.3699 3.25007 16.8399C5.72007 21.3099 11.1601 23.1899 15.8601 21.2199C20.5701 19.2499 23.0301 14.0499 21.5801 9.15992C20.1301 4.26992 15.2301 1.24992 10.2101 2.15992", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.5203 7.86975C9.33029 7.86975 7.55029 9.64975 7.55029 11.8397C7.55029 14.0297 9.33029 15.8098 11.5203 15.8098C14.7503 15.8098 15.5503 11.8397 17.4003 10.7797C16.0203 8.91975 13.8303 7.83975 11.5203 7.86975Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0001 11.4102C9.78012 11.7802 7.82012 13.0802 6.62012 14.9902", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "NatureCycle__clip0_4482_10758", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var NatureCycle_default = NatureCycle;
+export {
+  NatureCycle_default as default
+};

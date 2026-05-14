@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FlashDisabled = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FlashDisabled__clip0_3131_20057)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2803 17.2695L20.4303 20.4195", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "square" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.4303 17.2695L17.2803 20.4195", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "square" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.2699 6.76953L12.8899 10.3395L16.1699 10.9595C16.1699 10.9595 13.4882 14.7809 11.7699 17.2295L11.0799 13.5895L7.87988 13.0395L12.2699 6.76953Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "square" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.7796 14.1096C22.7196 9.77963 20.6896 5.33963 16.7896 3.21963C12.8996 1.09963 8.06963 1.78963 4.92963 4.92963C1.78963 8.06963 1.09963 12.8896 3.21963 16.7896C5.33963 20.6796 9.77963 22.7096 14.1096 21.7796", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "square" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FlashDisabled__clip0_3131_20057", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FlashDisabled_default = FlashDisabled;
+export {
+  FlashDisabled_default as default
+};

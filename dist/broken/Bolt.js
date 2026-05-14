@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bolt = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Bolt__clip0_4482_9084)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 7.68V7C2 4.24 4.24 2 7 2H17C19.76 2 22 4.24 22 7V17C22 19.76 19.76 22 17 22H7C4.24 22 2 19.76 2 17V12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.7302 6.25001C12.3002 5.68001 13.2302 5.68001 13.8002 6.25001L17.6702 10.12C18.2402 10.69 18.2402 11.62 17.6702 12.2C17.1002 12.77 16.1702 12.77 15.6002 12.2L11.7302 8.33001C11.1602 7.76001 11.1602 6.83001 11.7302 6.25001Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.6899 9.28003L6.49995 15.47C6.33995 15.63 6.23995 15.82 6.19995 16.04L5.89995 17.52C5.85995 17.7 5.91995 17.89 6.04995 18.02C6.17995 18.15 6.36995 18.21 6.54995 18.17L8.02995 17.87C8.23995 17.83 8.43995 17.72 8.59995 17.57L14.7899 11.38", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.65039 13.73L11.0904 16.4", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 11.3701L13.44 14.0401", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Bolt__clip0_4482_9084", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Bolt_default = Bolt;
+export {
+  Bolt_default as default
+};

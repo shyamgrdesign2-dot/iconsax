@@ -1,0 +1,18 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Gun112 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M19.8299 3.10629L18.8799 4.29629L20.4599 6.71629L21.9299 6.33629C22.1899 6.26629 22.2199 5.89629 22.0699 5.66629L20.4999 3.24629C20.3599 3.02629 19.9999 2.89629 19.8299 3.10629Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M2 17.7559C2.62 17.0759 2.91 16.6159 3.72 15.8059C4.51 15.0259 4.34 14.9959 5.42 14.8059C6.24 14.6459 6.29 14.4759 6.55 13.5959C6.63 13.2959 6.71 13.0059 6.8 12.7059C6.97 12.0859 7.14 11.9359 7.63 11.6159C7.99 11.3859 8.34 11.1559 8.66 10.9559C9.59 10.3459 10.37 9.8359 11.08 9.3759C11.79 8.9059 12.42 8.4959 13.05 8.0859L16.68 5.7259L18.88 4.2959M8.65 10.9459H8.66L9.05 11.5459C9.41 12.1059 10.16 12.2659 10.71 11.9059L11.72 11.2459L12.13 10.9859L15.77 8.6159C16.21 8.3259 16.81 8.4559 17.1 8.8959M17.1 8.8959C17.39 9.3359 17.26 9.9359 16.82 10.2259L9.06 15.2759C7.84 17.8059 6.79 19.4959 5.64 21.6759M17.1 8.8959L20.45 6.7159", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M8.1001 17.6159C9.9901 18.2359 10.2801 18.3959 11.4501 17.6359C12.6101 16.8759 13.4701 16.0459 11.8801 13.5859", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M9.06006 15.5566C9.40006 15.8666 10.0301 16.2166 10.7501 16.1866", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M12.39 11.3861L10.41 8.33614C10.12 7.89614 9.51998 7.76614 9.07998 8.05614C8.78998 7.61614 8.18998 7.48614 7.74998 7.77614C7.30998 8.06614 7.17998 8.66614 7.46998 9.10614L8.66998 10.9461", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " "
+] });
+var Gun112_default = Gun112;
+export {
+  Gun112_default as default
+};

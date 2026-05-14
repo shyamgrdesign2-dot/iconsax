@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ForwardDollar = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ForwardDollar__clip0_4482_1214)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.88 6.56994V5.43994", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.88 13.3198V14.4498", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.93005 12.5098C7.22005 12.9898 7.71995 13.3198 8.31995 13.3198H8.88H9.55005C10.42 13.3198 11.13 12.6098 11.13 11.7398C11.13 11.0198 10.6401 10.3798 9.93005 10.2098L7.81995 9.67982C7.11995 9.49982 6.63 8.86983 6.63 8.14983C6.63 7.27983 7.33996 6.56982 8.20996 6.56982H8.88H9.43994C10.0399 6.56982 10.54 6.89982 10.83 7.36982", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20 13.41C19.99 13.4 19.97 13.4 19.96 13.39C19.36 13.14 18.69 13 18 13C15.24 13 13 15.24 13 18C13 18.71 13.15 19.39 13.41 20C14.19 21.76 15.95 23 18 23C18.69 23 19.36 22.86 19.96 22.61C21.74 21.84 23 20.07 23 18C23 15.95 21.76 14.19 20 13.41ZM20.4301 18.24L18.85 19.82C18.71 19.97 18.5199 20.04 18.3199 20.04C18.1299 20.04 17.94 19.97 17.79 19.82C17.5 19.53 17.5 19.05 17.79 18.76L18.09 18.46H16.1C15.68 18.46 15.35 18.12 15.35 17.71C15.35 17.3 15.68 16.96 16.1 16.96H19.9C20.21 16.96 20.48 17.14 20.59 17.42C20.71 17.7 20.6501 18.03 20.4301 18.24Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M20 7V13.41C19.99 13.4 19.97 13.4 19.96 13.39C19.36 13.14 18.69 13 18 13C15.24 13 13 15.24 13 18C13 18.71 13.15 19.39 13.41 20H7C4.25 20 2 17.75 2 15V7C2 4.25 4.25 2 7 2H15C17.75 2 20 4.25 20 7Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ForwardDollar__clip0_4482_1214", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ForwardDollar_default = ForwardDollar;
+export {
+  ForwardDollar_default as default
+};

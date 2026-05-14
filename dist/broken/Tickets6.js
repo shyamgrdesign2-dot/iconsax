@@ -1,0 +1,50 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Tickets6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Tickets6__clip0_2085_392356)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.23 9.50977V10.7498", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 5.16016H15.73", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 7.64941H15.73", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.1 2.00977H21C21.55 2.00977 22 2.45977 22 3.00977V4.04977C22 4.38977 21.82 4.68977 21.54 4.87977C21.06 5.21977 20.76 5.77977 20.76 6.39977C20.76 7.01977 21.06 7.58977 21.54 7.91977C21.81 8.11977 22 8.41977 22 8.75977V9.64977C22 10.3098 21.55 10.7598 21 10.7598H5.01001C3.35001 10.7598 2.01001 9.41977 2.01001 7.75977V5.00977C2.01001 3.34977 3.35001 2.00977 5.01001 2.00977H12.33", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.23 5.7793V7.0193", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.23 2.00977V3.29977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.23 20.7598V21.9998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 16.3594H15.73", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 18.8496H15.73", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21 22H5.01001C3.35001 22 2.01001 20.66 2.01001 19V16.25C2.01001 14.59 3.35001 13.25 5.01001 13.25H21C21.55 13.25 22 13.7 22 14.25V15.25C22 15.59 21.81 15.89 21.54 16.09C21.07 16.43 20.76 16.98 20.76 17.61C20.76 18.24 21.07 18.79 21.54 19.13C21.82 19.33 22 19.63 22 19.97V20.89C22 21.56 21.55 22.01 21 22.01V22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.23 16.9795V18.2195", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.23 13.25V14.49", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.26997 19.7302C7.18997 19.7602 7.04997 19.7602 6.96997 19.7302C6.27997 19.4902 4.71997 18.5002 4.71997 16.8302C4.71997 16.0902 5.31997 15.4902 6.04997 15.4902C6.48997 15.4902 6.86997 15.7002 7.10997 16.0302C7.34997 15.7002 7.73997 15.4902 8.16997 15.4902C8.90997 15.4902 9.49997 16.0902 9.49997 16.8302C9.49997 18.5102 7.94997 19.4902 7.24997 19.7302H7.26997Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.26997 8.50953C7.18997 8.53953 7.04997 8.53953 6.96997 8.50953C6.27997 8.26953 4.71997 7.27953 4.71997 5.60953C4.71997 4.86953 5.31997 4.26953 6.04997 4.26953C6.48997 4.26953 6.86997 4.47953 7.10997 4.80953C7.34997 4.47953 7.73997 4.26953 8.16997 4.26953C8.90997 4.26953 9.49997 4.86953 9.49997 5.60953C9.49997 7.28953 7.94997 8.26953 7.24997 8.50953H7.26997Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Tickets6__clip0_2085_392356", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Tickets6_default = Tickets6;
+export {
+  Tickets6_default as default
+};

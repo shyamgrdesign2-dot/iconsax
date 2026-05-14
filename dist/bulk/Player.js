@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Player = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Player__clip0_4482_6572)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19 18H5C3.34 18 2 16.66 2 15V9C2 7.34 3.34 6 5 6H19C20.66 6 22 7.34 22 9V15C22 16.66 20.66 18 19 18Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18 18H6V16C6 14.9 6.9 14 8 14H16C17.1 14 18 14.9 18 16V18Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18 10.75H13C12.59 10.75 12.25 10.41 12.25 10C12.25 9.59 12.59 9.25 13 9.25H18C18.41 9.25 18.75 9.59 18.75 10C18.75 10.41 18.41 10.75 18 10.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.99999 11C5.43999 11 4.98999 10.55 4.98999 10C4.98999 9.45 5.43999 9 5.98999 9C6.53999 9 6.98999 9.45 6.98999 10C6.98999 10.55 6.54999 11 5.99999 11Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.99999 11C8.43999 11 7.98999 10.55 7.98999 10C7.98999 9.45 8.43999 9 8.98999 9C9.53999 9 9.98999 9.45 9.98999 10C9.98999 10.55 9.54999 11 8.99999 11Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Player__clip0_4482_6572", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Player_default = Player;
+export {
+  Player_default as default
+};

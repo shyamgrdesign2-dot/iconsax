@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SuitcaseHeart = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SuitcaseHeart__clip0_4482_14084)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.25012 5.75H18.7501C20.6101 5.75 22.1301 7.26 22.1301 9.13V18.63C22.1301 20.49 20.6201 22.01 18.7501 22.01H5.25012C3.39012 22.01 1.87012 20.5 1.87012 18.63V9.13C1.87012 7.27 3.38012 5.75 5.25012 5.75Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17 5.75L16.32 3.71C15.98 2.69 15.02 2 13.95 2H10.05C8.97 2 8.02 2.69 7.68 3.71L7 5.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.54 10.75C14.86 10.75 15.75 11.91 15.75 13C15.75 15.2 12.07 17 12 17C11.93 17 8.25 15.2 8.25 13C8.25 11.92 9.14 10.75 10.46 10.75C11.22 10.75 11.71 11.1 12 11.42C12.29 11.1 12.78 10.75 13.54 10.75Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SuitcaseHeart__clip0_4482_14084", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SuitcaseHeart_default = SuitcaseHeart;
+export {
+  SuitcaseHeart_default as default
+};

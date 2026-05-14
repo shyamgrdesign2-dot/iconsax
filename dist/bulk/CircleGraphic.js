@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CircleGraphic = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CircleGraphic__clip0_4482_623)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M22 12C22 12.41 21.98 12.82 21.92 13.21C21.87 13.72 21.77 14.21 21.63 14.69C20.46 18.91 16.59 22 12 22C9.51 22 7.23 21.09 5.48 19.58C5.1 19.25 4.75 18.9 4.42 18.52C2.91 16.77 2 14.49 2 12C2 6.73 6.08 2.41 11.25 2.03C11.49 2.01 11.75 2 12 2C12.25 2 12.51 2.01 12.75 2.03C17.92 2.41 22 6.73 22 12Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.92 13.21C21.87 13.72 21.77 14.21 21.63 14.69L12.25 12.81L5.48004 19.58C5.10004 19.25 4.75004 18.9 4.42004 18.52L11.25 11.69V2.03C11.49 2.01 11.75 2 12 2C12.25 2 12.51 2.01 12.75 2.03V11.38L21.92 13.21Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CircleGraphic__clip0_4482_623", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CircleGraphic_default = CircleGraphic;
+export {
+  CircleGraphic_default as default
+};

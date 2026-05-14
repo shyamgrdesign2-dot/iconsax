@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Spotify = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Spotify__clip0_4482_11731)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19.0696 4.93006C22.9796 8.84006 22.9796 15.1701 19.0696 19.0701C15.1596 22.9801 8.82957 22.9801 4.92957 19.0701C1.01957 15.1601 1.01957 8.83006 4.92957 4.93006C8.83957 1.02006 15.1696 1.02006 19.0696 4.93006Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.00977 8.82013C10.2598 7.56013 15.8198 8.43013 18.3998 10.0701", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.51953 12.06C10.2695 10.89 14.6895 11.73 17.1395 13.3", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.80957 15.0603C10.9796 14.1203 13.8796 14.7803 16.0596 16.0903", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Spotify__clip0_4482_11731", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Spotify_default = Spotify;
+export {
+  Spotify_default as default
+};

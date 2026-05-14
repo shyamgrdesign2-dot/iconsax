@@ -1,0 +1,56 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FloralCandelabra3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FloralCandelabra3__clip0_2085_391058)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.38 8.27016H12.62C13.99 8.27016 15.11 7.16016 15.11 5.78016V3.91016C13.05 3.91016 11.38 5.58016 11.38 7.64016V8.26016V8.27016Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.38 8.27016C10.01 8.27016 8.89001 7.16016 8.89001 5.78016V3.91016C10.19 3.91016 11.33 4.57016 12 5.58016", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.17 4.13977C10.27 3.51977 10.63 2.91977 11.16 2.56977L12 2.00977L12.84 2.56977C13.37 2.91977 13.73 3.51977 13.83 4.13977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 21.9895V8.26953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.42 14.4095L16.41 13.6795C15.3 12.8695 15.06 11.3095 15.87 10.1995L16.97 8.68945C18.64 9.89945 19 12.2395 17.79 13.8995L17.42 14.3995V14.4095Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.42 14.4097C18.53 15.2197 20.09 14.9797 20.9 13.8697L22 12.3597C20.95 11.5997 19.64 11.4597 18.51 11.8797", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.83 11.7793C21.11 11.2193 21.15 10.5593 20.93 9.95931L20.58 9.00931L19.57 8.96931C18.93 8.93931 18.32 9.17931 17.87 9.61931", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.08002 14.04L9.29002 17.12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.71 17.12L16.92 14.04", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.57998 14.4095L7.58998 13.6795C8.69998 12.8695 8.93998 11.3095 8.12998 10.1995L7.02998 8.68945C5.35998 9.89945 4.99998 12.2395 6.20998 13.8995L6.57998 14.3995V14.4095Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.58 14.4097C5.47 15.2197 3.91 14.9797 3.1 13.8697L2 12.3597C3.05 11.5997 4.36 11.4597 5.5 11.8797", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.15999 11.7793C2.87999 11.2193 2.83999 10.5593 3.05999 9.95931L3.40999 9.00931L4.41999 8.96931C5.05999 8.93931 5.66999 9.17931 6.11999 9.61931", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.73 16.9795H16.97C16.97 19.0395 15.3 20.7095 13.24 20.7095H12C12 18.6495 13.67 16.9795 15.73 16.9795Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27003 16.9795H7.03003C7.03003 19.0395 8.70003 20.7095 10.76 20.7095H12C12 18.6495 10.33 16.9795 8.27003 16.9795Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.24 15.7295H12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.75 13.2402H11.99", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.13 10.1298L12 8.25977L13.87 10.1298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FloralCandelabra3__clip0_2085_391058", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FloralCandelabra3_default = FloralCandelabra3;
+export {
+  FloralCandelabra3_default as default
+};

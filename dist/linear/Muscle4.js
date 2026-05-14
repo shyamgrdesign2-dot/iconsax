@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Muscle4 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Muscle4__clip0_2085_386842)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.03 3.26953C1.91 4.60953 2.19 6.03953 3.14 7.01953C4.15 8.05953 5.83 8.35953 7.23 8.15953C8.42 7.98953 9.46 7.38953 10.28 6.55953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.59 7.39941C3.63 8.65941 3.77 10.3694 4.22 11.1794C4.98 12.5294 5.83 16.6394 4.22 20.7394", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.97 3.26953C22.09 4.60953 21.81 6.03953 20.86 7.01953C19.85 8.05953 18.17 8.35953 16.77 8.15953C15.58 7.98953 14.54 7.38953 13.72 6.55953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.78 20.7296C18.17 16.6296 19.02 12.5296 19.78 11.1696C20.23 10.3696 20.37 8.64965 20.41 7.38965", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.55 12.9099C15.55 12.9099 12.34 13.7499 12 10.6699C11.66 13.7599 8.45 12.9099 8.45 12.9099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.55 18.3298C15.55 18.3298 12.34 19.1798 12 16.0898C11.66 19.1798 8.45 18.3298 8.45 18.3298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Muscle4__clip0_2085_386842", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Muscle4_default = Muscle4;
+export {
+  Muscle4_default as default
+};

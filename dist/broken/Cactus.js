@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cactus = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cactus__clip0_4482_7126)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.6798 10.7598V18.3198C15.6798 20.3498 14.0298 21.9998 11.9998 21.9998C9.96982 21.9998 8.31982 20.3498 8.31982 18.3198V5.68977C8.31982 3.65977 9.97982 2.00977 11.9998 2.00977C14.0298 2.00977 15.6798 3.66977 15.6798 5.68977", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.32001 8.83987H6.20999C5.62999 8.83987 5.16 8.36987 5.16 7.78987V6.20988C5.16 5.33988 4.44999 4.62988 3.57999 4.62988C2.70999 4.62988 2 5.33988 2 6.20988V7.78987C2 10.1199 3.88999 11.9999 6.20999 11.9999H8.32001", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.6802 12.5303H17.7902C18.3702 12.5303 18.8402 12.0603 18.8402 11.4803V9.9003C18.8402 9.0303 19.5502 8.32031 20.4202 8.32031C21.2902 8.32031 22.0002 9.0303 22.0002 9.9003V11.4803C22.0002 13.8103 20.1102 15.6903 17.7902 15.6903H15.6802", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.8799 3.39999L15.9999 2", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.32001 16H7", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cactus__clip0_4482_7126", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cactus_default = Cactus;
+export {
+  Cactus_default as default
+};

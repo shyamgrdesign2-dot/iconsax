@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ConvertHome2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ConvertHome2__clip0_4482_10569)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.20996 3.58008L7.78996 5.16008", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.79027 5.16016H5.68027C4.84027 5.16016 4.04027 5.49016 3.45027 6.08016C2.86027 6.67016 2.53027 7.48016 2.53027 8.31016", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.79 21.4701L16.21 19.8901", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.21 19.8902H18.32C19.16 19.8902 19.96 19.5602 20.55 18.9702C21.14 18.3802 21.47 17.5702 21.47 16.7402", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.8296 2.54994C16.7496 1.81994 18.0496 1.81994 18.9696 2.54994L21.5896 4.63994C21.9196 4.89994 22.1096 5.30994 22.1096 5.72994V8.47994C22.1096 9.86994 20.9796 10.9899 19.5996 10.9899H15.3196C13.9296 10.9899 12.8096 9.85994 12.8096 8.47994V6.17994", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.1098 16.7402V19.4902C11.1098 20.8802 9.9798 22.0002 8.5998 22.0002H4.3098C2.9198 22.0002 1.7998 20.8702 1.7998 19.4902V17.1902C1.7998 16.4302 2.1498 15.7002 2.7398 15.2302L4.8298 13.5602C5.7498 12.8302 7.0498 12.8302 7.9698 13.5602L10.5898 15.6502C10.9198 15.9102 11.1098 16.3202 11.1098 16.7402Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ConvertHome2__clip0_4482_10569", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ConvertHome2_default = ConvertHome2;
+export {
+  ConvertHome2_default as default
+};

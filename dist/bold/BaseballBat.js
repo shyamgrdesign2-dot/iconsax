@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BaseballBat = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BaseballBat__clip0_2085_388728)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.07 14.77C16.53 14.77 15.27 16.03 15.27 17.57C15.27 19.11 16.53 20.38 18.07 20.38C19.61 20.38 20.88 19.12 20.88 17.57C20.88 16.02 19.62 14.77 18.07 14.77Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.95 14.5501L7.72998 18.8401C7.51998 18.5801 7.25998 18.3501 6.94998 18.1701C6.63998 17.9901 6.30998 17.8801 5.97998 17.8301L8.07998 12.8901L10.95 14.5501Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.9101 6.61999L10.9501 14.55L8.08008 12.89L11.9701 3.76999C12.6401 2.16999 14.5601 1.51999 16.0601 2.38999C17.5701 3.24999 17.9701 5.23999 16.9101 6.61999Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.4901 21.72L3.6101 19.49C3.3301 19.33 3.2701 18.95 3.4801 18.71C4.1201 18.02 5.0601 17.69 5.9801 17.83C6.3101 17.88 6.6401 17.99 6.9501 18.17C7.2601 18.35 7.5201 18.58 7.7301 18.84C8.3101 19.55 8.5001 20.53 8.2301 21.43C8.1301 21.74 7.7701 21.88 7.4901 21.72Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BaseballBat__clip0_2085_388728", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BaseballBat_default = BaseballBat;
+export {
+  BaseballBat_default as default
+};

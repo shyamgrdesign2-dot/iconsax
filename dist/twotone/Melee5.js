@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Melee5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Melee5__clip0_2085_390165)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.0599 17.47C9.94991 17.57 9.82991 17.64 9.68991 17.68C8.91991 17.88 8.16991 18.1 7.55991 18.61L6.36991 19.62C5.83991 20.07 5.57991 20.72 5.39991 21.39C5.35991 21.52 5.28991 21.65 5.18991 21.75C4.87991 22.07 4.35991 22.07 4.04991 21.75L2.32991 20.04C2.01991 19.72 2.01991 19.21 2.32991 18.89C2.43991 18.79 2.55991 18.72 2.69991 18.68C3.36991 18.51 4.01991 18.25 4.45991 17.72L5.47991 16.51C5.98991 15.91 6.20991 15.15 6.40991 14.39C6.43991 14.26 6.50991 14.13 6.61991 14.03C6.93991 13.71 7.44991 13.71 7.76991 14.03L10.0599 16.31C10.3699 16.63 10.3699 17.14 10.0599 17.46V17.47Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.6099 15.8398L19.3599 9.60984C19.3599 9.60984 24.0899 6.49984 20.8999 2.08984C20.8999 2.08984 19.3599 4.95984 16.8899 4.55984L8.1499 14.3698", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Melee5__clip0_2085_390165", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Melee5_default = Melee5;
+export {
+  Melee5_default as default
+};

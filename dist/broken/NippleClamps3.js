@@ -1,0 +1,72 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const NippleClamps3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#NippleClamps3__clip0_2085_390105)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.89 14C19.81 14.51 19.67 15 19.5 15.46", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.1701 17.7598C17.8501 18.1498 17.4901 18.5098 17.1001 18.8298", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7898 20.1602C14.3198 20.3302 13.8298 20.4702 13.3198 20.5502", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.6702 20.5599C10.1602 20.4799 9.6702 20.3399 9.2002 20.1699", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.90008 18.8298C6.51008 18.5098 6.15008 18.1498 5.83008 17.7598", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.49986 15.46C4.32986 14.99 4.18986 14.5 4.10986 14", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.9999 13.9998C20.7399 13.9998 21.3299 13.3998 21.3299 12.6698C21.3299 11.9398 20.7299 11.3398 19.9999 11.3398C19.2699 11.3398 18.6699 11.9398 18.6699 12.6698C18.6699 13.3998 19.2699 13.9998 19.9999 13.9998Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9999 21.9998C12.7399 21.9998 13.3299 21.3998 13.3299 20.6698C13.3299 19.9398 12.7299 19.3398 11.9999 19.3398C11.2699 19.3398 10.6699 19.9398 10.6699 20.6698C10.6699 21.3998 11.2699 21.9998 11.9999 21.9998Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.1498 18.9304C17.5198 19.5704 17.2998 20.3804 16.6598 20.7504C16.0198 21.1204 15.2098 20.9004 14.8398 20.2604C14.4698 19.6204 14.6898 18.8104 15.3298 18.4404C15.9698 18.0704 16.7798 18.2904 17.1498 18.9304Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.59 15.5097C20.23 15.8797 20.45 16.6897 20.08 17.3297C19.71 17.9697 18.9 18.1897 18.26 17.8197C17.62 17.4497 17.4 16.6397 17.77 15.9997C18.14 15.3597 18.95 15.1397 19.59 15.5097Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.99992 13.9998C4.73992 13.9998 5.32992 13.3998 5.32992 12.6698C5.32992 11.9398 4.72992 11.3398 3.99992 11.3398C3.26992 11.3398 2.66992 11.9398 2.66992 12.6698C2.66992 13.3998 3.26992 13.9998 3.99992 13.9998Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.61008 6.94035L6.55008 6.00035L4.66008 4.11035L3.72008 5.05035C3.20008 5.57035 3.20008 6.41035 3.72008 6.94035C4.24008 7.46035 5.09008 7.46035 5.61008 6.94035Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.3902 6.94035L17.4502 6.00035L19.3402 4.11035L20.2802 5.05035C20.8002 5.57035 20.8002 6.41035 20.2802 6.94035C19.7602 7.46035 18.9202 7.46035 18.3902 6.94035Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.83981 18.9304C6.46981 19.5704 6.68981 20.3804 7.32981 20.7504C7.96981 21.1204 8.77981 20.9004 9.14981 20.2604C9.51981 19.6204 9.29981 18.8104 8.65981 18.4404C8.01981 18.0704 7.20981 18.2904 6.83981 18.9304Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.40013 15.5097C3.76013 15.8797 3.54013 16.6897 3.91013 17.3297C4.28013 17.9697 5.09013 18.1897 5.73013 17.8197C6.37013 17.4497 6.59013 16.6397 6.22013 15.9997C5.85013 15.3597 5.04013 15.1397 4.40013 15.5097Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4 7.16016V7.91016V8.67016", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20 8.67016V7.16016", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4 11.33V10", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20 8.66992V11.3399", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.75 4.2L5.67 2H7", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.25 4.2L18.33 2H17", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 6.66992H3.51", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0002 6.66992H20.4902", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.47021 5.91992L8.67022 4.99992V3.66992", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5301 5.91992L15.3301 4.99992V3.66992", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "NippleClamps3__clip0_2085_390105", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var NippleClamps3_default = NippleClamps3;
+export {
+  NippleClamps3_default as default
+};

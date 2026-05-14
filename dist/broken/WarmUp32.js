@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const WarmUp32 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#WarmUp32__clip0_2085_385882)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.2702 2C12.2602 2 11.4302 2.82 11.4302 3.84C11.4302 4.86 12.2502 5.68 13.2702 5.68C14.2902 5.68 15.1102 4.86 15.1102 3.84", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.05 8.52973L11.76 7.72973C11.22 7.67973 10.71 7.99973 10.53 8.51973L8.99999 12.9497C8.70999 13.7897 9.38999 14.6497 10.27 14.5597L16.32 13.9597C17.31 13.8597 18.21 14.5497 18.39 15.5197L19.52 21.9897", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.5099 16.96C8.94994 18.99 6.80994 20.79 3.93994 21.73", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.1699 14.3802C13.4899 11.9102 14.1599 9.46023 14.4799 7.99023", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "WarmUp32__clip0_2085_385882", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var WarmUp32_default = WarmUp32;
+export {
+  WarmUp32_default as default
+};

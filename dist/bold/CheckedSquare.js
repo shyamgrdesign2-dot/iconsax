@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CheckedSquare = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CheckedSquare__clip0_3247_9505)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.67 14.6299C11.47 14.6299 11.27 14.5499 11.12 14.3899L8.45001 11.5099C8.17001 11.2099 8.18999 10.7299 8.48999 10.4499C8.78999 10.1699 9.26999 10.1899 9.54999 10.4899L11.71 12.8199L19.06 6.01992C18.15 4.74992 16.67 3.91992 15.01 3.91992H7.01001C4.26001 3.91992 2.01001 6.16992 2.01001 8.91992V16.9199C2.01001 19.6699 4.26001 21.9199 7.01001 21.9199H15.01C17.76 21.9199 20.01 19.6699 20.01 16.9199V8.91992C20.01 8.39992 19.91 7.89992 19.75 7.42992L12.18 14.4399C12.03 14.5599 11.85 14.6299 11.67 14.6299Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.55 4.71953C21.27 4.41953 20.7901 4.39953 20.4901 4.67953L19.05 6.00953C19.35 6.42953 19.5801 6.90953 19.7401 7.40953L21.5001 5.77953C21.8101 5.49953 21.83 5.01953 21.55 4.71953Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CheckedSquare__clip0_3247_9505", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CheckedSquare_default = CheckedSquare;
+export {
+  CheckedSquare_default as default
+};

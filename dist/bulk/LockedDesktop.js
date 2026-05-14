@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const LockedDesktop = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#LockedDesktop__clip0_4482_12688)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19 2H5C3.34315 2 2 3.34315 2 5V15C2 16.6569 3.34315 18 5 18H19C20.6569 18 22 16.6569 22 15V5C22 3.34315 20.6569 2 19 2Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.3905 8.86961H14.5005V7.83961C14.5005 6.45961 13.3805 5.34961 12.0105 5.34961C10.6405 5.34961 9.52047 6.46961 9.52047 7.83961V8.86961H9.63047C9.10047 9.13961 8.73047 9.68961 8.73047 10.3296V11.8496C8.73047 12.7596 9.47047 13.4996 10.3805 13.4996H13.6705C14.5805 13.4996 15.3205 12.7596 15.3205 11.8496V10.3296C15.3205 9.68961 14.9505 9.13961 14.4205 8.86961H14.3905ZM12.0005 6.83961C12.5505 6.83961 12.9905 7.28961 12.9905 7.82961V8.67961H11.0005V7.82961C11.0005 7.27961 11.4505 6.83961 11.9905 6.83961H12.0005Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 21.25H14.75V18H9.25V21.25H8C7.59 21.25 7.25 21.59 7.25 22C7.25 22.41 7.59 22.75 8 22.75H16C16.41 22.75 16.75 22.41 16.75 22C16.75 21.59 16.41 21.25 16 21.25ZM10.75 21.25V18.75H13.25V21.25H10.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "LockedDesktop__clip0_4482_12688", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var LockedDesktop_default = LockedDesktop;
+export {
+  LockedDesktop_default as default
+};

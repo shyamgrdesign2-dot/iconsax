@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const RingBox5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#RingBox5__clip0_2085_392282)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18 22.0405H6C3.79 22.0405 2 20.2505 2 18.0405V16.9805H22V18.0405C22 20.2505 20.21 22.0405 18 22.0405Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.1301 2.04004H6.87012C4.66012 2.04004 2.87012 3.83004 2.87012 6.04004V16.98H21.1301V6.04004C21.1301 3.83004 19.3401 2.04004 17.1301 2.04004Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9999 7.85004L9.92993 5.78004L11.1699 4.54004H12.8299L14.0799 5.78004L12.0099 7.85004H11.9999Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.3299 19.4597H9.68994C9.13994 19.4597 8.68994 19.0097 8.68994 18.4597V16.9697H15.3299V18.4597C15.3299 19.0097 14.8799 19.4597 14.3299 19.4597Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.7901 13.6896C16.0201 13.1696 16.1501 12.5996 16.1501 11.9996C16.1501 9.70961 14.2901 7.84961 12.0001 7.84961C9.7101 7.84961 7.8501 9.70961 7.8501 11.9996C7.8501 12.5996 7.9801 13.1796 8.2101 13.6896", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.6401 16.9704H5.36011C5.36011 15.1404 6.85011 13.6504 8.68011 13.6504H15.3201C17.1501 13.6504 18.6401 15.1404 18.6401 16.9704Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "RingBox5__clip0_2085_392282", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var RingBox5_default = RingBox5;
+export {
+  RingBox5_default as default
+};

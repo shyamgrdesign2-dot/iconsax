@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Leaf2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Leaf2__clip0_4482_4640)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.6899 3.29024C19.6899 3.29024 11.22 1.63024 7.02 5.82024C6.95 5.89024 6.88992 5.96023 6.81992 6.02023C4.02992 8.90023 4.29001 12.3802 6.03001 14.8902C3.35001 18.1102 3.22996 20.8502 3.22996 21.0102C3.21996 21.4202 3.54994 21.7602 3.95994 21.7802C3.96994 21.7802 3.97996 21.7802 3.97996 21.7802C4.37996 21.7802 4.71996 21.4602 4.72996 21.0502C4.72996 20.9102 4.85999 18.7302 7.00999 16.0602C9.51999 18.5302 13.6399 19.3602 16.9499 16.1502C17.0199 16.0802 17.09 16.0202 17.15 15.9502C21.36 11.7602 19.6899 3.29024 19.6899 3.29024Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Leaf2__clip0_4482_4640", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Leaf2_default = Leaf2;
+export {
+  Leaf2_default as default
+};

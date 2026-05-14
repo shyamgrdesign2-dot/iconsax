@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cheese5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cheese5__clip0_2085_392563)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 10.4102H22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.59 3.47091C17.34 3.38091 17.07 3.39091 16.83 3.50091L2 10.4109V12.6109C2 13.0509 2.25 13.4909 2.68 13.6309C3.53 13.9109 4.14 14.7109 4.14 15.6609C4.14 16.6109 3.53 17.4109 2.68 17.6909C2.26 17.8309 2 18.2609 2 18.7109V19.6609C2 20.2109 2.45 20.6609 3 20.6609H14.59C14.59 19.1609 16.1 18.0209 17.67 18.6609C18.46 18.9809 18.94 19.8009 18.94 20.6609H20.99C21.54 20.6609 21.99 20.2109 21.99 19.6609V10.4209C21.99 5.55091 18.74 3.90091 17.58 3.47091H17.59Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.4901 10.7207C10.4901 11.8707 9.5601 12.7907 8.4201 12.7907C7.2801 12.7907 6.3501 11.8607 6.3501 10.7207", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19.4601 14.0817C19.4601 14.9517 18.7601 15.6517 17.8901 15.6517C17.0201 15.6517 16.3201 14.9517 16.3201 14.0817C16.3201 13.2117 17.0201 12.5117 17.8901 12.5117C18.7601 12.5117 19.4601 13.2117 19.4601 14.0817Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12.0599 16.8005C12.0599 17.6705 11.3599 18.3705 10.4899 18.3705C9.61992 18.3705 8.91992 17.6705 8.91992 16.8005C8.91992 15.9305 9.61992 15.2305 10.4899 15.2305C11.3599 15.2305 12.0599 15.9305 12.0599 16.8005Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cheese5__clip0_2085_392563", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cheese5_default = Cheese5;
+export {
+  Cheese5_default as default
+};

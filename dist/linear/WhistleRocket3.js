@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const WhistleRocket3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#WhistleRocket3__clip0_2085_386666)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 2L19.47 4.53", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.44 17.5602H4.77C4.18 17.5602 3.62 17.3302 3.2 16.9102L2.37 16.0802C1.87 15.5802 1.87 14.7802 2.37 14.2802L4.55 12.1002C4.97 11.6802 5.53 11.4502 6.12 11.4502H10.21", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.44 17.5601V19.2301C6.44 19.8201 6.67 20.3801 7.09 20.8001L7.92 21.6301C8.16 21.8701 8.48 22.0001 8.82 22.0001C9.16 22.0001 9.48 21.8701 9.72 21.6301L11.9 19.4501C12.32 19.0301 12.55 18.4701 12.55 17.8801V13.8101", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.47 4.52998C20.62 5.67998 20.62 7.54998 19.47 8.70998L18.17 10.01C17.74 10.44 17.03 10.44 16.6 10.01L13.99 7.39998C13.56 6.96998 13.56 6.25998 13.99 5.82998L15.29 4.52998C16.44 3.37998 18.31 3.37998 19.47 4.52998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.78 10.1602L8.57002 17.2602C8.06002 17.7002 7.31002 17.6702 6.83002 17.2002C6.36002 16.7302 6.33002 15.9702 6.76002 15.4702L13.84 7.22021", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "WhistleRocket3__clip0_2085_386666", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var WhistleRocket3_default = WhistleRocket3;
+export {
+  WhistleRocket3_default as default
+};

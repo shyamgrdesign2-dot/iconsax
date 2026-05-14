@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HomeOwner = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HomeOwner__clip0_4482_10597)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 10.5801V17.5601C2 20.0101 3.99 22.0001 6.44 22.0001H10.98", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9999 10.5799C21.9999 9.22988 21.3899 7.94988 20.3299 7.10988L15.4699 3.21988C13.4399 1.59988 10.5599 1.59988 8.52992 3.21988L3.66992 7.10988", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.3296 18.4C18.8596 18.4 20.0996 17.19 20.0996 15.7C20.0996 14.21 18.8596 13 17.3296 13C15.7996 13 14.5596 14.21 14.5596 15.7C14.5596 17.19 15.7996 18.4 17.3296 18.4Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.3301 22.0002C15.6801 19.7902 18.9501 19.7802 20.3201 21.9802V22.0002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HomeOwner__clip0_4482_10597", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HomeOwner_default = HomeOwner;
+export {
+  HomeOwner_default as default
+};

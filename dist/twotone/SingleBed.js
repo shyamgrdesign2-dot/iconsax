@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SingleBed = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SingleBed__clip0_4482_6123)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.1899 10.5H4.80994C3.25994 10.5 2.14993 11.76 2.32993 13.29L2.73993 16.79C2.87993 18 3.99994 19 5.21994 19H18.7699C19.9899 19 21.1099 18.01 21.2499 16.79L21.6599 13.29C21.8499 11.76 20.7299 10.5 19.1899 10.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M7 21V19", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17 21V19", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.5 10.5H4.5V6C4.5 4.34 5.84 3 7.5 3H16.5C18.16 3 19.5 4.34 19.5 6V10.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8 10.5V9C8 8.17 8.67 7.5 9.5 7.5H14.5C15.33 7.5 16 8.17 16 9V10.5", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SingleBed__clip0_4482_6123", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SingleBed_default = SingleBed;
+export {
+  SingleBed_default as default
+};

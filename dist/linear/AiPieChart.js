@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiPieChart = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiPieChart__clip0_3111_11554)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.52999 7.72L7.47999 7.97C6.72999 8.15 6.13999 8.73 5.96999 9.48L5.71999 10.53C5.68999 10.64 5.52999 10.64 5.50999 10.53L5.25999 9.48C5.07999 8.73 4.49999 8.14 3.74999 7.97L2.69999 7.72C2.58999 7.69 2.58999 7.53 2.69999 7.51L3.74999 7.26C4.49999 7.08 5.08999 6.5 5.25999 5.75L5.50999 4.7C5.53999 4.59 5.69999 4.59 5.71999 4.7L5.96999 5.75C6.14999 6.5 6.72999 7.09 7.47999 7.26L8.52999 7.51C8.63999 7.54 8.63999 7.7 8.52999 7.72Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.06999 4.44C9.53999 4.18 10.04 3.97 10.56 3.8", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.21 14.42C20.13 17.87 16.9 20.39 13.1 20.39C8.89999 20.39 5.38999 17.31 4.71999 13.29", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.35 9.86C20.59 6.81 18.19 4.41 15.14 3.65C14.1 3.4 13.1 4.24 13.1 5.31V10.19C13.1 11.12 13.86 11.89 14.8 11.89H19.68C20.76 11.89 21.6 10.9 21.34 9.85L21.35 9.86Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiPieChart__clip0_3111_11554", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiPieChart_default = AiPieChart;
+export {
+  AiPieChart_default as default
+};

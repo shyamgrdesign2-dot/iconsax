@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ProtectedNetwork = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ProtectedNetwork__clip0_4482_12527)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 12C22 6.48 17.52 2 12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.1198 15.8998V17.6498C21.1198 19.5998 19.6898 21.4298 17.7698 21.9698C17.6398 22.0098 17.4898 22.0098 17.3598 21.9698C15.4198 21.4298 14.0098 19.5998 14.0098 17.6498V15.8998C14.0098 15.5698 14.2598 15.1998 14.5598 15.0798L16.7798 14.1598C17.2798 13.9598 17.8498 13.9598 18.3498 14.1598L19.9198 14.7998L20.5798 15.0798C20.8798 15.1998 21.1298 15.5698 21.1298 15.8998H21.1198Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.8301 10.2097H16.5101C15.4801 10.2097 14.6401 9.36973 14.6401 8.33973C14.6401 7.30973 15.4801 6.46973 16.5101 6.46973H20.3101", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.39014 9.38965H8.80014C9.70014 9.38965 10.4401 10.1296 10.4401 11.0296C10.4401 11.9296 9.70014 12.6596 8.80014 12.6596H7.17014C6.27014 12.6596 5.53014 13.3996 5.53014 14.2996C5.53014 15.1996 6.27014 15.9296 7.17014 15.9296C8.07014 15.9296 8.80014 16.6696 8.80014 17.5696C8.80014 18.4696 8.08014 19.1996 7.17014 19.1996H5.08014", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ProtectedNetwork__clip0_4482_12527", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ProtectedNetwork_default = ProtectedNetwork;
+export {
+  ProtectedNetwork_default as default
+};

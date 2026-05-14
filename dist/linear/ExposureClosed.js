@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ExposureClosed = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ExposureClosed__clip0_4482_15342)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.11 19.3998H6.61C5.51 19.3998 4.61 18.4998 4.61 17.3998V15.8998C4.61 15.3698 4.4 14.8598 4.02 14.4898L2.33 12.7998C2.12 12.5898 2 12.3098 2 12.0098C2 11.7098 2.12 11.4298 2.33 11.2198L4.02 9.52977C4.39 9.14977 4.61 8.64977 4.61 8.11977V6.61977C4.61 5.51977 5.51 4.61977 6.61 4.61977H8.11C8.64 4.61977 9.15 4.40977 9.52 4.02977L11.21 2.33977C11.42 2.12977 11.7 2.00977 12 2.00977C12.3 2.00977 12.58 2.12977 12.79 2.33977L14.48 4.02977C14.86 4.39977 15.36 4.61977 15.89 4.61977H17.39C18.49 4.61977 19.39 5.51977 19.39 6.61977V8.11977C19.39 8.64977 19.6 9.15977 19.98 9.52977L21.67 11.2198C21.88 11.4298 22 11.7098 22 12.0098C22 12.3098 21.88 12.5898 21.67 12.7998L19.98 14.4898C19.61 14.8698 19.39 15.3698 19.39 15.8998V17.3998C19.39 18.4998 18.49 19.3998 17.39 19.3998H15.89C15.36 19.3998 14.85 19.6098 14.48 19.9898L12.79 21.6798C12.58 21.8898 12.3 22.0098 12 22.0098C11.7 22.0098 11.42 21.8898 11.21 21.6798L9.52 19.9898C9.14 19.6198 8.64 19.3998 8.11 19.3998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.77979 9.78027L14.2198 14.2203", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.77979 14.2203L14.2198 9.78027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ExposureClosed__clip0_4482_15342", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ExposureClosed_default = ExposureClosed;
+export {
+  ExposureClosed_default as default
+};

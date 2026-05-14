@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Housepower = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Housepower__clip0_4482_6170)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M3.66011 17.8091H5.1501V21.2691C5.1501 22.0791 5.5901 22.2391 6.1201 21.6391L9.76011 17.4991C10.2101 16.9891 10.0201 16.5791 9.3401 16.5791H7.85011V13.1191C7.85011 12.3091 7.41011 12.1491 6.88011 12.7491L3.24009 16.8891C2.80009 17.3891 2.98011 17.8091 3.66011 17.8091Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.61 19.8504H18.1901C19.4901 19.8504 20.7401 18.8004 20.9501 17.5104L22.1601 10.2704C22.3101 9.3804 21.85 8.19039 21.15 7.62039L14.8501 2.58039C13.8801 1.80039 12.3 1.8004 11.34 2.5704L5.04006 7.62039C4.33006 8.18039 3.88005 9.3804 4.03005 10.2704", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Housepower__clip0_4482_6170", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Housepower_default = Housepower;
+export {
+  Housepower_default as default
+};

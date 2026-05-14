@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ElectricBill = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ElectricBill__clip0_4482_10748)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.48 15.4202L21.57 16.1802C22.02 16.3402 22.15 16.9202 21.81 17.2602L17.52 21.5702C17.07 22.0202 16.3 21.6302 16.4 21.0002L16.71 19.0102C16.76 18.7002 16.58 18.4002 16.28 18.2902L14.24 17.5502C13.77 17.3802 13.65 16.7702 14.02 16.4402L18.22 12.6502C18.69 12.2302 19.42 12.6402 19.31 13.2602L19.05 14.6902C18.99 15.0102 19.17 15.3202 19.47 15.4302L19.48 15.4202Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.89 9.59023V6.44023C20.89 4.12023 19.01 2.24023 16.69 2.24023H6.2C3.88 2.24023 2 4.12023 2 6.44023V16.9402C2 19.2602 3.88 21.1402 6.2 21.1402H11.45", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.2002 7.49023H14.5902", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.2002 11.6802H10.4002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.2002 15.8804H8.3002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ElectricBill__clip0_4482_10748", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ElectricBill_default = ElectricBill;
+export {
+  ElectricBill_default as default
+};

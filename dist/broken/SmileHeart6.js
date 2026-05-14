@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SmileHeart6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SmileHeart6__clip0_2085_392351)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.06 21.9099C17.81 21.2999 21.7 17.4699 21.98 12.5999C22.34 6.38988 17.04 1.31988 10.76 2.06988C6.29998 2.60988 2.65998 6.20988 2.08998 10.6699C1.61998 14.2899 3.08998 17.5999 5.60998 19.6899L5.00998 20.2799C4.35998 20.9099 4.80998 21.9999 5.69998 21.9999H9.92998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.68018 15.3203C8.68018 17.1503 10.1702 18.6403 12.0002 18.6403C12.2902 18.6403 12.5602 18.6003 12.8302 18.5403", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.6298 8.67969C17.1998 8.67969 16.8198 8.86969 16.5598 9.16969C16.2998 8.86969 15.9198 8.67969 15.4898 8.67969C14.6998 8.67969 14.0698 9.31969 14.0698 10.0997C14.0698 11.6697 16.5598 12.9497 16.5598 12.9497C16.5598 12.9497 19.0498 11.6797 19.0498 10.0997C19.0498 9.30969 18.4098 8.67969 17.6298 8.67969Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.3702 8.67969C6.8002 8.67969 7.1802 8.86969 7.4402 9.16969C7.7002 8.86969 8.0802 8.67969 8.5102 8.67969C9.3002 8.67969 9.9302 9.31969 9.9302 10.0997C9.9302 11.6697 7.4402 12.9497 7.4402 12.9497C7.4402 12.9497 4.9502 11.6797 4.9502 10.0997C4.9502 9.30969 5.5902 8.67969 6.3702 8.67969Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SmileHeart6__clip0_2085_392351", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SmileHeart6_default = SmileHeart6;
+export {
+  SmileHeart6_default as default
+};

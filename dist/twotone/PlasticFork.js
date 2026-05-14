@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const PlasticFork = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#PlasticFork__clip0_4482_13685)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.55957 2.08984V7.04984C2.55957 8.46984 3.13957 9.71984 4.04957 10.5298C4.48957 10.9298 4.77957 11.4598 4.77957 12.0598V20.3398C4.77957 21.2598 5.52957 22.0098 6.44957 22.0098C7.36957 22.0098 8.11957 21.2598 8.11957 20.3398V12.0598C8.11957 11.4698 8.40957 10.9298 8.84957 10.5298C9.74957 9.71984 10.3396 8.46984 10.3396 7.04984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M6.43945 7.56V2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.4396 3.16957C21.4396 2.55957 20.9396 2.05957 20.3296 2.05957H19.2196C17.3796 2.05957 15.8896 3.54957 15.8896 5.38957V12.0596C15.8896 13.5096 16.8196 14.7296 18.1096 15.1896V20.3396C18.1096 21.2596 18.8596 22.0096 19.7796 22.0096C20.6996 22.0096 21.4496 21.2596 21.4496 20.3396V3.16957H21.4396Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "PlasticFork__clip0_4482_13685", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var PlasticFork_default = PlasticFork;
+export {
+  PlasticFork_default as default
+};

@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HomeSettings = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HomeSettings__clip0_4482_10606)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7803 9.77979V13.6698", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7804 17.0002C15.7027 17.0002 16.4504 16.2525 16.4504 15.3302C16.4504 14.4078 15.7027 13.6602 14.7804 13.6602C13.858 13.6602 13.1104 14.4078 13.1104 15.3302C13.1104 16.2525 13.858 17.0002 14.7804 17.0002Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.21973 16.9999V13.1099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.2198 13.11C10.1421 13.11 10.8898 12.3623 10.8898 11.44C10.8898 10.5177 10.1421 9.77002 9.2198 9.77002C8.29749 9.77002 7.5498 10.5177 7.5498 11.44C7.5498 12.3623 8.29749 13.11 9.2198 13.11Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.88 7.09988L8.88 3.09988C10.71 1.63988 13.3 1.63988 15.13 3.09988L20.13 7.09988C21.32 8.04988 22.01 9.48988 22.01 10.9999V17.5599C22.01 20.0099 20.02 21.9999 17.57 21.9999H6.44C3.99 21.9999 2 20.0099 2 17.5599V10.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HomeSettings__clip0_4482_10606", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HomeSettings_default = HomeSettings;
+export {
+  HomeSettings_default as default
+};

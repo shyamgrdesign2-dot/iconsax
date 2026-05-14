@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiFolder = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiFolder__clip0_3111_12336)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.79 18.93L20.64 19.2C19.82 19.39 19.18 20.03 18.99 20.85L18.72 22C18.69 22.12 18.52 22.12 18.49 22L18.22 20.85C18.03 20.03 17.39 19.39 16.57 19.2L15.42 18.93C15.3 18.9 15.3 18.73 15.42 18.7L16.57 18.43C17.39 18.24 18.03 17.6 18.22 16.78L18.49 15.63C18.52 15.51 18.69 15.51 18.72 15.63L18.99 16.78C19.18 17.6 19.82 18.24 20.64 18.43L21.79 18.7C21.91 18.73 21.91 18.9 21.79 18.93Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.81 21.29H6.95999C3.07999 21.29 2.10999 20.32 2.10999 16.45V6.76C2.10999 2.88 3.07999 1.91 6.95999 1.91H8.40999C9.85999 1.91 10.18 2.34 10.74 3.07L12.19 5.01C12.56 5.49 12.77 5.79 13.74 5.79H16.65C20.53 5.79 21.5 6.76 21.5 10.64V12.69", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiFolder__clip0_3111_12336", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiFolder_default = AiFolder;
+export {
+  AiFolder_default as default
+};

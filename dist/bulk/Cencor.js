@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cencor = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cencor__clip0_4482_7916)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M22 12C22 14.76 20.88 17.26 19.07 19.07C17.26 20.88 14.76 22 12 22C9.24 22 6.74 20.88 4.93 19.07C3.12 17.26 2 14.76 2 12C2 11.09 2.12 10.21 2.35 9.38C2.48 8.87 2.66 8.39 2.88 7.92C3.37 6.8 4.07 5.79 4.93 4.93C6.74 3.12 9.24 2 12 2C16.07 2 19.57 4.43 21.12 7.92C21.34 8.39 21.52 8.87 21.65 9.38C21.88 10.21 22 11.09 22 12Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2203 13.86H9.78027C9.37027 13.86 9.03027 13.52 9.03027 13.11C9.03027 12.7 9.37027 12.36 9.78027 12.36H14.2203C14.6303 12.36 14.9703 12.7 14.9703 13.11C14.9703 13.52 14.6303 13.86 14.2203 13.86Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.6496 9.37998C21.5796 9.40998 21.4996 9.41998 21.4196 9.41998H2.56961C2.48961 9.41998 2.41961 9.40998 2.34961 9.37998C2.47961 8.86998 2.65961 8.38998 2.87961 7.91998H21.1196C21.3396 8.38998 21.5196 8.86998 21.6496 9.37998Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cencor__clip0_4482_7916", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cencor_default = Cencor;
+export {
+  Cencor_default as default
+};

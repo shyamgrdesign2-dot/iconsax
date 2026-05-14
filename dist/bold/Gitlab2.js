@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Gitlab2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Gitlab2__clip0_4482_11569)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9598 13.2002L20.8698 9.94023L20.7798 9.66023L18.6598 3.33023C18.5398 2.96023 17.9898 2.96023 17.8698 3.33023L15.7598 9.65023H8.22978L6.12978 3.33023C6.00978 2.96023 5.45978 2.96023 5.33978 3.33023L3.21978 9.66023L3.12978 9.94023L2.03978 13.2002C1.92978 13.5402 2.03978 13.9002 2.33978 14.1102L11.9998 20.9502L8.72978 11.1502H15.2598L11.9898 20.9502L21.6498 14.1102C21.9398 13.9002 22.0598 13.5402 21.9498 13.2002H21.9598Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Gitlab2__clip0_4482_11569", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Gitlab2_default = Gitlab2;
+export {
+  Gitlab2_default as default
+};

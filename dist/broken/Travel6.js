@@ -1,0 +1,44 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Travel6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Travel6__clip0_2085_392357)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.02977 20.7593H4.00977C2.90977 20.7593 2.00977 19.8593 2.00977 18.7593V10.2793C2.00977 9.1793 2.90977 8.2793 4.00977 8.2793H10.0098C11.1098 8.2793 12.0098 9.1793 12.0098 10.2793V13.2593", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.7998 15.1702C21.9298 15.5002 21.9998 15.8702 21.9998 16.2402V18.9902C21.9998 20.6502 20.6598 21.9902 18.9998 21.9902H10.0298C8.36978 21.9902 7.02979 20.6502 7.02979 18.9902V16.2402C7.02979 14.5802 8.36978 13.2402 10.0298 13.2402H18.9998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.25 21.9998V20.7598", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 13.2498V10.7598H14.98C16.08 10.7598 16.98 11.6598 16.98 12.7598V13.2498", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.50977 2.00977V8.26977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.53955 8.26977V2.00977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.7597 2.00977H9.95967H8.90967", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.79955 2.00977H4.36955H3.28955", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.53955 5.7793H9.51955", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.53955 10.7598H9.51955", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6398 19.8201C14.5598 19.8501 14.4198 19.8501 14.3398 19.8201C13.6498 19.5801 12.0898 18.5901 12.0898 16.9201C12.0898 16.1801 12.6898 15.5801 13.4198 15.5801C13.8598 15.5801 14.2398 15.7901 14.4798 16.1201C14.7198 15.7901 15.1098 15.5801 15.5398 15.5801C16.2798 15.5801 16.8698 16.1801 16.8698 16.9201C16.8698 18.6001 15.3198 19.5801 14.6198 19.8201H14.6398Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Travel6__clip0_2085_392357", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Travel6_default = Travel6;
+export {
+  Travel6_default as default
+};

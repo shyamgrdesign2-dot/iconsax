@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const RainHeart6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#RainHeart6__clip0_2085_392347)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.7202 12.16C19.4002 12.64 18.9602 13.03 18.4302 13.28C17.9902 13.5 17.5002 13.62 16.9802 13.62H7.85019C7.00019 13.62 6.2202 13.37 5.5702 12.93C4.4402 12.19 3.7002 10.92 3.7002 9.47C3.7002 7.18 5.56019 5.32 7.85019 5.32C8.45019 5.32 9.0202 5.47 9.5302 5.7C9.5402 5.7 9.5402 5.71 9.5502 5.71C9.6902 4.41 10.4302 3.29 11.4802 2.63C12.1102 2.23 12.8602 2 13.6602 2C15.9502 2 17.8102 3.86 17.8102 6.15C17.8102 6.46 17.7702 6.77 17.7002 7.06C19.0102 7.35 20.0202 8.4 20.2502 9.73", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.0703 17.3496C12.6403 17.3496 12.2603 17.5396 12.0003 17.8396C11.7403 17.5396 11.3603 17.3496 10.9303 17.3496C10.1403 17.3496 9.51025 17.9896 9.51025 18.7696C9.51025 20.3396 12.0003 21.6196 12.0003 21.6196C12.0003 21.6196 14.4903 20.3496 14.4903 18.7696C14.4903 17.9796 13.8503 17.3496 13.0703 17.3496Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.7702 18.7998C5.0902 18.7998 5.3702 18.9398 5.5702 19.1698C5.7702 18.9498 6.0502 18.7998 6.3702 18.7998C6.9602 18.7998 7.4402 19.2798 7.4402 19.8698C7.4402 21.0498 5.5702 21.9998 5.5702 21.9998C5.5702 21.9998 3.7002 21.0398 3.7002 19.8698C3.7002 19.2798 4.1802 18.7998 4.7702 18.7998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.2301 18.7998C18.9101 18.7998 18.6301 18.9398 18.4301 19.1698C18.2301 18.9498 17.9501 18.7998 17.6301 18.7998C17.0401 18.7998 16.5601 19.2798 16.5601 19.8698C16.5601 21.0498 18.4301 21.9998 18.4301 21.9998C18.4301 21.9998 20.3001 21.0398 20.3001 19.8698C20.3001 19.2798 19.8201 18.7998 19.2301 18.7998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.1504 16.9402V15.7002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.8501 16.9402V15.7002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 13.6201V15.6901", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.4302 13.2803V15.2703", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.57031 12.9297V15.2697", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.0603 8.2198C8.9103 6.2398 9.5903 3.6998 11.5803 2.5498", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "RainHeart6__clip0_2085_392347", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var RainHeart6_default = RainHeart6;
+export {
+  RainHeart6_default as default
+};

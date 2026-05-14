@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Chocolate = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Chocolate__clip0_2085_382163)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.48 8.52001L19.18 12.22M15.48 8.52001L12.71 11.29M15.48 8.52001L19.18 4.82001L21.39 7.03C22.21 7.85 22.21 9.19001 21.39 10.01L19.18 12.22M15.48 8.52001L11.78 4.82001L9.01001 7.59L12.71 11.29M19.18 12.22L16.41 14.99L12.71 11.29M14.56 18.68L16.4 16.84C16.91 16.33 16.91 15.49 16.4 14.98L9.02001 7.6C8.51001 7.09 7.67001 7.09 7.16001 7.6L5.32001 9.44M14.56 18.68L14.1 17.29L10.33 21.06C9.09001 22.3 7.09001 22.3 5.86001 21.06L2.94001 18.14C1.70001 16.9 1.70001 14.9 2.94001 13.67L6.71001 9.9L5.32001 9.44M14.56 18.68L13.64 15.91L9.94001 14.06L8.09001 10.36L5.32001 9.44M16.97 2.62L19.18 4.83L15.48 8.53L11.78 4.83L13.99 2.62C14.81 1.8 16.15 1.8 16.97 2.62Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Chocolate__clip0_2085_382163", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Chocolate_default = Chocolate;
+export {
+  Chocolate_default as default
+};

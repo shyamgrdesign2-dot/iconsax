@@ -1,0 +1,48 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Zombie4 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Zombie4__clip0_2085_382236)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.08 2C12.08 2 12.03 2 12 2C7.7 2 4.22 5.48 4.22 9.78V14.22C4.22 18.52 7.7 22 12 22C16.3 22 19.78 18.52 19.78 14.22V9.78C19.78 9.4 19.75 9.03 19.7 8.67C15.82 8.63 12.62 5.75 12.08 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.78 17V18.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 18.1101V19.2201", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.89 18.1101H8.10999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.22 17V18.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.56 13.6701V10.3401", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.44 13.6701V10.3401", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.54 10.8899C6.48 11.0599 6.44 11.2499 6.44 11.4499C6.44 12.3799 7.19 13.1299 8.12 13.1299C9.05 13.1299 9.8 12.3799 9.8 11.4499C9.8 11.2499 9.77 11.0699 9.7 10.8899H6.53H6.54Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.29 10.8899C14.23 11.0599 14.19 11.2499 14.19 11.4499C14.19 12.3799 14.94 13.1299 15.87 13.1299C16.8 13.1299 17.55 12.3799 17.55 11.4499C17.55 11.2499 17.52 11.0699 17.45 10.8899H14.28H14.29Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.11 14.88L12.71 14.48C12.32 14.09 11.69 14.09 11.3 14.48L10.9 14.88", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.56 2.55989L13.2 2.37989C14.93 1.88989 16.71 3.00989 17 4.77989", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.22 8.67011V7.59011C19.22 6.05011 17.94 4.96011 16.56 4.99011", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8 3.56006L8.87 4.43006C9.07 4.63006 9.07 4.94006 8.87 5.14006L8.47 5.54006C8.27 5.74006 8.27 6.05006 8.47 6.25006L9.23 7.01006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Zombie4__clip0_2085_382236", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Zombie4_default = Zombie4;
+export {
+  Zombie4_default as default
+};

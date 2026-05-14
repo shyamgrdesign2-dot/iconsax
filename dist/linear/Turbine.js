@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Turbine = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Turbine__clip0_4482_10769)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.0198 9.83008L4.70982 13.3601C4.00982 13.8301 3.78982 14.7601 4.20982 15.4901C4.62982 16.2201 5.54982 16.5001 6.29982 16.1201L11.9898 13.2901", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.02 9.83L10.41 3.5C10.46 2.66 11.16 2 12 2C12.84 2 13.54 2.66 13.6 3.5L14 9.84", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14 9.83984L19.29 13.3498C19.99 13.8198 20.21 14.7498 19.79 15.4798C19.37 16.2098 18.45 16.4898 17.7 16.1098L12 13.2798", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 12.98C13.1046 12.98 14 12.0845 14 10.98C14 9.87541 13.1046 8.97998 12 8.97998C10.8954 8.97998 10 9.87541 10 10.98C10 12.0845 10.8954 12.98 12 12.98Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2698 21.9802L13.7798 14.1602", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.2102 14.1699L9.72021 21.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7 22H17", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Turbine__clip0_4482_10769", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Turbine_default = Turbine;
+export {
+  Turbine_default as default
+};

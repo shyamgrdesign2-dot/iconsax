@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BuyHouse = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BuyHouse__clip0_4482_10383)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M12.86 1.25H4.71C2.8 1.25 1.25 2.8 1.25 4.71V9.84C1.25 11.75 2.8 13.31 4.71 13.31H6.52C6.93 13.31 7.27 12.97 7.27 12.56C7.27 12.15 6.93 11.81 6.52 11.81H4.71C3.63 11.81 2.75 10.93 2.75 9.84V6.14H15.57C15.98 6.14 16.32 5.8 16.32 5.39V4.71C16.32 2.8 14.77 1.25 12.86 1.25Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.6002 22H19.4002C20.8402 22 22.0002 20.84 22.0002 19.4V14.66C22.0002 13.87 21.6402 13.12 21.0202 12.63L17.2002 9.57C16.2502 8.81 14.9002 8.81 13.9502 9.57L9.97023 12.75C9.35023 13.24 8.99023 13.99 8.99023 14.78V19.4C8.99023 20.84 10.1502 22 11.5902 22H11.6002Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BuyHouse__clip0_4482_10383", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BuyHouse_default = BuyHouse;
+export {
+  BuyHouse_default as default
+};

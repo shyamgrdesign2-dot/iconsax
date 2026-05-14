@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Stove1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Stove1__clip0_4482_9651)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 6H2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5 20.9999V14.1199C17.5 12.1599 16.09 10.4599 14.15 10.1699C12.72 9.94988 11.27 9.94988 9.85 10.1699C7.91 10.4599 6.5 12.1699 6.5 14.1199V20.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.1196 18.11C9.28957 17.12 9.28957 15.67 10.1196 14.67L11.2296 13.34C11.4196 13.11 11.6996 12.98 11.9996 12.98C12.2996 12.98 12.5796 13.11 12.7696 13.34L13.8796 14.67C14.7096 15.66 14.7096 17.11 13.8796 18.11C13.4196 18.67 12.7296 18.99 11.9996 18.99C11.2696 18.99 10.5896 18.67 10.1196 18.11Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 11.43V18C22 20.21 20.21 22 18 22H6C3.79 22 2 20.21 2 18V6C2 3.79 3.79 2 6 2H18C20.21 2 22 3.79 22 6", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Stove1__clip0_4482_9651", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Stove1_default = Stove1;
+export {
+  Stove1_default as default
+};

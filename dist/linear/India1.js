@@ -1,0 +1,58 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const India1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#India1__clip0_2085_382531)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.17 11.9998H9.52V9.50977H14.5V11.9998H15.85", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.51 9.51023C8.75 8.83023 8.27 8.13023 8.27 7.02023C8.27 4.96023 12 3.24023 12 3.24023C12 3.24023 15.73 4.95023 15.73 7.02023C15.73 8.13023 15.25 8.83023 14.48 9.51023", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2V3.24", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.40001 10.7598C5.37001 10.7598 4.49001 11.5998 4.49001 12.6298V22.0098H8.27001V12.6298C8.27001 11.5998 7.43001 10.7598 6.40001 10.7598Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.39999 9.50977V10.7498", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.6 10.7598C16.57 10.7598 15.73 11.5998 15.73 12.6298V22.0098H19.51V12.6298C19.51 11.5998 18.63 10.7598 17.6 10.7598Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.6 9.50977V10.7498", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.49001 14.4902H8.27001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.73 14.4902H19.51", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.50999 12H14.49", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27 22H15.74", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.76 22.0005V18.2205C10.76 17.5305 11.32 16.9805 12 16.9805C12.68 16.9805 13.24 17.5405 13.24 18.2205V22.0005", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.38 14.4891C11.38 14.8291 11.1 15.1091 10.76 15.1091C10.42 15.1091 10.14 14.8291 10.14 14.4891C10.14 14.1491 10.42 13.8691 10.76 13.8691C11.1 13.8691 11.38 14.1491 11.38 14.4891Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.87 14.4891C13.87 14.8291 13.59 15.1091 13.25 15.1091C12.91 15.1091 12.63 14.8291 12.63 14.4891C12.63 14.1491 12.91 13.8691 13.25 13.8691C13.59 13.8691 13.87 14.1491 13.87 14.4891Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 15.7305V22.0005H19.51", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 16.9805H19.51", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 15.7305V22.0005H4.49", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 16.9805H4.49", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "India1__clip0_2085_382531", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var India1_default = India1;
+export {
+  India1_default as default
+};

@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const RubleSquare = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#RubleSquare__clip0_4482_13158)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.7498 7.75H10.2998V11.25H13.7498C14.8098 11.25 15.6698 10.46 15.6698 9.5C15.6698 8.54 14.8098 7.75 13.7498 7.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.25 2 2 4.25 2 7V17C2 19.75 4.25 22 7 22H17C19.75 22 22 19.75 22 17V7C22 4.25 19.75 2 17 2ZM13.75 12.75H10.3V14.31H13.11C13.52 14.31 13.86 14.65 13.86 15.06C13.86 15.47 13.52 15.81 13.11 15.81H10.3V17C10.3 17.41 9.96 17.75 9.55 17.75C9.14 17.75 8.8 17.41 8.8 17V15.81H7.56C7.15 15.81 6.81 15.47 6.81 15.06C6.81 14.65 7.15 14.31 7.56 14.31H8.8V12.75H7.56C7.15 12.75 6.81 12.41 6.81 12C6.81 11.59 7.15 11.25 7.56 11.25H8.8V7C8.8 6.59 9.14 6.25 9.55 6.25H13.75C15.64 6.25 17.17 7.71 17.17 9.5C17.17 11.29 15.63 12.75 13.75 12.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "RubleSquare__clip0_4482_13158", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var RubleSquare_default = RubleSquare;
+export {
+  RubleSquare_default as default
+};

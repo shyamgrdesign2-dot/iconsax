@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiReturn = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiReturn__clip0_3111_18581)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.38 4.52998L21.37 4.76998C20.65 4.93998 20.08 5.49998 19.91 6.22998L19.67 7.23998C19.64 7.34998 19.49 7.34998 19.47 7.23998L19.23 6.22998C19.06 5.50998 18.5 4.93998 17.77 4.76998L16.76 4.52998C16.65 4.49998 16.65 4.34998 16.76 4.32998L17.77 4.08998C18.49 3.91998 19.06 3.35998 19.23 2.62998L19.47 1.61998C19.5 1.50998 19.65 1.50998 19.67 1.61998L19.91 2.62998C20.08 3.34998 20.64 3.91998 21.37 4.08998L22.38 4.32998C22.49 4.35998 22.49 4.50998 22.38 4.52998Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M7.51002 6.96001C8.30002 6.72001 9.17002 6.57001 10.13 6.57001C14.48 6.57001 17.99 10.09 17.99 14.43C17.99 18.77 14.47 22.29 10.13 22.29C5.79002 22.29 2.27002 18.77 2.27002 14.43C2.27002 12.82 2.76002 11.31 3.59002 10.06", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.39014 7.17998L9.01014 4.16998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.39014 7.17999L9.45014 9.40999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiReturn__clip0_3111_18581", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiReturn_default = AiReturn;
+export {
+  AiReturn_default as default
+};

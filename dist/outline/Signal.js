@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Signal = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Signal__clip0_4482_3046)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22.75H7C3.83 22.75 1.25 20.17 1.25 17V7C1.25 3.83 3.83 1.25 7 1.25H17C20.17 1.25 22.75 3.83 22.75 7V17C22.75 20.17 20.17 22.75 17 22.75ZM7 2.75C4.66 2.75 2.75 4.66 2.75 7V17C2.75 19.34 4.66 21.25 7 21.25H17C19.34 21.25 21.25 19.34 21.25 17V7C21.25 4.66 19.34 2.75 17 2.75H7Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7 17.75C6.59 17.75 6.25 17.41 6.25 17V14C6.25 13.59 6.59 13.25 7 13.25C7.41 13.25 7.75 13.59 7.75 14V17C7.75 17.41 7.41 17.75 7 17.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 17.75C11.59 17.75 11.25 17.41 11.25 17V11C11.25 10.59 11.59 10.25 12 10.25C12.41 10.25 12.75 10.59 12.75 11V17C12.75 17.41 12.41 17.75 12 17.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 17.75C16.59 17.75 16.25 17.41 16.25 17V7C16.25 6.59 16.59 6.25 17 6.25C17.41 6.25 17.75 6.59 17.75 7V17C17.75 17.41 17.41 17.75 17 17.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Signal__clip0_4482_3046", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Signal_default = Signal;
+export {
+  Signal_default as default
+};

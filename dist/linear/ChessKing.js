@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ChessKing = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ChessKing__clip0_4482_15659)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0703 1.51953V8.51953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14 3.01953H10", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.87991 9.03955C10.1999 11.2096 10.3799 13.7596 10.3799 14.8596C9.71991 14.8596 7.21991 13.7596 5.89991 11.9496C4.94991 10.6496 4.69991 8.70955 5.51991 7.95955C6.33991 7.20955 8.05991 7.67955 8.88991 9.03955H8.87991ZM15.1199 9.03955C13.7999 11.2096 13.6199 13.7596 13.6199 14.8596C14.2799 14.8596 16.7799 13.7596 18.0999 11.9496C19.0499 10.6496 19.2999 8.70955 18.4799 7.95955C17.6599 7.20955 15.9399 7.67955 15.1099 9.03955H15.1199Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.3298 7.08042L13.2998 7.12042L11.9998 9.00042L10.7498 7.20042L10.5998 7.01042C8.62981 4.89042 5.68981 3.75042 3.52981 5.56042C1.36981 7.37042 1.36981 11.5304 4.33981 13.9404C6.02981 15.3004 7.53981 16.6204 7.45981 18.5404L5.57981 18.7904C4.91981 18.8804 4.42981 19.4404 4.42981 20.1104V20.3304C4.42981 21.0704 5.02981 21.6604 5.75981 21.6604H18.2098C18.9498 21.6604 19.5398 21.0604 19.5398 20.3304V20.1104C19.5398 19.4404 19.0498 18.8804 18.3898 18.7904L16.5098 18.5404C16.4398 16.6204 17.9498 15.3004 19.6298 13.9404C22.6098 11.5304 22.6098 7.37042 20.4398 5.56042C18.2498 3.73042 15.2698 4.91042 13.2998 7.08042H13.3298Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ChessKing__clip0_4482_15659", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ChessKing_default = ChessKing;
+export {
+  ChessKing_default as default
+};

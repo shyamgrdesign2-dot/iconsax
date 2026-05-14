@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Whale24 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Whale24__clip0_2085_390923)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.78 20.3095H15.9C19.25 20.3095 22.01 17.5995 22.01 14.2495C22.01 13.5595 21.41 12.9995 20.72 12.9995H9.00999C7.90999 12.9995 7.01999 12.1095 7.01999 11.0095C7.01999 10.2895 7.45999 9.65953 8.09999 9.38953L9.23999 8.78953C9.49999 8.64953 9.82999 8.75953 9.94999 9.02953C10.48 10.1695 11.84 10.6695 12.99 10.1395L13.63 9.83953L12.77 7.99953C12.57 7.56953 12.06 7.26953 11.55 7.07953C10.88 6.81953 10.53 6.06953 10.76 5.38953C10.94 4.85953 11.04 4.28953 10.84 3.85953L9.97999 2.01953L9.33999 2.31953C8.19999 2.84953 7.69999 4.20953 8.22999 5.35953L8.30999 5.53953C8.42999 5.79953 8.30999 6.10953 8.05999 6.22953L5.98999 7.19953C3.63999 8.29953 2.04999 10.6195 1.99999 13.2095C1.92999 16.8795 4.69999 19.8195 8.13999 20.2695", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.33998 17.6494L7.34998 21.9694C7.34998 21.9694 13.66 22.6294 13.66 17.6494", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.8 15.6592H18.64", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Whale24__clip0_2085_390923", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Whale24_default = Whale24;
+export {
+  Whale24_default as default
+};

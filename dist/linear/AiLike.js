@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiLike = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiLike__clip0_3111_12467)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 11V7C2 4.25 4.25 2 7 2H17C19.75 2 22 4.25 22 7V17C22 19.75 19.75 22 17 22H14", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.32 20.63L5.73 21.72C5.92 21.91 6.33 22 6.6 22H8.33C8.88 22 9.47 21.59 9.6 21.04L10.69 17.72C10.92 17.08 10.51 16.54 9.82 16.54H8.01C7.74 16.54 7.51 16.31 7.55 15.99L7.78 14.53C7.87 14.12 7.6 13.66 7.19 13.53C6.83 13.39 6.37 13.58 6.19 13.85L4.32 16.63", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 20.63V16.17C2 15.53 2.27 15.3 2.91 15.3H3.37C4.01 15.3 4.28 15.53 4.28 16.17V20.63C4.28 21.27 4.01 21.5 3.37 21.5H2.91C2.27 21.5 2 21.27 2 20.63Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.16 9.71997L16.98 9.99997C16.13 10.2 15.47 10.86 15.28 11.7L15 12.88C14.97 13.01 14.79 13.01 14.76 12.88L14.48 11.7C14.28 10.85 13.62 10.19 12.78 9.99997L11.6 9.71997C11.47 9.68997 11.47 9.50997 11.6 9.47997L12.78 9.19997C13.63 8.99997 14.29 8.33997 14.48 7.49997L14.76 6.31997C14.79 6.18997 14.97 6.18997 15 6.31997L15.28 7.49997C15.48 8.34997 16.14 9.00997 16.98 9.19997L18.16 9.47997C18.29 9.50997 18.29 9.68997 18.16 9.71997Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiLike__clip0_3111_12467", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiLike_default = AiLike;
+export {
+  AiLike_default as default
+};

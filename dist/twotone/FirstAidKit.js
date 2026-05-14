@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FirstAidKit = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FirstAidKit__clip0_2085_389883)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.98 2C18.35 2 19.47 3.12 19.47 4.49V19.51C19.47 20.88 18.35 22 16.98 22H7.02003C5.65003 22 4.53003 20.88 4.53003 19.51V4.49C4.53003 3.12 5.65003 2 7.02003 2H16.98Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 5.24023V9.22023", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.99 7.23047H10.01", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.47 4.2998C18.79 6.2098 18.12 8.1298 17.44 10.0398C16.9 11.5598 15.53 12.5298 13.92 12.5298H10.05C8.45002 12.5298 7.09002 11.5798 6.54002 10.0798C5.83002 8.1498 5.00002 5.9198 4.52002 4.5698", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M5.03003 14.2402H7.72003C8.32003 14.2402 8.80003 14.7202 8.80003 15.3202C8.80003 15.9202 8.32003 16.4002 7.72003 16.4002H6.19003C6.19003 16.4002 6.19003 16.4602 6.19003 16.4902C6.19003 17.0902 5.71003 17.5702 5.11003 17.5702H4.53003", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.3999 12.54V14.16C15.3999 15.28 16.3099 16.19 17.4299 16.19", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.4399 16.1904V17.4404C17.4399 18.3104 18.1499 19.0204 19.0199 19.0204C19.1599 19.0204 19.2999 19.0004 19.4399 18.9604", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13 21.9196C13.16 21.6996 13.26 21.4196 13.26 21.1296C13.26 21.0096 13.25 20.8996 13.22 20.7896H13.87C14.61 20.7896 15.21 20.1896 15.21 19.4396C15.21 18.6896 14.61 18.0996 13.87 18.0996H10.84C10.1 18.0996 9.50005 18.6996 9.50005 19.4396C9.50005 19.5596 9.51005 19.6696 9.54005 19.7796H8.89005C8.15005 19.7796 7.55005 20.3796 7.55005 21.1196C7.55005 21.3796 7.63005 21.6296 7.76005 21.8396", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FirstAidKit__clip0_2085_389883", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FirstAidKit_default = FirstAidKit;
+export {
+  FirstAidKit_default as default
+};

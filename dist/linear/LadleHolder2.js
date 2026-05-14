@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const LadleHolder2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#LadleHolder2__clip0_4482_14377)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2597 2C18.1297 2 18.8397 2.71 18.8397 3.58V8.84C18.8397 9.71 18.1297 10.42 17.2597 10.42C16.3897 10.42 15.6797 9.71 15.6797 8.84V3.58C15.6797 2.71 16.3897 2 17.2597 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2598 10.4199V14.6299", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.9498 19.3699V19.8999C20.9498 21.0599 20.0098 22.0099 18.8398 22.0099H15.6798C14.5198 22.0099 13.5698 21.0699 13.5698 19.8999V19.3699C13.5698 18.3299 13.8098 17.3099 14.2798 16.3799C14.8098 15.3099 15.9098 14.6299 17.0998 14.6299H17.4098C18.6098 14.6299 19.6998 15.3099 20.2298 16.3799C20.6898 17.3099 20.9398 18.3299 20.9398 19.3699H20.9498Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.20996 10.4199V13.5799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.20988 2C7.07988 2 7.78988 2.71 7.78988 3.58V8.84C7.78988 9.71 7.07988 10.42 6.20988 10.42C5.33988 10.42 4.62988 9.71 4.62988 8.84V3.58C4.62988 2.71 5.33988 2 6.20988 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.78955 5.16016H15.6796", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.3696 5.16016H21.4796", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.52979 5.16016H4.63979", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.20979 22.0001C8.24219 22.0001 9.88979 20.1152 9.88979 17.7901C9.88979 15.465 8.24219 13.5801 6.20979 13.5801C4.17738 13.5801 2.52979 15.465 2.52979 17.7901C2.52979 20.1152 4.17738 22.0001 6.20979 22.0001Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "LadleHolder2__clip0_4482_14377", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var LadleHolder2_default = LadleHolder2;
+export {
+  LadleHolder2_default as default
+};

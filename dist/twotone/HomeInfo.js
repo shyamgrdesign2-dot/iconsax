@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HomeInfo = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HomeInfo__clip0_4482_10501)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.96 9.76V6.99C21.96 4.23 19.73 2 16.97 2H6.99C4.23 2 2 4.23 2 6.99V16.97C2 19.73 4.23 21.96 6.99 21.96H9.76", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.87012 11.98H12.0901", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.87012 7.54004H16.5201", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.44016 12.26C6.37016 12.26 6.30016 12.23 6.24016 12.18C6.19016 12.13 6.16016 12.06 6.16016 11.99C6.16016 11.83 6.28016 11.71 6.44016 11.71C6.60016 11.71 6.72016 11.83 6.72016 11.99C6.72016 12.15 6.60016 12.27 6.44016 12.27", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.44016 7.82002C6.37016 7.82002 6.30016 7.79002 6.24016 7.74002C6.19016 7.69002 6.16016 7.62002 6.16016 7.55002C6.16016 7.39002 6.28016 7.27002 6.44016 7.27002C6.60016 7.27002 6.72016 7.39002 6.72016 7.55002C6.72016 7.71002 6.60016 7.83002 6.44016 7.83002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0002 20.2001V16.8301C22.0002 16.2801 21.7502 15.7701 21.3202 15.4201L18.9002 13.4901C18.0802 12.8301 16.9102 12.8301 16.0902 13.4901L13.6702 15.4201C13.2402 15.7601 12.9902 16.2801 12.9902 16.8301V20.2001C12.9902 21.1901 13.8002 22.0001 14.7902 22.0001H20.1902C21.1802 22.0001 21.9902 21.1901 21.9902 20.2001H22.0002Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HomeInfo__clip0_4482_10501", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HomeInfo_default = HomeInfo;
+export {
+  HomeInfo_default as default
+};

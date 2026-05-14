@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiHd = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiHd__clip0_3111_14282)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9601 4.86L20.9901 5.09C20.3001 5.25 19.7501 5.79 19.5901 6.49L19.3601 7.46C19.3401 7.56 19.1901 7.56 19.1601 7.46L18.9301 6.49C18.7701 5.8 18.2301 5.25 17.5301 5.09L16.5601 4.86C16.4601 4.84 16.4601 4.69 16.5601 4.66L17.5301 4.43C18.2201 4.27 18.7701 3.73 18.9301 3.03L19.1601 2.06C19.1801 1.96 19.3301 1.96 19.3601 2.06L19.5901 3.03C19.7501 3.72 20.2901 4.27 20.9901 4.43L21.9601 4.66C22.0601 4.68 22.0601 4.83 21.9601 4.86Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.91992 10.45V16", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.91992 13.23H10.6099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.6099 10.45V16", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.2299 15.99H13.3799V10.45H15.2299C16.2499 10.45 17.0799 11.28 17.0799 12.3V14.15C17.0799 15.17 16.2499 15.99 15.2299 15.99Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 10.12V17C22 19.75 19.75 22 17 22H7M2 17V7C2 4.25 4.25 2 7 2H14.83", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiHd__clip0_3111_14282", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiHd_default = AiHd;
+export {
+  AiHd_default as default
+};

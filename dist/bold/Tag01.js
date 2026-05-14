@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Tag01 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Tag01__clip0_4482_1762)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.25 6H6C3.79 6 2 7.79 2 10V14C2 16.21 3.79 18 6 18H7.25V6Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.6899 10.6798L18.45 7.01976C17.88 6.37976 17.06 6.00977 16.2 6.00977H8.73999V18.0098H16.2C17.06 18.0098 17.88 17.6398 18.45 16.9998L21.6899 13.3398C22.3599 12.5698 22.3599 11.4298 21.6899 10.6798ZM14.5 13.4998C13.68 13.4998 13 12.8298 13 11.9998C13 11.1698 13.68 10.4998 14.5 10.4998C15.32 10.4998 16 11.1698 16 11.9998C16 12.8298 15.32 13.4998 14.5 13.4998Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Tag01__clip0_4482_1762", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Tag01_default = Tag01;
+export {
+  Tag01_default as default
+};

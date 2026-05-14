@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BidHome = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BidHome__clip0_4482_10562)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.1901 13.1101H14.4401C13.7101 13.1101 13.1201 13.7001 13.1201 14.4301V17.1801C13.1201 17.5301 13.2601 17.8701 13.5101 18.1101L17.0001 21.6001C17.5201 22.1201 18.3501 22.1201 18.8701 21.6001L21.6201 18.8501C22.1401 18.3301 22.1401 17.5001 21.6201 16.9801L18.1301 13.4901C17.8801 13.2401 17.5501 13.1001 17.2001 13.1001L17.1901 13.1101Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 16H16.0001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 10.5801V17.5601C2 20.0101 3.99 22.0001 6.44 22.0001H11.98", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9999 11.9801V10.5701C21.9999 9.22012 21.3899 7.94012 20.3299 7.10012L15.4699 3.21012C13.4399 1.59012 10.5599 1.59012 8.52992 3.21012L3.66992 7.11012", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BidHome__clip0_4482_10562", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BidHome_default = BidHome;
+export {
+  BidHome_default as default
+};

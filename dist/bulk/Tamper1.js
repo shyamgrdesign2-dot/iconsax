@@ -1,0 +1,50 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Tamper1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Tamper1__clip0_2085_391705)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.45 13.6992V16.1892C14.45 18.0192 12.96 19.5092 11.13 19.5092H5.32C3.49 19.5092 2 18.0192 2 16.1892V14.1692C2 13.9096 2.21043 13.6992 2.47 13.6992H14.45Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 14.9494C22 15.8494 21.24 16.5594 20.34 16.5094L14.45 16.1894V13.6994L20.34 13.3794C21.24 13.3294 22 14.0394 22 14.9494Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M10.16 21.9998H6.28998C5.60998 21.9998 5.12998 21.3298 5.33998 20.6798L5.72998 19.5098H10.71L11.1 20.6798C11.32 21.3298 10.84 21.9998 10.16 21.9998Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M13.2 11.2109H3.23999V13.7009H13.2V11.2109Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.2 11.2107H3.23999L6.97999 8.7207H9.46999L13.2 11.2107Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.24 11.9609H2C1.59 11.9609 1.25 11.6209 1.25 11.2109C1.25 10.8009 1.59 10.4609 2 10.4609H3.24C3.65 10.4609 3.99 10.8009 3.99 11.2109C3.99 11.6209 3.65 11.9609 3.24 11.9609Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.45 11.9609H2.36999C1.96 11.9609 1.62 11.6209 1.62 11.2109C1.62 10.8009 1.96 10.4609 2.36999 10.4609H14.45C14.86 10.4609 15.2 10.8009 15.2 11.2109C15.2 11.6209 14.86 11.9609 14.45 11.9609Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M10.04 4.06L9.47 8.72H6.98L6.4 4.06C6.27 2.97 7.12 2 8.22 2C9.32 2 10.18 2.97 10.04 4.06Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Tamper1__clip0_2085_391705", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Tamper1_default = Tamper1;
+export {
+  Tamper1_default as default
+};

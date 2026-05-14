@@ -1,0 +1,48 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MultiUserServer = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MultiUserServer__clip0_4482_13778)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.21 2.79012C22.27 3.85012 22.27 5.56012 21.21 6.62012C20.15 7.68012 18.44 7.68012 17.38 6.62012C16.32 5.56012 16.32 3.85012 17.38 2.79012C18.44 1.73012 20.15 1.73012 21.21 2.79012Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9099 9.99965C21.7599 8.87965 21.3999 7.83965 20.8799 6.88965", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.11 3.11984C16.16 2.60984 15.12 2.24984 14 2.08984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.62012 17.38C7.68012 18.44 7.68012 20.15 6.62012 21.21C5.56012 22.27 3.85012 22.27 2.79012 21.21C1.73012 20.15 1.73012 18.44 2.79012 17.38C3.85012 16.32 5.56012 16.32 6.62012 17.38Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.08984 14C2.23984 15.12 2.59984 16.16 3.11984 17.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.99965 21.9099C8.87965 21.7599 7.83965 21.3999 6.88965 20.8799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.62012 2.79012C7.68012 3.85012 7.68012 5.56012 6.62012 6.62012C5.56012 7.68012 3.85012 7.68012 2.79012 6.62012C1.73012 5.56012 1.73012 3.85012 2.79012 2.79012C3.85012 1.73012 5.56012 1.73012 6.62012 2.79012Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.88965 3.11984C7.83965 2.60984 8.87965 2.23984 9.99965 2.08984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.11984 6.88965C2.60984 7.83965 2.24984 8.87965 2.08984 9.99965", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.21 17.38C22.27 18.44 22.27 20.15 21.21 21.21C20.15 22.27 18.44 22.27 17.38 21.21C16.32 20.15 16.32 18.44 17.38 17.38C18.44 16.32 20.15 16.32 21.21 17.38Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.8799 17.11C21.3899 16.16 21.7499 15.12 21.9099 14", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.11 20.8799C16.16 21.3899 15.12 21.7499 14 21.9099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.71 8.26027L15.74 11.2903C16.13 11.6803 16.13 12.3103 15.74 12.7003L12.71 15.7303C12.32 16.1203 11.69 16.1203 11.3 15.7303L8.27004 12.7003C7.88004 12.3103 7.88004 11.6803 8.27004 11.2903L11.3 8.26027C11.69 7.87027 12.32 7.87027 12.71 8.26027Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MultiUserServer__clip0_4482_13778", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MultiUserServer_default = MultiUserServer;
+export {
+  MultiUserServer_default as default
+};

@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const DataTransform = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#DataTransform__clip0_4482_15108)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.0596 17.5596H20.4996C21.3296 17.5596 21.9996 18.2296 21.9996 19.0596V20.4996C21.9996 21.3296 21.3296 21.9996 20.4996 21.9996H19.0596C18.2296 21.9996 17.5596 21.3296 17.5596 20.4996V19.0596C17.5596 18.2296 18.2296 17.5596 19.0596 17.5596Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.5 2H4.94C5.77 2 6.44 2.67 6.44 3.5V4.94C6.44 5.77 5.77 6.44 4.94 6.44H3.5C2.67 6.44 2 5.77 2 4.94V3.5C2 2.67 2.67 2 3.5 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.5596 4.94V3.5C17.5596 2.67 18.2296 2 19.0596 2H20.4996C21.3296 2 21.9996 2.67 21.9996 3.5V4.94C21.9996 5.77 21.3296 6.44 20.4996 6.44H19.0596C18.2296 6.44 17.5596 5.77 17.5596 4.94Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.78027 4.22C9.78027 2.99 10.7703 2 12.0003 2C13.2303 2 14.2203 2.99 14.2203 4.22C14.2203 5.45 13.2303 6.44 12.0003 6.44C10.7703 6.44 9.78027 5.45 9.78027 4.22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M2 20.4996V19.0596C2 18.2296 2.67 17.5596 3.5 17.5596H4.94C5.77 17.5596 6.44 18.2296 6.44 19.0596V20.4996C6.44 21.3296 5.77 21.9996 4.94 21.9996H3.5C2.67 21.9996 2 21.3296 2 20.4996Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.78027 19.7796C9.78027 18.5496 10.7703 17.5596 12.0003 17.5596C13.2303 17.5596 14.2203 18.5496 14.2203 19.7796C14.2203 21.0096 13.2303 21.9996 12.0003 21.9996C10.7703 21.9996 9.78027 21.0096 9.78027 19.7796Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.2803 9.78027H12.7203C13.5503 9.78027 14.2203 10.4503 14.2203 11.2803V12.7203C14.2203 13.5503 13.5503 14.2203 12.7203 14.2203H11.2803C10.4503 14.2203 9.78027 13.5503 9.78027 12.7203V11.2803C9.78027 10.4503 10.4503 9.78027 11.2803 9.78027Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.43973 12.0003C5.20973 12.0003 4.21973 11.0103 4.21973 9.78027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5596 12C18.7896 12 19.7796 12.99 19.7796 14.22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "DataTransform__clip0_4482_15108", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var DataTransform_default = DataTransform;
+export {
+  DataTransform_default as default
+};

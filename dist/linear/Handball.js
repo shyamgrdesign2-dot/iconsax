@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Handball = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Handball__clip0_2085_386807)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.97998 3.95C2.97998 5.03 3.84998 5.9 4.92998 5.9C6.00998 5.9 6.87998 5.03 6.87998 3.95C6.87998 2.87 6.00998 2 4.92998 2C3.84998 2 2.97998 2.87 2.97998 3.95ZM2.97998 3.95C2.97998 7.36 7.36998 8.83 12.25 9.32C17.13 9.81 19.57 11.27 21.03 14.2M11.27 9.32C11.27 13.71 10.78 16.15 2.97998 20.54M13.71 9.8C14.2 13.7 14.2 16.14 9.80998 22M10.78 13.46C11.27 13.46 12.73 13.7 13.22 14.19M14.2 4.93C14.2 6.01 13.33 6.88 12.25 6.88C11.17 6.88 10.3 6.01 10.3 4.93C10.3 3.85 11.17 2.98 12.25 2.98C13.33 2.98 14.2 3.85 14.2 4.93Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Handball__clip0_2085_386807", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Handball_default = Handball;
+export {
+  Handball_default as default
+};

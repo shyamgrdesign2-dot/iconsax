@@ -1,0 +1,46 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Airplane2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Airplane2__clip0_2085_386671)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.77 17.9199L15.71 19.7299C15.71 19.7299 15.79 19.8199 15.82 19.8799C15.85 19.9399 15.86 19.9999 15.86 20.0599L15.9 21.5199C15.9 21.6099 15.88 21.6999 15.83 21.7799C15.78 21.8599 15.72 21.9199 15.63 21.9599C15.55 21.9999 15.46 22.0099 15.37 21.9999C15.28 21.9899 15.2 21.9499 15.13 21.8999L12.91 20.0599", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.11 17.9199L8.17 19.7299C8.17 19.7299 8.09 19.8199 8.06 19.8799C8.03 19.9399 8.02 19.9999 8.02 20.0599L7.98 21.5199C7.98 21.6099 8 21.6999 8.05 21.7799C8.1 21.8599 8.16 21.9199 8.25 21.9599C8.33 21.9999 8.42 22.0099 8.51 21.9999C8.6 21.9899 8.68 21.9499 8.75 21.8999L10.97 20.0599", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.82 4.16C12.78 3.5 12.63 2.86 12.36 2.26C12.33 2.18 12.27 2.12 12.2 2.07C12.13 2.02 12.04 2 11.96 2C11.88 2 11.79 2.02 11.72 2.07C11.65 2.12 11.59 2.18 11.56 2.26C11.29 2.86 11.14 3.5 11.1 4.16", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.82 4.16C12.78 3.5 12.63 2.86 12.36 2.26C12.33 2.18 12.27 2.12 12.2 2.07C12.13 2.02 12.04 2 11.96 2C11.88 2 11.79 2.02 11.72 2.07C11.65 2.12 11.59 2.18 11.56 2.26C11.29 2.86 11.14 3.5 11.1 4.16", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.15 9.98006L17.06 8.86006C17.06 8.67006 17.12 8.48006 17.25 8.34006C17.38 8.20006 17.56 8.11006 17.75 8.10006C17.94 8.09006 18.13 8.16006 18.27 8.29006C18.41 8.42006 18.5 8.60006 18.51 8.79006C18.5421 9.53669 18.5614 9.98325 18.5913 10.6787", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.28999 11.0198L5.38999 8.79983C5.38999 8.60983 5.47999 8.42983 5.62999 8.29983C5.76999 8.16983 5.95999 8.09983 6.14999 8.10983C6.33999 8.10983 6.51999 8.19983 6.64999 8.34983C6.77999 8.48983 6.84999 8.67983 6.83999 8.86983L6.74999 9.98983", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.67 17.7299L12.73 20.0699C12.67 20.2299 12.56 20.3599 12.42 20.4599C12.28 20.5499 12.12 20.6099 11.95 20.6099C11.78 20.6099 11.62 20.5599 11.48 20.4699C11.34 20.3799 11.23 20.2399 11.17 20.0899L10.24 17.7799C10.11 17.4499 10.04 17.0899 10.04 16.7399V8.98994C10.04 7.32994 10.39 5.69994 11.07 4.18994H12.85C13.53 5.69994 13.88 7.33994 13.88 8.98994V16.7199C13.88 17.0799 13.81 17.4299 13.68 17.7599L13.67 17.7299Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.87 15.3H20.27C20.52 15.3 20.75 15.22 20.95 15.07C21.15 14.92 21.29 14.72 21.36 14.48C21.39 14.38 21.4 14.27 21.4 14.17V13.23C21.4 12.96 21.33 12.7 21.19 12.47C21.05 12.24 20.85 12.05 20.61 11.92L14.14 8.47998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.03 15.2998H3.73001C3.49001 15.2998 3.26001 15.2198 3.07001 15.0898C2.88001 14.9498 2.73001 14.7498 2.66001 14.5298C2.62001 14.4198 2.60001 14.2998 2.60001 14.1798V13.3298C2.60001 13.0598 2.68001 12.7898 2.82001 12.5598C2.96001 12.3298 3.17001 12.1398 3.41001 12.0098L9.86001 8.58984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.60001 13.5402V10.2002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.4 13.5402V10.2002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 8.16992V9.99992", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Airplane2__clip0_2085_386671", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Airplane2_default = Airplane2;
+export {
+  Airplane2_default as default
+};

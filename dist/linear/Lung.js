@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Lung = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Lung__clip0_4482_8628)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.6001 7.28994V2.68994", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.4 2.68994V7.28994C10.4 8.61994 9.33 9.68994 8 9.68994", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.0001 9.69004C14.6701 9.69004 13.6001 8.62004 13.6001 7.29004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.5 15.69V17.06C13.5 18.2 14.14 19.23 15.16 19.74L17.66 20.99C19.65 21.99 22 20.54 22 18.31V13.4C22 10.65 21.06 7.96998 19.34 5.81998C18.45 4.70998 17.11 4.46998 16 4.86998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.5 15.69V17.06C10.5 18.2 9.86 19.23 8.84 19.74L6.34 20.99C4.35 21.99 2 20.54 2 18.31V13.4C2 10.65 2.94 7.96998 4.66 5.81998C5.55 4.70998 6.89 4.46998 8 4.86998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8 13.6899L9.47 13.1999C10.45 12.8699 11.26 12.1699 11.73 11.2399V11.2199C11.85 10.9999 12.16 10.9999 12.27 11.2199C12.74 12.1599 13.57 12.8799 14.57 13.2099L16.01 13.6899", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Lung__clip0_4482_8628", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Lung_default = Lung;
+export {
+  Lung_default as default
+};

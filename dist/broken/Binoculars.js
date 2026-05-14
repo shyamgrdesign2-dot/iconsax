@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Binoculars = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Binoculars__clip0_2085_389945)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.76 12V14.49C9.39002 14.49 8.27002 15.6 8.27002 16.98V18.22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.36 18.6997C9.19 18.4097 8.87 18.2197 8.51 18.2197H3C2.45 18.2197 2 18.6697 2 19.2197V19.7097C2 20.2697 2.45 20.7097 3 20.7097H8.51C8.87 20.7097 9.19 20.5197 9.36 20.2297", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.76 8.27027V5.78027H5.78004V8.27027C5.78004 9.65027 4.67004 10.7603 3.29004 10.7603V18.2303", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.7102 18.2205V10.7505C19.3402 10.7505 18.2202 9.64051 18.2202 8.26051V5.77051H13.2402V8.26051", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.2402 12V14.49C14.6102 14.49 15.7302 15.6 15.7302 16.98V18.22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6401 20.0497C14.8501 20.4397 15.2601 20.7097 15.7301 20.7097H21.0001C21.5501 20.7097 22.0001 20.2697 22.0001 19.7097V19.2197C22.0001 18.6697 21.5501 18.2197 21.0001 18.2197H15.7301C15.2601 18.2197 14.8501 18.4897 14.6401 18.8797", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.02002 5.78004V4.29004C7.02002 3.74004 7.47002 3.29004 8.02002 3.29004H8.51002C9.06002 3.29004 9.51002 3.74004 9.51002 4.29004V5.78004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.4902 5.78004V4.29004C14.4902 3.74004 14.9402 3.29004 15.4902 3.29004H15.9802C16.5302 3.29004 16.9802 3.74004 16.9802 4.29004V5.78004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.1101 12.0005H8.89014V8.27051H15.1101V12.0005Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Binoculars__clip0_2085_389945", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Binoculars_default = Binoculars;
+export {
+  Binoculars_default as default
+};

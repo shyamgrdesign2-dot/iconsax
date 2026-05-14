@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FingerCross = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FingerCross__clip0_4482_6054)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.76 13.3295V16.9995C20.76 18.3795 20.2 19.6295 19.3 20.5395C18.39 21.4395 17.14 21.9995 15.76 21.9995H10.47C9.33001 21.9995 8.26 21.4495 7.59 20.5195L3.66001 15.0095C3.12001 14.2595 3.1 13.2595 3.62 12.4895C4.05 11.8395 4.75001 11.4995 5.46001 11.4995C6.03001 11.4995 6.59001 11.7095 7.03001 12.1495L8.65 13.7595V4.47953C8.65 3.23953 9.56001 2.10952 10.8 2.00952C11.53 1.94952 12.2 2.21953 12.66 2.68953C13.07 3.08953 13.32 3.63953 13.35 4.24953C13.35 3.62953 13.6 3.06953 14.01 2.65953C14.46 2.20953 15.09 1.94952 15.78 2.00952C16.97 2.09952 17.85 3.18953 17.85 4.37953V9.52953C17.85 9.93953 18.12 10.2995 18.52 10.3995C19.84 10.7595 20.76 11.9595 20.76 13.3295Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.3999 10V4", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FingerCross__clip0_4482_6054", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FingerCross_default = FingerCross;
+export {
+  FingerCross_default as default
+};

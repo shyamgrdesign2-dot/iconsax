@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Pinterest = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Pinterest__clip0_4482_11785)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.3291 21.2999L10.6391 10.8599", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.0696 19.0701C15.1596 22.9801 8.82957 22.9801 4.92957 19.0701C1.01957 15.1601 1.01957 8.83006 4.92957 4.93006C8.83957 1.02006 15.1696 1.02006 19.0696 4.93006C21.9296 7.79006 22.6996 11.9501 21.3696 15.5001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.77922 13.0902C6.57922 12.5702 6.44922 12.0302 6.44922 11.4502C6.44922 8.6902 8.93922 6.4502 12.0092 6.4502C15.0792 6.4502 17.5692 8.6902 17.5692 11.4502C17.5692 14.2102 15.3292 16.4502 12.5692 16.4502C11.4692 16.4502 10.4592 16.0802 9.63922 15.4802", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Pinterest__clip0_4482_11785", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Pinterest_default = Pinterest;
+export {
+  Pinterest_default as default
+};

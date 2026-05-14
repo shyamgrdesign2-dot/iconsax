@@ -1,0 +1,12 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Add3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M11.1445 22V2C11.1445 1.5278 11.5278 1.14453 12 1.14453C12.4722 1.14453 12.8555 1.5278 12.8555 2V22C12.8555 22.4722 12.4722 22.8555 12 22.8555C11.5278 22.8555 11.1445 22.4722 11.1445 22Z", fill: "currentColor" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M22 11.084C22.4722 11.084 22.8555 11.4672 22.8555 11.9395C22.8555 12.4117 22.4722 12.7949 22 12.7949H2C1.5278 12.7949 1.14453 12.4117 1.14453 11.9395C1.14453 11.4672 1.5278 11.084 2 11.084H22Z", fill: "currentColor" }),
+  " "
+] });
+var Add3_default = Add3;
+export {
+  Add3_default as default
+};

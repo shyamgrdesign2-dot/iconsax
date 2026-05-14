@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const PartOfCircle = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#PartOfCircle__clip0_4482_1559)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 22.7498C6.07 22.7498 1.25 17.9298 1.25 11.9998C1.25 7.29979 4.27002 3.17979 8.77002 1.74979C9.16002 1.61979 9.58996 1.83978 9.70996 2.23978C9.82996 2.62978 9.61997 3.05979 9.21997 3.17979C5.40997 4.38979 2.75 8.01979 2.75 11.9998C2.75 17.0998 6.9 21.2498 12 21.2498C16 21.2498 19.63 18.5698 20.83 14.7398C20.95 14.3398 21.37 14.1198 21.77 14.2498C22.17 14.3698 22.39 14.7898 22.26 15.1898C20.87 19.6398 16.65 22.7498 12 22.7498Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.71 9.59987C20.82 6.00987 17.99 3.17987 14.4 2.28987C13.17 1.98987 12 2.97987 12 4.24987V9.99987C12 11.0999 12.9 11.9999 14 11.9999H19.75C21.02 11.9999 22.01 10.8299 21.71 9.59987Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "PartOfCircle__clip0_4482_1559", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var PartOfCircle_default = PartOfCircle;
+export {
+  PartOfCircle_default as default
+};

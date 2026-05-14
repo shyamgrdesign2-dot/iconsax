@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Hourglass7 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Hourglass7__clip0_2085_392071)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.1501 10.1698L12.0001 11.9998L8.8501 10.1698C8.5401 9.98977 8.3501 9.65977 8.3501 9.30977V4.50977H15.6401V9.30977C15.6401 9.66977 15.4501 9.99977 15.1401 10.1698H15.1501Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.85035 13.83L12.0004 12L15.1504 13.83C15.4604 14.01 15.6504 14.34 15.6504 14.69V19.49H8.36035V14.69C8.36035 14.33 8.55035 14 8.86035 13.83H8.85035Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.1101 2H7.89014C7.34014 2 6.89014 2.45 6.89014 3V3.51C6.89014 4.06 7.34014 4.51 7.89014 4.51H16.1201C16.6701 4.51 17.1201 4.06 17.1201 3.51V3C17.1201 2.45 16.6701 2 16.1201 2H16.1101Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.8101 22.0002H16.1101C16.6701 22.0002 17.1101 21.5502 17.1101 21.0002V20.4902C17.1101 19.9402 16.6701 19.4902 16.1101 19.4902H7.89014C7.33014 19.4902 6.89014 19.9402 6.89014 20.4902V21.0002C6.89014 21.5502 7.33014 22.0002 7.89014 22.0002H9.19014", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.1404 19.4896L12.6904 17.1496C12.3004 16.7796 11.6904 16.7796 11.3104 17.1496L8.86035 19.4896", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.36035 7.82031H15.6504", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Hourglass7__clip0_2085_392071", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Hourglass7_default = Hourglass7;
+export {
+  Hourglass7_default as default
+};

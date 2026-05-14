@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ArViewSeeThroughDevice1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ArViewSeeThroughDevice1__clip0_2085_382369)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.74 19.5999C17.53 19.2499 19.05 18.6499 20.13 17.8699C21.2 17.0999 21.78 16.1899 21.78 15.2699C21.78 14.3499 21.2 13.4299 20.13 12.6699M12 19.9599C11.36 19.9599 10.72 19.9299 10.09 19.8699C8.19001 19.6899 6.45001 19.2399 5.08001 18.5899C3.71001 17.9299 2.78001 17.0999 2.40001 16.1899C2.02001 15.2799 2.22001 14.3399 2.96001 13.4799C3.21001 13.1999 3.51001 12.9199 3.86001 12.6699", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.98 17.9102L13.02 19.9502L10.98 21.9902", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.87 2.38L18.05 3.56C18.29 3.8 18.43 4.13 18.43 4.47V9.08C18.43 10.15 17.57 11.01 16.5 11.01H14.25C14.05 11.01 13.86 10.91 13.74 10.75L12.52 9.12C12.4 8.96 12.21 8.86 12.01 8.86C11.81 8.86 11.62 8.96 11.5 9.12L10.28 10.75C10.16 10.91 9.97 11.01 9.77 11.01H7.52C6.45 11.01 5.59 10.15 5.59 9.08V4.47C5.59 4.13 5.73 3.8 5.97 3.56L7.15 2.38C7.39 2.14 7.72 2 8.06 2H15.99C16.33 2 16.66 2.14 16.9 2.38H16.87Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ArViewSeeThroughDevice1__clip0_2085_382369", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ArViewSeeThroughDevice1_default = ArViewSeeThroughDevice1;
+export {
+  ArViewSeeThroughDevice1_default as default
+};

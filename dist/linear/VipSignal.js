@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const VipSignal = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#VipSignal__clip0_4482_340)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.97 5.74014L17.83 7.79014C17.87 7.84014 17.93 7.86014 18 7.86014C18.07 7.86014 18.13 7.83014 18.18 7.79014L20.04 5.74014C20.11 5.66014 20.12 5.54014 20.06 5.45014L19.23 4.24014C19.18 4.17014 19.1201 4.14014 19.0301 4.14014H16.95C16.88 4.14014 16.8 4.18014 16.75 4.24014L15.92 5.45014C15.88 5.53014 15.89 5.66014 15.97 5.74014Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21 12.5C21 15.11 19.94 17.49 18.21 19.21C16.49 20.94 14.11 22 11.5 22C6.28 22 2 17.72 2 12.5C2 9.89 3.05998 7.51 4.78998 5.79C6.50998 4.06 8.89 3 11.5 3C12.31 3 13.08 3.1 13.82 3.28C13.3 4.06 13 4.99 13 6C13 8.77 15.23 11 18 11C19.01 11 19.94 10.7 20.72 10.18C20.9 10.92 21 11.69 21 12.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.70001 8.31982V16.6798", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.5 11.3599V16.6799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3 13.6401V16.6801", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M23 6C23 7.49 22.36 8.82 21.32 9.72C21.13 9.89 20.93 10.05 20.72 10.18C19.94 10.7 19.01 11 18 11C15.23 11 13 8.77 13 6C13 4.99 13.3 4.06 13.82 3.28C13.95 3.07 14.11 2.87 14.28 2.68C15.18 1.64 16.51 1 18 1C20.77 1 23 3.23 23 6Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "VipSignal__clip0_4482_340", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var VipSignal_default = VipSignal;
+export {
+  VipSignal_default as default
+};

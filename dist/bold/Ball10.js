@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Ball10 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Ball10__clip0_2085_388726)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.1901 8.19C18.1901 11.61 15.4201 14.38 12.0001 14.38C8.58006 14.38 5.81006 11.61 5.81006 8.19C5.81006 4.77 8.58006 2 12.0001 2C15.4201 2 18.1901 4.77 18.1901 8.19Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.42007 16.2398C8.24007 16.0598 8.42007 15.7598 8.67007 15.8398C9.46007 16.1198 10.6001 16.3898 12.0001 16.3898C13.4001 16.3898 14.5401 16.1198 15.3301 15.8398C15.5701 15.7498 15.7601 16.0598 15.5801 16.2398C14.4801 17.3598 12.8201 19.2498 12.2201 20.9798C12.1501 21.1998 11.8501 21.1998 11.7801 20.9798C11.1901 19.2398 9.52007 17.3498 8.42007 16.2398Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Ball10__clip0_2085_388726", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Ball10_default = Ball10;
+export {
+  Ball10_default as default
+};

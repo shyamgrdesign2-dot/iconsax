@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Jackpot = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Jackpot__clip0_4482_6035)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.99 6.44V13.56C21.99 16.48 20.41 17.84 18 17.98C17.85 18 17.7 18 17.55 18H6.44C6.29 18 6.14 18 6 17.98C3.58 17.84 2 16.49 2 13.56V6.44C2 3.33 3.77 2 6.44 2H17.55C20.21 2 21.99 3.33 21.99 6.44Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18 17.9805C18 17.9905 18 17.9905 18 18.0005V21.0005C18 21.5505 17.55 22.0005 17 22.0005H7C6.45 22.0005 6 21.5505 6 21.0005V18.0005C6 17.9905 6 17.9905 6 17.9805C6.14 18.0005 6.29 18.0005 6.44 18.0005H17.55C17.7 18.0005 17.85 18.0005 18 17.9805Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M6.44 12.2498C5.65 12.2498 5 11.5998 5 10.8098V7.19977C5 6.40977 5.65 5.75977 6.44 5.75977C7.23 5.75977 7.88 6.40977 7.88 7.19977V10.8098C7.89 11.5998 7.24 12.2498 6.44 12.2498Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.7801 12.2498C10.9901 12.2498 10.3401 11.5998 10.3401 10.8098V7.19977C10.3401 6.40977 10.9901 5.75977 11.7801 5.75977C12.5701 5.75977 13.22 6.40977 13.22 7.19977V10.8098C13.22 11.5998 12.5701 12.2498 11.7801 12.2498Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.1099 12.2498C16.3199 12.2498 15.6699 11.5998 15.6699 10.8098V7.19977C15.6699 6.40977 16.3199 5.75977 17.1099 5.75977C17.8999 5.75977 18.5499 6.40977 18.5499 7.19977V10.8098C18.5599 11.5998 17.9099 12.2498 17.1099 12.2498Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.5 15H14.5", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Jackpot__clip0_4482_6035", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Jackpot_default = Jackpot;
+export {
+  Jackpot_default as default
+};

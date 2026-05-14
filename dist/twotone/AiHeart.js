@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiHeart = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiHeart__clip0_3111_17516)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.4301 12.13L14.1901 12.42C13.3101 12.63 12.6201 13.32 12.4101 14.2L12.1201 15.44C12.0901 15.57 11.9001 15.57 11.8701 15.44L11.5801 14.2C11.3701 13.32 10.6801 12.63 9.80015 12.42L8.56015 12.13C8.43015 12.1 8.43015 11.91 8.56015 11.88L9.80015 11.59C10.6801 11.38 11.3701 10.69 11.5801 9.81L11.8701 8.57C11.9001 8.44 12.0901 8.44 12.1201 8.57L12.4101 9.81C12.6201 10.69 13.3101 11.38 14.1901 11.59L15.4301 11.88C15.5601 11.91 15.5601 12.1 15.4301 12.13Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M22.4101 8.55C22.4101 9.79 22.2201 10.94 21.8701 12C20.2301 17.21 15.1601 20.32 12.6501 21.17C12.2901 21.3 11.7101 21.3 11.3501 21.17C8.84009 20.32 3.77009 17.21 2.13009 12C1.78009 10.94 1.59009 9.79 1.59009 8.55C1.59009 5.34 4.18009 2.73 7.38009 2.73C9.26009 2.73 10.9501 3.65 12.0001 5.05C13.0501 3.65 14.7401 2.73 16.6201 2.73C19.8201 2.73 22.4101 5.34 22.4101 8.55Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiHeart__clip0_3111_17516", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiHeart_default = AiHeart;
+export {
+  AiHeart_default as default
+};

@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Writing = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Writing__clip0_4482_4239)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.77003 15.2501L3.51002 15.9901C3.01002 16.1501 2.59003 15.8601 2.58003 15.3401L2.50001 12.9601C2.49001 12.6301 2.59004 12.3001 2.78004 12.0301L8.21003 4.27006C8.94003 3.23006 10.38 2.97006 11.42 3.70006C12.46 4.43006 12.72 5.87006 11.99 6.91006L6.56001 14.6701C6.36001 14.9401 6.09003 15.1401 5.77003 15.2501Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.5 19.5703C20.63 20.0503 19.2 20.6703 17.44 20.6403C15.09 20.6003 14.59 19.4503 12.4 19.6003C10.11 19.7603 9.55999 21.0903 7.85999 20.6203C6.73999 20.3103 6.36002 19.5603 5.27002 19.6003C4.39002 19.6303 3.68999 20.1503 3.23999 20.5803", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Writing__clip0_4482_4239", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Writing_default = Writing;
+export {
+  Writing_default as default
+};

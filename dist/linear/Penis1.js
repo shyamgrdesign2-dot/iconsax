@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Penis1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Penis1__clip0_2085_387055)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 8.21977V6.97977C12.02 6.13977 12.25 5.30977 12.67 4.57977L13.08 3.86977C13.19 3.68977 13.25 3.47977 13.25 3.24977C13.25 2.55977 12.69 2.00977 12.01 2.00977C11.33 2.00977 10.77 2.56977 10.77 3.24977C10.77 3.47977 10.83 3.68977 10.94 3.86977L11.35 4.57977C11.77 5.30977 12 6.13977 12.02 6.97977", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.76 12.2799C10.12 12.6999 9.46003 12.8199 8.96003 12.5299C8.07003 12.0099 8.04003 10.3899 8.90003 8.89993C9.74003 7.44993 11.11 6.65993 12.01 7.09993C12.91 6.65993 14.28 7.43993 15.12 8.89993C15.98 10.3899 15.95 12.0099 15.06 12.5299C14.56 12.8199 13.9 12.6999 13.26 12.2799", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.51001 12.6797V18.2597C9.51001 18.9497 8.95001 19.4997 8.26001 19.4997", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.49 12.6797V18.2597C14.49 18.9497 15.05 19.4997 15.74 19.4997", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.51002 17.08C9.26002 17.03 8.99002 17.01 8.72002 17.02C7.27002 17.1 6.01001 18.23 5.81001 19.67C5.72001 20.3 5.82001 20.9 6.06001 21.43C6.22001 21.78 6.58001 21.99 6.97001 21.99H17.03C17.41 21.99 17.78 21.78 17.94 21.43C18.18 20.91 18.28 20.3 18.19 19.67C17.99 18.23 16.73 17.09 15.28 17.02C15.01 17.01 14.74 17.02 14.49 17.08", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.02002 4.49023L8.26002 5.73023", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.98 4.49023L15.74 5.73023", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Penis1__clip0_2085_387055", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Penis1_default = Penis1;
+export {
+  Penis1_default as default
+};

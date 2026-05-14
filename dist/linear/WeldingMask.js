@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const WeldingMask = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#WeldingMask__clip0_4482_8929)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.35998 3.82006H15.63C17.64 3.82006 19.27 5.45006 19.27 7.46006V12.9101C19.27 16.9301 16.01 20.1801 12 20.1801C7.97998 20.1801 4.72998 16.9201 4.72998 12.9101V7.45006C4.72998 5.44006 6.35998 3.81006 8.36998 3.81006L8.35998 3.82006Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.6302 8.36011H8.3602C7.85762 8.36011 7.4502 8.76753 7.4502 9.27011V11.0901C7.4502 11.5927 7.85762 12.0001 8.3602 12.0001H15.6302C16.1328 12.0001 16.5402 11.5927 16.5402 11.0901V9.27011C16.5402 8.76753 16.1328 8.36011 15.6302 8.36011Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.27 7.44995H21.09C21.59 7.44995 22 7.85995 22 8.35995V11.09C22 11.59 21.59 12 21.09 12H19.27", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.73 12H2.91C2.41 12 2 11.59 2 11.09V8.35995C2 7.85995 2.41 7.44995 2.91 7.44995H4.73", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "WeldingMask__clip0_4482_8929", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var WeldingMask_default = WeldingMask;
+export {
+  WeldingMask_default as default
+};

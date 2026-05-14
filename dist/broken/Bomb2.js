@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bomb2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Bomb2__clip0_2085_389947)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.3102 15.7804L6.81021 19.2804L4.72021 17.1904L8.22022 13.6904", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.6999 3.30043C22.4299 5.03043 22.4299 7.85043 20.6999 9.58043L15.5399 14.7404C13.8099 16.4704 10.9899 16.4704 9.2599 14.7404C7.5299 13.0104 7.5299 10.1904 9.2599 8.46043L14.4199 3.30043C16.1499 1.57043 18.9699 1.57043 20.6999 3.30043Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.15003 13.5703L7.93003 13.9803L4.52003 17.3903L2.95003 17.2203C2.06003 17.1203 1.68003 16.0403 2.31003 15.4103L4.15003 13.5703Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.2901 18.5703L10.0201 16.0703L6.81012 19.2803L6.62012 19.4703L6.78012 21.0503C6.88012 21.9303 7.96012 22.3103 8.59012 21.6803L9.36012 20.9103", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.6499 2.9502L21.0499 10.3502", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.91016 7.69043L16.3102 15.0904", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Bomb2__clip0_2085_389947", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Bomb2_default = Bomb2;
+export {
+  Bomb2_default as default
+};

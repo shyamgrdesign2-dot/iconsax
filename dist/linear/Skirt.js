@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Skirt = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Skirt__clip0_4482_4176)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.9 2H15.72C15.86 2 16 2.04 16.11 2.13L18.07 3.6C18.35 3.8 18.42 4.19 18.23 4.48L17.45 5.65C17.33 5.82 17.13 5.93 16.91 5.93H15.95L14.58 9H9.42L8.07001 5.93H7.11C6.89 5.93 6.69001 5.82 6.57001 5.65L5.78999 4.48C5.59999 4.19 5.66 3.8 5.94 3.59L7.9 2.13C8 2.04 8.14 2 8.28 2H10.1L12 4.23L13.9 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19 19.5197C19 20.0697 18.62 20.5997 17.98 20.8597C16.1 21.6197 14.05 21.9997 12 21.9997C10.54 21.9997 9.06998 21.8097 7.66998 21.4097C7.10998 21.2597 6.55999 21.0797 6.01999 20.8597C5.19999 20.5197 4.79999 19.7497 5.09999 19.0397L5.50998 18.0197L7.90999 12.1797L8.10998 12.2197C8.98998 12.3997 9.86998 12.5097 10.76 12.5697C11.48 12.6197 12.2 12.6197 12.92 12.5897C13.92 12.5397 14.91 12.4197 15.89 12.2197L16.09 12.1797L18.49 18.0197L18.9 19.0397C18.97 19.1997 19 19.3597 19 19.5197Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.76 12.5703L7.66998 21.4103", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.09 12.18L15.89 12.22C14.91 12.42 13.92 12.54 12.92 12.59C12.2 12.62 11.48 12.62 10.76 12.57C9.87003 12.51 8.99003 12.4 8.11003 12.22L7.91003 12.18L9.22003 9H14.78L16.09 12.18Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 21.4098L12.92 12.5898", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Skirt__clip0_4482_4176", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Skirt_default = Skirt;
+export {
+  Skirt_default as default
+};

@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiPoweredSupport = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiPoweredSupport__clip0_3111_12912)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.52 20.82H3.35C2.75 20.82 2.27 20.34 2.27 19.74V13.25C2.27 12.65 2.75 12.17 3.35 12.17H5.51C6.11 12.17 6.59 12.65 6.59 13.25V19.74C6.59 20.34 6.11 20.82 5.51 20.82H5.52Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.08 16.49H15.2C15.67 16.49 16.12 16.34 16.5 16.06L19.11 14.1C19.76 13.61 20.68 13.68 21.25 14.25C21.56 14.56 21.73 14.97 21.73 15.41C21.73 15.85 21.56 16.26 21.25 16.57L19.01 18.81C18.41 19.41 17.64 19.83 16.8 19.99L13.63 20.62C13 20.75 12.35 20.73 11.73 20.57L8.86 19.85C8.52 19.76 8.17 19.72 7.81 19.72H6.58", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.09 16.49H14.7C15.13 16.49 15.55 16.32 15.86 16.01C16.17 15.7 16.34 15.29 16.34 14.85V14.52C16.34 13.77 15.83 13.11 15.1 12.93L12.62 12.31C12.22 12.21 11.8 12.16 11.39 12.16C10.39 12.16 9.41001 12.46 8.57001 13.01L6.60001 14.32", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.87 3.17999V7.71999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 7.71999L14.79 3.17999L12.58 7.71999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.13 6.67999H16.46", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiPoweredSupport__clip0_3111_12912", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiPoweredSupport_default = AiPoweredSupport;
+export {
+  AiPoweredSupport_default as default
+};

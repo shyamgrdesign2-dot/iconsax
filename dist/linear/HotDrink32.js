@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HotDrink32 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HotDrink32__clip0_2085_391221)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 19.5098H2C2 20.8798 3.11 21.9998 4.49 21.9998H19.51C20.88 21.9998 22 20.8898 22 19.5098Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.64 14.9504H7.35999C6.25999 14.9504 5.35999 14.0504 5.35999 12.9504V9.90039C5.35999 8.80039 6.25999 7.90039 7.35999 7.90039H16.64C17.74 7.90039 18.64 8.80039 18.64 9.90039V12.9504C18.64 14.0504 17.74 14.9504 16.64 14.9504Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.73 19.5092H8.26C7.11 19.5092 6.19 18.5792 6.19 17.4392V14.9492H17.81V17.4392C17.81 18.5892 16.88 19.5092 15.74 19.5092H15.73Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.64 13.7005L21.07 12.9905C21.6 12.8305 21.96 12.3505 21.96 11.8005V9.97047C21.96 9.28047 21.4 8.73047 20.72 8.73047H18.65", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.83 5.73031C12.83 5.27031 13.2 4.90031 13.66 4.90031H15.32C15.78 4.90031 16.15 4.53031 16.15 4.07031", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.34 3.66C10.34 3.2 10.71 2.83 11.17 2.83H12.83C13.29 2.83 13.66 2.46 13.66 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HotDrink32__clip0_2085_391221", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HotDrink32_default = HotDrink32;
+export {
+  HotDrink32_default as default
+};

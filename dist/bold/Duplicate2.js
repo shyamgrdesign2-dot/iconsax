@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Duplicate2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Duplicate2__clip0_4482_14606)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.24 2 2 4.24 2 7V17C2 19.76 4.24 22 7 22H17C19.76 22 22 19.76 22 17V7C22 4.24 19.76 2 17 2ZM17.11 12.52C17.11 13.62 16.21 14.52 15.11 14.52H14.02V15.57C14.02 16.67 13.12 17.57 12.02 17.57H8.89C7.79 17.57 6.89 16.67 6.89 15.57V11.47C6.89 10.37 7.79 9.47 8.89 9.47H9.95V8.41C9.95 7.31 10.85 6.41 11.95 6.41H15.12C16.22 6.41 17.12 7.31 17.12 8.41V12.51L17.11 12.52Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Duplicate2__clip0_4482_14606", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Duplicate2_default = Duplicate2;
+export {
+  Duplicate2_default as default
+};

@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Drawer = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Drawer__clip0_4482_9506)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.5303 20.8899V21.9999C18.5303 22.4099 18.1903 22.7499 17.7803 22.7499C17.3703 22.7499 17.0303 22.4099 17.0303 21.9999V20.8899H18.5303Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.96973 20.8899V21.9999C6.96973 22.4099 6.63973 22.7499 6.21973 22.7499C5.79973 22.7499 5.46973 22.4099 5.46973 21.9999V20.8899H6.96973Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M19 2H5C3.34315 2 2 3.34315 2 5V17.89C2 19.5469 3.34315 20.89 5 20.89H19C20.6569 20.89 22 19.5469 22 17.89V5C22 3.34315 20.6569 2 19 2Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 10.6899H2V12.1899H22V10.6899Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7797 17.1899H9.21973C8.80973 17.1899 8.46973 16.8499 8.46973 16.4399C8.46973 16.0299 8.80973 15.6899 9.21973 15.6899H14.7797C15.1897 15.6899 15.5297 16.0299 15.5297 16.4399C15.5297 16.8499 15.1897 17.1899 14.7797 17.1899Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7797 8.31006H9.21973C8.80973 8.31006 8.46973 7.97006 8.46973 7.56006C8.46973 7.15006 8.80973 6.81006 9.21973 6.81006H14.7797C15.1897 6.81006 15.5297 7.15006 15.5297 7.56006C15.5297 7.97006 15.1897 8.31006 14.7797 8.31006Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Drawer__clip0_4482_9506", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Drawer_default = Drawer;
+export {
+  Drawer_default as default
+};

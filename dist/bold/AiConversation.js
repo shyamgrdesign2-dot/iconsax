@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiConversation = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiConversation__clip0_3111_12963)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.24 2 2 4.23 2 6.98V13.97C2 16.72 4.24 18.95 7 18.95H8.5C8.77 18.95 9.13 19.13 9.3 19.35L10.8 21.34C11.46 22.22 12.54 22.22 13.2 21.34L14.7 19.35C14.89 19.1 15.19 18.95 15.5 18.95H17C19.76 18.95 22 16.72 22 13.97V6.98C22 4.23 19.76 2 17 2ZM15.96 11.65L14.79 11.97C13.78 12.25 12.98 13.04 12.71 14.05L12.39 15.22C12.29 15.6 11.75 15.6 11.64 15.22L11.32 14.05C11.04 13.04 10.25 12.24 9.24 11.97L8.07 11.65C7.69 11.55 7.69 11.01 8.07 10.9L9.24 10.58C10.25 10.3 11.05 9.51 11.32 8.5L11.64 7.33C11.74 6.95 12.28 6.95 12.39 7.33L12.71 8.5C12.99 9.51 13.78 10.31 14.79 10.58L15.96 10.9C16.34 11 16.34 11.54 15.96 11.65Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiConversation__clip0_3111_12963", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiConversation_default = AiConversation;
+export {
+  AiConversation_default as default
+};

@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Package2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Package2__clip0_4482_14967)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.5498 10.9998V8.5498C6.5498 7.4498 7.4498 6.5498 8.5498 6.5498H9.9998C11.0998 6.5498 11.9998 7.4498 11.9998 8.5498V10.9998", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.55004 12.0002H12V17.4502H9.27004C7.76004 17.4502 6.54004 16.2302 6.54004 14.7202V11.9902L6.55004 12.0002Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13 12H15.45C16.55 12 17.45 12.9 17.45 14V15.45C17.45 16.55 16.55 17.45 15.45 17.45H13V12Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.9998 2H18.5498C17.4498 2 16.5498 2.9 16.5498 4V5.45C16.5498 6.55 17.4498 7.45 18.5498 7.45H19.9998C21.0998 7.45 21.9998 6.55 21.9998 5.45V4C21.9998 2.9 21.0998 2 19.9998 2Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22.75H7C3.83 22.75 1.25 20.17 1.25 17V7C1.25 3.83 3.83 1.25 7 1.25H12C12.41 1.25 12.75 1.59 12.75 2C12.75 2.41 12.41 2.75 12 2.75H7C4.66 2.75 2.75 4.66 2.75 7V17C2.75 19.34 4.66 21.25 7 21.25H17C19.34 21.25 21.25 19.34 21.25 17V12C21.25 11.59 21.59 11.25 22 11.25C22.41 11.25 22.75 11.59 22.75 12V17C22.75 20.17 20.17 22.75 17 22.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Package2__clip0_4482_14967", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Package2_default = Package2;
+export {
+  Package2_default as default
+};

@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const PrivateFile = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#PrivateFile__clip0_4482_1391)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5 2H7.5C5.3 2 3.5 3.8 3.5 6V18C3.5 20.2 5.3 22 7.5 22H16.5C18.7 22 20.5 20.2 20.5 18V6C20.5 3.8 18.7 2 16.5 2ZM11.85 9.47C13.07 9.47 14.06 10.46 14.06 11.67C14.06 12.88 13.07 13.88 11.85 13.88C10.63 13.88 9.64 12.89 9.64 11.67C9.64 10.45 10.64 9.47 11.85 9.47ZM15 18.75C14.59 18.75 14.25 18.41 14.25 18C14.25 17 13.18 16.19 11.86 16.19C10.54 16.19 9.47 17 9.47 18C9.47 18.41 9.13 18.75 8.72 18.75C8.31 18.75 7.97 18.41 7.97 18C7.97 16.17 9.72 14.69 11.86 14.69C14 14.69 15.75 16.18 15.75 18C15.75 18.41 15.41 18.75 15 18.75ZM17.5 8.75H16.5C14.98 8.75 13.75 7.52 13.75 6V5C13.75 4.59 14.09 4.25 14.5 4.25C14.91 4.25 15.25 4.59 15.25 5V6C15.25 6.69 15.81 7.25 16.5 7.25H17.5C17.91 7.25 18.25 7.59 18.25 8C18.25 8.41 17.91 8.75 17.5 8.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "PrivateFile__clip0_4482_1391", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var PrivateFile_default = PrivateFile;
+export {
+  PrivateFile_default as default
+};

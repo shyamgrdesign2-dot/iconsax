@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HomeSecurity = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HomeSecurity__clip0_4482_8143)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.9696 7.14999L15.1196 3.26999C13.2896 1.80999 10.6996 1.80999 8.86965 3.26999L4.01965 7.14999C2.82965 8.09999 2.13965 9.53999 2.13965 11.05V17C2.13965 19.76 4.37965 22 7.13965 22H16.8296C19.5896 22 21.8296 19.76 21.8296 17V11.05C21.8296 9.52999 21.1397 8.08999 19.9496 7.14999H19.9696ZM12.7196 14.76C12.7196 14.76 12.7496 14.85 12.7496 14.89V17.08C12.7496 17.49 12.4096 17.83 11.9996 17.83C11.5896 17.83 11.2496 17.49 11.2496 17.08V14.89C11.2496 14.89 11.2696 14.8 11.2796 14.76C10.4296 14.46 9.81965 13.66 9.81965 12.7C9.81965 11.49 10.7996 10.51 12.0096 10.51C13.2196 10.51 14.1996 11.49 14.1996 12.7C14.1996 13.65 13.5896 14.46 12.7396 14.76H12.7196Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HomeSecurity__clip0_4482_8143", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HomeSecurity_default = HomeSecurity;
+export {
+  HomeSecurity_default as default
+};

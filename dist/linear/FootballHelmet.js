@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FootballHelmet = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FootballHelmet__clip0_2085_386613)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.78999 16.2098C8.6626 16.2098 9.36999 15.5024 9.36999 14.6298C9.36999 13.7572 8.6626 13.0498 7.78999 13.0498C6.91738 13.0498 6.20999 13.7572 6.20999 14.6298C6.20999 15.5024 6.91738 16.2098 7.78999 16.2098Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.74 15.1599H20.95C21.53 15.1599 22 15.6299 22 16.2099V20.4199C22 20.9999 21.53 21.4699 20.95 21.4699H18.84C17.1 21.4699 15.68 20.0599 15.68 18.3099V16.1999C15.68 15.6199 16.15 15.1499 16.73 15.1499L16.74 15.1599Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 18.3198H15.68", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.68 16.2098L15.74 11.0898", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.53999 2.74002C5.07999 3.75002 1.93999 7.74002 1.99999 12.32V12.96C1.97999 14.93 2.74999 16.83 4.12999 18.23C5.50999 19.63 7.39999 20.42 9.36999 20.43C11.11 20.43 12.53 19.02 12.53 17.27V13.59C12.53 12.65 13.15 11.83 14.06 11.57L19.72 9.97002C20.01 9.89002 20.25 9.69002 20.38 9.42002C20.51 9.15002 20.53 8.84002 20.42 8.56002C18.71 4.22002 14.11 1.75002 9.53999 2.72002V2.74002Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.95 15.1602H12.53", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FootballHelmet__clip0_2085_386613", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FootballHelmet_default = FootballHelmet;
+export {
+  FootballHelmet_default as default
+};

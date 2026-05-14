@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CricketBat = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CricketBat__clip0_2085_386762)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.76 17.2796C9.91997 18.7396 8.04997 19.2396 6.58997 18.3996C5.12997 17.5596 4.62997 15.6896 5.46997 14.2296C5.88997 13.4996 5.63997 12.5596 4.90997 12.1396C4.16997 11.7196 3.23997 11.9696 2.81997 12.6996C1.13997 15.6196 2.13997 19.3496 5.05997 21.0396C7.97997 22.7196 11.71 21.7196 13.4 18.7996L18.71 9.59956M20.33 6.79956L21.8 4.25956C22.22 3.52956 21.97 2.59956 21.24 2.16956C20.51 1.74956 19.58 1.99956 19.15 2.72956L17.71 5.22956M20.33 6.79956L18.71 9.59956M20.33 6.79956L17.71 5.22956M17.71 5.22956L16.09 8.02956M18.71 9.59956L16.09 8.02956M16.09 8.02956L10.75 17.2796M21.85 19.2696C21.85 20.6796 20.71 21.8096 19.31 21.8096C17.91 21.8096 16.77 20.6696 16.77 19.2696C16.77 17.8696 17.91 16.7296 19.31 16.7296C20.71 16.7296 21.85 17.8696 21.85 19.2696Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CricketBat__clip0_2085_386762", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CricketBat_default = CricketBat;
+export {
+  CricketBat_default as default
+};

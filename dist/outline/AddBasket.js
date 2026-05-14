@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AddBasket = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AddBasket__clip0_4482_3536)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 22.75H8C4.83 22.75 2.25 20.17 2.25 17V12C2.25 8.83 4.83 6.25 8 6.25H16C19.17 6.25 21.75 8.83 21.75 12V17C21.75 20.17 19.17 22.75 16 22.75ZM8 7.75C5.66 7.75 3.75 9.66 3.75 12V17C3.75 19.34 5.66 21.25 8 21.25H16C18.34 21.25 20.25 19.34 20.25 17V12C20.25 9.66 18.34 7.75 16 7.75H8Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.1998 7.75C14.7898 7.75 14.4498 7.41 14.4498 7V5.2C14.4498 3.85 13.3498 2.75 11.9998 2.75C10.6498 2.75 9.5498 3.85 9.5498 5.2V7C9.5498 7.41 9.2098 7.75 8.7998 7.75C8.3898 7.75 8.0498 7.41 8.0498 7V5.2C8.0498 3.02 9.8198 1.25 11.9998 1.25C14.1798 1.25 15.9498 3.02 15.9498 5.2V7C15.9498 7.42 15.6098 7.75 15.1998 7.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.25 15.25H9.75C9.34 15.25 9 14.91 9 14.5C9 14.09 9.34 13.75 9.75 13.75H14.25C14.66 13.75 15 14.09 15 14.5C15 14.91 14.66 15.25 14.25 15.25Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 17.5C11.59 17.5 11.25 17.16 11.25 16.75V12.25C11.25 11.84 11.59 11.5 12 11.5C12.41 11.5 12.75 11.84 12.75 12.25V16.75C12.75 17.16 12.41 17.5 12 17.5Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AddBasket__clip0_4482_3536", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AddBasket_default = AddBasket;
+export {
+  AddBasket_default as default
+};

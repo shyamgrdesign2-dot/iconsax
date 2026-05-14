@@ -1,0 +1,44 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Starship3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Starship3__clip0_2085_389633)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.34009 11.5199V9.66992", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M7.33993 11.5198L3.14993 14.6598C2.85993 14.8798 2.67993 15.2298 2.67993 15.5898V19.6698C2.67993 20.3098 3.19993 20.8298 3.83993 20.8298H7.32993V11.5098L7.33993 11.5198Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M7.34001 11.5195L5.01001 13.2595", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16.6599 11.5198L20.8499 14.6598C21.1399 14.8798 21.3199 15.2298 21.3199 15.5898V19.6698C21.3199 20.3098 20.7999 20.8298 20.1599 20.8298H16.6699V11.5098L16.6599 11.5198Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16.6599 11.5195L18.9899 13.2595", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.6599 11.5199V9.66992", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12 15.0098V19.6698", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.25 8.02022L11.35 7.29021C11.74 7.03021 12.25 7.03021 12.64 7.29021L13.74 8.02022", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.3501 2.68006L8.02009 5.01006C7.58009 5.45006 7.34009 6.04006 7.34009 6.66006V19.6701C7.34009 20.9601 8.38009 22.0001 9.67009 22.0001H14.3301C15.6201 22.0001 16.6601 20.9601 16.6601 19.6701V6.66006C16.6601 6.04006 16.4101 5.45006 15.9801 5.01006L13.6501 2.68006C12.7401 1.77006 11.2701 1.77006 10.3601 2.68006H10.3501Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Starship3__clip0_2085_389633", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Starship3_default = Starship3;
+export {
+  Starship3_default as default
+};

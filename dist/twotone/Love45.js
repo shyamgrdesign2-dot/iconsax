@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Love45 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Love45__clip0_2085_392273)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.28998 6.08984C8.85998 6.08984 8.47998 6.27984 8.21998 6.57984C7.95998 6.27984 7.57998 6.08984 7.14998 6.08984C6.35998 6.08984 5.72998 6.72984 5.72998 7.50984C5.72998 9.07984 8.21998 10.3498 8.21998 10.3498C8.21998 10.3498 10.71 9.07984 10.71 7.50984C10.71 6.71984 10.07 6.08984 9.28998 6.08984Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.26 9.73977C14.38 9.25977 14.45 8.74976 14.45 8.22976C14.45 4.78976 11.66 2.00977 8.23001 2.00977C4.80001 2.00977 2.01001 4.79976 2.01001 8.22976C2.01001 9.97976 2.74001 11.5598 3.90001 12.6898L2.84001 14.4598H8.23001C8.75001 14.4598 9.26001 14.3998 9.74001 14.2698", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.71 13.6396C15.14 13.6396 15.52 13.8296 15.78 14.1296C16.04 13.8296 16.42 13.6396 16.85 13.6396C17.64 13.6396 18.27 14.2796 18.27 15.0596C18.27 16.6296 15.78 17.9096 15.78 17.9096C15.78 17.9096 13.29 16.6396 13.29 15.0596C13.29 14.2696 13.93 13.6396 14.71 13.6396Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0001 15.7796C22.0001 12.3396 19.2101 9.55957 15.7801 9.55957C12.3501 9.55957 9.56006 12.3496 9.56006 15.7796C9.56006 19.2096 12.3501 21.9996 15.7801 21.9996H21.1701L20.1101 20.2296C21.2701 19.0996 22.0001 17.5196 22.0001 15.7696V15.7796Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Love45__clip0_2085_392273", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Love45_default = Love45;
+export {
+  Love45_default as default
+};

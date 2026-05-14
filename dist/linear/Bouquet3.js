@@ -1,0 +1,46 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bouquet3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Bouquet3__clip0_2085_391041)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.61 14.9896C17.17 16.7196 13.49 17.8996 9.69 18.4996L9.30001 18.5596C8.55001 19.3096 7.06001 20.3596 5.95001 21.0996C5.16001 21.6296 4.10001 21.5296 3.43001 20.8496L3.15001 20.5696C2.47001 19.8896 2.37001 18.8396 2.90001 18.0496C3.64001 16.9396 4.69001 15.4496 5.44001 14.6996L5.50001 14.3096C5.80001 12.4096 6.25001 10.5396 6.83001 8.70965C7.42001 6.87965 8.15001 5.09965 9.01001 3.38965", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.27 19.5305L4.47 13.7305", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.81 12.4C21.46 11.79 21.83 10.92 21.8 10.01C21.02 9.53 20.09 9.42 19.23 9.68", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.6 3.1997C12.21 2.5497 13.08 2.1797 13.99 2.2097C14.47 2.9897 14.58 3.9197 14.32 4.7797", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.25 14.7405L22 13.7305C21.08 12.1405 19.38 11.4105 18.19 12.1005C19.01 11.6205 19.37 10.5905 19.21 9.48047", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.42 9.90039C14.58 10.5504 14.13 11.5504 14.15 12.5704", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.52 4.79C13.4 4.63 12.37 4.99 11.9 5.81C12.59 4.62 11.86 2.91 10.27 2L9.26001 3.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.43 9.85008C12.45 9.87008 13.45 9.41008 14.1 8.58008", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.98 3.79027C18.74 3.32027 19.67 3.19027 20.55 3.45027C20.81 4.33027 20.67 5.26027 20.21 6.02027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.49 9.20021L20.88 7.81021C21.36 7.33021 21.24 6.52021 20.63 6.21021C19.52 5.64021 18.32 5.68021 17.59 6.41021C18.32 5.68021 18.35 4.47021 17.79 3.37021C17.48 2.77021 16.67 2.65021 16.19 3.12021L14.66 4.65021C13.32 5.99021 13.37 8.18021 14.79 9.47021C16.13 10.6702 18.22 10.4902 19.49 9.21021V9.20021Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.43 12.5797C14.47 12.2697 17.59 12.9897 20.24 14.7397L20.62 14.9897C17.18 16.7197 13.5 17.8997 9.70001 18.4997L9.31001 18.5597", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.31 18.5599L5.44 14.6899L5.5 14.2999C6.1 10.4999 7.29 6.81988 9.01 3.37988L9.26 3.75988C12.22 8.23988 12.23 14.0499 9.3 18.5499L9.31 18.5599Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Bouquet3__clip0_2085_391041", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Bouquet3_default = Bouquet3;
+export {
+  Bouquet3_default as default
+};

@@ -1,0 +1,44 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Walkie = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Walkie__clip0_2085_390007)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.4802 18.5696L13.1902 17.8596C13.5902 17.4596 14.1302 17.2296 14.6902 17.2296C15.2502 17.2296 15.7902 17.0096 16.1902 16.6096L19.0902 13.7096C19.5802 13.2296 19.5802 12.4396 19.0902 11.9496L17.3302 10.1896L15.5702 8.42957L13.8102 6.66957C13.3202 6.18957 12.5402 6.18957 12.0502 6.66957L9.15019 9.56957C8.93019 9.78957 8.77019 10.0496 8.66019 10.3296C8.58019 10.5696 8.53019 10.8196 8.53019 11.0696C8.53019 11.6396 8.30019 12.1796 7.91019 12.5796L7.6502 12.8296L5.8902 14.5896L4.1302 16.3496C3.6402 16.8396 3.6402 17.6296 4.1302 18.1096L7.6502 21.6396C8.1202 22.0996 8.87019 22.1196 9.36019 21.6796", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.5701 8.43016L13.8101 6.67016L15.5701 4.91016L17.3301 6.67016L15.5701 8.43016Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.2402 2L16.4502 5.79", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.0901 8.42969L17.3301 10.1897", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6904 14.5896L11.1704 11.0696L12.9304 9.30957L16.4504 12.8296L14.6904 14.5896Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.89037 14.5898L4.13037 12.8298L6.77037 10.1898C7.26037 9.69977 8.04037 9.69977 8.53037 10.1898L8.66037 10.3198", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.89014 11.0703L7.65014 12.8303", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.7304 14.1498C10.4904 14.3898 10.0904 14.3898 9.85041 14.1498C9.61041 13.9098 9.61041 13.5098 9.85041 13.2698C10.0904 13.0298 10.4904 13.0298 10.7304 13.2698C10.9704 13.5098 10.9704 13.9098 10.7304 14.1498Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.4902 15.9204C12.2502 16.1604 11.8502 16.1604 11.6102 15.9204C11.3702 15.6804 11.3702 15.2804 11.6102 15.0404C11.8502 14.8004 12.2502 14.8004 12.4902 15.0404C12.7302 15.2804 12.7302 15.6804 12.4902 15.9204Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.53027 15.4697L10.2903 17.2297", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.77002 17.2305L8.53002 18.9905", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Walkie__clip0_2085_390007", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Walkie_default = Walkie;
+export {
+  Walkie_default as default
+};

@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Ghost2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Ghost2__clip0_2085_381023)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33008 22C5.33008 20.77 6.32008 19.78 7.55008 19.78C8.78008 19.78 9.77008 20.77 9.77008 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.77979 22C9.77979 20.77 10.7698 19.78 11.9998 19.78C13.2298 19.78 14.2198 20.77 14.2198 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2202 22C14.2202 20.77 15.2102 19.78 16.4402 19.78C17.6702 19.78 18.6602 20.77 18.6602 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.83008 12H4.56008C4.98008 12 5.33008 11.66 5.33008 11.23V8.67C5.33008 4.99 8.31008 2 12.0001 2C15.6901 2 18.6701 4.98 18.6701 8.67V11.23C18.6701 11.65 19.0101 12 19.4401 12H20.1701C20.7401 12 21.1001 12.62 20.8301 13.12L20.2001 14.26C19.7901 14.99 19.5901 15.35 19.4301 15.73C19.0401 16.61 18.8001 17.54 18.7101 18.49C18.6701 18.9 18.6701 19.32 18.6701 20.15V22.01", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.32982 22V20.14C5.32982 19.31 5.32982 18.89 5.28982 18.48C5.19982 17.53 4.95982 16.59 4.56982 15.72", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.66992 13.1101L9.57992 14.0201C9.68992 14.1301 9.85992 14.1301 9.96992 14.0201L10.6899 13.3001C10.7999 13.1901 10.9699 13.1901 11.0799 13.3001L11.7999 14.0201C11.9099 14.1301 12.0799 14.1301 12.1899 14.0201L12.9099 13.3001C13.0199 13.1901 13.1899 13.1901 13.2999 13.3001L14.0199 14.0201C14.1299 14.1301 14.2999 14.1301 14.4099 14.0201L15.3199 13.1101", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.68982 8.20996C8.47982 8.32996 8.28982 8.49996 8.15982 8.72996C7.77982 9.38996 8.00982 10.22 8.65982 10.6C9.30982 10.98 10.1498 10.75 10.5298 10.1C10.6598 9.86996 10.7198 9.62996 10.7098 9.37996L8.67982 8.20996H8.68982Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.36 8.23999C15.55 8.35999 15.72 8.51999 15.84 8.72999C16.22 9.38999 15.99 10.22 15.34 10.6C14.69 10.98 13.85 10.75 13.47 10.1C13.35 9.88999 13.29 9.66999 13.29 9.43999L15.37 8.23999H15.36Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Ghost2__clip0_2085_381023", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Ghost2_default = Ghost2;
+export {
+  Ghost2_default as default
+};

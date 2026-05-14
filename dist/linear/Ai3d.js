@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Ai3d = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Ai3d__clip0_3111_12163)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.96 4.85999L20.99 5.08999C20.3 5.24999 19.75 5.78999 19.59 6.48998L19.36 7.45999C19.34 7.55999 19.19 7.55999 19.16 7.45999L18.93 6.48998C18.77 5.79998 18.23 5.24999 17.53 5.08999L16.56 4.85999C16.46 4.83999 16.46 4.68999 16.56 4.65999L17.53 4.42999C18.22 4.26999 18.77 3.72999 18.93 3.02999L19.16 2.05999C19.18 1.95999 19.33 1.95999 19.36 2.05999L19.59 3.02999C19.75 3.71999 20.29 4.26999 20.99 4.42999L21.96 4.65999C22.06 4.67999 22.06 4.82999 21.96 4.85999Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 10.12V17C22 19.75 19.75 22 17 22H7C4.25 22 2 19.75 2 17V7C2 4.25 4.25 2 7 2H14.83", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.32999 11.52C7.49999 10.89 8.06999 10.46 8.71999 10.45C9.52999 10.45 10.18 11.11 10.18 11.92C10.18 12.64 9.58999 13.23 8.86999 13.23C9.58999 13.23 10.18 13.82 10.18 14.54C10.18 15.35 9.51999 16 8.71999 16C8.06999 16 7.49999 15.56 7.32999 14.93", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.53 16.01H12.96V10.45H14.53C15.71 10.45 16.67 11.41 16.67 12.59V13.87C16.67 15.05 15.71 16.01 14.53 16.01Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Ai3d__clip0_3111_12163", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Ai3d_default = Ai3d;
+export {
+  Ai3d_default as default
+};

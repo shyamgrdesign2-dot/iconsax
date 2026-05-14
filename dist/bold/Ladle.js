@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Ladle = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Ladle__clip0_4482_14409)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.96957 13.43V5.33C9.96957 3.04 8.17957 1.25 5.88957 1.25C3.59957 1.25 1.80957 3.04 1.80957 5.33C1.80957 5.74 2.14957 6.08 2.55957 6.08C2.96957 6.08 3.30957 5.74 3.30957 5.33C3.30957 3.86 4.41957 2.75 5.88957 2.75C7.35957 2.75 8.46957 3.86 8.46957 5.33V15.89C8.46957 19.61 11.6096 22.75 15.3296 22.75C19.0496 22.75 22.1896 19.61 22.1896 15.89V15.33C22.1896 12.23 13.5296 11.6 9.96957 13.43ZM15.3296 16.81C11.8496 16.81 9.96957 15.76 9.96957 15.33C9.96957 14.9 11.8496 13.86 15.3296 13.86C18.8096 13.86 20.6896 14.9 20.6896 15.33C20.6896 15.76 18.8096 16.81 15.3296 16.81Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Ladle__clip0_4482_14409", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Ladle_default = Ladle;
+export {
+  Ladle_default as default
+};

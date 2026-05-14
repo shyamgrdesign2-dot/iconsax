@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const TildeSymbol = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#TildeSymbol__clip0_4482_8016)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.0404 14.15C14.4604 14.15 13.8704 13.99 13.3604 13.69L9.87043 11.6C9.33043 11.27 8.64043 11.27 8.09043 11.58C7.54043 11.89 7.19043 12.48 7.19043 13.12C7.19043 13.53 6.85043 13.87 6.44043 13.87C6.03043 13.87 5.69043 13.53 5.69043 13.12C5.69043 11.95 6.32043 10.86 7.35043 10.28C8.37043 9.69996 9.63043 9.71996 10.6404 10.32L14.1304 12.41C14.6804 12.74 15.3604 12.74 15.9104 12.43C16.4604 12.12 16.8104 11.53 16.8104 10.89C16.8104 10.48 17.1504 10.14 17.5604 10.14C17.9704 10.14 18.3104 10.48 18.3104 10.89C18.3104 12.06 17.6804 13.15 16.6504 13.73C16.1504 14.01 15.6004 14.15 15.0404 14.15Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.23858 2 2 4.23858 2 7V17C2 19.7614 4.23858 22 7 22H17C19.7614 22 22 19.7614 22 17V7C22 4.23858 19.7614 2 17 2Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "TildeSymbol__clip0_4482_8016", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var TildeSymbol_default = TildeSymbol;
+export {
+  TildeSymbol_default as default
+};

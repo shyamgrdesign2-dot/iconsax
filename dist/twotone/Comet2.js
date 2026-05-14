@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Comet2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Comet2__clip0_2085_389589)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.8901 20.8901L15.3301 15.3301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3301 21.9998L13.1101 19.7798", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 15.3299L19.78 13.1099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.6901 15.6801L11.8701 11.8801L15.6701 10.7001C15.9901 10.6001 16.2201 10.3301 16.2701 10.0101C16.3201 9.68009 16.1801 9.36009 15.9101 9.16009L12.6601 6.86009L12.7101 2.88009C12.7101 2.55009 12.5301 2.25009 12.2401 2.09009C11.9501 1.94009 11.5901 1.97009 11.3301 2.17009L8.14009 4.55009L4.37009 3.27009C4.06009 3.16009 3.71009 3.24009 3.48009 3.48009C3.25009 3.71009 3.17009 4.06009 3.27009 4.37009L4.55009 8.14009L2.17009 11.3301C1.97009 11.6001 1.94009 11.9501 2.09009 12.2401C2.24009 12.5301 2.54009 12.7201 2.88009 12.7101L6.86009 12.6601L9.16009 15.9101C9.35009 16.1801 9.68009 16.3201 10.0101 16.2701C10.3401 16.2201 10.6101 15.9901 10.7001 15.6701L10.6901 15.6801Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Comet2__clip0_2085_389589", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Comet2_default = Comet2;
+export {
+  Comet2_default as default
+};

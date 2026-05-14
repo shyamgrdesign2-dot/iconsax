@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Dildo42 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Dildo42__clip0_2085_390035)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.6699 10.67C11.6699 10.67 10.7299 9.73 10.1399 9.14C9.83992 8.84 9.42992 8.67 8.99992 8.67C8.64992 8.67 8.30992 8.81 8.05992 9.06C7.80992 9.31 7.66992 9.65 7.66992 10C7.66992 11.06 8.08992 12.08 8.83992 12.83C9.58992 13.58 10.6099 14 11.6699 14V16.67H16.3399V5.33C16.3399 3.49 14.8499 2 13.0099 2C12.3699 2 11.7599 2.3 11.3699 2.8C10.9699 3.31 10.8299 3.96 10.9899 4.59C11.3299 5.95 11.6799 7.34 11.6799 7.34V10.67H11.6699Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.3299 16.6699H11.6599V19.6699C11.6599 20.9599 12.6999 21.9999 13.9899 21.9999C15.2799 21.9999 16.3199 20.9599 16.3199 19.6699V16.6699H16.3299Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Dildo42__clip0_2085_390035", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Dildo42_default = Dildo42;
+export {
+  Dildo42_default as default
+};

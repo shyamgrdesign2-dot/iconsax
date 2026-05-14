@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Heart26 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Heart26__clip0_2085_392321)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 21.9997C10.87 21.9997 9.95996 21.0897 9.95996 19.9597V19.4297H14.04V19.9597C14.04 21.0897 13.13 21.9997 12 21.9997Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.9298 8.44006L13.9798 7.97006C13.7898 7.87006 13.5598 7.91006 13.3998 8.06006L12.3498 9.11006C12.1498 9.31006 11.8398 9.31006 11.6398 9.11006L10.5898 8.06006C10.4398 7.91006 10.2098 7.87006 10.0098 7.97006L9.05976 8.44006C8.83976 8.55006 8.72976 8.81006 8.80976 9.05006L11.1598 16.0001H12.8198L15.1698 9.05006C15.2498 8.81006 15.1398 8.55006 14.9198 8.44006H14.9298Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.29996 16.01C5.61996 14.01 2.45996 10.92 2.45996 7.45C2.45996 4.44 4.89996 2 7.90996 2C9.54996 2 11 2.74 12 3.88C13 2.74 14.45 2 16.09 2C19.1 2 21.54 4.44 21.54 7.45C21.54 8.73 21.11 9.96 20.43 11.1", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.4702 13.5996C17.5902 14.5096 16.6202 15.3196 15.7002 16.0096", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.2998 16.0098V17.7698C8.2998 18.6898 9.0398 19.4298 9.9598 19.4298H14.0398C14.9598 19.4298 15.6998 18.6898 15.6998 17.7698V16.0098H8.2998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Heart26__clip0_2085_392321", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Heart26_default = Heart26;
+export {
+  Heart26_default as default
+};

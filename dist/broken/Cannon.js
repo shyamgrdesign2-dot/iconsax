@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cannon = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cannon__clip0_2085_389953)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.6401 8.67988L21.5801 6.52988C22.0401 6.19988 22.1401 5.54988 21.8001 5.09988L21.5001 4.69988C21.1701 4.24988 20.5301 4.14988 20.0801 4.47988L17.1201 6.63988", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7199 13.1402L18.4999 10.3402C18.9499 10.0002 19.0499 9.37019 18.7099 8.91019L16.8999 6.47019C16.5599 6.02019 15.9299 5.92019 15.4699 6.26019L7.91992 11.8502", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.29 16.1201H4.5C3.12 16.1201 2 17.2401 2 18.6201V18.6601H7.7", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.7102 18.5694C14.5702 17.7694 15.1102 16.6194 15.1102 15.3494C15.1102 12.8994 13.1102 10.8994 10.6702 10.8994C9.75022 10.8994 8.89021 11.1794 8.19021 11.6594C8.10021 11.7194 8.02022 11.7794 7.94022 11.8394C6.89022 12.6594 6.22021 13.9294 6.22021 15.3494C6.22021 15.6094 6.24022 15.8694 6.29022 16.1194C6.47022 17.1194 6.97021 17.9994 7.70021 18.6594C8.17021 19.0794 8.74021 19.3994 9.36021 19.5894", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.6699 16.6201C9.9699 16.6201 9.3999 16.0501 9.3999 15.3501C9.3999 14.6501 9.9699 14.0801 10.6699 14.0801C11.3699 14.0801 11.9399 14.6501 11.9399 15.3501C11.9399 16.0501 11.3699 16.6201 10.6699 16.6201Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cannon__clip0_2085_389953", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cannon_default = Cannon;
+export {
+  Cannon_default as default
+};

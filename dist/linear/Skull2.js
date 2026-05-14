@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Skull2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Skull2__clip0_2085_382220)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.89 10.89C20.89 5.98 16.91 2 12 2C7.08999 2 3.10999 5.98 3.10999 10.89V11.64C3.10999 13.25 3.91999 14.76 5.25999 15.65L5.60999 15.89C6.12999 16.24 6.43999 16.82 6.43999 17.45V18.45C6.43999 19.69 6.43999 20.32 6.67999 20.79C6.88999 21.21 7.22999 21.55 7.64999 21.76C8.12999 22 8.74999 22 9.98999 22H13.99C15.23 22 15.86 22 16.33 21.76C16.75 21.55 17.09 21.21 17.3 20.79C17.54 20.31 17.54 19.69 17.54 18.45V17.45C17.54 16.82 17.85 16.24 18.37 15.89L18.72 15.65C20.06 14.76 20.87 13.25 20.87 11.64V10.89H20.89Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.22 19.22H9.78003", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.55002 13.6201C9.73744 13.6201 10.7 12.6575 10.7 11.4701C10.7 10.2827 9.73744 9.32007 8.55002 9.32007C7.36261 9.32007 6.40002 10.2827 6.40002 11.4701C6.40002 12.6575 7.36261 13.6201 8.55002 13.6201Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.45 13.6201C16.6374 13.6201 17.6 12.6575 17.6 11.4701C17.6 10.2827 16.6374 9.32007 15.45 9.32007C14.2626 9.32007 13.3 10.2827 13.3 11.4701C13.3 12.6575 14.2626 13.6201 15.45 13.6201Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.11 16.4401L12.71 16.0401C12.32 15.6501 11.69 15.6501 11.3 16.0401L10.9 16.4401", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Skull2__clip0_2085_382220", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Skull2_default = Skull2;
+export {
+  Skull2_default as default
+};

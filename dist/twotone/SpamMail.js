@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SpamMail = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SpamMail__clip0_4482_6194)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M2 5.56055C2 6.22055 2.34997 6.83055 2.90997 7.17055L9.92999 11.3806C10.82 11.9106 11.93 11.9106 12.82 11.3806L19.84 7.17055C20.4 6.83055 20.75 6.22055 20.75 5.56055", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.75 6V13C20.75 13.48 20.66 13.94 20.51 14.37L20.19 14.05C19.84 13.7 19.36 13.5 18.86 13.5H16.64C16.14 13.5 15.66 13.7 15.31 14.05L14.05 15.31C13.7 15.66 13.5 16.14 13.5 16.64V17H6C3.8 17 2 15.2 2 13V6C2 3.8 3.8 2 6 2H16.75C18.95 2 20.75 3.8 20.75 6Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 16.64V18.86C22 19.36 21.8 19.84 21.45 20.19L20.19 21.45C19.84 21.8 19.36 22 18.86 22H16.64C16.14 22 15.66 21.8 15.31 21.45L14.05 20.19C13.7 19.84 13.5 19.36 13.5 18.86V16.64C13.5 16.14 13.7 15.66 14.05 15.31L15.31 14.05C15.66 13.7 16.14 13.5 16.64 13.5H18.86C19.36 13.5 19.84 13.7 20.19 14.05L21.45 15.31C21.8 15.66 22 16.14 22 16.64Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.75 17.5799V15.9199", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.75 19.5002V19.4902", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SpamMail__clip0_4482_6194", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SpamMail_default = SpamMail;
+export {
+  SpamMail_default as default
+};

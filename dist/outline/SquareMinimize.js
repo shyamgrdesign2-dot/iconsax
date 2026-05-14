@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareMinimize = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareMinimize__clip0_4482_3301)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18 10.75H15.3301C14.1801 10.75 13.25 9.82 13.25 8.67V6C13.25 5.59 13.59 5.25 14 5.25C14.41 5.25 14.75 5.59 14.75 6V8.67C14.75 8.99 15.0101 9.25 15.3301 9.25H18C18.41 9.25 18.75 9.59 18.75 10C18.75 10.41 18.41 10.75 18 10.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10 18.75C9.59 18.75 9.25 18.41 9.25 18V15.33C9.25 15.01 8.98992 14.75 8.66992 14.75H6C5.59 14.75 5.25 14.41 5.25 14C5.25 13.59 5.59 13.25 6 13.25H8.66992C9.81992 13.25 10.75 14.18 10.75 15.33V18C10.75 18.41 10.41 18.75 10 18.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22.75H7C3.83 22.75 1.25 20.17 1.25 17V7C1.25 3.83 3.83 1.25 7 1.25H17C20.17 1.25 22.75 3.83 22.75 7V17C22.75 20.17 20.17 22.75 17 22.75ZM7 2.75C4.66 2.75 2.75 4.66 2.75 7V17C2.75 19.34 4.66 21.25 7 21.25H17C19.34 21.25 21.25 19.34 21.25 17V7C21.25 4.66 19.34 2.75 17 2.75H7Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareMinimize__clip0_4482_3301", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareMinimize_default = SquareMinimize;
+export {
+  SquareMinimize_default as default
+};

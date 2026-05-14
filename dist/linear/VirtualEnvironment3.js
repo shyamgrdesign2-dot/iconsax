@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const VirtualEnvironment3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#VirtualEnvironment3__clip0_2085_382423)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.08 20.2798V7.52982C20.73 7.02982 21.74 6.35982 21.74 5.61982C21.74 4.06982 17.26 2.81982 11.74 2.81982C6.21999 2.81982 1.73999 4.06982 1.73999 5.61982C1.73999 6.35982 2.74999 7.02982 4.39999 7.52982V20.2798", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.73999 5.6499V18.3799C1.73999 19.9299 6.21999 21.1799 11.74 21.1799C17.26 21.1799 21.74 19.9199 21.74 18.3799V5.6699", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.74 11.8999C21.74 12.6399 20.73 13.3199 19.08 13.8299", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.19998 3.13965V6.31965", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.29 3.13965V6.31965", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.73999 11.8999C1.73999 12.6399 2.74999 13.3199 4.40999 13.8299", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.26001 17.0998C8.91001 15.4498 11.6 15.4498 13.25 17.0998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.49 8.91993C15.21 9.64993 16.11 11.5299 15.6 13.3299L15.57 13.4399C15.5 13.6899 15.33 13.8899 15.1 13.9999C14.87 14.1099 14.61 14.1099 14.37 14.0099L9.21002 11.8199C8.98002 11.7199 8.80002 11.5299 8.72002 11.2899C8.64002 11.0499 8.66002 10.7899 8.79002 10.5699L8.85002 10.4599C9.78002 8.84993 11.77 8.17993 13.48 8.90993L13.49 8.91993Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.82 12.9199L10.57 15.8699", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "VirtualEnvironment3__clip0_2085_382423", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var VirtualEnvironment3_default = VirtualEnvironment3;
+export {
+  VirtualEnvironment3_default as default
+};

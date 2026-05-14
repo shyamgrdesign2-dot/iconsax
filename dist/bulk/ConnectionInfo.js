@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ConnectionInfo = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ConnectionInfo__clip0_4482_7929)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M2.52007 10.62C1.78007 9.80001 1.83007 8.54001 2.64007 7.79001C5.16007 5.38001 8.51007 4.02001 11.9901 4.01001C15.4801 4.03001 18.8301 5.38001 21.3401 7.79001C22.1501 8.54001 22.2001 9.80001 21.4601 10.62L13.4601 19.35C13.0801 19.76 12.5501 20 11.9901 20C11.4301 20 10.8901 19.77 10.5201 19.35L2.52007 10.62Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 14.75C11.59 14.75 11.25 14.41 11.25 14V11C11.25 10.59 11.59 10.25 12 10.25C12.41 10.25 12.75 10.59 12.75 11V14C12.75 14.41 12.41 14.75 12 14.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.8804 8.13002C12.8804 8.33002 12.7604 8.62002 12.6104 8.76002C12.4604 8.91002 12.2404 9.00002 12.0104 9.00002H12.0004C11.6404 9.00002 11.3304 8.79002 11.1904 8.46002C11.0604 8.14002 11.1304 7.77002 11.3704 7.52002C11.6304 7.26002 12.0004 7.19002 12.3204 7.31002C12.6604 7.46002 12.8804 7.77002 12.8804 8.13002Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ConnectionInfo__clip0_4482_7929", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ConnectionInfo_default = ConnectionInfo;
+export {
+  ConnectionInfo_default as default
+};

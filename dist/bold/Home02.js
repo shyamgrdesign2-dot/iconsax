@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Home02 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Home02__clip0_4482_1677)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.46 7.69018L14.46 3.02018C13.02 1.90018 10.99 1.90018 9.55 3.02018L3.55 7.69018C2.57 8.45018 2 9.61018 2 10.8502V18.0002C2 20.2102 3.79 22.0002 6 22.0002H18C20.21 22.0002 22 20.2102 22 18.0002V10.8502C22 9.61018 21.43 8.45018 20.46 7.69018ZM12.75 18.0002C12.75 18.4102 12.41 18.7502 12 18.7502C11.59 18.7502 11.25 18.4102 11.25 18.0002V15.0002C11.25 14.5902 11.59 14.2502 12 14.2502C12.41 14.2502 12.75 14.5902 12.75 15.0002V18.0002Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Home02__clip0_4482_1677", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Home02_default = Home02;
+export {
+  Home02_default as default
+};

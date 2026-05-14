@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const RemoveBasket = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#RemoveBasket__clip0_4482_1117)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16 22H8C5.25 22 3 19.75 3 17V12C3 9.25 5.25 7 8 7H16C18.75 7 21 9.25 21 12V17C21 19.75 18.75 22 16 22Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.2001 7.75C14.7901 7.75 14.4501 7.41 14.4501 7V5.2C14.4501 3.85 13.3501 2.75 12.0001 2.75C10.6501 2.75 9.55005 3.85 9.55005 5.2V7C9.55005 7.41 9.21005 7.75 8.80005 7.75C8.39005 7.75 8.05005 7.41 8.05005 7V5.2C8.05005 3.02 9.82006 1.25 12.0001 1.25C14.1801 1.25 15.9501 3.02 15.9501 5.2V7C15.9501 7.42 15.6101 7.75 15.2001 7.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.25 15.25H9.75C9.34 15.25 9 14.91 9 14.5C9 14.09 9.34 13.75 9.75 13.75H14.25C14.66 13.75 15 14.09 15 14.5C15 14.91 14.66 15.25 14.25 15.25Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "RemoveBasket__clip0_4482_1117", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var RemoveBasket_default = RemoveBasket;
+export {
+  RemoveBasket_default as default
+};

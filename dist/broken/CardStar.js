@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CardStar = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CardStar__clip0_4482_13397)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 11.2398V7.0498C2 4.8398 3.79 3.0498 6 3.0498H16.95C19.16 3.0498 20.95 4.8398 20.95 7.0498V10.4198", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.95 18.8398H6C3.79 18.8398 2 17.0498 2 14.8398", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.95 8.34961H2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.3899 14.1301C17.5699 13.7901 17.9299 13.5801 18.3099 13.5801C18.6899 13.5801 19.0499 13.7901 19.2299 14.1301L19.8599 15.2901C19.9599 15.4701 20.0999 15.6101 20.2799 15.7101L21.4399 16.3401C21.7799 16.5201 21.9899 16.8801 21.9899 17.2601C21.9899 17.6401 21.7799 18.0001 21.4399 18.1801L20.2799 18.8101C20.0999 18.9101 19.9599 19.0501 19.8599 19.2301L19.2299 20.3901C19.0499 20.7301 18.6899 20.9401 18.3099 20.9401C17.9299 20.9401 17.5699 20.7301 17.3899 20.3901L16.7599 19.2301C16.6599 19.0501 16.5199 18.9101 16.3399 18.8101L15.1799 18.1801C14.8399 18.0001 14.6299 17.6401 14.6299 17.2601C14.6299 16.8801 14.8399 16.5201 15.1799 16.3401L16.3399 15.7101C16.5199 15.6101 16.6599 15.4701 16.7599 15.2901L17.3899 14.1301Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CardStar__clip0_4482_13397", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CardStar_default = CardStar;
+export {
+  CardStar_default as default
+};

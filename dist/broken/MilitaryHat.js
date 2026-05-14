@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MilitaryHat = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MilitaryHat__clip0_2085_389977)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.8201 14.0904C12.6501 15.1304 0.10012 22.6904 2.25012 15.0304C5.43012 3.68043 22.0001 3.50043 22.0001 9.49043V16.9104C22.0001 17.6004 21.4401 18.1604 20.7501 18.1604H16.5101", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.2302 18.1602H5.99023", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.25 15.6709H21.58", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.06031 8.35059C7.52031 8.85059 7.72031 9.40059 7.72031 10.1306C7.72031 11.6906 6.46031 12.9506 4.90031 12.9506H3.07031", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.3501 12C18.8701 12.59 19.6201 12.95 20.4701 12.95H22.0001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.3302 6.06055C13.2202 6.36055 13.1602 6.68055 13.1602 7.02055C13.1602 8.58055 14.4202 9.84055 15.9802 9.84055H17.2202", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.72 9.19066L18.37 9.94066L19.22 10.2707L18.7 11.1207L18.65 12.0307L17.68 11.8007L16.8 12.0307L16.72 11.0407L16.23 10.2707L17.15 9.89066L17.73 9.18066L17.72 9.19066Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.05029 16.8502V14.6302C9.05029 13.4302 10.0303 12.4502 11.2303 12.4502C12.4303 12.4502 13.4103 13.4202 13.4103 14.6302", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MilitaryHat__clip0_2085_389977", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MilitaryHat_default = MilitaryHat;
+export {
+  MilitaryHat_default as default
+};

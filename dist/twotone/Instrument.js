@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Instrument = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Instrument__clip0_2085_389526)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.73007 18.8202L8.82007 17.9102", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.08993 15.18L5.17993 14.27", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.2001 14.2502L15.1001 15.3602C14.9701 15.4802 14.8201 15.5702 14.6501 15.6102L13.6501 15.8902C13.2101 16.0102 12.9101 16.4002 12.9101 16.8502V19.2802C12.9101 19.5602 12.7901 19.8302 12.5801 20.0202L10.8101 21.6002C10.5401 21.8402 10.1501 21.9202 9.80012 21.7902L4.70012 19.8902C4.43012 19.7802 4.22012 19.5702 4.11012 19.3002L2.21012 14.2002C2.08012 13.8502 2.16012 13.4602 2.40012 13.1902L3.98012 11.4202C4.17012 11.2102 4.44012 11.0902 4.72012 11.0902H7.15012C7.60012 11.0902 7.99012 10.7902 8.11012 10.3502L8.39012 9.35019C8.43012 9.18019 8.52012 9.03019 8.64012 8.90019L9.75012 7.80019C10.0201 7.53019 10.4101 7.44019 10.7701 7.55019L13.5101 8.44019L6.09012 15.1802L8.82012 17.9102L15.5601 10.4902L16.4501 13.2402C16.5601 13.5902 16.4701 13.9902 16.2001 14.2502Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.91 3.3602L17 2.4502", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.8001 4.85984L16.0901 4.08984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.6399 6.08984L21.5499 6.99984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.1799 7.1499L19.9099 7.9099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.9101 7.90984L15.5601 10.4898L8.82009 17.9098L6.09009 15.1798L13.5101 8.43984L16.0901 6.08984L17.9101 7.90984Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.9901 5.86014L17.9101 7.91014L16.0901 6.09014L18.1401 3.02014C18.4901 2.49014 19.2301 2.42014 19.6801 2.86014L21.1401 4.32014C21.5801 4.77014 21.5101 5.51014 20.9901 5.86014Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Instrument__clip0_2085_389526", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Instrument_default = Instrument;
+export {
+  Instrument_default as default
+};

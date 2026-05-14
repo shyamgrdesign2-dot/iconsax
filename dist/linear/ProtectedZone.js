@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ProtectedZone = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ProtectedZone__clip0_4482_12532)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.44043 10.8896H14.2204", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.44043 15.3301H9.77043", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0001 15.89V17.65C22.0001 19.6 20.5701 21.44 18.6401 21.97C18.5101 22.01 18.3601 22.01 18.2301 21.97C16.2901 21.43 14.8701 19.6 14.8701 17.65V15.89C14.8701 15.56 15.1201 15.19 15.4201 15.07L17.6501 14.15C18.1501 13.95 18.7201 13.95 19.2201 14.15L20.7901 14.79L21.4501 15.07C21.7501 15.19 22.0001 15.56 22.0001 15.89Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.4495 22.0001H6.54953C4.46953 22.0001 2.76953 20.2901 2.76953 18.2201V9.11008C2.76953 7.03008 4.47953 5.33008 6.54953 5.33008H17.4495C19.5295 5.33008 21.2295 7.03008 21.2295 9.11008V11.2101", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.9902 2L17.5502 5.33", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.98043 2L6.44043 5.33", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ProtectedZone__clip0_4482_12532", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ProtectedZone_default = ProtectedZone;
+export {
+  ProtectedZone_default as default
+};

@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Tshirt = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Tshirt__clip0_4482_6092)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0001 6.40042C13.1901 6.40042 14.2401 5.63043 14.5901 4.49043L15.0001 3.19043H17.8701C18.0901 3.19043 18.3101 3.26043 18.4901 3.39043L21.5801 5.71043C22.0301 6.03043 22.1301 6.65043 21.8301 7.10043L20.6001 8.95042C20.4101 9.22042 20.0901 9.40042 19.7401 9.40042H18.2201C16.7901 12.6104 16.6401 16.2504 17.7901 19.5704C18.0001 20.1704 17.5501 20.8004 16.9101 20.8004H7.08009C6.44009 20.8004 5.99009 20.1704 6.20009 19.5704C7.35009 16.2504 7.2001 12.6104 5.7701 9.40042H4.25009C3.90009 9.40042 3.58009 9.22042 3.39009 8.95042L2.1601 7.10043C1.8601 6.64043 1.96009 6.03042 2.40009 5.70042L5.4901 3.39043C5.6701 3.26043 5.89009 3.19043 6.11009 3.19043H9.00009L9.4101 4.49043C9.7601 5.63043 10.8101 6.40042 12.0001 6.40042Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Tshirt__clip0_4482_6092", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Tshirt_default = Tshirt;
+export {
+  Tshirt_default as default
+};

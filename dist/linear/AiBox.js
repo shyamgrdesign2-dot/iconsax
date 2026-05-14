@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiBox = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiBox__clip0_3111_12199)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.54001 18.49L7.53001 18.73C6.81001 18.9 6.24001 19.46 6.07001 20.19L5.83001 21.2C5.80001 21.31 5.65001 21.31 5.63001 21.2L5.39001 20.19C5.22001 19.47 4.66001 18.9 3.93001 18.73L2.92001 18.49C2.81001 18.46 2.81001 18.31 2.92001 18.29L3.93001 18.05C4.65001 17.88 5.22001 17.32 5.39001 16.59L5.63001 15.58C5.66001 15.47 5.81001 15.47 5.83001 15.58L6.07001 16.59C6.24001 17.31 6.80001 17.88 7.53001 18.05L8.54001 18.29C8.65001 18.32 8.65001 18.47 8.54001 18.49Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.12001 7.42001L11.99 12.55L20.8 7.45001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 21.65V12.54", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.92001 21.57C11.07 22.2 12.94 22.2 14.09 21.57L19.45 18.59C20.67 17.92 21.66 16.23 21.66 14.84V9.16001C21.66 7.77001 20.67 6.09001 19.45 5.41001L14.09 2.43001C12.93 1.79001 11.07 1.79001 9.92001 2.43001L4.56001 5.41001C3.34001 6.08001 2.35001 7.77001 2.35001 9.16001V14.84", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.02 13.24V9.56L7.48 4.06", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiBox__clip0_3111_12199", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiBox_default = AiBox;
+export {
+  AiBox_default as default
+};

@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HandGestureControl2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HandGestureControl2__clip0_2085_382383)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 21.4999V19.1699C22 18.3799 21.72 17.6199 21.21 17.0199C20.7 16.4199 20 16.0199 19.22 15.8899L17.01 15.5199V10.5399C17.01 10.0999 16.84 9.67988 16.52 9.36988C16.21 9.05988 15.79 8.87988 15.35 8.87988C14.91 8.87988 14.49 9.04988 14.18 9.36988C13.87 9.67988 13.69 10.0999 13.69 10.5399V18.0099L12.39 17.3599C12.15 17.2399 11.88 17.1699 11.61 17.1699C11.34 17.1699 11.07 17.2199 10.82 17.3399C10.57 17.4499 10.36 17.6199 10.18 17.8299C10.01 18.0399 9.88 18.2799 9.82 18.5499C9.74 18.8899 9.75 19.2399 9.86 19.5699C9.97 19.8999 10.17 20.1899 10.44 20.3999L11.78 21.4999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 4.35986H13.42", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.23 4.36007C17.23 3.99007 17.12 3.63007 16.92 3.32007C16.71 3.01007 16.42 2.77007 16.08 2.63007C15.74 2.49007 15.36 2.45007 15 2.52007C14.64 2.59007 14.31 2.77007 14.04 3.03007C13.78 3.29007 13.6 3.62007 13.53 3.98007C13.46 4.34007 13.5 4.72007 13.64 5.06007C13.78 5.40007 14.02 5.69007 14.33 5.90007C14.64 6.11007 15 6.21007 15.37 6.21007C15.86 6.21007 16.34 6.01007 16.69 5.66007C17.04 5.31007 17.24 4.84007 17.24 4.34007L17.23 4.36007Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HandGestureControl2__clip0_2085_382383", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HandGestureControl2_default = HandGestureControl2;
+export {
+  HandGestureControl2_default as default
+};

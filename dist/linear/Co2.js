@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Co2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Co2__clip0_4482_10745)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.23858 2 2 4.23858 2 7V17C2 19.7614 4.23858 22 7 22H17C19.7614 22 22 19.7614 22 17V7C22 4.23858 19.7614 2 17 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.2598 13.5802H11.4098C11.1098 13.5802 10.8198 13.4602 10.6098 13.2502C10.3998 13.0402 10.2798 12.7502 10.2798 12.4502V9.62023C10.2798 9.32023 10.3998 9.03023 10.6098 8.82023C10.8198 8.61023 11.1098 8.49023 11.4098 8.49023H12.2598C12.8798 8.49023 13.3898 9.00023 13.3898 9.62023V12.4502C13.3898 12.7502 13.2698 13.0402 13.0598 13.2502C12.8498 13.4602 12.5598 13.5802 12.2598 13.5802Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.8301 12.4303C15.8301 11.6503 16.4601 11.0103 17.2501 11.0103C18.0401 11.0103 18.6701 11.6403 18.6701 12.4303C18.6701 14.2003 15.8401 14.2003 15.8401 16.3003H18.6701", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.87984 8.49023H6.46984C5.84984 8.49023 5.33984 9.00023 5.33984 9.62023V12.4502C5.33984 13.0702 5.84984 13.5802 6.46984 13.5802H7.87984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Co2__clip0_4482_10745", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Co2_default = Co2;
+export {
+  Co2_default as default
+};

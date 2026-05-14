@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const EnhancedFile = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#EnhancedFile__clip0_4482_12481)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.47 3.0498H7.26C4.35 3.0498 2 5.4098 2 8.3098V16.7298C2 19.6398 4.36 21.9898 7.26 21.9898H15.68C18.59 21.9898 20.94 19.6298 20.94 16.7298V12.5198", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.0099 10.89V12.65C15.0099 14.6 13.5799 16.44 11.6499 16.97C11.5199 17.01 11.3699 17.01 11.2399 16.97C9.29988 16.43 7.87988 14.6 7.87988 12.65V10.89C7.87988 10.56 8.12988 10.19 8.42988 10.07L10.6599 9.15C11.1599 8.95 11.7299 8.95 12.2299 9.15L13.7999 9.79L14.4599 10.07C14.7599 10.19 15.0099 10.56 15.0099 10.89Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.9 4.1L22 5.25L19.9 6.4L18.75 8.5L17.6 6.4L15.5 5.25L17.6 4.1L18.75 2L19.9 4.1Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "EnhancedFile__clip0_4482_12481", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var EnhancedFile_default = EnhancedFile;
+export {
+  EnhancedFile_default as default
+};

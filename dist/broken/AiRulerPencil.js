@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiRulerPencil = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiRulerPencil__clip0_3111_15360)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9799 19.55L21.1299 19.75C20.5299 19.89 20.0499 20.36 19.9099 20.97L19.7099 21.82C19.6899 21.91 19.5599 21.91 19.5399 21.82L19.3399 20.97C19.1999 20.37 18.7299 19.89 18.1199 19.75L17.2699 19.55C17.1799 19.53 17.1799 19.4 17.2699 19.38L18.1199 19.18C18.7199 19.04 19.1999 18.57 19.3399 17.96L19.5399 17.11C19.5599 17.02 19.6899 17.02 19.7099 17.11L19.9099 17.96C20.0499 18.56 20.5199 19.04 21.1299 19.18L21.9799 19.38C22.0699 19.4 22.0699 19.53 21.9799 19.55Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.3199 14.41V5.03C20.3199 3.09 19.3499 2.12 17.4099 2.12H13.5299C11.5899 2.12 10.6199 3.09 10.6199 5.03V18.6C10.6199 20.54 11.5899 21.51 13.5299 21.51H14.4999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.6199 6H15.4699", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.6199 17.64H14.4999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.6199 13.71L15.4699 13.76", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.6199 9.88H13.5299", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.94995 17.54C1.94995 17.98 2.12995 18.64 2.35995 19.01L3.14995 20.33C4.05995 21.85 5.55995 21.85 6.47995 20.33L7.26995 19.01C7.48995 18.63 7.67995 17.97 7.67995 17.54V4.98C7.67995 3.41 6.38995 2.12 4.81995 2.12C3.23995 2.12 1.94995 3.41 1.94995 4.98V6.99988", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.67996 6.96997H1.95996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiRulerPencil__clip0_3111_15360", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiRulerPencil_default = AiRulerPencil;
+export {
+  AiRulerPencil_default as default
+};

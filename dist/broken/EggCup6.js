@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const EggCup6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#EggCup6__clip0_2085_392639)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.1098 10.0098H16.5698", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.42967 10.0098H5.90967", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.7499 0.75C7.4699 2.45 6.6499 4.98 6.6499 7.25V7.34H17.3499V7.25C17.3499 4.97 16.5299 2.45 15.2599 0.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.3199 14.0998V16.1498H14.0899C14.9799 16.1498 15.7099 16.8698 15.7099 17.7598V18.7498H8.28986V17.7598C8.28986 16.8698 9.01986 16.1498 9.90986 16.1498H10.6799V14.0998C7.50986 13.4798 5.10986 10.6898 5.10986 7.33984H18.8899C18.8899 10.6898 16.4899 13.4798 13.3199 14.0998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.1098 10.0098H16.5698", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.42967 10.0098H5.90967", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "EggCup6__clip0_2085_392639", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "20.75", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var EggCup6_default = EggCup6;
+export {
+  EggCup6_default as default
+};

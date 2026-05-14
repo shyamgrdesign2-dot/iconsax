@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HierarchicalStructure = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HierarchicalStructure__clip0_4482_13883)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.8395 21.39H18.6295C18.0195 21.39 17.5195 20.89 17.5195 20.28V18.07C17.5195 17.46 18.0195 16.96 18.6295 16.96H20.8395C21.4495 16.96 21.9495 17.46 21.9495 18.07V20.28C21.9495 20.89 21.4495 21.39 20.8395 21.39Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 8.89062V16.9706", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.11 21.39H10.9C10.29 21.39 9.79004 20.89 9.79004 20.28V18.07C9.79004 17.46 10.29 16.96 10.9 16.96H13.11C13.72 16.96 14.22 17.46 14.22 18.07V20.28C14.22 20.89 13.72 21.39 13.11 21.39Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.3698 21.39H3.1598C2.5498 21.39 2.0498 20.89 2.0498 20.28V18.07C2.0498 17.46 2.5498 16.96 3.1598 16.96H5.3698C5.9798 16.96 6.4798 17.46 6.4798 18.07V20.28C6.4798 20.89 5.9798 21.39 5.3698 21.39Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5895 8.89035H7.40953C5.66953 8.89035 4.26953 7.48035 4.26953 5.75035C4.26953 4.01035 5.67953 2.61035 7.40953 2.61035H16.5895C18.3295 2.61035 19.7295 4.02035 19.7295 5.75035C19.7295 7.49035 18.3195 8.89035 16.5895 8.89035Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M4.25977 16.9708V14.7608C4.25977 13.5408 5.24977 12.5508 6.46977 12.5508H17.5198C18.7398 12.5508 19.7298 13.5408 19.7298 14.7608V16.9708", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HierarchicalStructure__clip0_4482_13883", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HierarchicalStructure_default = HierarchicalStructure;
+export {
+  HierarchicalStructure_default as default
+};

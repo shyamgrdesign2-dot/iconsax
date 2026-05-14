@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MoustacheCircle = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MoustacheCircle__clip0_4482_3899)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.01 12.6301C11.49 13.4601 10.06 14.5201 8.91 14.4601C7.59 14.5101 6.25 13.7101 6 12.3601V12.0801C6.14 11.8301 6.23999 11.7901 6.51999 11.8501C8.04999 12.1501 8.64999 10.3501 9.79999 9.76007C10.59 9.36007 11.38 9.52007 11.96 10.1801C11.97 10.1901 11.98 10.2201 11.99 10.2401V10.2501C12.38 11.0001 12.39 11.8801 12.01 12.6301Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18 12.2199C17.98 12.7199 17.77 13.1399 17.42 13.4899C16.72 14.2199 15.85 14.5299 14.86 14.4399C13.62 14.3299 12.68 13.7099 12.03 12.6599C12.02 12.6499 12.01 12.6399 12 12.6199C12.38 11.8699 12.37 10.9899 11.99 10.2299V10.2199C12.18 9.98986 12.39 9.80986 12.63 9.69986C13.19 9.42986 13.73 9.47986 14.27 9.76986C14.56 9.92986 14.82 10.1499 15.03 10.3999C15.35 10.7699 15.66 11.1399 16.05 11.4299C16.34 11.6499 16.66 11.8299 17.04 11.8499C17.2 11.8599 17.36 11.8399 17.53 11.8099C17.81 11.7699 18.01 11.9199 18 12.2199Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MoustacheCircle__clip0_4482_3899", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MoustacheCircle_default = MoustacheCircle;
+export {
+  MoustacheCircle_default as default
+};

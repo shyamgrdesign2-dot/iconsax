@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CoinLike = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CoinLike__clip0_4482_13021)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.75 9.12023V7.99023", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.75 15.8701V17.0001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.8 15.0601C10.09 15.5401 10.59 15.8701 11.19 15.8701H12.42C13.29 15.8701 14 15.1601 14 14.2901C14 13.5701 13.51 12.9301 12.8 12.7601L10.69 12.2301C9.99 12.0501 9.5 11.4201 9.5 10.7001C9.5 9.83012 10.21 9.12012 11.08 9.12012H12.31C12.91 9.12012 13.41 9.45012 13.7 9.92012", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.2002 12.2998C22.2002 17.8198 17.7202 22.2998 12.2002 22.2998C6.6802 22.2998 2.2002 17.8198 2.2002 12.2998C2.2002 6.7798 6.6802 2.2998 12.2002 2.2998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.0604 3.03027C21.1504 3.03027 21.8904 4.02027 21.8904 4.94027C21.8904 6.87027 19.4004 8.34027 18.7904 8.34027C18.1804 8.34027 15.6904 6.86027 15.6904 4.94027C15.6904 4.02027 16.4204 3.03027 17.5204 3.03027C18.1404 3.03027 18.5504 3.33027 18.7904 3.60027C19.0304 3.34027 19.4404 3.03027 20.0604 3.03027Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CoinLike__clip0_4482_13021", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CoinLike_default = CoinLike;
+export {
+  CoinLike_default as default
+};

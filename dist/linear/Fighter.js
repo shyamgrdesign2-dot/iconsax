@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Fighter = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Fighter__clip0_2085_387083)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.38 17.9795L17.15 4.20955C18.54 2.81955 20.44 1.68955 21.85 2.06955C22.23 3.48955 21.11 5.37955 19.71 6.76955C15.02 11.4495 10.63 15.8495 5.94 20.5395C5.78 20.6995 5.53 20.6995 5.37 20.5395L4.37 19.5395L3.37 18.5395C3.21 18.3795 3.21 18.1295 3.37 17.9695L3.38 17.9795Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.96002 16.2999L3.43002 15.8599C3.13002 15.7699 2.86002 15.8599 2.65002 16.0699L2.06002 16.6599C1.90002 16.8199 1.87002 17.1199 2.06002 17.2299L3.38002 17.9799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.80002 10.7894L6.54002 9.84944C5.89002 9.65944 5.31002 9.84944 4.85002 10.3094L4.19002 10.9694C3.85002 11.3094 3.77002 11.9594 4.19002 12.1994L6.89002 13.7294", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.12 7.16932L12.57 6.71932C12.27 6.62932 12 6.71932 11.79 6.92932L10.34 8.37932C10.18 8.53932 10.15 8.83932 10.34 8.94932L11.59 9.65932", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.61 18.9297L8.06 20.4997C8.15 20.7997 8.06 21.0697 7.85 21.2797L7.26 21.8697C7.1 22.0297 6.8 22.0597 6.69 21.8697L5.94 20.5497", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.94 13.7197L13.94 17.1997C14.14 17.8897 13.94 18.5097 13.45 18.9997L12.75 19.6997C12.39 20.0597 11.69 20.1397 11.44 19.6997L9.80005 16.7997", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.76 9.81934L17.2 11.3593C17.29 11.6593 17.2 11.9293 16.99 12.1393L15.54 13.5893C15.38 13.7493 15.08 13.7793 14.97 13.5893L14.25 12.3193", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.73999 15.8799L8.04999 18.1899", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.42 11.1494L12.78 13.5094", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.23 4.2998L19.62 6.6898", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Fighter__clip0_2085_387083", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Fighter_default = Fighter;
+export {
+  Fighter_default as default
+};

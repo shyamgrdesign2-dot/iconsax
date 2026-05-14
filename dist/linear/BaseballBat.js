@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BaseballBat = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BaseballBat__clip0_2085_386744)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.76 18.64L16.91 6.62999C17.96 5.24999 17.56 3.25999 16.06 2.38999C14.56 1.51999 12.63 2.16999 11.97 3.76999L6.14 17.7M8.31 13.02L10.74 14.42M3.12 19.2C3.89 17.86 5.61 17.4 6.95 18.17C8.29 18.94 8.75 20.66 7.98 22L3.12 19.2ZM20.88 17.57C20.88 19.12 19.62 20.37 18.08 20.37C16.54 20.37 15.28 19.11 15.28 17.57C15.28 16.03 16.54 14.77 18.08 14.77C19.62 14.77 20.88 16.03 20.88 17.57Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BaseballBat__clip0_2085_386744", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BaseballBat_default = BaseballBat;
+export {
+  BaseballBat_default as default
+};

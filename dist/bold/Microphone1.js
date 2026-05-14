@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Microphone1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Microphone1__clip0_4482_8161)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM13.98 14.21C13.7 14.26 13.42 14.21 13.19 14.04L9.57 16.77C9.12 17.11 8.5 17.07 8.11 16.67L7.33 15.89C6.93 15.5 6.89 14.88 7.22 14.43L9.96 10.81C9.8 10.58 9.74 10.3 9.79 10.01C10.11 8.2 11.73 6.9 13.58 7C15.42 7.11 16.89 8.58 17 10.42C17.1 12.27 15.8 13.89 13.98 14.21Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Microphone1__clip0_4482_8161", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Microphone1_default = Microphone1;
+export {
+  Microphone1_default as default
+};

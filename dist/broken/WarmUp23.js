@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const WarmUp23 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#WarmUp23__clip0_2085_385873)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.73994 10.07C6.01994 11 6.01994 13.57 6.71994 22H8.82994M21.9899 10.95C13.5699 11.48 7.80994 8.4 5.66994 2M14.6199 10.95C4.61994 17.79 1.98994 8.84 2.50994 8.32C3.03994 7.79 7.24994 5.16 9.34994 2M18.2999 6.21C18.2999 7.37 17.3599 8.32 16.1899 8.32C15.0199 8.32 14.0799 7.38 14.0799 6.21C14.0799 5.04 15.0199 4.1 16.1899 4.1C17.3599 4.1 18.2999 5.04 18.2999 6.21Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "WarmUp23__clip0_2085_385873", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var WarmUp23_default = WarmUp23;
+export {
+  WarmUp23_default as default
+};

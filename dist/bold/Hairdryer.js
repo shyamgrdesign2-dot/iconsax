@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Hairdryer = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Hairdryer__clip0_4482_13620)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.56 3.66017L18.39 3.37017L8.58 2.05017C5.1 1.58017 2 4.29017 2 7.81017C2 10.5802 3.93 12.8402 6.45 13.4402C6.72 15.3602 7.1 17.9602 7.36 19.7802C7.54 21.0502 8.63 22.0002 9.92 22.0002C11.49 22.0002 12.7 20.6102 12.48 19.0502C12.21 17.1302 11.92 15.1302 11.63 13.1202H11.6L18.39 12.1502L20.57 11.8402C21.39 11.7202 22 11.0202 22 10.1902V5.32017C22 4.48017 21.38 3.78017 20.56 3.66017ZM6.85 6.37017C7.61 5.61017 8.84 5.61017 9.6 6.37017C10.36 7.13017 10.36 8.36017 9.6 9.12017C8.84 9.88017 7.61 9.88017 6.85 9.12017C6.09 8.36017 6.09 7.13017 6.85 6.37017Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Hairdryer__clip0_4482_13620", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Hairdryer_default = Hairdryer;
+export {
+  Hairdryer_default as default
+};

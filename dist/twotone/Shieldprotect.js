@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Shieldprotect = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Shieldprotect__clip0_4482_5959)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.0701 15.8398L12.3401 16.1498C12.1201 16.2398 11.8801 16.2398 11.6701 16.1498L10.9401 15.8398C9.4501 15.2098 8.4301 13.7898 8.3201 12.1698L8.16007 9.97984C8.13007 9.61984 8.34008 9.26985 8.67008 9.12985L11.5101 7.88984C11.8401 7.73984 12.2301 7.73984 12.5601 7.88984L15.3401 9.12985C15.6701 9.27985 15.8801 9.61984 15.8501 9.97984L15.6901 12.1798C15.5701 13.7898 14.5601 15.2098 13.0701 15.8398Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.2599 9.88965C21.4199 10.5696 21.4999 11.2796 21.4999 11.9996C21.4999 17.2496 17.2499 21.4996 11.9999 21.4996C10.1399 21.4996 8.39993 20.9597 6.92993 20.0197", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.73999 14.11C2.57999 13.43 2.5 12.72 2.5 12C2.5 6.75 6.75 2.5 12 2.5C13.86 2.5 15.6 3.04 17.07 3.98", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.7198 7.38992C19.8852 7.38992 20.8299 6.44524 20.8299 5.27992C20.8299 4.1146 19.8852 3.16992 18.7198 3.16992C17.5545 3.16992 16.6099 4.1146 16.6099 5.27992C16.6099 6.44524 17.5545 7.38992 18.7198 7.38992Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.27997 20.8304C6.44529 20.8304 7.38995 19.8857 7.38995 18.7204C7.38995 17.555 6.44529 16.6104 5.27997 16.6104C4.11465 16.6104 3.16992 17.555 3.16992 18.7204C3.16992 19.8857 4.11465 20.8304 5.27997 20.8304Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Shieldprotect__clip0_4482_5959", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Shieldprotect_default = Shieldprotect;
+export {
+  Shieldprotect_default as default
+};

@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AddHome = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AddHome__clip0_4482_2901)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.5198 10.4901L12.6697 8.27006C11.9797 7.74006 11.0198 7.74006 10.3398 8.27006L7.48975 10.4901C7.02975 10.8501 6.75977 11.4001 6.75977 11.9901V15.3901C6.75977 16.4401 7.60973 17.29 8.65973 17.29H14.3597C15.4097 17.29 16.2598 16.4401 16.2598 15.3901V11.9901C16.2498 11.4101 15.9798 10.8501 15.5198 10.4901Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.13977 8C3.57977 7.18 4.13973 6.43999 4.78973 5.78999C6.50973 4.05999 8.88976 3 11.4998 3C12.7998 3 14.0497 3.26001 15.1797 3.74001C15.0597 4.12001 14.9897 4.53 14.9897 4.95C14.9897 7.18 16.8097 9 19.0397 9C19.4597 9 19.8698 8.93 20.2498 8.81C20.7398 9.95 20.9998 11.19 20.9998 12.5C20.9998 15.11 19.9398 17.49 18.2098 19.21C16.4898 20.94 14.1098 22 11.4998 22C6.41976 22 2.23977 17.95 2.00977 12.93", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M23.1002 4.95013C23.1002 6.59013 22.1203 8.01014 20.7103 8.63014C20.5603 8.70014 20.4102 8.76013 20.2502 8.81013C19.8702 8.93013 19.4602 9.00014 19.0402 9.00014C16.8102 9.00014 14.9902 7.18013 14.9902 4.95013C14.9902 4.53013 15.0602 4.12014 15.1802 3.74014C15.2302 3.58014 15.2902 3.43014 15.3602 3.28014C15.9802 1.87014 17.4002 0.890137 19.0402 0.890137C21.2802 0.890137 23.1002 2.71013 23.1002 4.95013Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.52 4.9502H20.56", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.0498 6.47018V3.43018", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AddHome__clip0_4482_2901", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AddHome_default = AddHome;
+export {
+  AddHome_default as default
+};

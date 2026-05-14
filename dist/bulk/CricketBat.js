@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CricketBat = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CricketBat__clip0_2085_387523)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.8 4.25956L20.33 6.79956L17.71 5.22956L19.15 2.72956C19.57 1.99956 20.51 1.74956 21.24 2.16956C21.97 2.58956 22.22 3.52956 21.8 4.25956Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M18.71 9.60027L13.4 18.8003C11.71 21.7203 7.98 22.7303 5.05 21.0403C2.13 19.3503 1.13 15.6203 2.82 12.7003C3.24 11.9703 4.17 11.7203 4.9 12.1403C5.63 12.5603 5.89 13.4903 5.46 14.2203C4.62 15.6803 5.12 17.5503 6.58 18.3903C8.04 19.2403 9.91 18.7403 10.75 17.2803L16.09 8.03027L18.71 9.60027Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.33 6.80047L18.71 9.60047L16.09 8.03047L17.71 5.23047L20.33 6.80047Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.3 21.8105C20.7028 21.8105 21.84 20.6733 21.84 19.2705C21.84 17.8677 20.7028 16.7305 19.3 16.7305C17.8972 16.7305 16.76 17.8677 16.76 19.2705C16.76 20.6733 17.8972 21.8105 19.3 21.8105Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CricketBat__clip0_2085_387523", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CricketBat_default = CricketBat;
+export {
+  CricketBat_default as default
+};

@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const PoloShirt6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#PoloShirt6__clip0_2085_392431)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.7801 11.9598L4.0401 11.3898C2.9401 11.0298 2.3801 9.80977 2.8101 8.73977L4.1901 5.34977C4.4101 4.80977 4.8601 4.38977 5.4101 4.20977L8.2701 3.25977", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.73 3.24023L18.59 4.19023C19.14 4.37023 19.59 4.79023 19.81 5.33023L21.19 8.72023C21.63 9.79023 21.06 11.0102 19.96 11.3702L18.22 11.9402", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.2202 6.98047V9.47047V11.9605V13.9505", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.2203 17.2905V19.0005C18.2203 19.1705 18.2103 19.3405 18.1703 19.5105C17.9403 20.9205 16.7103 22.0005 15.2203 22.0005H8.78027C7.29027 22.0005 6.06027 20.9205 5.83027 19.5105C5.79027 19.3405 5.78027 19.1705 5.78027 19.0005V6.98047", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.87988 8.51953L5.77988 9.46953", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.1202 8.51953L18.2202 9.46953", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.1003 5.73H8.27027C7.58027 4.36 8.14027 2.68 9.51027 2H14.4903C14.4903 4.23 13.0603 6.21 10.9503 6.92L10.7603 6.98V10.71H12.0003", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.51025 2C9.51025 3.84 10.4803 5.5 12.0003 6.43", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.8999 5.73H15.7299C16.4199 4.36 15.8599 2.68 14.4899 2", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.78027 19.5098H18.2303", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "PoloShirt6__clip0_2085_392431", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var PoloShirt6_default = PoloShirt6;
+export {
+  PoloShirt6_default as default
+};

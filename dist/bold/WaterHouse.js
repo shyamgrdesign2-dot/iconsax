@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const WaterHouse = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#WaterHouse__clip0_4482_10811)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.2001 6.94022L15.2001 2.94021C13.3701 1.48021 10.7801 1.48021 8.95008 2.94021L3.96008 6.94022C2.77008 7.89021 2.08008 9.33021 2.08008 10.8402V17.0002C2.08008 19.7602 4.32008 22.0002 7.08008 22.0002H17.0801C19.8401 22.0002 22.0801 19.7602 22.0801 17.0002V10.8402C22.0801 9.32021 21.3901 7.88022 20.2001 6.94022ZM14.4301 15.8702C13.7901 16.5902 12.8801 17.0002 11.9201 17.0002C10.9601 17.0002 10.0501 16.5902 9.41008 15.8702C8.31008 14.6202 8.31008 12.7502 9.41008 11.5102L11.0901 9.61021C11.3001 9.37021 11.6101 9.23021 11.9201 9.23021C12.2301 9.23021 12.5401 9.37021 12.7501 9.61021L14.4301 11.5102C15.5301 12.7602 15.5301 14.6302 14.4301 15.8702Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "WaterHouse__clip0_4482_10811", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var WaterHouse_default = WaterHouse;
+export {
+  WaterHouse_default as default
+};

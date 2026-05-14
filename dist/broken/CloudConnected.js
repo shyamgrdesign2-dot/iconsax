@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CloudConnected = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CloudConnected__clip0_4482_12337)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.2402 20.3799H20.6502", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.34961 20.3799H8.75961", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9697 14.9902V18.7502", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.3798 18.7598H13.6198C14.5198 18.7598 15.2398 19.4898 15.2398 20.3798C15.2398 21.2798 14.5098 21.9998 13.6198 21.9998H10.3798C9.47977 21.9998 8.75977 21.2698 8.75977 20.3798C8.75977 19.4798 9.48977 18.7598 10.3798 18.7598Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.7002 9.03027L11.5402 11.1903L10.2402 9.89027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.24957 3.70991C9.10957 2.76991 10.3196 2.13991 11.6796 2.01991C14.3996 1.78991 16.8596 3.67991 17.3196 6.36991C19.6096 6.59991 21.3096 8.58991 21.1896 10.8899C21.0696 13.1899 19.1696 14.9799 16.8696 14.9799H6.58957C4.49957 14.9799 2.80957 13.2899 2.80957 11.1999C2.80957 9.10991 4.49957 7.41991 6.58957 7.41991H6.85957V7.27991", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CloudConnected__clip0_4482_12337", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CloudConnected_default = CloudConnected;
+export {
+  CloudConnected_default as default
+};

@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Grenade2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Grenade2__clip0_2085_386966)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.87 8.31H14.36V3C14.36 2.45 13.91 2 13.36 2H12.87C12.32 2 11.87 2.45 11.87 3V8.31Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.93 8.30957H15.29C15.63 8.30957 15.93 8.42957 16.17 8.66957L17.72 10.2196C17.96 10.4596 18.08 10.7596 18.08 11.0996V19.1996C18.08 19.5396 17.96 19.8396 17.72 20.0796L16.17 21.6296C15.93 21.8696 15.63 21.9896 15.29 21.9896H10.93C10.59 21.9896 10.29 21.8696 10.05 21.6296L8.5 20.0796C8.26 19.8396 8.14 19.5396 8.14 19.1996V11.0996C8.14 10.7596 8.26 10.4596 8.5 10.2196L10.05 8.66957C10.29 8.42957 10.59 8.30957 10.93 8.30957Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.21001 15.1504H19.02", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.42 6.06012C17.23 6.06012 17.89 5.40012 17.89 4.59012C17.89 3.78012 17.23 3.12012 16.42 3.12012C15.61 3.12012 14.95 3.78012 14.95 4.59012C14.95 5.40012 15.61 6.06012 16.42 6.06012Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.99001 11.25V9.11C4.99001 7.7 5.77001 6.5 7.05001 5.93L11.36 4", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.67 8.51953C11.62 8.67953 11.59 8.85953 11.59 9.03953C11.59 9.92953 12.31 10.6595 13.21 10.6595C13.44 10.6595 13.64 10.8095 13.71 11.0295C13.91 11.6895 14.53 12.1695 15.26 12.1695H18.02", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.54 22.0004H13.04C13.74 22.0004 14.3 21.4304 14.3 20.7304C14.3 20.0304 13.73 19.4704 13.04 19.4704H11.25C11.25 19.4704 11.25 19.4004 11.25 19.3704C11.25 18.6704 10.68 18.1104 9.98001 18.1104H8.26001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Grenade2__clip0_2085_386966", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Grenade2_default = Grenade2;
+export {
+  Grenade2_default as default
+};

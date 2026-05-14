@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Percent = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Percent__clip0_2085_391745)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.01011 6.4002C9.01011 5.6002 8.36011 4.9502 7.56011 4.9502C6.76011 4.9502 6.11011 5.6002 6.11011 6.4002C6.11011 7.2002 6.76011 7.8502 7.56011 7.8502C8.36011 7.8502 9.01011 7.2002 9.01011 6.4002Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.44 16.1504C15.64 16.1504 14.99 16.8004 14.99 17.6004C14.99 18.4004 15.64 19.0504 16.44 19.0504C17.24 19.0504 17.89 18.4004 17.89 17.6004C17.89 16.8004 17.24 16.1504 16.44 16.1504Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7901 2.07045C13.8001 1.79045 12.7701 2.37045 12.4901 3.36045L7.93007 19.6205C7.65007 20.6105 8.23007 21.6404 9.22007 21.9205C9.39007 21.9704 9.56007 21.9904 9.73007 21.9904C10.5501 21.9904 11.3001 21.4504 11.5301 20.6304L16.0901 4.37045C16.3701 3.38045 15.7901 2.35045 14.8001 2.07045H14.7901Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Percent__clip0_2085_391745", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Percent_default = Percent;
+export {
+  Percent_default as default
+};

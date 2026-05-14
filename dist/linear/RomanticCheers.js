@@ -1,0 +1,44 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const RomanticCheers = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#RomanticCheers__clip0_4482_13978)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.8302 3.42991L12.0002 3.59991L12.2102 3.39991C12.8602 2.76991 13.9002 2.78991 14.5402 3.42991C15.1902 4.09991 15.1902 5.15991 14.5402 5.82991L12.7202 7.67991C12.5302 7.86991 12.2702 7.97991 12.0002 7.97991C11.7302 7.97991 11.4702 7.86991 11.2802 7.67991L9.46016 5.82991C8.81016 5.15991 8.81016 4.09991 9.46016 3.43991C9.77016 3.11991 10.2002 2.93991 10.6502 2.93991C11.1002 2.93991 11.5202 3.11991 11.8302 3.43991V3.42991Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.5503 6.45996L19.5603 6.95996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.5503 3.43945L19.5603 2.93945", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.44994 3.43945L4.43994 2.93945", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.44994 6.45996L4.43994 6.95996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.01008 11.1395L6.00008 10.0495C5.52008 9.87952 4.99008 10.0795 4.75008 10.5195L3.53008 12.7895C3.09008 13.5495 3.00008 14.4595 3.27008 15.2995C3.54008 16.1295 4.16008 16.8095 4.96008 17.1695C5.78008 17.4995 6.70008 17.4595 7.49008 17.0495C8.28008 16.6395 8.84008 15.9095 9.04008 15.0495L9.66008 12.3295C9.77008 11.8295 9.50008 11.3195 9.01008 11.1495V11.1395Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.96004 17.1602L3.79004 20.3902", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.9901 11.1395L18.0001 10.0495C18.4801 9.87952 19.0001 10.0795 19.2401 10.5195L20.4601 12.7895C20.9001 13.5495 20.9901 14.4595 20.7201 15.2995C20.4501 16.1295 19.8301 16.8095 19.0301 17.1695C18.2101 17.4995 17.2901 17.4595 16.5001 17.0495C15.7201 16.6395 15.1501 15.9095 14.9501 15.0495L14.3301 12.3295C14.2201 11.8295 14.4901 11.3195 14.9801 11.1495L14.9901 11.1395Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.04 17.1602L20.21 20.3902", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.3501 21.0697L22.0701 19.7197", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.65018 21.0697L1.93018 19.7197", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "RomanticCheers__clip0_4482_13978", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var RomanticCheers_default = RomanticCheers;
+export {
+  RomanticCheers_default as default
+};

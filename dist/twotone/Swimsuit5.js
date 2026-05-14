@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Swimsuit5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Swimsuit5__clip0_2085_392400)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27002 2V4.53L12 5.78L15.73 4.53V2", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.25 8.27027C13.25 8.96027 12.69 9.51027 12.01 9.51027C11.33 9.51027 10.77 8.95027 10.77 8.27027C10.77 7.59027 11.33 5.78027 12.01 5.78027C12.69 5.78027 13.25 7.58027 13.25 8.27027Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.26011 4.53027C8.26011 4.53027 7.11011 5.65027 7.02011 7.02027C6.97011 7.79027 7.75011 9.25027 8.45011 10.4003C9.07011 11.4103 9.06011 12.6803 8.40011 13.6703C7.82011 14.5403 7.02011 16.1603 7.02011 18.2703L8.39011 18.7303C9.80011 19.2003 10.7501 20.5203 10.7501 22.0103H13.2401C13.2401 20.5203 14.1901 19.2003 15.6001 18.7303L16.9701 18.2703L16.9901 17.7303C17.0401 16.4003 16.5701 15.0903 15.8101 13.9903C14.8701 12.6403 14.9001 11.3803 15.5401 10.3603C16.2501 9.24027 17.0301 7.79027 16.9701 7.02027C16.8701 5.65027 15.7301 4.53027 15.7301 4.53027", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Swimsuit5__clip0_2085_392400", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Swimsuit5_default = Swimsuit5;
+export {
+  Swimsuit5_default as default
+};

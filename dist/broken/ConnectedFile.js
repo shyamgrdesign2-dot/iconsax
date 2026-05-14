@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ConnectedFile = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ConnectedFile__clip0_4482_2606)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.3299 18.4999C10.1199 18.4999 10.7599 17.8599 10.7599 17.0699C10.7599 16.2799 10.1199 15.6399 9.3299 15.6399C8.53989 15.6399 7.8999 16.2799 7.8999 17.0699C7.8999 17.8599 8.5499 18.4999 9.3299 18.4999Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6703 18.4999C15.4603 18.4999 16.1003 17.8599 16.1003 17.0699C16.1003 16.2799 15.4603 15.6399 14.6703 15.6399C13.8803 15.6399 13.2402 16.2799 13.2402 17.0699C13.2402 17.8599 13.8803 18.4999 14.6703 18.4999Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9998 13.35C12.7898 13.35 13.4298 12.71 13.4298 11.92C13.4298 11.13 12.7898 10.49 11.9998 10.49C11.2098 10.49 10.5698 11.13 10.5698 11.92C10.5698 12.71 11.2098 13.35 11.9998 13.35Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.4302 13.1699L9.43018 15.8399", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.7598 13.1699L14.7598 15.8399", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.7598 17.1699H13.4297", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.5 5V6C14.5 7.1 15.4 8 16.5 8H17.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.5 7V6C3.5 3.8 5.3 2 7.5 2H16.5C18.7 2 20.5 3.8 20.5 6V18C20.5 20.2 18.7 22 16.5 22H7.5C5.3 22 3.5 20.2 3.5 18V13", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ConnectedFile__clip0_4482_2606", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ConnectedFile_default = ConnectedFile;
+export {
+  ConnectedFile_default as default
+};

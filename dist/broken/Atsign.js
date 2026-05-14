@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Atsign = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Atsign__clip0_4482_9918)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 12C2 17.52 6.48 22 12 22C13.28 22 14.57 21.76 15.83 21.24C16.51 20.96 17.13 20.61 17.71 20.21", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4396 12C16.4396 14.45 14.4496 16.44 11.9996 16.44C9.54965 16.44 7.55965 14.45 7.55965 12C7.55965 9.55 9.54965 7.56 11.9996 7.56C14.4496 7.56 16.4396 9.55 16.4396 12ZM16.4396 12V13.67C16.4396 15.2 17.6796 16.45 19.2196 16.45C20.7596 16.45 21.9996 15.21 21.9996 13.67V12C21.9996 6.48 17.5196 2 11.9996 2C8.33965 2 5.13965 3.97 3.38965 6.9", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Atsign__clip0_4482_9918", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Atsign_default = Atsign;
+export {
+  Atsign_default as default
+};

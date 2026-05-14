@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Indesign = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Indesign__clip0_4482_11771)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.26 8.22C19.77 4.57 16.18 2 12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.9995 15.5002H16.3995C16.0895 15.5002 15.7995 15.3602 15.6095 15.1102C15.4195 14.8702 15.3495 14.5502 15.4295 14.2502L15.8995 12.3602C16.0095 11.9102 15.9095 11.4402 15.6295 11.0702C15.3495 10.7102 14.9095 10.4902 14.4495 10.4902H13.4595C12.9995 10.4902 12.5995 10.8002 12.4895 11.2502L11.7095 14.3602C11.5395 15.0302 10.9395 15.5002 10.2495 15.5002H9.64953C9.18953 15.5002 8.74953 15.2902 8.46953 14.9202C8.18953 14.5602 8.08953 14.0802 8.19953 13.6302L8.82953 11.1202C8.86953 10.9702 8.82953 10.8102 8.73953 10.6902C8.64953 10.5702 8.49953 10.5002 8.34953 10.5002H7.01953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Indesign__clip0_4482_11771", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Indesign_default = Indesign;
+export {
+  Indesign_default as default
+};

@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const XConnected = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#XConnected__clip0_4482_2186)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22.7627H7C4.24 22.7627 2 20.5227 2 17.7627V7.7627C2 5.0027 4.24 2.7627 7 2.7627H17C19.76 2.7627 22 5.0027 22 7.7627V17.7627C22 20.5227 19.76 22.7627 17 22.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16 10.7627C17.1046 10.7627 18 9.86726 18 8.7627C18 7.65813 17.1046 6.7627 16 6.7627C14.8954 6.7627 14 7.65813 14 8.7627C14 9.86726 14.8954 10.7627 16 10.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M8 18.7627C9.10457 18.7627 10 17.8673 10 16.7627C10 15.6581 9.10457 14.7627 8 14.7627C6.89543 14.7627 6 15.6581 6 16.7627C6 17.8673 6.89543 18.7627 8 18.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M14.5 10.2627L9.5 15.2627", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M8 10.7627C9.10457 10.7627 10 9.86726 10 8.7627C10 7.65813 9.10457 6.7627 8 6.7627C6.89543 6.7627 6 7.65813 6 8.7627C6 9.86726 6.89543 10.7627 8 10.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16 18.7627C17.1046 18.7627 18 17.8673 18 16.7627C18 15.6581 17.1046 14.7627 16 14.7627C14.8954 14.7627 14 15.6581 14 16.7627C14 17.8673 14.8954 18.7627 16 18.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M9.5 10.2627L14.5 15.2627", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "XConnected__clip0_4482_2186", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor", transform: "translate(0 0.762695)" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var XConnected_default = XConnected;
+export {
+  XConnected_default as default
+};

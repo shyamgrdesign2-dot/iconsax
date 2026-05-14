@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Penguin225 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Penguin225__clip0_2085_391921)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.5001 11.9498L11.1801 14.0798C10.5801 14.6398 9.6501 14.6398 9.0401 14.0798L6.7201 11.9498C6.4001 11.6598 6.4501 11.1398 6.8201 10.9098L9.6601 9.19977C9.9401 9.02977 10.2801 9.02977 10.5601 9.19977L13.4001 10.9098C13.7701 11.1298 13.8201 11.6498 13.5001 11.9498Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M0.870117 15.3502C4.22012 13.3402 4.12012 8.96023 4.12012 8.96023V7.97023C4.15012 6.73023 5.15012 5.74023 6.39012 5.74023H6.61012C7.23012 5.74023 7.80012 5.99023 8.21012 6.40023C8.62012 6.81023 8.87012 7.37023 8.87012 8.00023V9.69023", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M7.13014 8.07996C7.13014 8.41996 6.85014 8.69996 6.51014 8.69996C6.17014 8.69996 5.89014 8.41996 5.89014 8.07996C5.89014 7.73996 6.17014 7.45996 6.51014 7.45996C6.85014 7.45996 7.13014 7.73996 7.13014 8.07996Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.3501 9.68047V7.99047C11.3501 7.37047 11.6001 6.80047 12.0101 6.39047C12.4201 5.98047 12.9801 5.73047 13.6101 5.73047H13.8201C15.0601 5.73047 16.0701 6.73047 16.0801 7.96047V8.95047C16.0801 8.95047 15.9901 13.3305 19.3401 15.3505", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.0901 8.07996C13.0901 8.41996 13.3701 8.69996 13.7101 8.69996C14.0501 8.69996 14.3301 8.41996 14.3301 8.07996C14.3301 7.73996 14.0501 7.45996 13.7101 7.45996C13.3701 7.45996 13.0901 7.73996 13.0901 8.07996Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.1101 0.75H10.5401C14.9801 0.75 18.6601 4.5 18.9501 8.93L19.4701 17.1C19.6001 19.08 18.0301 20.75 16.0401 20.75H4.1801C2.2001 20.75 0.630101 19.08 0.750101 17.1L1.2701 8.93C1.5601 4.5 5.2401 0.75 9.6801 0.75H10.1101Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.22021 20.7503C5.13021 15.2403 7.67022 12.8203 7.67022 12.8203", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.55 12.8203C12.55 12.8203 15.09 15.2403 16 20.7503", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Penguin225__clip0_2085_391921", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "20.22", height: "21.5", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Penguin225_default = Penguin225;
+export {
+  Penguin225_default as default
+};

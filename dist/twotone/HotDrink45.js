@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HotDrink45 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HotDrink45__clip0_2085_392588)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.0699 19.5104H6.59994C6.59994 17.8304 6.09994 16.1804 5.16994 14.7804C4.14994 13.2404 3.68994 11.3904 3.68994 9.54039V8.90039C3.68994 8.35039 4.13994 7.90039 4.68994 7.90039H15.9699C16.5199 7.90039 16.9699 8.35039 16.9699 8.90039V9.54039C16.9699 11.3904 16.5199 13.2404 15.4899 14.7804C14.5599 16.1804 14.0599 17.8304 14.0599 19.5104H14.0699Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.55999 17.0206C9.11999 17.0206 8.74999 16.7206 8.61999 16.3006C8.32999 15.3506 7.90999 14.4306 7.36999 13.5806C6.74999 12.6106 6.36999 11.5106 6.23999 10.3806V7.89062H14.44V10.3806C14.31 11.5206 13.93 12.6106 13.31 13.5806C12.77 14.4306 12.35 15.3406 12.06 16.3006C11.93 16.7206 11.56 17.0206 11.12 17.0206H9.55999Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.0699 19.5098H6.59985V20.9998C6.59985 21.5498 7.04985 21.9998 7.59985 21.9998H13.0699C13.6199 21.9998 14.0699 21.5498 14.0699 20.9998V19.5098Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.1699 5.73031C11.1699 5.27031 11.5399 4.90031 11.9999 4.90031H13.6599C14.1199 4.90031 14.4899 4.53031 14.4899 4.07031", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8.67993 3.66C8.67993 3.2 9.04993 2.83 9.50993 2.83H11.1699C11.6299 2.83 11.9999 2.46 11.9999 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.9399 15.7805H18.6399C19.5599 15.7805 20.2999 15.0405 20.2999 14.1205V11.2205C20.2999 10.3005 19.5599 9.56055 18.6399 9.56055H16.9799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HotDrink45__clip0_2085_392588", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HotDrink45_default = HotDrink45;
+export {
+  HotDrink45_default as default
+};

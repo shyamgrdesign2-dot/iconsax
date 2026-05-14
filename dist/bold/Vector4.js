@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Vector4 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Vector4__clip0_4482_11135)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 6.25H14V5.5C14 5.22 13.78 5 13.5 5H10.5C10.22 5 10 5.22 10 5.5V6.25H2C1.59 6.25 1.25 6.59 1.25 7C1.25 7.41 1.59 7.75 2 7.75H7.1C4.74 9.34 3.25 12.03 3.25 15H2.5C2.22 15 2 15.22 2 15.5V18.5C2 18.78 2.22 19 2.5 19H5.5C5.78 19 6 18.78 6 18.5V15.5C6 15.22 5.78 15 5.5 15H4.75C4.75 11.76 6.9 8.93 10 8.04V8.5C10 8.78 10.22 9 10.5 9H13.5C13.78 9 14 8.78 14 8.5V8.04C17.1 8.93 19.25 11.76 19.25 15H18.5C18.22 15 18 15.22 18 15.5V18.5C18 18.78 18.22 19 18.5 19H21.5C21.78 19 22 18.78 22 18.5V15.5C22 15.22 21.78 15 21.5 15H20.75C20.75 12.03 19.25 9.34 16.9 7.75H22C22.41 7.75 22.75 7.41 22.75 7C22.75 6.59 22.41 6.25 22 6.25Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Vector4__clip0_4482_11135", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Vector4_default = Vector4;
+export {
+  Vector4_default as default
+};

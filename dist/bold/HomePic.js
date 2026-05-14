@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HomePic = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HomePic__clip0_4482_10326)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.79 2 3 3.79 3 6V18C3 20.21 4.79 22 7 22H17C19.21 22 21 20.21 21 18V6C21 3.79 19.21 2 17 2ZM9.65 7.97C9.65 7.68 9.78 7.41 10 7.23L11.38 6.12C11.72 5.85 12.21 5.85 12.56 6.12L14 7.27C14.22 7.45 14.35 7.72 14.35 8.01V10.03C14.35 10.35 14.09 10.62 13.76 10.62H10.23C9.91 10.62 9.64 10.36 9.64 10.03V7.96L9.65 7.97ZM14.36 18.63H9.65C9.24 18.63 8.9 18.29 8.9 17.88C8.9 17.47 9.24 17.13 9.65 17.13H14.36C14.77 17.13 15.11 17.47 15.11 17.88C15.11 18.29 14.77 18.63 14.36 18.63ZM16.71 15.1H7.29C6.88 15.1 6.54 14.76 6.54 14.35C6.54 13.94 6.88 13.6 7.29 13.6H16.7C17.11 13.6 17.45 13.94 17.45 14.35C17.45 14.76 17.11 15.1 16.7 15.1H16.71Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HomePic__clip0_4482_10326", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HomePic_default = HomePic;
+export {
+  HomePic_default as default
+};

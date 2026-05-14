@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SongFile = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SongFile__clip0_4482_210)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.8805 21.9999C14.7505 21.9999 15.4504 21.2999 15.4504 20.4299C15.4504 19.5599 14.7505 18.8599 13.8805 18.8599C13.0105 18.8599 12.3105 19.5599 12.3105 20.4299C12.3105 21.2999 13.0205 21.9999 13.8805 21.9999Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.46 20.4299V14.9299", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4999 14.1801L18.2399 14.7601C18.6599 14.9001 19.0099 15.3801 19.0099 15.8201V16.2801C19.0099 16.8801 18.5499 17.2201 17.9799 17.0301L16.2399 16.4501C15.8199 16.3101 15.4699 15.8301 15.4699 15.3901V14.9301C15.4599 14.3201 15.9299 13.9901 16.4999 14.1801Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.1504 12V6C20.1504 3.8 18.3504 2 16.1504 2H7.15039C4.95039 2 3.15039 3.8 3.15039 6V18C3.15039 20.2 4.95039 22 7.15039 22H9.15039", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.1504 5V6C14.1504 7.1 15.0504 8 16.1504 8H17.1504", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SongFile__clip0_4482_210", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SongFile_default = SongFile;
+export {
+  SongFile_default as default
+};

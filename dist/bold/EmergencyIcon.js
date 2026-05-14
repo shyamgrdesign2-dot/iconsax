@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const EmergencyIcon = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#EmergencyIcon__clip0_4482_8665)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.8202 14.24L16.8502 12L20.8202 9.76C21.3602 9.45 21.5502 8.76 21.2302 8.22L19.9402 6.04C19.6302 5.52 18.9602 5.34 18.4402 5.63L14.4202 7.9V3.11C14.4202 2.5 13.9202 2 13.3102 2H10.6902C10.0702 2 9.58019 2.5 9.58019 3.11V7.9L5.56019 5.63C5.04019 5.34 4.37019 5.52 4.06019 6.04L2.77019 8.22C2.45019 8.76 2.64019 9.45 3.18019 9.76L7.15019 12L3.18019 14.24C2.64019 14.55 2.45019 15.24 2.77019 15.78L4.06019 17.96C4.37019 18.48 5.04019 18.66 5.56019 18.37L9.58019 16.1V20.89C9.58019 21.5 10.0802 22 10.6902 22H13.3102C13.9302 22 14.4202 21.5 14.4202 20.89V16.1L18.4402 18.37C18.9602 18.66 19.6302 18.48 19.9402 17.96L21.2302 15.78C21.5502 15.24 21.3602 14.55 20.8202 14.24Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "EmergencyIcon__clip0_4482_8665", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var EmergencyIcon_default = EmergencyIcon;
+export {
+  EmergencyIcon_default as default
+};

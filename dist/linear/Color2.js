@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Color2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Color2__clip0_4482_10991)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9996 13.2399C13.8774 13.2399 15.3996 11.7177 15.3996 9.83994C15.3996 7.96217 13.8774 6.43994 11.9996 6.43994C10.1218 6.43994 8.59961 7.96217 8.59961 9.83994C8.59961 11.7177 10.1218 13.2399 11.9996 13.2399Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.2198 13.1401C11.1098 13.4701 11.0498 13.8201 11.0498 14.1701C11.0498 15.9401 12.4098 17.4201 14.1798 17.5601C15.9498 17.7001 17.5298 16.4501 17.7998 14.7001C18.0798 12.9501 16.9498 11.2801 15.2298 10.8701", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.78028 10.8701C7.37028 11.2001 6.33028 12.3901 6.18028 13.8301C6.03028 15.2701 6.82028 16.6401 8.13028 17.2501C9.44028 17.8601 11.0003 17.5701 12.0003 16.5201", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.44 2H7.56C4.4893 2 2 4.4893 2 7.56V16.44C2 19.5107 4.4893 22 7.56 22H16.44C19.5107 22 22 19.5107 22 16.44V7.56C22 4.4893 19.5107 2 16.44 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Color2__clip0_4482_10991", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Color2_default = Color2;
+export {
+  Color2_default as default
+};

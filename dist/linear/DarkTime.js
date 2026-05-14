@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const DarkTime = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#DarkTime__clip0_4482_7584)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.7398 9.74997C22.7398 14.1 20.7398 18.58 16.8398 20.74C12.9398 22.9 8.07984 22.22 4.91984 19.06C1.76984 15.92 1.08984 11.05 3.24984 7.14997C5.41984 3.24997 9.89984 1.24997 14.2498 2.24997", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.2298 6.98999C20.4558 6.98999 21.4498 5.99606 21.4498 4.76999C21.4498 3.54392 20.4558 2.54999 19.2298 2.54999C18.0037 2.54999 17.0098 3.54392 17.0098 4.76999C17.0098 5.99606 18.0037 6.98999 19.2298 6.98999Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.2501 6.84998C11.3001 6.75998 11.3001 6.63998 11.2401 6.54998C11.1801 6.45998 11.0701 6.41998 10.9701 6.43998C9.92009 6.67998 8.96009 7.20998 8.20009 7.96998C6.74009 9.35998 6.14009 11.43 6.65009 13.38C7.16009 15.33 8.68009 16.86 10.6301 17.36C12.5801 17.86 14.6501 17.27 16.0401 15.81C16.8001 15.05 17.3301 14.09 17.5701 13.04C17.5901 12.93 17.5401 12.83 17.4601 12.77C17.3701 12.71 17.2601 12.7 17.1601 12.76C15.4701 13.67 13.3801 13.36 12.0201 12C10.6601 10.64 10.3501 8.54998 11.2601 6.85998L11.2501 6.84998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "DarkTime__clip0_4482_7584", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var DarkTime_default = DarkTime;
+export {
+  DarkTime_default as default
+};

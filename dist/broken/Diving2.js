@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Diving2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Diving2__clip0_2085_385715)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.12988 13.43C6.46988 12.84 6.95988 12.32 7.44988 11.86C8.68988 10.72 10.2299 9.95 11.8599 9.56C13.0699 9.27 14.3099 9.25 15.4899 8.87C16.4199 8.57 17.3099 8.12 18.0999 7.54C19.4499 6.55 20.5299 5.21 21.2499 3.7C21.5099 3.15 21.7299 2.58 21.8699 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6 7.02023C15.65 7.02023 16.49 6.17023 16.49 5.13023C16.49 4.09023 15.64 3.24023 14.6 3.24023C13.56 3.24023 12.71 4.09023 12.71 5.13023C12.71 6.17023 13.56 7.02023 14.6 7.02023Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.5801 9.25977C13.4301 12.1098 12.8301 14.3198 12.0101 16.0398C9.3001 21.7598 4.1001 21.9998 4.1001 21.9998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.8699 12.6396C14.7999 14.2096 13.4499 15.2996 12.0199 16.0396C7.49988 18.3996 2.12988 17.3796 2.12988 17.3796", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.8197 7.74023C17.7197 8.28023 17.5897 8.78024 17.4497 9.27024", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Diving2__clip0_2085_385715", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Diving2_default = Diving2;
+export {
+  Diving2_default as default
+};

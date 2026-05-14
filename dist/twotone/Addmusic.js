@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Addmusic = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Addmusic__clip0_4482_5945)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.76001 21.4999C8.85317 21.4999 10.55 19.8031 10.55 17.7099C10.55 15.6168 8.85317 13.9199 6.76001 13.9199C4.66685 13.9199 2.96997 15.6168 2.96997 17.7099C2.96997 19.8031 4.66685 21.4999 6.76001 21.4999Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.55 10.61L18.2 7.64003C19.13 7.28003 19.9 6.16004 19.9 5.16004C19.9 3.29004 18.02 2.00002 16.28 2.68002L12.59 4.11003C11.36 4.59003 10.5601 5.77003 10.5601 7.08003V10.61H10.55Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", fillRule: "evenodd", clipRule: "evenodd", d: "M18.6001 14.0703C18.6001 13.6561 18.2643 13.3203 17.8501 13.3203C17.4359 13.3203 17.1001 13.6561 17.1001 14.0703V16.5H14.6602C14.2459 16.5 13.9102 16.8358 13.9102 17.25C13.9102 17.6642 14.2459 18 14.6602 18H17.1001V20.4403C17.1001 20.8545 17.4359 21.1903 17.8501 21.1903C18.2643 21.1903 18.6001 20.8545 18.6001 20.4403V18H21.0302C21.4444 18 21.7802 17.6642 21.7802 17.25C21.7802 16.8358 21.4444 16.5 21.0302 16.5H18.6001V14.0703Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.55 8V17.71", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Addmusic__clip0_4482_5945", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Addmusic_default = Addmusic;
+export {
+  Addmusic_default as default
+};

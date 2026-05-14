@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const DownloadInDrive = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#DownloadInDrive__clip0_4482_12080)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.4698 15.7903V14.2103C21.4698 12.1803 19.8198 10.5303 17.7898 10.5303H6.20979C4.17979 10.5303 2.52979 12.1803 2.52979 14.2103V15.7903", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.74023 16.2598H13.0602", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.3899 16.2693C17.3899 16.339 17.3299 16.3988 17.2599 16.3888C17.1899 16.3888 17.1299 16.329 17.1299 16.2593C17.1299 16.1896 17.1899 16.1299 17.2599 16.1299C17.2899 16.1299 17.3299 16.1398 17.3499 16.1697C17.3699 16.1896 17.3899 16.2295 17.3899 16.2593", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.7398 3.0498H18.3198C20.0598 3.0498 21.4798 4.4598 21.4798 6.2098V18.3198C21.4798 20.3498 19.8298 21.9998 17.7998 21.9998H6.20979C4.17979 21.9998 2.52979 20.3498 2.52979 18.3198V6.2098C2.52979 4.4698 3.93979 3.0498 5.68979 3.0498H7.26978", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2V7.26", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.89014 5.16016L12.0001 7.27016L14.1101 5.16016", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "DownloadInDrive__clip0_4482_12080", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var DownloadInDrive_default = DownloadInDrive;
+export {
+  DownloadInDrive_default as default
+};

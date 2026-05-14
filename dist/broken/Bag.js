@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bag = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Bag__clip0_4482_7334)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.53014 16.6699L4.10009 18.8099C3.75009 20.5599 4.93014 21.9999 6.71014 21.9999H17.2701C19.0601 21.9999 20.2401 20.5599 19.8801 18.8099L19.4501 16.6699", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.60012 13.5598C3.31012 15.0798 4.41012 16.3298 6.04012 16.3298H10.2501V15.8598C10.2501 15.3398 10.6701 14.9198 11.1801 14.9198H12.8302C13.3502 14.9198 13.7702 15.3398 13.7702 15.8598V16.3298H17.9701C19.6001 16.3298 20.7001 15.0798 20.4101 13.5598L19.3302 7.92976C19.1202 6.86976 18.0302 6.00977 16.8902 6.00977H7.13014C5.99014 6.00977 4.90014 6.86976 4.69014 7.92976L4.54012 8.72977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.5 6V4C8.5 2.9 9.4 2 10.5 2H13.5C14.6 2 15.5 2.9 15.5 4V6", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.7603 15.8599V16.7999C13.7603 17.3199 13.3403 17.7399 12.8203 17.7399H11.1802C10.6602 17.7399 10.2402 17.3199 10.2402 16.7999V15.8599C10.2402 15.3399 10.6602 14.9199 11.1702 14.9199H12.8203C13.3403 14.9199 13.7603 15.3399 13.7603 15.8599Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Bag__clip0_4482_7334", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Bag_default = Bag;
+export {
+  Bag_default as default
+};

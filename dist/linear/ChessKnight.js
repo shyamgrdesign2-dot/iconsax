@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ChessKnight = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ChessKnight__clip0_4482_15655)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.1399 5.66L10.7799 2C10.2899 2.86 9.81989 4.39 10.4999 5.49C10.1699 5.52 9.85989 5.57 9.60989 5.66C8.05989 6.24 6.35989 7.75 5.51989 10.88C5.27989 11.79 4.83989 12.22 4.31989 12.74C3.82989 13.23 3.26989 13.79 2.72989 14.88C1.61989 17.14 4.61989 19.4 6.81989 17.35C8.04989 16.2 9.12989 15.72 10.0399 15.32C11.3399 14.74 12.2899 14.33 12.8199 12.28C13.0699 13.24 12.9699 15.5 10.5399 16.87C8.83989 17.83 8.07989 19.53 7.78989 20.77C7.62989 21.46 8.19989 22.01 8.89989 22.01H20.1599C20.8999 22.01 21.4999 21.41 21.4799 20.68C21.3499 13.08 19.9899 6.71 14.1199 5.68L14.1399 5.66Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ChessKnight__clip0_4482_15655", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ChessKnight_default = ChessKnight;
+export {
+  ChessKnight_default as default
+};

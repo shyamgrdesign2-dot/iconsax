@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Drill05 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Drill05__clip0_4482_8903)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.3495 12H7.82953C7.51953 12 7.26953 11.75 7.26953 11.44V8.11005C7.26953 7.80005 7.51953 7.55005 7.82953 7.55005H10.3495", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.05957 9.78003H7.27957", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.23858 2 2 4.23858 2 7V17C2 19.7614 4.23858 22 7 22H17C19.7614 22 22 19.7614 22 17V7C22 4.23858 19.7614 2 17 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.1696 6.43994H12.2796C11.0535 6.43994 10.0596 7.43387 10.0596 8.65994V10.8899C10.0596 12.116 11.0535 13.1099 12.2796 13.1099H16.1696C17.3956 13.1099 18.3896 12.116 18.3896 10.8899V8.65994C18.3896 7.43387 17.3956 6.43994 16.1696 6.43994Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.3896 9.78003H15.6096", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.5004 15.8901H12.4604C11.4404 15.8901 10.6104 15.0601 10.6104 14.0401V12.3601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2202 12.8501L18.0002 16.7101C18.1002 17.1901 17.9702 17.6901 17.6602 18.0701C17.3502 18.4501 16.8802 18.6701 16.4002 18.6701C15.6202 18.6701 14.9502 18.1201 14.8002 17.3601L13.9502 13.1201", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Drill05__clip0_4482_8903", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Drill05_default = Drill05;
+export {
+  Drill05_default as default
+};

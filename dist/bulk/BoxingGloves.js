@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BoxingGloves = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BoxingGloves__clip0_2085_387513)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M6 12L2.66991 14.4499C2.04991 14.9499 1.82991 15.7999 2.12991 16.5199C2.79991 18.1199 4.12991 20.0599 6.76991 21.4799C7.39991 21.8199 8.16991 21.7299 8.72991 21.2799C9.92991 20.3099 12 18.5 12 18.5", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.27 12.0204L21.01 10.3204C21.01 10.3204 22.82 8.46039 21.01 6.22039C19.93 4.88039 18.26 3.76039 17.1 3.07039C15.4 2.07039 13.28 2.02039 11.59 3.02039C9.67002 4.15039 8.05002 6.22039 6.84002 8.06039C5.55002 10.0204 4.96002 12.4804 6.30002 14.5704C6.30002 14.5704 9.67002 19.3204 12.77 18.6304C12.77 18.6304 16.14 17.5104 17.69 17.4204C17.69 17.4204 20.71 16.9904 21.23 15.0904C21.23 15.0904 21.81 11.8104 19.28 12.0004H19.22C18.78 12.0404 18.37 12.2404 18.06 12.5504C17.68 12.9304 17.2 13.5204 17.18 14.1804", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BoxingGloves__clip0_2085_387513", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BoxingGloves_default = BoxingGloves;
+export {
+  BoxingGloves_default as default
+};

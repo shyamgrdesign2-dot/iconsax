@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BookedFile = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BookedFile__clip0_4482_2605)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.5 5V6C14.5 7.1 15.4 8 16.5 8H17.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.5701 11.9701L13.1501 13.1201C13.2301 13.2801 13.4401 13.4301 13.6201 13.4601L14.6701 13.6301C15.3401 13.7401 15.5001 14.2301 15.0101 14.7001L14.2001 15.5101C14.0601 15.6501 13.9901 15.9101 14.0301 16.1001L14.2601 17.1101C14.4401 17.9101 14.0201 18.2101 13.3201 17.8001L12.3401 17.2201C12.1601 17.1201 11.8701 17.1201 11.6901 17.2201L10.7101 17.8001C10.0101 18.2201 9.58007 17.9001 9.77007 17.1101L10.0001 16.1001C10.0401 15.9101 9.97006 15.6401 9.83006 15.5101L9.02007 14.7001C8.54007 14.2201 8.70006 13.7401 9.36006 13.6301L10.4101 13.4601C10.5801 13.4301 10.7901 13.2801 10.8701 13.1201L11.4501 11.9701C11.7401 11.3401 12.2501 11.3401 12.5701 11.9701Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.5 7V6C3.5 3.8 5.3 2 7.5 2H16.5C18.7 2 20.5 3.8 20.5 6V18C20.5 20.2 18.7 22 16.5 22H7.5C5.3 22 3.5 20.2 3.5 18V13", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BookedFile__clip0_4482_2605", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BookedFile_default = BookedFile;
+export {
+  BookedFile_default as default
+};

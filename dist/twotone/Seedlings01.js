@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Seedlings01 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Seedlings01__clip0_4482_5898)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12 13V10.75", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0001 10C10.1101 10 8.57007 8.46001 8.57007 6.57001V5.42999C8.57007 3.53999 10.1101 2 12.0001 2C13.8901 2 15.4301 3.53999 15.4301 5.42999V6.57001C15.4301 8.46001 13.8901 10 12.0001 10Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2802 22H9.71015C8.68015 22 7.8201 21.22 7.7201 20.2L7.21015 15.2C7.09015 14.02 8.02014 13 9.20014 13H14.7802C15.9602 13 16.8901 14.02 16.7701 15.2L16.2601 20.2C16.1701 21.22 15.3102 22 14.2802 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.25 17.5H13.25", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Seedlings01__clip0_4482_5898", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Seedlings01_default = Seedlings01;
+export {
+  Seedlings01_default as default
+};

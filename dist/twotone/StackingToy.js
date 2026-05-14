@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const StackingToy = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#StackingToy__clip0_2085_385151)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 22H22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M13.6698 6.44V3.11C13.6698 2.5 13.1698 2 12.5598 2H11.4498C10.8398 2 10.3398 2.5 10.3398 3.11V6.44H13.6698Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M15.8899 10.3299V7.54994C15.8899 6.93994 15.3899 6.43994 14.7799 6.43994H9.21986C8.60986 6.43994 8.10986 6.93994 8.10986 7.54994V10.3299H15.8899Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M17.56 14.2201V11.4401C17.56 10.8301 17.06 10.3301 16.45 10.3301H7.55995C6.94995 10.3301 6.44995 10.8301 6.44995 11.4401V14.2201H17.56Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.22 18.1102V15.3302C19.22 14.7202 18.72 14.2202 18.11 14.2202H5.89003C5.28003 14.2202 4.78003 14.7202 4.78003 15.3302V18.1102H19.22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.8901 21.9999V19.2199C20.8901 18.6099 20.3901 18.1099 19.7801 18.1099H4.22011C3.61011 18.1099 3.11011 18.6099 3.11011 19.2199V21.9999H20.8901Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "StackingToy__clip0_2085_385151", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var StackingToy_default = StackingToy;
+export {
+  StackingToy_default as default
+};

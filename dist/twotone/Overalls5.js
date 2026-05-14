@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Overalls5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Overalls5__clip0_2085_392388)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.44008 9.10059C9.44008 9.10059 8.41008 11.3806 8.16008 12.9406C7.96008 14.1506 8.07008 18.9106 8.13008 21.0006C8.15008 21.5606 8.60008 21.9906 9.16008 21.9906H9.85008C10.3501 21.9906 10.7801 21.6306 10.8701 21.1306L12.0101 14.2206L13.1501 21.1306C13.2301 21.6306 13.6601 21.9906 14.1701 21.9906H14.8601C15.4201 21.9906 15.8701 21.5506 15.8901 21.0006C15.9501 18.9106 16.0601 14.1506 15.8601 12.9406C15.6101 11.3806 14.5801 9.10059 14.5801 9.10059", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.72 11.6606L12 9.10059L13.28 11.6606", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.5602 9.10038L10.1302 2.46038C9.77016 1.92038 9.01016 1.84038 8.55016 2.30038L8.16016 2.69038C8.87016 3.40038 8.87016 4.54038 8.16016 5.25038L9.44016 9.09038H14.5702L14.5602 9.10038ZM14.5602 9.10038L15.8402 5.26038C15.1302 4.55038 15.1302 3.41038 15.8402 2.70038L15.4502 2.31038C14.9902 1.85038 14.2302 1.93038 13.8702 2.47038L12.0002 5.27038", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Overalls5__clip0_2085_392388", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Overalls5_default = Overalls5;
+export {
+  Overalls5_default as default
+};

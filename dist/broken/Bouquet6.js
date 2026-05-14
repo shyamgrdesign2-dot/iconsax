@@ -1,0 +1,46 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bouquet6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Bouquet6__clip0_2085_392302)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.79004 8.84965C6.80004 8.79965 6.82004 8.75965 6.83004 8.70965C6.90004 8.50965 6.96004 8.29965 7.04004 8.09965C7.12004 7.84965 7.21004 7.59965 7.30004 7.34965C7.47004 6.89965 7.64004 6.44965 7.82004 6.00965C8.18004 5.11965 8.58004 4.24965 9.01004 3.38965", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.6102 14.9905C17.1802 16.7105 13.4902 17.9005 9.70023 18.5005L9.31023 18.5605H9.30023C8.55023 19.3105 7.06023 20.3605 5.96023 21.1005C5.16023 21.6305 4.11023 21.5305 3.43023 20.8505L3.15023 20.5705C2.47023 19.8905 2.37023 18.8405 2.90023 18.0405C3.64023 16.9305 4.69023 15.4505 5.44023 14.6905L5.50023 14.3105C5.62023 13.5305 5.77023 12.7505 5.95023 11.9805", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.48047 13.7305L5.44047 14.6905L9.30047 18.5605H9.31047L10.2705 19.5305", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.8105 12.4C21.4605 11.79 21.8305 10.92 21.8005 10.01C21.0205 9.53 20.0905 9.42 19.2305 9.68", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.6001 3.1997C12.2101 2.5497 13.0801 2.1797 13.9901 2.2097C14.4701 2.9897 14.5801 3.9197 14.3201 4.7797", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.2504 14.7405L22.0004 13.7305C21.0804 12.1405 19.3804 11.4105 18.1904 12.1005C19.0104 11.6205 19.3704 10.5905 19.2104 9.48047", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.4201 9.90039C14.5801 10.5504 14.1301 11.5504 14.1501 12.5704", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.5203 4.79C13.4003 4.63 12.3703 4.99 11.9003 5.81C12.5903 4.62 11.8603 2.91 10.2703 2L9.26025 3.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.4302 9.85008C12.4502 9.87008 13.4502 9.41008 14.1002 8.58008", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.9805 3.79027C18.7405 3.32027 19.6705 3.19027 20.5505 3.45027C20.8105 4.33027 20.6705 5.26027 20.2105 6.02027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.4901 9.20021L20.8801 7.81021C21.3601 7.33021 21.2401 6.52021 20.6301 6.21021C19.5201 5.64021 18.3201 5.68021 17.5901 6.41021C18.3201 5.68021 18.3501 4.47021 17.7901 3.37021C17.4801 2.77021 16.6701 2.65021 16.1901 3.12021L14.6601 4.65021C13.3201 5.99021 13.3701 8.18021 14.7901 9.47021C16.1301 10.6702 18.2201 10.4902 19.4901 9.21021V9.20021Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.4301 12.5797C14.4701 12.2697 17.5901 12.9897 20.2401 14.7397L20.6201 14.9897C17.1801 16.7197 13.5001 17.8997 9.70006 18.4997L9.31006 18.5597", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Bouquet6__clip0_2085_392302", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Bouquet6_default = Bouquet6;
+export {
+  Bouquet6_default as default
+};

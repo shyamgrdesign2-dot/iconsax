@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Hammer2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Hammer2__clip0_2085_386618)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.44 3.4102L9.91001 4.9402C9.13001 5.7202 9.13001 6.9902 9.91001 7.7702L16.16 14.0202C16.94 14.8002 18.21 14.8002 18.99 14.0202L20.52 12.4902C21.3 11.7102 21.3 10.4402 20.52 9.66019L14.27 3.4102C13.49 2.6302 12.22 2.6302 11.44 3.4102Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.7192 12.0887L4.37 21.3602C3.99 21.7302 3.44 21.8602 2.94 21.6902C2.64 21.5902 2.41 21.3502 2.31 21.0502C2.14 20.5402 2.27 19.9902 2.65 19.6102C6.31589 15.9786 8.4102 13.9039 12 10.3477", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.4677 7.32325L19.79 5.91994L18.06 4.18994C17.5187 4.76438 17.2017 5.10085 16.686 5.64812", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Hammer2__clip0_2085_386618", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Hammer2_default = Hammer2;
+export {
+  Hammer2_default as default
+};

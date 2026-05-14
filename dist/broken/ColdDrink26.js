@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ColdDrink26 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ColdDrink26__clip0_2085_392633)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.0398 22.0006H16.5598C17.4798 22.0006 18.2198 21.2606 18.2198 20.3406V10.6406C18.2198 9.53062 17.3298 8.64062 16.2198 8.64062H7.77979C6.66979 8.64062 5.77979 9.53062 5.77979 10.6406V20.3406C5.77979 21.2606 6.51978 22.0006 7.43979 22.0006H8.46979", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.0697 6.15039H9.91969C8.54969 6.15039 7.42969 7.26039 7.42969 8.64039H16.5597C16.5597 7.27039 15.4497 6.15039 14.0697 6.15039Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9998 2C11.3098 2 10.7598 2.56 10.7598 3.24V6.14H13.2498V3.24C13.2498 2.55 12.6898 2 12.0098 2H11.9998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.77979 13.2891C8.88979 13.2891 8.88979 14.1191 11.9998 14.1191C15.1098 14.1191 15.1098 13.2891 18.2198 13.2891", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.7598 14.0606V8.64062H13.2498V14.0606", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.8699 17.2294C13.8699 17.5694 13.5899 17.8494 13.2499 17.8494C12.9099 17.8494 12.6299 17.5694 12.6299 17.2294C12.6299 16.8894 12.9099 16.6094 13.2499 16.6094C13.5899 16.6094 13.8699 16.8894 13.8699 17.2294Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.3596 17.2294C16.3596 17.5694 16.0796 17.8494 15.7396 17.8494C15.3996 17.8494 15.1196 17.5694 15.1196 17.2294C15.1196 16.8894 15.3996 16.6094 15.7396 16.6094C16.0796 16.6094 16.3596 16.8894 16.3596 17.2294Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.1096 19.2997C15.1096 19.6397 14.8296 19.9197 14.4896 19.9197C14.1496 19.9197 13.8696 19.6397 13.8696 19.2997C13.8696 18.9597 14.1496 18.6797 14.4896 18.6797C14.8296 18.6797 15.1096 18.9597 15.1096 19.2997Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ColdDrink26__clip0_2085_392633", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ColdDrink26_default = ColdDrink26;
+export {
+  ColdDrink26_default as default
+};

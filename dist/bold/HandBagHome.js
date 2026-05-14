@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HandBagHome = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HandBagHome__clip0_4482_1708)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18 6H6C3.8 6 2 7.8 2 10V18C2 20.2 3.8 22 6 22H18C20.2 22 22 20.2 22 18V10C22 7.8 20.2 6 18 6ZM12 15.88C12 16.59 11.43 17.16 10.72 17.16H6.90002C6.20002 17.16 5.62 16.59 5.62 15.88V13.6C5.62 13.21 5.81 12.84 6.12 12.6L8.03003 11.11C8.49003 10.75 9.12998 10.75 9.59998 11.11L11.51 12.6C11.82 12.84 12 13.21 12 13.6V15.88ZM18.38 16.75H15.38C14.97 16.75 14.63 16.41 14.63 16C14.63 15.59 14.97 15.25 15.38 15.25H18.38C18.79 15.25 19.13 15.59 19.13 16C19.13 16.41 18.79 16.75 18.38 16.75ZM18.38 12.75H15.38C14.97 12.75 14.63 12.41 14.63 12C14.63 11.59 14.97 11.25 15.38 11.25H18.38C18.79 11.25 19.13 11.59 19.13 12C19.13 12.41 18.79 12.75 18.38 12.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.77 4V6H15.27V4C15.27 3.31 14.71 2.75 14.02 2.75H9.97998C9.28998 2.75 8.72998 3.31 8.72998 4V6H7.22998V4C7.22998 2.48 8.45998 1.25 9.97998 1.25H14.02C15.54 1.25 16.77 2.48 16.77 4Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HandBagHome__clip0_4482_1708", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HandBagHome_default = HandBagHome;
+export {
+  HandBagHome_default as default
+};

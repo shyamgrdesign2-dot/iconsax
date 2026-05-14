@@ -1,0 +1,50 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Handcuffs23 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Handcuffs23__clip0_2085_390099)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.20992 12.4502C8.97992 13.0802 9.50992 14.3202 9.50992 15.7302C9.50992 17.1402 8.96992 18.4402 8.16992 19.0802", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.94008 6.83008C6.85008 7.71008 6.69008 8.64008 6.46008 9.55008C6.64008 9.52008 6.83008 9.51008 7.02008 9.51008C8.05008 9.51008 8.99008 9.88008 9.77008 10.5201C10.3901 11.0201 10.3501 11.9901 9.71008 12.4701C9.27008 12.8001 8.64008 12.8001 8.21008 12.4501C7.86008 12.1601 7.45008 12.0001 7.02008 12.0001C5.65008 12.0001 4.49008 13.6701 4.49008 15.7301C4.49008 17.7901 5.65008 19.5101 7.02008 19.5101C7.43008 19.5101 7.83008 19.3601 8.17008 19.0801C8.18008 19.0801 8.20008 19.0801 8.21008 19.0601C8.64008 18.7001 9.27008 18.7001 9.71008 19.0401C10.3501 19.5201 10.3901 20.4901 9.77008 20.9901C8.99008 21.6301 8.05008 22.0001 7.02008 22.0001C4.53008 22.0001 2.49008 19.7901 2.08008 16.8301", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.08008 14.6103C2.19008 13.7703 2.44008 13.0403 2.78008 12.3403C3.58008 10.5803 4.22008 8.69027 4.44008 6.78027", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.24 5.73023C2.55 5.73023 2 5.17023 2 4.49023", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.24 5.73047C2.55 5.73047 2 6.29047 2 6.97047", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27 5.73023C8.27 6.42023 7.16 6.97023 5.78 6.97023C4.4 6.97023 3.25 6.41023 3.25 5.73023C3.25 5.05023 4.41 4.49023 5.78 4.49023C7.15 4.49023 8.27 5.05023 8.27 5.73023Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.01978 4.66V2H4.52979V4.66", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.7902 12.4502C15.0202 13.0802 14.4902 14.3202 14.4902 15.7302C14.4902 17.1402 15.0102 18.3902 15.7902 19.0402", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.0599 6.83008C17.1499 7.71008 17.3099 8.64008 17.5399 9.55008C17.3499 9.52008 17.1699 9.51008 16.9799 9.51008C15.9499 9.51008 15.0099 9.88008 14.2299 10.5201C13.6099 11.0201 13.6499 11.9901 14.2899 12.4701C14.7299 12.8001 15.3599 12.8001 15.7899 12.4501C16.1399 12.1601 16.5499 12.0001 16.9799 12.0001C18.3499 12.0001 19.5099 13.6701 19.5099 15.7301C19.5099 17.7901 18.3499 19.5101 16.9799 19.5101C16.5499 19.5101 16.1399 19.3501 15.7899 19.0601C15.3599 18.7001 14.7299 18.7001 14.2899 19.0401C13.6499 19.5201 13.6099 20.4901 14.2299 20.9901C15.0099 21.6301 15.9499 22.0001 16.9799 22.0001C19.5299 22.0001 21.6099 19.6801 21.9399 16.6201", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.5601 6.78027C19.7801 8.69027 20.3701 10.5803 21.1801 12.3403C21.4901 12.9803 21.7401 13.6403 21.8801 14.3903", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.71 5.73023C21.4 5.73023 22 5.17023 22 4.49023", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.71 5.73047C21.4 5.73047 22 6.29047 22 6.97047", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.73 5.73023C15.73 6.42023 16.84 6.97023 18.22 6.97023C19.6 6.97023 20.71 6.41023 20.71 5.73023C20.71 5.05023 19.6 4.49023 18.22 4.49023C16.84 4.49023 15.73 5.05023 15.73 5.73023Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.98 4.66V2H19.47V4.66", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Handcuffs23__clip0_2085_390099", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Handcuffs23_default = Handcuffs23;
+export {
+  Handcuffs23_default as default
+};

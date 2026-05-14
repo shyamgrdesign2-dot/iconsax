@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Pen2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Pen2__clip0_4482_11107)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM17.35 12.15C16.71 12.79 15.67 12.8 15.02 12.17L14.7 14.74C14.66 15.08 14.4 15.36 14.07 15.43L8.27 16.69C8 16.75 7.72 16.67 7.52 16.47C7.33 16.27 7.24 15.99 7.3 15.72L8.56 9.92C8.63 9.58 8.91 9.33 9.25 9.29L11.82 8.97C11.2 8.32 11.2 7.28 11.84 6.64C12.49 5.99 13.55 5.99 14.2 6.64L17.34 9.78C17.99 10.43 17.99 11.49 17.34 12.14L17.35 12.15Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Pen2__clip0_4482_11107", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Pen2_default = Pen2;
+export {
+  Pen2_default as default
+};

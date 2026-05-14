@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Jacket26 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Jacket26__clip0_2085_392424)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.2203 5.73C18.2203 8.48 12.0003 9.46 12.0003 9.46C12.0003 9.46 5.78027 8.48 5.78027 5.73C5.78027 2.98 8.57027 2 12.0003 2C15.4303 2 18.2203 2.98 18.2203 5.73Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 9.47023L9.74999 6.48023C9.13999 5.66023 9.72999 4.49023 10.75 4.49023H13.24C14.27 4.49023 14.85 5.66023 14.24 6.48023L12 9.47023ZM12 9.47023V20.7602C12 20.7602 13.98 22.0002 15.73 22.0002C16.36 22.0002 17.02 21.8402 17.6 21.6402C18.66 21.2602 19.19 20.0702 18.78 19.0202L18.31 17.8302C17.23 15.1202 16.97 12.6602 16.97 10.7102", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.02025 10.71C7.02025 12.66 6.77025 15.11 5.68025 17.82L5.21025 19.01C4.80025 20.06 5.32025 21.25 6.39025 21.63C6.98025 21.84 7.63025 22 8.26025 22C10.0102 22 11.9902 20.76 11.9902 20.76", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.41017 15.54C2.34017 15.9 2.29017 16.24 2.24017 16.54C2.08017 17.51 2.65017 18.44 3.59017 18.75L5.12017 19.25", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.13037 12.2004C3.75037 9.82039 4.65037 7.42039 5.90037 6.40039", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.8901 19.2504L20.4201 18.7504C21.3501 18.4404 21.9201 17.5104 21.7701 16.5404C21.3201 13.7004 20.2001 8.11039 18.1001 6.40039", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27002 18.2197V19.4597", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.73 16.9805V18.2205", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.4902 11.96V13.25", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.51025 14.4902V15.7302", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Jacket26__clip0_2085_392424", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Jacket26_default = Jacket26;
+export {
+  Jacket26_default as default
+};

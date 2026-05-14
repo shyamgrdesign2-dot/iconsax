@@ -1,0 +1,14 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const DiagonalDownRight3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M1.39557 1.39495C1.72946 1.06106 2.27065 1.06106 2.60455 1.39495L22.6045 21.395C22.9384 21.7289 22.9384 22.27 22.6045 22.6039C22.2707 22.9378 21.7295 22.9378 21.3956 22.6039L1.39557 2.60394C1.06167 2.27004 1.06167 1.72885 1.39557 1.39495Z", fill: "currentColor" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M22.0001 14.31L22.0001 22L14.3101 22", fill: "currentColor" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M13.52 22.3271C13.3877 22.0077 13.461 21.64 13.7055 21.3955L21.395 13.7051C21.6395 13.4605 22.0081 13.3882 22.3276 13.5205C22.6467 13.6529 22.8548 13.9641 22.8549 14.3096L22.8549 22C22.8549 22.4721 22.4725 22.8552 22.0005 22.8555L14.31 22.8555C13.9642 22.8555 13.6523 22.6466 13.52 22.3271ZM21.145 21.1445L21.145 16.375L16.3745 21.1445L21.145 21.1445Z", fill: "currentColor" }),
+  " "
+] });
+var DiagonalDownRight3_default = DiagonalDownRight3;
+export {
+  DiagonalDownRight3_default as default
+};

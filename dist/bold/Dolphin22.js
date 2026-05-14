@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Dolphin22 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Dolphin22__clip0_2085_393328)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.1 6.88977L19.97 6.49977C18.31 2.51977 12.33 4.17977 12.33 4.17977C11 2.51977 6.69 3.21977 6.69 3.21977C8.68 3.54977 9.01 6.16977 9.01 6.16977C5.69 7.82977 5.36 15.1298 5.36 15.1298C2.71 16.1198 2 18.7798 2 18.7798C4.32 19.7798 6.02 18.4498 6.02 18.4498C6.02 20.4398 9.01 20.9898 9.01 20.9898C10.03 19.6698 8.02 16.7898 8.02 16.7898C6.84 12.6598 10.66 10.7398 14.46 9.85977C14.35 10.6898 14.1 12.8398 14.51 12.7998C16.37 12.5898 17.8 9.86977 18.09 9.28977C19.22 9.17977 20.14 9.14977 20.63 9.14977C21.16 9.14977 21.61 8.98977 21.81 8.71977C22.27 8.08977 21.84 7.14977 21.1 6.88977Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Dolphin22__clip0_2085_393328", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Dolphin22_default = Dolphin22;
+export {
+  Dolphin22_default as default
+};

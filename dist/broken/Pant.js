@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Pant = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Pant__clip0_4482_12002)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.39062 5.1499H20.6106", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.56025 20.82C2.55025 21.11 2.65025 21.39 2.85025 21.6C3.05025 21.81 3.32025 21.93 3.61025 21.93H7.98025C8.49025 21.93 8.92025 21.57 9.01025 21.07L10.8703 10.83C10.9203 10.58 11.1303 10.4 11.3903 10.4H12.6103C12.8603 10.4 13.0803 10.58 13.1303 10.83L14.9903 21.07C15.0803 21.57 15.5203 21.93 16.0203 21.93H20.3903C20.6803 21.93 20.9503 21.81 21.1503 21.6C21.3503 21.39 21.4503 21.11 21.4403 20.82L20.5003 2.99C20.4703 2.43 20.0103 2 19.4503 2H4.55025C3.99025 2 3.53025 2.44 3.50025 2.99L2.77025 16.84", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.0404 2H10.9504C10.3705 2 9.90039 2.4701 9.90039 3.05V4.1C9.90039 4.6799 10.3705 5.15 10.9504 5.15H13.0404C13.6203 5.15 14.0904 4.6799 14.0904 4.1V3.05C14.0904 2.4701 13.6203 2 13.0404 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Pant__clip0_4482_12002", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Pant_default = Pant;
+export {
+  Pant_default as default
+};

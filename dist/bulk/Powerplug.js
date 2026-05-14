@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Powerplug = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Powerplug__clip0_4482_6580)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17 22H7C4.25 22 2 19.75 2 17V7C2 4.25 4.25 2 7 2H17C19.75 2 22 4.25 22 7V17C22 19.75 19.75 22 17 22Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.75 6.0498V7.49981C12.75 7.90981 12.41 8.24981 12 8.24981C11.59 8.24981 11.25 7.90981 11.25 7.49981V6.0498C8.29 6.4198 6 8.93981 6 11.9998C6 15.0598 8.29 17.5798 11.25 17.9498V16.9998C11.25 16.5898 11.59 16.2498 12 16.2498C12.41 16.2498 12.75 16.5898 12.75 16.9998V17.9498C15.71 17.5798 18 15.0598 18 11.9998C18 8.93981 15.71 6.4198 12.75 6.0498ZM10 12.9998C9.45 12.9998 9 12.5498 9 11.9998C9 11.4498 9.45 10.9998 10 10.9998C10.55 10.9998 11 11.4498 11 11.9998C11 12.5498 10.55 12.9998 10 12.9998ZM14 12.9998C13.45 12.9998 13 12.5498 13 11.9998C13 11.4498 13.45 10.9998 14 10.9998C14.55 10.9998 15 11.4498 15 11.9998C15 12.5498 14.55 12.9998 14 12.9998Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Powerplug__clip0_4482_6580", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Powerplug_default = Powerplug;
+export {
+  Powerplug_default as default
+};

@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Pot = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Pot__clip0_4482_3736)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14 17.5H10C7.79 17.5 6 15.71 6 13.5V7.5H18V13.5C18 15.71 16.21 17.5 14 17.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.88 10.74L3.91998 10.08C3.26998 9.86004 2.83002 9.25004 2.83002 8.57004C2.83002 8.03004 3.34 7.63004 3.87 7.76004L5.90002 8.27004", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.12 10.74L20.08 10.08C20.73 9.86004 21.17 9.25004 21.17 8.57004C21.17 8.03004 20.66 7.63004 20.13 7.76004L18.1 8.27004", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.72998 2L8.22998 2.73C8.08998 2.93 8.14999 3.17 8.35999 3.33C8.57999 3.49 8.62999 3.73 8.48999 3.93L8 4.67", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.36 2L11.86 2.73C11.72 2.93 11.78 3.17 11.99 3.33C12.21 3.49 12.26 3.73 12.12 3.93L11.62 4.66", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 2L15.5 2.73C15.36 2.93 15.42 3.17 15.63 3.33C15.85 3.49 15.9 3.73 15.76 3.93L15.26 4.66", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.70003 20.1404L10.12 20.5604C10.51 20.9504 10.51 21.5904 10.12 21.9804C9.82001 22.2804 9.34001 22.3704 8.93001 22.1504C8.85001 22.1104 8.77004 22.0404 8.71004 21.9804C8.32004 21.5904 8.32004 20.9504 8.71004 20.5604L9.12001 20.1404L9.26003 20.0004C9.34003 19.9204 9.48002 19.9204 9.56002 20.0004L9.70003 20.1404Z", fill: "currentColor", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7 20.1404L15.12 20.5604C15.51 20.9504 15.51 21.5904 15.12 21.9804C14.82 22.2804 14.34 22.3704 13.93 22.1504C13.85 22.1104 13.77 22.0404 13.71 21.9804C13.32 21.5904 13.32 20.9504 13.71 20.5604L14.12 20.1404L14.26 20.0004C14.34 19.9204 14.48 19.9204 14.56 20.0004L14.7 20.1404Z", fill: "currentColor", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Pot__clip0_4482_3736", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Pot_default = Pot;
+export {
+  Pot_default as default
+};

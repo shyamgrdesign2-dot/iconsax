@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const TwoHearts = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#TwoHearts__clip0_4482_14085)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.0602 8.97999C12.9202 7.68999 10.3002 8.77999 9.22018 10.6C7.01018 14.28 11.1702 20.88 11.2902 20.94", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.05 11.9707C22.19 13.2607 22.47 16.0707 21.38 17.8807C19.17 21.5507 11.4 21.0007 11.29 20.9307", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.8805 11.5905C16.7305 10.7905 16.2705 9.71047 15.0605 8.98047", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.8809 11.5898C17.6609 11.3398 18.8209 11.2298 20.0509 11.9698", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.0804 8.56024C14.3904 7.71024 14.5004 6.84024 14.3004 6.00024C13.8504 4.18024 11.9404 2.57024 9.79041 3.09024C8.56041 3.39024 7.89041 4.18024 7.56041 4.81024C6.96041 4.39024 6.01041 4.00024 4.78041 4.30024C2.63041 4.82024 1.65041 7.11024 2.10041 8.93024C2.76041 11.6602 6.59041 13.2302 8.60041 13.8602", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "TwoHearts__clip0_4482_14085", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var TwoHearts_default = TwoHearts;
+export {
+  TwoHearts_default as default
+};

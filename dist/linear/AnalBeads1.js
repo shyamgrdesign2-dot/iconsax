@@ -1,0 +1,44 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AnalBeads1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AnalBeads1__clip0_2085_387018)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33 21.9998C7.17 21.9998 8.66 20.5098 8.66 18.6698C8.66 16.8298 7.17 15.3398 5.33 15.3398C3.49 15.3398 2 16.8298 2 18.6698C2 20.5098 3.49 21.9998 5.33 21.9998Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13 5.33023C13.92 5.33023 14.67 4.58023 14.67 3.66023C14.67 2.74023 13.92 1.99023 13 1.99023C12.08 1.99023 11.33 2.74023 11.33 3.66023C11.33 4.58023 12.08 5.33023 13 5.33023Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.36 4.8507C17.95 4.2607 18.9 4.2607 19.48 4.8507C20.06 5.4407 20.06 6.3807 19.48 6.9707C18.89 7.5607 17.94 7.5607 17.36 6.9707C16.78 6.3807 16.78 5.4307 17.36 4.8507Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.67 12.6698C21.41 12.6698 22 12.0698 22 11.3398C22 10.6098 21.4 10.0098 20.67 10.0098C19.94 10.0098 19.34 10.6098 19.34 11.3398C19.34 12.0698 19.94 12.6698 20.67 12.6698Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.58 7.74984C8.59 7.74984 9.41 6.92984 9.41 5.91984C9.41 4.90984 8.59 4.08984 7.58 4.08984C6.57 4.08984 5.75 4.90984 5.75 5.91984C5.75 6.92984 6.57 7.74984 7.58 7.74984Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33 13.3301C6.43 13.3301 7.33 12.4301 7.33 11.3301C7.33 10.2301 6.43 9.33008 5.33 9.33008C4.23 9.33008 3.33 10.2301 3.33 11.3301C3.33 12.4301 4.23 13.3301 5.33 13.3301Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.37 7.07031C19.95 7.94031 20.36 8.93031 20.55 10.0003", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.59 9.35059C5.78 8.64059 6.07 7.97059 6.44 7.35059", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.02 4.78059C9.73 4.35059 10.51 4.03059 11.34 3.85059", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.66 3.85059C15.61 4.06059 16.49 4.44059 17.26 4.96059", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33 15.3301V13.3301", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AnalBeads1__clip0_2085_387018", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AnalBeads1_default = AnalBeads1;
+export {
+  AnalBeads1_default as default
+};

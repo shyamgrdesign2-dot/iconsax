@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ColdDrink25 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ColdDrink25__clip0_2085_392573)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.56 22.0006H7.44003C6.52003 22.0006 5.78003 21.2606 5.78003 20.3406V10.6406C5.78003 9.54062 6.68003 8.64062 7.78003 8.64062H16.23C17.33 8.64062 18.23 9.54062 18.23 10.6406V20.3406C18.23 21.2606 17.49 22.0006 16.57 22.0006H16.56Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.0699 6.15039H9.91993C8.54993 6.15039 7.42993 7.26039 7.42993 8.64039H16.5599C16.5599 7.27039 15.4499 6.15039 14.0699 6.15039Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2C11.31 2 10.76 2.56 10.76 3.24V6.14H13.25V3.24C13.25 2.55 12.69 2 12.01 2H12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.78003 13.2891C8.89003 13.2891 8.89003 14.1191 12 14.1191C15.11 14.1191 15.11 13.2891 18.22 13.2891", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.76 14.0606V8.64062H13.25V14.0606", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.8701 17.2294C13.8701 17.5694 13.5901 17.8494 13.2501 17.8494C12.9101 17.8494 12.6301 17.5694 12.6301 17.2294C12.6301 16.8894 12.9101 16.6094 13.2501 16.6094C13.5901 16.6094 13.8701 16.8894 13.8701 17.2294Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.3601 17.2294C16.3601 17.5694 16.0801 17.8494 15.7401 17.8494C15.4001 17.8494 15.1201 17.5694 15.1201 17.2294C15.1201 16.8894 15.4001 16.6094 15.7401 16.6094C16.0801 16.6094 16.3601 16.8894 16.3601 17.2294Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.1101 19.2997C15.1101 19.6397 14.8301 19.9197 14.4901 19.9197C14.1501 19.9197 13.8701 19.6397 13.8701 19.2997C13.8701 18.9597 14.1501 18.6797 14.4901 18.6797C14.8301 18.6797 15.1101 18.9597 15.1101 19.2997Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ColdDrink25__clip0_2085_392573", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ColdDrink25_default = ColdDrink25;
+export {
+  ColdDrink25_default as default
+};

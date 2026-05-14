@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Tennisrocket = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Tennisrocket__clip0_4482_5720)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.51 11.0099L17.99 10.2199L17.62 6.9299C17.59 6.6399 17.36 6.40991 17.07 6.37991L13.83 6.0099L13.44 2.54991C13.42 2.37991 13.33 2.2199 13.19 2.1199C13.05 2.0199 12.88 1.9699 12.71 2.0099L9.18001 2.62991C8.95001 2.66991 8.77001 2.82991 8.70001 3.04991L5.21002 13.4899L3.55002 15.1499L3.11002 15.5899C2.40002 16.2999 2.01001 17.2399 2.01001 18.2399C2.01001 19.2399 2.40002 20.1799 3.11002 20.8899C3.82002 21.5999 4.76001 21.9899 5.76001 21.9899C6.76001 21.9899 7.70002 21.5999 8.41002 20.8899L8.85002 20.4499L10.51 18.7899L20.95 15.2999C21.16 15.2299 21.32 15.0499 21.36 14.8299L21.98 11.7399C22.05 11.4099 21.84 11.0899 21.51 11.0099Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M10.4695 18.4695L5.51953 13.5195", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M13.83 6L7 15", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M17.99 10.2197L9 16.9997", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Tennisrocket__clip0_4482_5720", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Tennisrocket_default = Tennisrocket;
+export {
+  Tennisrocket_default as default
+};

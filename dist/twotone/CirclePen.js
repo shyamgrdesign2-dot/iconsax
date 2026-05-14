@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CirclePen = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CirclePen__clip0_4482_2195)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 12.7627C22 15.5127 20.88 18.0127 19.06 19.8227C17.25 21.6427 14.75 22.7627 12 22.7627C6.5 22.7627 2 18.2627 2 12.7627C2 10.0127 3.12 7.5127 4.94 5.7027C6.75 3.8827 9.25 2.7627 12 2.7627C13.89 2.7627 15.66 3.29269 17.16 4.21269C17.2 4.23269 17.24 4.2627 17.27 4.2827C17.93 4.6827 18.52 5.1627 19.06 5.7027C19.56 6.2027 20.01 6.75269 20.4 7.35269C20.43 7.39269 20.45 7.4327 20.48 7.4827C21.44 9.0127 22 10.8227 22 12.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M20.48 7.48271C18.89 8.89271 17.47 10.4927 16.26 12.2427L12.52 8.50272C14.27 7.29272 15.87 5.87271 17.27 4.28271C17.93 4.68271 18.52 5.16271 19.06 5.70271C19.56 6.20271 20.01 6.75271 20.4 7.35271C20.43 7.39271 20.45 7.43271 20.48 7.48271Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M13.2701 9.25293L10.6201 11.8929L12.8601 14.1429L15.5101 11.5029L13.2701 9.25293Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M12.87 14.1426L10.93 16.0926L8.01001 16.7626L8.67999 13.8426L10.63 11.8926L12.87 14.1426Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CirclePen__clip0_4482_2195", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor", transform: "translate(0 0.762695)" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CirclePen_default = CirclePen;
+export {
+  CirclePen_default as default
+};

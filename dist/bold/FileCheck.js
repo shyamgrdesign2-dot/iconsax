@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FileCheck = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FileCheck__clip0_3247_9507)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 2H8C4.5 2 3 4 3 7V17C3 20 4.5 22 8 22H16C19.5 22 21 20 21 17V7C21 4 19.5 2 16 2ZM13.51 14.18L10.03 17.46C9.89003 17.59 9.71002 17.66 9.52002 17.66C9.50002 17.66 9.48002 17.66 9.46002 17.66C9.25002 17.64 9.04999 17.54 8.92999 17.37L7.45001 15.45C7.20001 15.12 7.26003 14.65 7.59003 14.4C7.92003 14.15 8.39001 14.21 8.64001 14.54L9.62 15.81L12.5 13.1C12.8 12.81 13.28 12.83 13.56 13.13C13.83 13.42 13.82 13.9 13.51 14.18ZM18.5 9.25H16.5C14.98 9.25 13.75 8.02 13.75 6.5V4.5C13.75 4.09 14.09 3.75 14.5 3.75C14.91 3.75 15.25 4.09 15.25 4.5V6.5C15.25 7.19 15.81 7.75 16.5 7.75H18.5C18.91 7.75 19.25 8.09 19.25 8.5C19.25 8.91 18.91 9.25 18.5 9.25Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FileCheck__clip0_3247_9507", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FileCheck_default = FileCheck;
+export {
+  FileCheck_default as default
+};

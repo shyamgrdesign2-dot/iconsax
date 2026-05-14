@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const DiagonalDownRight5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#DiagonalDownRight5__clip0_2085_390821)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0001 22.8598C21.7801 22.8598 21.5601 22.7798 21.3901 22.6098L1.39008 2.60984C1.06008 2.27984 1.06008 1.72984 1.39008 1.39984C1.73008 1.06984 2.27008 1.06984 2.60008 1.39984L22.6001 21.3998C22.9301 21.7298 22.9301 22.2798 22.6001 22.6098C22.4301 22.7798 22.2101 22.8598 21.9901 22.8598H22.0001Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0002 22.8592H14.3102C13.8402 22.8592 13.4502 22.4792 13.4502 21.9992C13.4502 21.5192 13.8302 21.1392 14.3102 21.1392H21.1402V14.3092C21.1402 13.8392 21.5202 13.4492 22.0002 13.4492C22.4802 13.4492 22.8602 13.8292 22.8602 14.3092V21.9992C22.8602 22.4692 22.4802 22.8592 22.0002 22.8592Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "DiagonalDownRight5__clip0_2085_390821", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var DiagonalDownRight5_default = DiagonalDownRight5;
+export {
+  DiagonalDownRight5_default as default
+};

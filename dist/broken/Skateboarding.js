@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Skateboarding = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Skateboarding__clip0_2085_385818)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.70999 5.41C6.38999 5.41 13.95 6.39 13.47 8.82C12.99 11.25 6.08999 17.11 2.73999 19.06C3.30999 19.82 3.62999 20.25 4.19999 21.01M11.51 7.37C9.06999 9.81 7.11999 11.76 11.51 12.25C15.9 12.74 15.9 13.23 12 17.62H13.95M13.46 8.34C15.41 10.78 19.31 9.8 19.31 6.88M7.60999 19.07H19.89C20.15 19.07 20.4 18.97 20.58 18.78L21.27 18.09M17.37 3.95C17.37 5.03 16.5 5.9 15.42 5.9C14.34 5.9 13.47 5.03 13.47 3.95C13.47 2.87 14.34 2 15.42 2M18.83 20.54C18.83 21.35 18.17 22 17.37 22C16.57 22 15.91 21.34 15.91 20.54C15.91 19.74 16.57 19.08 17.37 19.08C18.17 19.08 18.83 19.74 18.83 20.54ZM12 20.54C12 21.35 11.34 22 10.54 22C9.73999 22 9.07999 21.34 9.07999 20.54C9.07999 19.74 9.73999 19.08 10.54 19.08C11.34 19.08 12 19.74 12 20.54Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Skateboarding__clip0_2085_385818", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Skateboarding_default = Skateboarding;
+export {
+  Skateboarding_default as default
+};

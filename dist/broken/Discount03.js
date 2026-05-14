@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Discount03 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Discount03__clip0_4482_2964)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.78027 14.2198L12.2202 9.77979", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.28001 8.39C8.80001 8.91 8.80001 9.75 8.28001 10.28C7.76001 10.8 6.92 10.8 6.39 10.28C5.87 9.76 5.87 8.92 6.39 8.39C6.91 7.87 7.76001 7.87 8.28001 8.39Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.6101 13.7201C14.1301 14.2401 14.1301 15.0801 13.6101 15.6101C13.0901 16.1301 12.2501 16.1301 11.7201 15.6101C11.2001 15.0901 11.2001 14.2501 11.7201 13.7201C12.2401 13.2001 13.0901 13.2001 13.6101 13.7201Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 9.96021V8.87019C2 6.57019 3.87004 4.7002 6.17004 4.7002H13.83C14.94 4.7002 16 5.1402 16.78 5.9202L21.38 10.5202C22.19 11.3302 22.19 12.6602 21.38 13.4702L16.78 18.0702C16 18.8502 14.94 19.2902 13.83 19.2902H6.17004C3.87004 19.2902 2 17.4202 2 15.1202", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Discount03__clip0_4482_2964", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Discount03_default = Discount03;
+export {
+  Discount03_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BoxingGloves2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BoxingGloves2__clip0_2085_389673)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.51009 9.40995C4.75009 9.02995 5.10009 8.72995 5.50009 8.54995C5.79009 8.37995 6.12009 8.26995 6.46009 8.23995C6.80009 8.20995 7.14009 8.25995 7.46009 8.37995C7.72009 8.49995 7.95009 8.68995 8.10009 8.92995C8.25009 9.16995 8.33009 9.45995 8.32009 9.74995C9.03009 9.84995 9.67009 10.2199 10.1101 10.7799C10.5601 11.3399 10.7701 12.0399 10.7201 12.7499C10.7501 13.1599 10.6901 13.5699 10.5501 13.9499C10.4101 14.3299 10.1801 14.68 9.90009 14.97C9.61009 15.26 9.26009 15.4799 8.88009 15.6199C8.50009 15.7599 8.09009 15.8199 7.68009 15.7799C6.24009 15.7799 5.00009 15.7799 4.44009 14.5699C4.21009 13.9899 4.10009 13.3599 4.13009 12.7299V10.64C4.13009 10.2 4.27009 9.76995 4.51009 9.39995V9.40995Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M2 10.2803V13.7103", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.84 10.6603V12.7503C19.87 13.3803 19.76 14.0103 19.53 14.6003C18.97 15.8103 17.73 15.8103 16.29 15.8103C15.89 15.8303 15.48 15.7703 15.11 15.6203C14.73 15.4703 14.39 15.2503 14.11 14.9603C13.83 14.6703 13.61 14.3303 13.47 13.9503C13.33 13.5703 13.28 13.1703 13.31 12.7603C13.25 12.0503 13.47 11.3403 13.91 10.7803C14.36 10.2203 15 9.85026 15.71 9.75026C15.7 9.47026 15.77 9.19026 15.92 8.94026C16.07 8.70026 16.28 8.50026 16.53 8.38026C16.85 8.26026 17.19 8.22026 17.53 8.24026C17.87 8.27026 18.2 8.38026 18.49 8.55026C18.89 8.74026 19.23 9.04026 19.47 9.41026C19.71 9.78026 19.83 10.2203 19.84 10.6603Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M22 10.2803V13.7103", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BoxingGloves2__clip0_2085_389673", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BoxingGloves2_default = BoxingGloves2;
+export {
+  BoxingGloves2_default as default
+};

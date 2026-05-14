@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const XyzMovement = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#XyzMovement__clip0_4482_11394)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.5496 8.33L11.9696 6.75L10.3896 8.33", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9697 6.75V12.59", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.0498 15.9296L17.1698 15.2396L16.4798 13.1196", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.1697 15.2296L11.9697 12.5796", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.90027 15.9296L6.78027 15.2396L7.47027 13.1196", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.76953 15.2296L11.9695 12.5796", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9599 11.9998C21.9599 14.5498 20.9899 17.1098 19.0399 19.0598C15.1399 22.9598 8.82988 22.9598 4.92988 19.0598C1.02988 15.1598 1.02988 8.84979 4.92988 4.94978C6.79988 3.07978 9.33988 2.02979 11.9899 2.02979C14.6399 2.02979 17.1699 3.07978 19.0499 4.94978", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.0303 4.93994C19.7603 5.66994 20.3503 6.48994 20.8103 7.35994", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "XyzMovement__clip0_4482_11394", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var XyzMovement_default = XyzMovement;
+export {
+  XyzMovement_default as default
+};

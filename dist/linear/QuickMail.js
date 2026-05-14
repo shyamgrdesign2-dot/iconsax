@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const QuickMail = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#QuickMail__clip0_4482_9759)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.30024 15.9001L11.3802 15.4801L12.8002 17.3201C13.0602 17.6501 13.4802 17.8101 13.8902 17.7301C14.3002 17.6501 14.6302 17.3401 14.7402 16.9401L17.1502 8.10007C17.2602 7.72007 17.1502 7.31007 16.8702 7.03007C16.5902 6.75007 16.1802 6.64007 15.8002 6.75007L6.96024 9.16007C6.56024 9.27007 6.25024 9.60007 6.17024 10.0101C6.09024 10.4201 6.25024 10.8401 6.58024 11.1001L8.42024 12.5201L8.00024 14.6001C7.93024 14.9601 8.04024 15.3401 8.30024 15.6001C8.56024 15.8601 8.94024 15.9701 9.30024 15.9001Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.9 2C19.66 2 21.9 4.24 21.9 7V16.9C21.9 19.66 19.66 21.9 16.9 21.9H7C4.24 21.9 2 19.66 2 16.9V7C2 4.24 4.24 2 7 2H16.9Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "QuickMail__clip0_4482_9759", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var QuickMail_default = QuickMail;
+export {
+  QuickMail_default as default
+};

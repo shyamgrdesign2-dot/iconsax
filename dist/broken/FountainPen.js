@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FountainPen = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FountainPen__clip0_4482_2793)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.42999 10.91C5.12999 11.16 4.82 11.41 4.5 11.64L5.21997 12.12C7.03997 13.35 8.52 15.03 9.5 16.99H14.5C15.48 15.02 16.96 13.34 18.78 12.12L19.5 11.64C16.68 9.53 14.39 6.79 12.82 3.63L12 2L11.18 3.64C10.42 5.17 9.48997 6.59999 8.40997 7.89999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2V9", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.5 22H10.5C9.12 22 8 20.88 8 19.5C8 18.12 9.12 17 10.5 17H13.5C14.88 17 16 18.12 16 19.5C16 20.88 14.88 22 13.5 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 12C11.17 12 10.5 11.32 10.5 10.5C10.5 9.68 11.17 9 12 9C12.83 9 13.5 9.68 13.5 10.5C13.5 11.32 12.83 12 12 12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FountainPen__clip0_4482_2793", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FountainPen_default = FountainPen;
+export {
+  FountainPen_default as default
+};

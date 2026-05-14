@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const WarmUp28 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#WarmUp28__clip0_2085_389845)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.6799 5.63023C16.6799 5.63023 17.4999 4.82023 17.4999 3.81023C17.4999 2.80023 16.6899 1.99023 15.6799 1.99023C14.6699 1.99023 13.8599 2.80023 13.8599 3.81023C13.8599 4.82023 14.6699 5.63023 15.6799 5.63023Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.95996 11.1199C6.22996 9.04986 8.41996 7.57986 10.82 7.20986C11.68 7.07986 12.59 7.14986 13.36 7.58986C14.13 8.02986 14.66 8.71986 15.46 9.07986C17.47 9.95986 19.95 9.17986 21.33 7.53986", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.0299 22.0002L14.3599 18.8002C14.1699 17.8802 13.6999 17.0402 13.0099 16.4002L10.4799 14.0302L10.4299 13.9802C9.35988 12.9302 9.14988 11.2802 9.92988 9.99016L11.6599 7.16016", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.44991 15.6699L7.84991 16.9599C6.64991 17.9299 5.03991 18.3299 3.54991 17.8699C3.22991 17.7699 2.92991 17.6399 2.65991 17.4499", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.9399 14.4604C10.9399 14.4604 13.4799 11.0204 15.0799 8.86035", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "WarmUp28__clip0_2085_389845", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var WarmUp28_default = WarmUp28;
+export {
+  WarmUp28_default as default
+};

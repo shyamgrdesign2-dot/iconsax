@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Freezer = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Freezer__clip0_4482_5485)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 22.75H8C5.76 22.75 4.25 21.24 4.25 19V5C4.25 2.76 5.76 1.25 8 1.25H16C18.24 1.25 19.75 2.76 19.75 5V19C19.75 21.24 18.24 22.75 16 22.75ZM8 2.75C6.59 2.75 5.75 3.59 5.75 5V19C5.75 20.41 6.59 21.25 8 21.25H16C17.41 21.25 18.25 20.41 18.25 19V5C18.25 3.59 17.41 2.75 16 2.75H8Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19 10.75H5C4.59 10.75 4.25 10.41 4.25 10C4.25 9.59 4.59 9.25 5 9.25H19C19.41 9.25 19.75 9.59 19.75 10C19.75 10.41 19.41 10.75 19 10.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 6.75H14C13.59 6.75 13.25 6.41 13.25 6C13.25 5.59 13.59 5.25 14 5.25H16C16.41 5.25 16.75 5.59 16.75 6C16.75 6.41 16.41 6.75 16 6.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 16.75H14C13.59 16.75 13.25 16.41 13.25 16C13.25 15.59 13.59 15.25 14 15.25H16C16.41 15.25 16.75 15.59 16.75 16C16.75 16.41 16.41 16.75 16 16.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10 23.25H9C8.59 23.25 8.25 22.91 8.25 22.5C8.25 22.09 8.59 21.75 9 21.75H10C10.41 21.75 10.75 22.09 10.75 22.5C10.75 22.91 10.41 23.25 10 23.25Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15 23.25H14C13.59 23.25 13.25 22.91 13.25 22.5C13.25 22.09 13.59 21.75 14 21.75H15C15.41 21.75 15.75 22.09 15.75 22.5C15.75 22.91 15.41 23.25 15 23.25Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Freezer__clip0_4482_5485", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Freezer_default = Freezer;
+export {
+  Freezer_default as default
+};

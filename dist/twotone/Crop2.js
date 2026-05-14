@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Crop2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Crop2__clip0_2085_390375)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M18.6499 2.02017C18.6499 2.02017 18.6999 1.99017 18.7099 2.02017C19.0499 3.66017 20.3299 4.95017 21.9699 5.28017C21.9999 5.28017 21.9999 5.33017 21.9699 5.34017C20.3299 5.68017 19.0399 6.96017 18.7099 8.60017C18.7099 8.63017 18.6599 8.63017 18.6499 8.60017C18.3099 6.96017 17.0299 5.67017 15.3899 5.34017C15.3599 5.34017 15.3599 5.29017 15.3899 5.28017C17.0299 4.94017 18.3199 3.66017 18.6499 2.02017Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.94 8.25988C6.56372 8.25988 7.88 6.9436 7.88 5.31988C7.88 3.69617 6.56372 2.37988 4.94 2.37988C3.31628 2.37988 2 3.69617 2 5.31988C2 6.9436 3.31628 8.25988 4.94 8.25988Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.94 22.0001C6.56372 22.0001 7.88 20.6838 7.88 19.0601C7.88 17.4364 6.56372 16.1201 4.94 16.1201C3.31628 16.1201 2 17.4364 2 19.0601C2 20.6838 3.31628 22.0001 4.94 22.0001Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.68 22.0001C20.3037 22.0001 21.62 20.6838 21.62 19.0601C21.62 17.4364 20.3037 16.1201 18.68 16.1201C17.0563 16.1201 15.74 17.4364 15.74 19.0601C15.74 20.6838 17.0563 22.0001 18.68 22.0001Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.93994 8.25977V16.1098", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.6799 11.2002V16.1102", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.88989 19.0601H15.7399", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.88989 5.31982H11.8099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Crop2__clip0_2085_390375", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Crop2_default = Crop2;
+export {
+  Crop2_default as default
+};

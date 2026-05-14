@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const GymEquipment5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#GymEquipment5__clip0_2085_386795)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.38 11.5801H6.61001C6.31001 11.5801 6.07001 11.8201 6.07001 12.1201V14.4301C6.07001 14.7301 6.31001 14.9701 6.61001 14.9701H17.38C17.68 14.9701 17.92 14.7301 17.92 14.4301V12.1201C17.92 11.8201 17.68 11.5801 17.38 11.5801Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.38 14.96H6.61001C6.31001 14.96 6.07001 15.2 6.07001 15.5V17.81C6.07001 18.11 6.31001 18.35 6.61001 18.35H17.38C17.68 18.35 17.92 18.11 17.92 17.81V15.5C17.92 15.2 17.68 14.96 17.38 14.96Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.38 18.3398H6.61001C6.31001 18.3398 6.07001 18.5798 6.07001 18.8798V21.1898C6.07001 21.4898 6.31001 21.7298 6.61001 21.7298H17.38C17.68 21.7298 17.92 21.4898 17.92 21.1898V18.8798C17.92 18.5798 17.68 18.3398 17.38 18.3398Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.14001 11.5803V2.28027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.85 11.5803V2.28027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.85 5.37988H8.14001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.15 5.37988H4.52L2 7.89988", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.85 5.37988H19.48L22 7.89988", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "GymEquipment5__clip0_2085_386795", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var GymEquipment5_default = GymEquipment5;
+export {
+  GymEquipment5_default as default
+};

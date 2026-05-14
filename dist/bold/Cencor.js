@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cencor = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cencor__clip0_4482_8093)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9999 2C9.23988 2 6.73988 3.12 4.92988 4.93C4.06988 5.79 3.36988 6.8 2.87988 7.92H21.1199C19.5699 4.43 16.0699 2 11.9999 2Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.65 9.38C21.58 9.41 21.5 9.42 21.42 9.42H2.57C2.49 9.42 2.42 9.41 2.35 9.38C2.12 10.21 2 11.09 2 12C2 14.76 3.12 17.26 4.93 19.07C6.74 20.88 9.24 22 12 22C14.76 22 17.26 20.88 19.07 19.07C20.88 17.26 22 14.76 22 12C22 11.09 21.88 10.21 21.65 9.38ZM14.22 13.86H9.78C9.37 13.86 9.03 13.52 9.03 13.11C9.03 12.7 9.37 12.36 9.78 12.36H14.22C14.63 12.36 14.97 12.7 14.97 13.11C14.97 13.52 14.63 13.86 14.22 13.86Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cencor__clip0_4482_8093", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cencor_default = Cencor;
+export {
+  Cencor_default as default
+};

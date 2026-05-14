@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Archery = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Archery__clip0_2085_385513)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.33 13.67L6.8 17.2M6.8 17.2L4.4 16.4L2 18.8L4.4 19.6L5.2 22L7.6 19.6L6.8 17.2ZM19.78 4.22L10.89 13.11M18.1 19.86C17.72 20.35 17.01 20.34 16.58 19.91L3.9 7.22C3.47 6.79 3.46 6.08 3.95 5.7C5.61 4.41 7.71 3.74 9.91 3.82C12.49 3.91 15.01 5.02 16.9 6.91C18.79 8.8 19.9 11.32 19.99 13.9C20.01 14.62 19.96 15.32 19.83 16M22 2H17.56L22 6.44V2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Archery__clip0_2085_385513", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Archery_default = Archery;
+export {
+  Archery_default as default
+};

@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HardDrive2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HardDrive2__clip0_4482_12159)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.9998 9.75C15.4298 9.75 15.8398 9.86 16.1998 10.04C15.9898 9.02 15.0798 8.25 13.9998 8.25H9.9998C8.9198 8.25 8.0098 9.02 7.7998 10.04C8.1598 9.86 8.5698 9.75 8.9998 9.75H14.9998Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15 11.25H9C8.31 11.25 7.75 11.81 7.75 12.5V13.5C7.75 14.74 8.76 15.75 10 15.75H14C15.24 15.75 16.25 14.74 16.25 13.5V12.5C16.25 11.81 15.69 11.25 15 11.25ZM14.54 14.03C14.39 14.18 14.2 14.25 14.01 14.25C13.82 14.25 13.63 14.18 13.48 14.03C13.19 13.74 13.18 13.26 13.48 12.96C13.77 12.67 14.25 12.66 14.55 12.96C14.84 13.25 14.85 13.73 14.55 14.03H14.54Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM17.75 12.5V13.5C17.75 15.57 16.07 17.25 14 17.25H10C7.93 17.25 6.25 15.57 6.25 13.5V10.5C6.25 8.43 7.93 6.75 10 6.75H14C16.07 6.75 17.75 8.43 17.75 10.5V12.5Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HardDrive2__clip0_4482_12159", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HardDrive2_default = HardDrive2;
+export {
+  HardDrive2_default as default
+};

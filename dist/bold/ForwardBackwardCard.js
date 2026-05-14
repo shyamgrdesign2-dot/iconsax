@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ForwardBackwardCard = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ForwardBackwardCard__clip0_4482_1812)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.75 15.8098C13.79 15.0098 13.18 13.8398 13.04 12.5998C12.96 11.9798 13 11.3798 13.15 10.7998C13.1 10.7998 13.05 10.8098 13 10.8098H2.5C2.22 10.8098 2 11.0298 2 11.3098V15.9998C2 18.7598 4.24 20.9998 7 20.9998H15C17.55 20.9998 19.66 19.0798 19.96 16.6098C18.4 17.2598 16.37 17.1698 14.75 15.8098ZM10 16.7498H7C6.59 16.7498 6.25 16.4098 6.25 15.9998C6.25 15.5898 6.59 15.2498 7 15.2498H10C10.41 15.2498 10.75 15.5898 10.75 15.9998C10.75 16.4098 10.41 16.7498 10 16.7498Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13 9.31H2.5C2.22 9.31 2 9.09 2 8.81V8C2 5.24 4.24 3 7 3H15C17.55 3 19.66 4.92 19.96 7.39C19.36 7.14 18.69 7 18 7C16.1 7 14.45 8.06 13.6 9.62C13.47 9.43 13.25 9.31 13 9.31Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M23 12C23 14.07 21.74 15.84 19.96 16.61C19.36 16.86 18.69 17 18 17C15.24 17 13 14.76 13 12C13 9.24 15.24 7 18 7C18.69 7 19.36 7.14 19.96 7.39C21.74 8.16 23 9.93 23 12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.9001 10.8901H16.1001L17.6802 9.31006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.1001 13.1099H19.9001L18.3201 14.6899", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ForwardBackwardCard__clip0_4482_1812", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ForwardBackwardCard_default = ForwardBackwardCard;
+export {
+  ForwardBackwardCard_default as default
+};

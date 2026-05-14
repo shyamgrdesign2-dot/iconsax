@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AttachedMails = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AttachedMails__clip0_4482_9875)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.71973 7.25L11.1597 9.18C11.6997 9.41 12.2997 9.42 12.8397 9.18L17.2797 7.26", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.94 18.33H6.72C4.39 18.33 2.5 16.44 2.5 14.11V6.72C2.5 4.39 4.39 2.5 6.72 2.5H17.28C19.61 2.5 21.5 4.39 21.5 6.72V9.89", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.3304 18.3301V14.6401C18.3304 13.7701 19.0404 13.0601 19.9104 13.0601C20.7804 13.0601 21.4904 13.7701 21.4904 14.6401V18.3301C21.4904 20.0801 20.0704 21.5001 18.3204 21.5001C16.5704 21.5001 15.1504 20.0801 15.1504 18.3301V16.2201", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AttachedMails__clip0_4482_9875", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AttachedMails_default = AttachedMails;
+export {
+  AttachedMails_default as default
+};

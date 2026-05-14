@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ConnectedCircle = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ConnectedCircle__clip0_4482_3044)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22.75H7C3.83 22.75 1.25 20.17 1.25 17V7C1.25 3.83 3.83 1.25 7 1.25H17C20.17 1.25 22.75 3.83 22.75 7V17C22.75 20.17 20.17 22.75 17 22.75ZM7 2.75C4.66 2.75 2.75 4.66 2.75 7V17C2.75 19.34 4.66 21.25 7 21.25H17C19.34 21.25 21.25 19.34 21.25 17V7C21.25 4.66 19.34 2.75 17 2.75H7Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.14 18.75C6.55 18.75 5.25 17.45 5.25 15.86C5.25 14.27 6.55 12.97 8.14 12.97C9.73 12.97 11.03 14.27 11.03 15.86C11.03 17.45 9.73 18.75 8.14 18.75ZM8.14 14.47C7.37 14.47 6.75 15.09 6.75 15.86C6.75 16.63 7.37 17.25 8.14 17.25C8.91 17.25 9.53 16.63 9.53 15.86C9.53 15.09 8.91 14.47 8.14 14.47Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.8602 11.03C14.2702 11.03 12.9702 9.73 12.9702 8.14C12.9702 6.55 14.2702 5.25 15.8602 5.25C17.4502 5.25 18.7502 6.55 18.7502 8.14C18.7502 9.73 17.4502 11.03 15.8602 11.03ZM15.8602 6.75C15.0902 6.75 14.4702 7.37 14.4702 8.14C14.4702 8.91 15.0902 9.53 15.8602 9.53C16.6302 9.53 17.2502 8.91 17.2502 8.14C17.2502 7.37 16.6302 6.75 15.8602 6.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.0415 8.89463L8.90088 14.0352L9.96153 15.0959L15.1021 9.95528L14.0415 8.89463Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ConnectedCircle__clip0_4482_3044", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ConnectedCircle_default = ConnectedCircle;
+export {
+  ConnectedCircle_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const UnderShirt = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#UnderShirt__clip0_4482_11954)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M20.2902 11.56V19.89C20.2902 21.06 19.3502 22 18.1902 22H5.5602C4.3902 22 3.4502 21.06 3.4502 19.89V11.56C3.4502 11.18 3.6502 10.83 3.9802 10.64H3.9902C5.6102 9.71 6.6102 7.98 6.6102 6.12V3.05C6.6102 2.47 7.0802 2 7.6602 2H8.7102C9.2902 2 9.7702 2.47 9.7702 3.05V6.74C9.7702 7.32 10.0002 7.84 10.3802 8.22C10.7602 8.6 11.2902 8.84 11.8702 8.84C13.0302 8.84 13.9802 7.9 13.9802 6.74V3.05C13.9802 2.47 14.4502 2 15.0302 2H16.0802C16.6602 2 17.1302 2.47 17.1302 3.05V6.12C17.1302 7.98 18.1302 9.71 19.7502 10.64H19.7602C20.0902 10.83 20.2902 11.18 20.2902 11.56Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.9795 3.5498V5.3498C13.2995 5.7198 12.5895 5.9098 11.8695 5.9098C11.1495 5.9098 10.4495 5.7198 9.76953 5.3498V3.5598C11.1195 4.6598 12.6295 4.6598 13.9795 3.5498Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "UnderShirt__clip0_4482_11954", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var UnderShirt_default = UnderShirt;
+export {
+  UnderShirt_default as default
+};

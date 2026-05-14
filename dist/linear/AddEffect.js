@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AddEffect = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AddEffect__clip0_4482_245)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.74 2.44006C11.43 1.85006 12.56 1.85006 13.26 2.44006L14.84 3.80006C15.14 4.06006 15.7 4.27006 16.1 4.27006H17.8C18.86 4.27006 19.73 5.14006 19.73 6.20006V7.90006C19.73 8.29006 19.94 8.86006 20.2 9.16006L21.56 10.7401C22.15 11.4301 22.15 12.5601 21.56 13.2601L20.2 14.8401C19.94 15.1401 19.73 15.7001 19.73 16.1001V17.8001C19.73 18.8601 18.86 19.7301 17.8 19.7301H16.1C15.71 19.7301 15.14 19.9401 14.84 20.2001L13.26 21.5601C12.57 22.1501 11.44 22.1501 10.74 21.5601L9.15998 20.2001C8.85998 19.9401 8.30003 19.7301 7.90003 19.7301H6.16999C5.10999 19.7301 4.23999 18.8601 4.23999 17.8001V16.0901C4.23999 15.7001 4.03003 15.1401 3.78003 14.8401L2.43 13.2501C1.85 12.5601 1.85 11.4401 2.43 10.7501L3.78003 9.16006C4.03003 8.86006 4.23999 8.30006 4.23999 7.91006V6.19006C4.23999 5.13006 5.10999 4.26006 6.16999 4.26006H7.90003C8.29003 4.26006 8.85998 4.05006 9.15998 3.79006L10.74 2.44006Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 12H15", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 15V9", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AddEffect__clip0_4482_245", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AddEffect_default = AddEffect;
+export {
+  AddEffect_default as default
+};

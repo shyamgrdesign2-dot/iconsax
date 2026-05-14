@@ -1,0 +1,18 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SolarEnergyHouse = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M17 9C18.1 9 19 8.1 19 7C19 5.9 18.1 5 17 5C15.9 5 15 5.9 15 7C15 8.1 15.9 9 17 9Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M20.57 10.57L20.5 10.51L20.57 10.57ZM20.51 3.49L20.58 3.42L20.51 3.49ZM13.43 10.57L13.5 10.51L13.43 10.57ZM17 2.04V2V2.04ZM17 12V11.96V12ZM12.04 7H12H12.04ZM22 7H21.96H22ZM13.49 3.49L13.42 3.42L13.49 3.49Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M22 15C22 18.87 18.87 22 15 22L16.05 20.25", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M2 9C2 5.13 5.13 2 9 2L7.95 3.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M5.63001 13.4592L2.51 15.9592C2.16 16.2392 1.93 16.8292 2.01 17.2692L2.61 20.8492C2.72 21.4892 3.33 22.0092 3.98 22.0092H9.02001C9.66001 22.0092 10.28 21.4892 10.39 20.8492L10.99 17.2692C11.06 16.8292 10.84 16.2392 10.49 15.9592L7.37 13.4692C6.89 13.0692 6.11001 13.0692 5.63001 13.4592Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " "
+] });
+var SolarEnergyHouse_default = SolarEnergyHouse;
+export {
+  SolarEnergyHouse_default as default
+};

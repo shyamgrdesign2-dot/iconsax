@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CarBattery = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CarBattery__clip0_4482_4489)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21 8H3C2.45 8 2 7.55 2 7V6C2 5.45 2.45 5 3 5H21C21.55 5 22 5.45 22 6V7C22 7.55 21.55 8 21 8Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 5H5V3C5 2.45 5.45 2 6 2H8C8.55 2 9 2.45 9 3V5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19 5H15V3C15 2.45 15.45 2 16 2H18C18.55 2 19 2.45 19 3V5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.5 10.5V17.5C3.5 19.71 5.29 21.5 7.5 21.5H16.5C18.71 21.5 20.5 19.71 20.5 17.5V10.5C20.5 9.95 20.05 9.5 19.5 9.5H4.5C3.95 9.5 3.5 9.95 3.5 10.5ZM14.03 15.19L11.76 17.77C11.43 18.15 11.15 18.05 11.15 17.54V15.38H10.22C9.8 15.38 9.68 15.12 9.96 14.8L12.23 12.22C12.56 11.84 12.84 11.94 12.84 12.45V14.61H13.77C14.19 14.62 14.31 14.88 14.03 15.19Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CarBattery__clip0_4482_4489", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CarBattery_default = CarBattery;
+export {
+  CarBattery_default as default
+};

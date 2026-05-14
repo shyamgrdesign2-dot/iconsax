@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareRegisteredProduct = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareRegisteredProduct__clip0_4482_1049)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17 22H7C4.25 22 2 19.75 2 17V7C2 4.25 4.25 2 7 2H17C19.75 2 22 4.25 22 7V17C22 19.75 19.75 22 17 22Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.29004 16.75C8.88004 16.75 8.54004 16.41 8.54004 16V8C8.54004 7.59 8.88004 7.25 9.29004 7.25H12.58C14.17 7.25 15.47 8.55 15.47 10.14C15.47 11.74 14.17 13.03 12.58 13.03H10.04V16C10.04 16.41 9.70004 16.75 9.29004 16.75ZM10.04 11.54H12.58C13.35 11.54 13.97 10.92 13.97 10.15C13.97 9.38 13.34 8.76 12.58 8.76H10.04V11.54Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareRegisteredProduct__clip0_4482_1049", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareRegisteredProduct_default = SquareRegisteredProduct;
+export {
+  SquareRegisteredProduct_default as default
+};

@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Earrings8 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Earrings8__clip0_2085_391113)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10 21.66C9.37 21.88 8.7 22 8 22C4.69 22 2 19.31 2 16C2 12.69 4.69 10 8 10C8.7 10 9.37 10.12 10 10.34C7.67 11.16 6 13.39 6 16C6 18.61 7.67 20.84 10 21.66Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8 4C8 5.1 7.1 6 6 6C4.9 6 4 5.1 4 4C4 2.9 4.9 2 6 2C7.1 2 8 2.9 8 4Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6 6V10.34", stroke: "currentColor", strokeWidth: "1.41", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 21.66C21.38 21.88 20.7 22 20 22C16.69 22 14 19.31 14 16C14 12.69 16.69 10 20 10C20.7 10 21.37 10.12 22 10.34C19.67 11.16 18 13.39 18 16C18 18.61 19.67 20.84 22 21.66Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20 4C20 5.1 19.1 6 18 6C16.9 6 16 5.1 16 4C16 2.9 16.89 2 18 2C19.11 2 20 2.9 20 4Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18 6V10.34", stroke: "currentColor", strokeWidth: "1.41", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Earrings8__clip0_2085_391113", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Earrings8_default = Earrings8;
+export {
+  Earrings8_default as default
+};

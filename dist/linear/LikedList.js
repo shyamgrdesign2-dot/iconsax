@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const LikedList = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#LikedList__clip0_4482_3649)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19 9.56014V15.1601C18.63 15.3101 18.3 15.5601 18.07 15.8801C17.67 15.3501 17.04 15.0001 16.32 15.0001C15.11 15.0001 14.14 15.9801 14.14 17.2001C14.14 18.7801 14.97 19.9801 15.9 20.8001C16.18 21.0401 16.46 21.2501 16.73 21.4201C16.07 21.7201 15.26 21.8901 14.28 21.8901H6.72C3.42 21.8901 2 20.0001 2 17.1701V9.56014C2 7.01014 3.15 5.22014 5.79 4.89014C5.78 4.95014 5.78 5.00014 5.78 5.06014V5.55014C5.78 6.20014 6.3 6.72014 6.95 6.72014H14.05C14.7 6.72014 15.22 6.20014 15.22 5.55014V5.06014C15.22 5.00014 15.22 4.95014 15.21 4.89014C17.85 5.22014 19 7.01014 19 9.56014Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6 13H8.5", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6 17H11", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.22 5.05977V5.54977C15.22 6.19977 14.7 6.71977 14.05 6.71977H6.95C6.3 6.71977 5.78 6.19977 5.78 5.54977V5.05977C5.78 4.99977 5.78 4.94977 5.79 4.88977C5.88 4.31977 6.36 3.88977 6.95 3.88977C7.38 3.88977 7.79 3.63977 7.99 3.24977L8.29 2.64977C8.49 2.24977 8.89 2.00977 9.33 2.00977H11.67C12.1 2.00977 12.51 2.25977 12.71 2.64977L13.01 3.24977C13.21 3.64977 13.61 3.88977 14.05 3.88977C14.65 3.88977 15.13 4.31977 15.21 4.88977C15.22 4.94977 15.22 4.99977 15.22 5.05977Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 17.2C22 19.95 19.45 21.58 18.31 21.96C18.18 22.01 17.96 22.01 17.82 21.96C17.53 21.86 17.15 21.68 16.73 21.42C16.46 21.25 16.18 21.04 15.9 20.8C14.97 19.98 14.14 18.78 14.14 17.2C14.14 15.98 15.11 15 16.32 15C17.04 15 17.67 15.35 18.07 15.88C18.3 15.56 18.63 15.31 19 15.16C19.25 15.06 19.53 15 19.82 15C20.13 15 20.42 15.06 20.69 15.18C21.46 15.52 22 16.29 22 17.2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "LikedList__clip0_4482_3649", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var LikedList_default = LikedList;
+export {
+  LikedList_default as default
+};

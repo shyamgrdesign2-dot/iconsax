@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HeartEnvelope = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HeartEnvelope__clip0_4482_4272)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 9.86914C2 10.5691 2.37 11.2191 2.97 11.5791L10.46 16.0691C11.41 16.6391 12.6 16.6391 13.55 16.0691L21.04 11.5791C21.64 11.2191 22.01 10.5691 22.01 9.86914", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 10V18C22 20.2 20.2 22 18 22H6C3.8 22 2 20.2 2 18V10C2 7.8 3.8 6 6 6H8.48999C8.80999 6.71 9.29999 7.3 9.82999 7.76C10.11 8 10.39 8.21 10.66 8.38C11.08 8.64 11.46 8.82 11.75 8.92C11.89 8.97 12.11 8.97 12.24 8.92C13.1 8.63 14.75 7.64 15.51 6H18C20.2 6 22 7.8 22 10Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.9301 4.16094C15.9301 4.85094 15.7701 5.46094 15.5101 6.00094C14.7501 7.64094 13.1001 8.63094 12.2401 8.92094C12.1101 8.97094 11.8901 8.97094 11.7501 8.92094C11.4601 8.82094 11.0801 8.64094 10.6601 8.38094C10.3901 8.21094 10.11 8.00094 9.83005 7.76094C9.30005 7.30094 8.81005 6.71094 8.49005 6.00094C8.23005 5.46094 8.07007 4.84094 8.07007 4.16094C8.07007 2.94094 9.04006 1.96094 10.2501 1.96094C10.9701 1.96094 11.6001 2.31094 12.0001 2.84094C12.2301 2.52094 12.5601 2.27094 12.9301 2.12094C13.1801 2.02094 13.4601 1.96094 13.7501 1.96094C14.0601 1.96094 14.3501 2.02094 14.6201 2.14094C15.3901 2.48094 15.9301 3.25094 15.9301 4.16094Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HeartEnvelope__clip0_4482_4272", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HeartEnvelope_default = HeartEnvelope;
+export {
+  HeartEnvelope_default as default
+};

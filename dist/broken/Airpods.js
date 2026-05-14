@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Airpods = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Airpods__clip0_4482_9300)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.4805 11V17.98C17.4805 18.53 17.0305 18.98 16.4805 18.98H15.4805C14.9305 18.98 14.4805 18.53 14.4805 17.98V14.31", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.57 3.90001L20.75 4.05001C21.52 4.66001 21.97 5.60001 21.97 6.58001V7.57001C21.97 8.48001 21.56 9.34001 20.85 9.90001L20.57 10.12C19.86 10.69 18.98 10.99 18.08 10.99H17.49C15.29 10.99 13.5 9.21001 13.5 7.00001C13.5 4.80001 15.28 3.01001 17.49 3.01001H18.08C18.98 3.01001 19.86 3.32001 20.57 3.88001V3.90001Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.27027 13.5C8.61196 13.5 10.5103 11.6017 10.5103 9.26002C10.5103 6.91833 8.61196 5.02002 6.27027 5.02002C3.92859 5.02002 2.03027 6.91833 2.03027 9.26002C2.03027 11.6017 3.92859 13.5 6.27027 13.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.77051 13.49V19.97C4.77051 20.52 5.22051 20.97 5.77051 20.97H6.77051C7.32051 20.97 7.77051 20.52 7.77051 19.97V13.49", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.5 9.26835C6.5 9.4024 6.38462 9.5173 6.25 9.49815C6.11539 9.49815 6 9.38325 6 9.2492C6 9.11515 6.11539 9.00024 6.25 9.00024C6.30769 9.00024 6.38462 9.0194 6.42308 9.07685C6.46154 9.11515 6.5 9.19175 6.5 9.2492", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Airpods__clip0_4482_9300", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Airpods_default = Airpods;
+export {
+  Airpods_default as default
+};

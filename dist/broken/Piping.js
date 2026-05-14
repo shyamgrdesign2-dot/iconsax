@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Piping = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Piping__clip0_2085_380972)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.08 8.63L16.65 9.06L21.13 8.17C21.97 8 22.29 6.97 21.68 6.35L17.64 2.31C17.04 1.71 16 2.02 15.82 2.86L14.93 7.34L15.36 6.91M17.08 8.63L15.36 6.91M17.08 8.63L15.36 10.35L13.64 8.63L15.36 6.91M19.66 4.33L17.73 6.26M4.24003 12.25L3.99003 12.86C3.74003 13.5 3.51003 14.21 3.27003 15.01L3.03003 15.83C2.95003 16.11 2.88003 16.4 2.80003 16.7L2.57003 17.61L2.34003 18.58C2.31003 18.74 2.26003 18.91 2.23003 19.09L2.00003 20.13C1.79003 21.2 2.74003 22.15 3.82003 21.96C3.94003 21.94 4.12003 21.9 4.35003 21.85L5.37003 21.62L6.34003 21.39C6.50003 21.35 6.65003 21.31 6.80003 21.27L7.69003 21.04C7.83003 21 7.98003 20.96 8.12003 20.92L8.94003 20.68C9.74003 20.44 10.44 20.21 11.09 19.96L11.7 19.71C12.98 19.17 13.9 18.62 14.47 18.06C16.84 15.69 16.84 11.84 14.47 9.46C12.1 7.08 8.25003 7.09 5.87003 9.46", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.3999 14.61L9.9499 20.39", stroke: "currentColor", strokeWidth: "1.5", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Piping__clip0_2085_380972", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Piping_default = Piping;
+export {
+  Piping_default as default
+};

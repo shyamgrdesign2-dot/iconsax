@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FlashDisabled = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FlashDisabled__clip0_4482_15532)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2695 17.2695L20.4195 20.4195", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.4195 17.2695L17.2695 20.4195", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.6703 6.97959C11.8003 6.78959 12.0403 6.70959 12.2603 6.76959C12.4803 6.83959 12.6303 7.03959 12.6303 7.26959V9.67959C12.6303 10.2296 13.0803 10.6796 13.6303 10.6796H15.6903C15.8903 10.6796 16.0603 10.7896 16.1603 10.9596C16.2503 11.1296 16.2403 11.3396 16.1303 11.4996L12.3503 17.0196C12.2203 17.2096 11.9803 17.2896 11.7603 17.2296C11.5403 17.1596 11.3903 16.9596 11.3903 16.7296V14.3196C11.3903 13.7696 10.9403 13.3196 10.3903 13.3196H8.33032C8.13032 13.3196 7.96032 13.2096 7.87032 13.0396C7.78032 12.8696 7.79032 12.6596 7.90032 12.4996L11.6803 6.97959H11.6703Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9996 2C9.40963 2 6.84963 3.01 4.92963 4.93C1.78963 8.07 1.09963 12.89 3.21963 16.79C5.33963 20.68 9.77963 22.71 14.1096 21.78", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.7703 14.1097C22.7103 9.77973 20.6803 5.33973 16.7803 3.21973", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FlashDisabled__clip0_4482_15532", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FlashDisabled_default = FlashDisabled;
+export {
+  FlashDisabled_default as default
+};

@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Ghost2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Ghost2__clip0_2085_382209)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33002 22C5.33002 20.77 6.32002 19.78 7.55002 19.78C8.78002 19.78 9.77002 20.77 9.77002 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.78003 22C9.78003 20.77 10.77 19.78 12 19.78C13.23 19.78 14.22 20.77 14.22 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.22 22C14.22 20.77 15.21 19.78 16.44 19.78C17.67 19.78 18.66 20.77 18.66 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33001 22V20.14C5.33001 19.31 5.33001 18.89 5.29001 18.48C5.20001 17.53 4.96001 16.59 4.57001 15.72C4.40001 15.34 4.20001 14.98 3.80001 14.25L3.17001 13.11C2.89001 12.61 3.25001 11.99 3.83001 11.99H4.56001C4.98001 11.99 5.33001 11.65 5.33001 11.22V8.65999C5.33001 4.97999 8.31001 1.98999 12 1.98999C15.69 1.98999 18.67 4.96999 18.67 8.65999V11.22C18.67 11.64 19.01 11.99 19.44 11.99H20.17C20.74 11.99 21.1 12.61 20.83 13.11L20.2 14.25C19.79 14.98 19.59 15.34 19.43 15.72C19.04 16.6 18.8 17.53 18.71 18.48C18.67 18.89 18.67 19.31 18.67 20.14V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.66998 13.1101L9.57998 14.0201C9.68998 14.1301 9.85998 14.1301 9.96998 14.0201L10.69 13.3001C10.8 13.1901 10.97 13.1901 11.08 13.3001L11.8 14.0201C11.91 14.1301 12.08 14.1301 12.19 14.0201L12.91 13.3001C13.02 13.1901 13.19 13.1901 13.3 13.3001L14.02 14.0201C14.13 14.1301 14.3 14.1301 14.41 14.0201L15.32 13.1101", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.69 8.20996C8.48 8.32996 8.29 8.49996 8.16 8.72996C7.78 9.38996 8.01 10.22 8.66 10.6C9.31 10.98 10.15 10.75 10.53 10.1C10.66 9.86996 10.72 9.62996 10.71 9.37996L8.68 8.20996H8.69Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.36 8.23999C15.55 8.35999 15.72 8.51999 15.84 8.72999C16.22 9.38999 15.99 10.22 15.34 10.6C14.69 10.98 13.85 10.75 13.47 10.1C13.35 9.88999 13.29 9.66999 13.29 9.43999L15.37 8.23999H15.36Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Ghost2__clip0_2085_382209", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Ghost2_default = Ghost2;
+export {
+  Ghost2_default as default
+};

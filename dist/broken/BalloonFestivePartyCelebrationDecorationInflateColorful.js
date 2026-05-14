@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BalloonFestivePartyCelebrationDecorationInflateColorful = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BalloonFestivePartyCelebrationDecorationInflateColorful__clip0_2085_385522)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.9102 17.52L9.84021 19.13C9.77021 19.24 9.73021 19.37 9.72021 19.5C9.72021 19.63 9.74021 19.76 9.81021 19.88C9.87021 20 9.96021 20.09 10.0802 20.16C10.1902 20.23 10.3202 20.26 10.4502 20.26H13.5602C13.6902 20.26 13.8202 20.22 13.9302 20.16C14.0402 20.09 14.1402 20 14.2002 19.88C14.2602 19.76 14.2902 19.63 14.2902 19.5C14.2902 19.37 14.2402 19.24 14.1702 19.13L13.1002 17.52", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 20.2598C12 20.2598 12 21.9998 12.87 21.9998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.98004 5.48C6.28004 4.96 6.65004 4.47 7.08004 4.04C8.38004 2.74 10.15 2 12 2C13.85 2 15.61 2.73 16.92 4.04C18.22 5.34 18.96 7.11 18.96 8.96C18.96 12.8 15.85 17.66 12 17.66C8.15004 17.66 5.04004 12.81 5.04004 8.96", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BalloonFestivePartyCelebrationDecorationInflateColorful__clip0_2085_385522", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BalloonFestivePartyCelebrationDecorationInflateColorful_default = BalloonFestivePartyCelebrationDecorationInflateColorful;
+export {
+  BalloonFestivePartyCelebrationDecorationInflateColorful_default as default
+};

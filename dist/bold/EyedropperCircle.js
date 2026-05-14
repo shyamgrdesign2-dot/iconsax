@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const EyedropperCircle = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#EyedropperCircle__clip0_4482_11089)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.6417 9.45838L10.5811 10.519L13.4873 13.4253L14.5479 12.3646L11.6417 9.45838Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM16.4 10.51L14.54 12.37L15.59 13.42C15.88 13.71 15.88 14.19 15.59 14.48C15.44 14.63 15.25 14.7 15.06 14.7C14.87 14.7 14.68 14.63 14.53 14.48L13.48 13.43L10.51 16.4C9.71 17.2 8.41 17.2 7.6 16.4C6.8 15.6 6.8 14.3 7.6 13.49L10.57 10.52L9.52 9.47C9.23 9.18 9.23 8.7 9.52 8.41C9.81 8.12 10.29 8.12 10.58 8.41L11.63 9.46L13.49 7.6C14.29 6.8 15.59 6.8 16.4 7.6C17.21 8.4 17.2 9.7 16.4 10.51Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "EyedropperCircle__clip0_4482_11089", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var EyedropperCircle_default = EyedropperCircle;
+export {
+  EyedropperCircle_default as default
+};

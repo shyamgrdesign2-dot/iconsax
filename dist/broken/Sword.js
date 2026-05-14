@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Sword = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Sword__clip0_2085_385595)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.2599 14.4199L19.7899 18.5899L18.5899 19.7899L14.4199 16.2599L16.2599 14.4199Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.81 7.69978C2.65 7.55978 2.55 7.35978 2.52 7.14978L2 2.48978C2 2.41978 2 2.35978 2.02 2.29978C2.04 2.23978 2.08 2.17978 2.12 2.12978C2.17 2.07978 2.22 2.04978 2.29 2.02978C2.35 2.00978 2.42 1.99978 2.48 2.00978L7.14 2.52978C7.35 2.54978 7.55 2.65978 7.69 2.81978L17.18 13.5098L13.49 17.1998L6.13 10.6698", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.34 15.34L8.27002 8.27002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.52 20.26C18.52 20.72 18.7 21.16 19.03 21.49C19.36 21.82 19.8 22 20.26 22C20.72 22 21.16 21.82 21.49 21.49C21.82 21.16 22 20.72 22 20.26C22 19.8 21.82 19.36 21.49 19.03C21.16 18.7 20.72 18.52 20.26 18.52C19.8 18.52 19.36 18.7 19.03 19.03C18.7 19.36 18.52 19.8 18.52 20.26Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.6398 13.4998C19.7998 13.3398 19.8898 13.1198 19.8798 12.8898C19.8798 12.6598 19.7898 12.4398 19.6298 12.2798C19.4698 12.1198 19.2498 12.0298 19.0198 12.0298C18.7898 12.0298 18.5698 12.1198 18.4098 12.2698L12.2598 18.4198C12.0998 18.5798 12.0098 18.7998 12.0198 19.0298C12.0198 19.2598 12.1098 19.4798 12.2698 19.6398C12.4298 19.7998 12.6498 19.8898 12.8798 19.8898C13.1098 19.8898 13.3298 19.7998 13.4898 19.6498", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Sword__clip0_2085_385595", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Sword_default = Sword;
+export {
+  Sword_default as default
+};

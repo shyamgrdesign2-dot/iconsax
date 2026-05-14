@@ -1,0 +1,44 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Gamble = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Gamble__clip0_4482_15865)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.87988 9.56055V17.3605", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.7598 9.56055V17.3605", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.32031 12.9805V13.9605", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.44043 12.9805V13.9605", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2002 12.9805V13.9605", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.6299 15.4101H18.5799C19.6599 15.4101 20.5299 14.5401 20.5299 13.4601V8.58008", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.5401 8.58016C21.3464 8.58016 22.0001 7.92649 22.0001 7.12016C22.0001 6.31382 21.3464 5.66016 20.5401 5.66016C19.7337 5.66016 19.0801 6.31382 19.0801 7.12016C19.0801 7.92649 19.7337 8.58016 20.5401 8.58016Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 9.35047V7.61047C2 6.53047 2.87 5.66047 3.95 5.66047H5.41L5.46 5.51047C6.01 3.85047 7.56 2.73047 9.31 2.73047C11.06 2.73047 12.61 3.85047 13.16 5.51047L13.21 5.66047H14.67C15.75 5.66047 16.62 6.53047 16.62 7.61047V19.3205C16.62 20.4005 15.75 21.2705 14.67 21.2705H3.95C2.87 21.2705 2 20.4005 2 19.3205V13.6105", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.33984 6.63086H10.2898", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.86035 17.3701H16.6304", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.63 9.56055H2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Gamble__clip0_4482_15865", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Gamble_default = Gamble;
+export {
+  Gamble_default as default
+};

@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const PineTree2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#PineTree2__clip0_4482_5903)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.7999 17.0004H7.19992C5.86992 17.0004 5.0899 15.4904 5.8699 14.4104L9.01993 10.0004H8.15988C7.08988 10.0004 6.46994 8.79042 7.08994 7.93042L10.9299 2.55043C11.4599 1.82043 12.5499 1.82043 13.0699 2.55043L16.9099 7.93042C17.5299 8.79042 16.9099 10.0004 15.8399 10.0004H14.9799L18.1299 14.4104C18.9099 15.4904 18.1299 17.0004 16.7999 17.0004Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 22L12 16", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "PineTree2__clip0_4482_5903", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var PineTree2_default = PineTree2;
+export {
+  PineTree2_default as default
+};

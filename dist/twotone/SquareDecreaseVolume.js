@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareDecreaseVolume = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareDecreaseVolume__clip0_4482_2689)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M5.46997 12.57V11.05C5.46997 10.19 6.17003 9.48997 7.03003 9.48997H8.56995C8.78995 9.48997 8.99994 9.42997 9.18994 9.32997L11.5601 7.96996C12.1801 7.60996 12.96 8.05996 12.96 8.77996V15.21C12.96 15.97 12.1 16.42 11.48 15.97L9.22998 14.36C9.01998 14.21 8.76 14.13 8.5 14.13H7.03003C6.17003 14.13 5.46997 13.43 5.46997 12.57Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.51 11.8899H18.53", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22H7C4.25 22 2 19.75 2 17V7C2 4.25 4.25 2 7 2H17C19.75 2 22 4.25 22 7V17C22 19.75 19.75 22 17 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareDecreaseVolume__clip0_4482_2689", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareDecreaseVolume_default = SquareDecreaseVolume;
+export {
+  SquareDecreaseVolume_default as default
+};

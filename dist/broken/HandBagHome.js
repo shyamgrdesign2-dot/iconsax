@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HandBagHome = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HandBagHome__clip0_4482_2918)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 10.94V10C2 7.8 3.8 6 6 6H18C20.2 6 22 7.8 22 10V18C22 20.2 20.2 22 18 22H6C3.8 22 2 20.2 2 18V15.95", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.5099 12.5998L9.59985 11.1098C9.13985 10.7498 8.48991 10.7498 8.02991 11.1098L6.11987 12.5998C5.80987 12.8398 5.62988 13.2098 5.62988 13.6098V15.8898C5.62988 16.5898 6.19991 17.1698 6.90991 17.1698H10.7399C11.4399 17.1698 12.0199 16.5998 12.0199 15.8898V13.6098C11.9999 13.2098 11.8199 12.8398 11.5099 12.5998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3799 12H18.3799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3799 16H18.3799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.97998 6V4C7.97998 2.9 8.87998 2 9.97998 2H14.02C15.12 2 16.02 2.9 16.02 4V6", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HandBagHome__clip0_4482_2918", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HandBagHome_default = HandBagHome;
+export {
+  HandBagHome_default as default
+};

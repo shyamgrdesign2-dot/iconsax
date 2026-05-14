@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiWallet = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiWallet__clip0_3111_14929)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.46016 19.13L7.42016 19.37C6.67016 19.54 6.09016 20.12 5.91016 20.86L5.66016 21.9C5.63016 22.01 5.47016 22.01 5.45016 21.9L5.21016 20.86C5.04016 20.11 4.46016 19.53 3.72016 19.35L2.68016 19.1C2.57016 19.07 2.57016 18.91 2.68016 18.89L3.72016 18.65C4.47016 18.48 5.05016 17.9 5.23016 17.16L5.48016 16.12C5.51016 16.01 5.67016 16.01 5.69016 16.12L5.93016 17.16C6.10016 17.91 6.68016 18.49 7.42016 18.67L8.46016 18.92C8.57016 18.95 8.57016 19.11 8.46016 19.13Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.97021 14.94V11.47C1.97021 9.39999 3.66021 7.70999 5.73021 7.70999H17.2102C19.2802 7.70999 20.9702 9.39999 20.9702 11.47V12.91H18.9502C18.3902 12.91 17.8802 13.13 17.5102 13.51C17.0902 13.92 16.8502 14.51 16.9102 15.14C17.0002 16.22 17.9902 17.01 19.0702 17.01H20.9702V18.2C20.9702 20.27 19.2802 21.96 17.2102 21.96H11.1502", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.97021 12.37V7.79999C1.97021 6.60999 2.70021 5.54999 3.81021 5.12999L9.50049 2.98001M14.3202 3.90999V7.70999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.03 13.93V15.99C22.03 16.54 21.59 16.99 21.03 17.01H19.07C17.99 17.01 17 16.22 16.91 15.14C16.85 14.51 17.09 13.92 17.51 13.51C17.88 13.13 18.39 12.91 18.95 12.91H21.03C21.59 12.93 22.03 13.38 22.03 13.93Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.47021 11.96H13.4702", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiWallet__clip0_3111_14929", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiWallet_default = AiWallet;
+export {
+  AiWallet_default as default
+};

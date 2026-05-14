@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Crossbow25 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Crossbow25__clip0_2085_390138)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.49 6.83988L3.40995 16.9199C2.62995 17.6999 2.62995 18.9699 3.40995 19.7499L4.03995 20.3799C4.81995 21.1599 6.08995 21.1599 6.86995 20.3799L16.95 10.2999C17.73 9.51988 17.73 8.24988 16.95 7.46988L16.32 6.83988C15.54 6.05988 14.27 6.05988 13.49 6.83988Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M20.18 2.88015L18.75 3.24015C18.29 3.35015 18.13 3.92015 18.47 4.26015L19.55 5.34015C19.88 5.67015 20.45 5.52015 20.57 5.06015L20.93 3.63015C21.04 3.19015 20.64 2.78015 20.19 2.89015L20.18 2.88015Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19 4.79004L5.45996 18.33", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.42993 15.3096L8.47993 21.3596", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M3.87988 1.79004C3.87988 1.79004 3.87988 4.21004 5.70988 4.68004C7.64988 5.19004 10.9999 4.97004 13.1799 7.15004L16.6399 10.61C18.8199 12.79 18.5999 16.13 19.1099 18.08C19.5899 19.91 21.9999 19.91 21.9999 19.91", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.11993 5.08008L7.17993 16.6101", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.7099 15.6699L7.17993 16.6099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Crossbow25__clip0_2085_390138", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Crossbow25_default = Crossbow25;
+export {
+  Crossbow25_default as default
+};

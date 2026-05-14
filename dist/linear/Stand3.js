@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Stand3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Stand3__clip0_2085_391092)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.22 16.98H8.77002C7.11002 16.98 5.77002 15.64 5.77002 13.98V5C5.77002 3.34 7.11002 2 8.77002 2H15.22C16.88 2 18.22 3.34 18.22 5V13.98C18.22 15.64 16.88 16.98 15.22 16.98Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27002 12H15.74", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.75 14.4902H13.24", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27002 16.9805L7.40002 20.5005C7.21002 21.2605 7.79002 22.0005 8.57002 22.0005C9.13002 22.0005 9.61002 21.6205 9.74002 21.0805L10.76 16.9805", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.25 16.9805L14.27 21.0805C14.4 21.6205 14.89 22.0005 15.44 22.0005C16.22 22.0005 16.8 21.2605 16.61 20.5005L15.74 16.9805", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.13 19.4697H13.86", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.15 9.12965C12.07 9.15965 11.93 9.15965 11.85 9.12965C11.16 8.88965 9.60004 7.89965 9.60004 6.22965C9.60004 5.48965 10.2 4.88965 10.93 4.88965C11.37 4.88965 11.75 5.09965 11.99 5.42965C12.23 5.09965 12.62 4.88965 13.05 4.88965C13.79 4.88965 14.38 5.48965 14.38 6.22965C14.38 7.90965 12.83 8.88965 12.13 9.12965H12.15Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Stand3__clip0_2085_391092", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Stand3_default = Stand3;
+export {
+  Stand3_default as default
+};

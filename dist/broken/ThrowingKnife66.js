@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ThrowingKnife66 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ThrowingKnife66__clip0_2085_390235)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.2 12C3.24 12.11 3.28 12.21 3.33 12.31L4.12 13.9C4.4 14.47 4.99 14.84 5.64 14.84H7.69C8.33 14.84 8.92 14.47 9.2 13.9L9.99 12.3C10.23 11.84 10.35 11.32 10.35 10.8V5.55C10.35 5.27 10.48 5 10.71 4.84C11.1 4.56 11.36 4.09 11.36 3.57C11.36 2.7 10.66 2 9.8 2H3.57C2.7 2 2 2.7 2 3.57C2 4.08 2.25 4.54 2.64 4.83C2.85 4.98 2.98 5.23 2.98 5.49V6.91", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.33 2H15.13C16 2 16.7 2.7 16.7 3.57C16.7 4.1 16.44 4.56 16.04 4.85C15.81 5.01 15.69 5.28 15.69 5.56V10.81C15.69 11.33 15.56 11.85 15.33 12.31L14.54 13.9C14.25 14.48 13.67 14.84 13.02 14.84H12.25", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.6301 2H20.4401C21.3101 2 22.0101 2.7 22.0101 3.57C22.0101 4.1 21.7501 4.56 21.3501 4.85C21.1201 5.01 21.0001 5.28 21.0001 5.56V10.81C21.0001 11.33 20.8701 11.85 20.6401 12.31L19.8501 13.9C19.5601 14.48 18.9701 14.84 18.3301 14.84H17.5601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.81006 5.17969H7.50006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.06018 17.8496C7.90018 18.4896 7.58018 20.4396 7.28018 21.5096C7.10018 22.1696 6.15018 22.1696 5.97018 21.5096C5.68018 20.4596 5.34018 18.4896 5.18018 17.8596", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.4 17.8496C13.24 18.4896 12.92 20.4396 12.62 21.5096C12.44 22.1696 11.49 22.1696 11.31 21.5096C11.02 20.4596 10.68 18.4896 10.52 17.8596", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.6998 17.8496C18.5398 18.4896 18.2198 20.4396 17.9198 21.5096C17.7398 22.1696 16.7898 22.1696 16.6098 21.5096C16.3198 20.4596 15.9798 18.4896 15.8198 17.8596", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ThrowingKnife66__clip0_2085_390235", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ThrowingKnife66_default = ThrowingKnife66;
+export {
+  ThrowingKnife66_default as default
+};

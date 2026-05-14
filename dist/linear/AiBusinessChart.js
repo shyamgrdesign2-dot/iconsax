@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiBusinessChart = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiBusinessChart__clip0_3111_12835)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.25 18.4L20.23 18.64C19.5 18.81 18.93 19.38 18.76 20.11L18.52 21.13C18.49 21.24 18.34 21.24 18.31 21.13L18.07 20.11C17.9 19.38 17.33 18.81 16.6 18.64L15.58 18.4C15.47 18.37 15.47 18.22 15.58 18.19L16.6 17.95C17.33 17.78 17.9 17.21 18.07 16.48L18.31 15.46C18.34 15.35 18.49 15.35 18.52 15.46L18.76 16.48C18.93 17.21 19.5 17.78 20.23 17.95L21.25 18.19C21.36 18.22 21.36 18.37 21.25 18.4Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.85 12.98V9.04002C21.85 4.12002 19.88 2.15002 14.96 2.15002H9.05C4.13 2.15002 2.16 4.12002 2.16 9.04002V14.95C2.16 19.87 4.13 21.84 9.05 21.84H12.99", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.40001 14.45L9.74001 11.41C10.07 10.98 10.7 10.9 11.13 11.23L12.93 12.65C13.36 12.98 13.98 12.91 14.32 12.48L16.6 9.54004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiBusinessChart__clip0_3111_12835", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiBusinessChart_default = AiBusinessChart;
+export {
+  AiBusinessChart_default as default
+};

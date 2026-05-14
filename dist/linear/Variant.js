@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Variant = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Variant__clip0_4482_11048)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.44018 17.8299C7.84018 17.8299 7.26018 17.5899 6.84018 17.1699C6.42018 16.7499 6.18018 16.1699 6.18018 15.5699V8.43992C6.18018 7.18992 7.20018 6.16992 8.45018 6.16992C9.70018 6.16992 10.7202 7.18992 10.7202 8.43992V15.5699C10.7202 16.1699 10.4802 16.7499 10.0602 17.1699C9.63018 17.5999 9.06018 17.8299 8.46018 17.8299H8.44018Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.1699 17.03L15.7799 11.42C16.6699 10.53 16.6699 9.09998 15.7799 8.20998C14.8899 7.31998 13.4599 7.31998 12.5699 8.20998L10.6999 10.08", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.9102 13.2998H15.5602C16.1602 13.2998 16.7402 13.5398 17.1602 13.9598C17.5902 14.3898 17.8202 14.9598 17.8202 15.5598C17.8202 16.1598 17.5802 16.7398 17.1602 17.1598C16.7402 17.5798 16.1602 17.8198 15.5602 17.8198H8.43018", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.44 2H7.56C4.4893 2 2 4.4893 2 7.56V16.44C2 19.5107 4.4893 22 7.56 22H16.44C19.5107 22 22 19.5107 22 16.44V7.56C22 4.4893 19.5107 2 16.44 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Variant__clip0_4482_11048", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Variant_default = Variant;
+export {
+  Variant_default as default
+};

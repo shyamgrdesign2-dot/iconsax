@@ -1,0 +1,44 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Reindeer4 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Reindeer4__clip0_2085_390909)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.18 2C16.67 3.2 16.66 4.4 16.52 5.35C16.4 6.1 16.2 6.7 16.07 7.02", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.11 18.2304C14.88 19.6304 14.76 21.9504 12 22.0004C9.22999 21.9504 9.11999 19.6304 8.88999 18.2304C8.65999 16.8304 5.51999 14.5104 5.77999 11.1104C5.79999 10.9104 5.81999 10.7204 5.84999 10.5404C5.87999 10.3504 5.91999 10.1704 5.95999 10.0004C6.10999 9.50043 6.26999 9.07043 6.47999 8.67043C7.11999 7.52043 8.08999 6.80043 9.04999 6.35043C10.91 5.47043 13.11 5.47043 14.97 6.35043C15.85 6.76043 16.74 7.39043 17.37 8.37043C17.49 8.55043 17.59 8.74043 17.69 8.94043C17.84 9.26043 17.97 9.62043 18.07 10.0104C18.11 10.1804 18.15 10.3604 18.17 10.5504C18.2 10.7304 18.22 10.9204 18.23 11.1204C18.45 14.5204 15.35 16.8304 15.12 18.2404L15.11 18.2304Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.77 17.4C12.97 17.2 13.15 16.96 13.24 16.69C13.33 16.43 13.22 16.15 12.99 16C12.71 15.82 12.37 15.71 12 15.71C11.63 15.71 11.28 15.82 10.99 16.01C10.78 16.15 10.68 16.42 10.75 16.66C10.84 16.94 11.02 17.19 11.23 17.4C11.65 17.82 12.34 17.82 12.76 17.4H12.77Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 17.71V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.93001 7.02C7.80001 6.7 7.60001 6.11 7.48001 5.35C7.33001 4.4 7.33001 3.2 7.82001 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.07999 2L3.80999 3.23C4.18999 3.88 4.78999 4.37 5.48999 4.64L7.47999 5.35", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.52 5.35L18.51 4.64C19.21 4.38 19.81 3.88 20.19 3.23L20.92 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.65 8.37984C6.59 8.46984 6.53 8.56984 6.48 8.66984C6.27 9.05984 6.11 9.49984 5.96 9.99984C5.37 10.1098 4.6 10.1298 3.96 9.86984C3.3 9.58984 2.83 9.04984 2.52 8.54984C2.15 7.94984 2.49 7.17984 3.18 7.03984C3.8 6.90984 4.57 6.85984 5.26 7.14984C5.89 7.40984 6.34 7.90984 6.65 8.38984V8.37984Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.82 7.03984C21.51 7.17984 21.85 7.95984 21.48 8.54984C21.17 9.04984 20.7 9.58984 20.04 9.86984C19.41 10.1298 18.65 10.1098 18.06 10.0098C17.97 9.61984 17.84 9.25984 17.68 8.93984C17.58 8.73984 17.48 8.54984 17.36 8.36984C17.67 7.89984 18.12 7.40984 18.74 7.14984C19.43 6.85984 20.2 6.90984 20.82 7.03984Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.43 11.9901C9.43 12.3301 9.15 12.6101 8.81 12.6101C8.47 12.6101 8.19 12.3301 8.19 11.9901C8.19 11.6501 8.47 11.3701 8.81 11.3701C9.15 11.3701 9.43 11.6501 9.43 11.9901Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.57 11.9901C14.57 12.3301 14.85 12.6101 15.19 12.6101C15.53 12.6101 15.81 12.3301 15.81 11.9901C15.81 11.6501 15.53 11.3701 15.19 11.3701C14.85 11.3701 14.57 11.6501 14.57 11.9901Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Reindeer4__clip0_2085_390909", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Reindeer4_default = Reindeer4;
+export {
+  Reindeer4_default as default
+};

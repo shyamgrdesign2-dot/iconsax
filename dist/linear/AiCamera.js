@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiCamera = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiCamera__clip0_3111_11666)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.7 5.43L20.51 5.71C19.66 5.91 19 6.57 18.8 7.42L18.52 8.61C18.49 8.74 18.31 8.74 18.28 8.61L18 7.42C17.8 6.57 17.14 5.91 16.29 5.71L15.1 5.43C14.97 5.4 14.97 5.22 15.1 5.19L16.29 4.91C17.14 4.71 17.8 4.05 18 3.2L18.28 2.01C18.31 1.88 18.49 1.88 18.52 2.01L18.8 3.2C19 4.05 19.66 4.71 20.51 4.91L21.7 5.19C21.83 5.22 21.83 5.4 21.7 5.43Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.12 2.07H10.83C9.8 2.07 8.6 2.82 8.14 3.73L7.42 5.18C7.14 5.72 6.58 6.07 5.97 6.07C3.8 6.07 2.08 7.9 2.22 10.06L2.74 18.32C2.86 20.38 3.97 22.07 6.73 22.07H17.22C19.98 22.07 21.08 20.38 21.21 18.32L21.73 10.06", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.47 8.08H13.47", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.97 18.08C13.76 18.08 15.22 16.62 15.22 14.83C15.22 13.04 13.76 11.58 11.97 11.58C10.18 11.58 8.72 13.04 8.72 14.83C8.72 16.62 10.18 18.08 11.97 18.08Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiCamera__clip0_3111_11666", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiCamera_default = AiCamera;
+export {
+  AiCamera_default as default
+};

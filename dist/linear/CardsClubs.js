@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CardsClubs = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CardsClubs__clip0_4482_4112)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 16V14", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21 7V17C21 20 19.5 22 16 22H8C4.5 22 3 20 3 17V7C3 4 4.5 2 8 2H16C19.5 2 21 4 21 7Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.91 10.0398C14.11 9.3298 13.85 8.5598 13.26 8.1098C12.92 7.7498 12.44 7.5498 11.94 7.5498C11.33 7.5598 10.76 7.8498 10.4 8.3398C10.04 8.8298 9.92001 9.4498 10.08 10.0398C9.10001 10.0098 8.24003 10.6998 8.06003 11.6598C7.88003 12.6298 8.44002 13.5798 9.37002 13.8898C10.3 14.1998 11.32 13.7898 11.77 12.9198C11.81 12.8398 11.9 12.7798 11.99 12.7798C12.08 12.7798 12.17 12.8398 12.21 12.9198C12.48 13.4498 12.97 13.8198 13.55 13.9498C14.13 14.0798 14.73 13.9398 15.2 13.5698C15.88 13.0398 16.14 12.1298 15.84 11.3298C15.55 10.5298 14.77 9.9998 13.91 10.0398Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CardsClubs__clip0_4482_4112", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CardsClubs_default = CardsClubs;
+export {
+  CardsClubs_default as default
+};

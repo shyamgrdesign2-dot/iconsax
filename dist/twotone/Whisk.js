@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Whisk = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Whisk__clip0_4482_5640)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.2201 6.50012L18.3201 9.40011C17.7301 9.99011 16.9501 10.2401 16.1601 10.1601C16.1301 10.1601 16.1101 10.1501 16.0701 10.1501C15.5401 10.0701 15.0001 9.82011 14.5701 9.40011C14.1601 8.99011 13.9101 8.45012 13.8301 7.91012C13.8201 7.89012 13.8301 7.86011 13.8201 7.84011C13.7301 7.06011 13.9901 6.26011 14.5801 5.67011L17.4901 2.78011C18.5201 1.73011 20.1901 1.74012 21.2201 2.77012C21.7301 3.28012 22.0001 3.96012 22.0001 4.63012C22.0001 5.32012 21.7401 5.98012 21.2201 6.50012Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.0999 20.0003C8.7399 22.3603 5.24989 22.6703 3.28989 20.7103C1.32989 18.7503 1.64989 15.2503 3.99989 12.9003C5.86989 11.0303 8.4399 10.4403 10.4099 11.2603C10.9299 11.4703 11.4099 11.7803 11.8099 12.1803C12.2099 12.5803 12.5199 13.0603 12.7299 13.5803C13.5599 15.5603 12.9699 18.1303 11.0999 20.0003Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.1701 12.25C7.36009 13.01 4.1101 16.26 3.3501 20.07", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.7499 12.8301C10.9899 16.6401 7.73993 19.8901 3.92993 20.6501", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.1599 10.1596L12.7299 13.5896C12.5199 13.0696 12.2099 12.5896 11.8099 12.1896C11.4099 11.7896 10.9299 11.4796 10.4099 11.2696L13.8299 7.84961C13.8399 7.86961 13.8299 7.8996 13.8399 7.9196C13.9299 8.4496 14.1699 8.99961 14.5799 9.40961C15.0099 9.83961 15.5499 10.0796 16.0799 10.1596C16.1099 10.1596 16.1299 10.1596 16.1599 10.1596Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Whisk__clip0_4482_5640", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Whisk_default = Whisk;
+export {
+  Whisk_default as default
+};

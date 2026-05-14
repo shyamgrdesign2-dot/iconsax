@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareRegisteredProduct1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareRegisteredProduct1__clip0_4482_3470)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6301 16.4301C14.3901 16.4301 14.1501 16.3101 14.0101 16.1001L11.9101 12.9501C11.6801 12.6101 11.7701 12.1401 12.1201 11.9101C12.4701 11.6801 12.9301 11.7701 13.1601 12.1201L15.2601 15.2701C15.4901 15.6101 15.4001 16.0801 15.0501 16.3101C14.9101 16.3901 14.7701 16.4301 14.6301 16.4301Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.37988 16.4298C8.96988 16.4298 8.62988 16.0898 8.62988 15.6798V8.32982C8.62988 7.91982 8.96988 7.56982 9.37988 7.56982H12.5299C14.0999 7.56982 15.3799 8.84982 15.3799 10.4198C15.3799 11.9898 14.0999 13.2698 12.5299 13.2698H10.1299V15.6698C10.1199 16.0898 9.78988 16.4298 9.37988 16.4298ZM10.1199 11.7798H12.5199C13.2699 11.7798 13.8699 11.1698 13.8699 10.4298C13.8699 9.67981 13.2599 9.07982 12.5199 9.07982H10.1199V11.7798Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22.75H7C3.83 22.75 1.25 20.17 1.25 17V7C1.25 3.83 3.83 1.25 7 1.25H17C20.17 1.25 22.75 3.83 22.75 7V17C22.75 20.17 20.17 22.75 17 22.75ZM7 2.75C4.66 2.75 2.75 4.66 2.75 7V17C2.75 19.34 4.66 21.25 7 21.25H17C19.34 21.25 21.25 19.34 21.25 17V7C21.25 4.66 19.34 2.75 17 2.75H7Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareRegisteredProduct1__clip0_4482_3470", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareRegisteredProduct1_default = SquareRegisteredProduct1;
+export {
+  SquareRegisteredProduct1_default as default
+};

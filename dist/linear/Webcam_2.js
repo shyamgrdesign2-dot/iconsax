@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Webcam_2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Webcam_2__clip0_4482_9198)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9999 18.62C16.5894 18.62 20.3099 14.8995 20.3099 10.31C20.3099 5.72051 16.5894 2 11.9999 2C7.41045 2 3.68994 5.72051 3.68994 10.31C3.68994 14.8995 7.41045 18.62 11.9999 18.62Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9999 13.43C13.4358 13.43 14.5999 12.2659 14.5999 10.83C14.5999 9.39404 13.4358 8.22998 11.9999 8.22998C10.564 8.22998 9.3999 9.39404 9.3999 10.83C9.3999 12.2659 10.564 13.43 11.9999 13.43Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.04 5.63989H10.96", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.27 21.74H4.72998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.6799 21.74L16.1499 17.51", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.31982 21.74L7.84982 17.51", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Webcam_2__clip0_4482_9198", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Webcam_2_default = Webcam_2;
+export {
+  Webcam_2_default as default
+};

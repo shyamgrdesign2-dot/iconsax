@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const K = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#K__clip0_2085_391570)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.98 5.07L12.14 12H5.57996V3.87C5.57996 2.84 6.40996 2 7.43996 2C8.46996 2 9.30996 2.84 9.30996 3.87V8.82113C9.30996 9.07286 9.62404 9.18763 9.78634 8.99521L15.13 2.66C15.79 1.88 16.97 1.78 17.76 2.44C18.55 3.1 18.65 4.28 17.98 5.07Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.76 21.56C17.41 21.86 16.98 22 16.56 22C16.03 22 15.5 21.77 15.13 21.34L9.61168 15.2339C9.50536 15.1162 9.30996 15.1914 9.30996 15.35V20.13C9.30996 21.16 8.47996 22 7.43996 22C6.39996 22 5.57996 21.16 5.57996 20.13V12H12.14L17.98 18.93C18.65 19.72 18.55 20.89 17.76 21.56Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "K__clip0_2085_391570", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var K_default = K;
+export {
+  K_default as default
+};

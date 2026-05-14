@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FileDrawer = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FileDrawer__clip0_4482_5511)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15 22.75H9C7.48 22.75 6.25 21.52 6.25 20V4C6.25 2.48 7.48 1.25 9 1.25H15C16.52 1.25 17.75 2.48 17.75 4V20C17.75 21.52 16.52 22.75 15 22.75ZM9 2.75C8.31 2.75 7.75 3.31 7.75 4V20C7.75 20.69 8.31 21.25 9 21.25H15C15.69 21.25 16.25 20.69 16.25 20V4C16.25 3.31 15.69 2.75 15 2.75H9Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 12.75H7C6.59 12.75 6.25 12.41 6.25 12C6.25 11.59 6.59 11.25 7 11.25H17C17.41 11.25 17.75 11.59 17.75 12C17.75 12.41 17.41 12.75 17 12.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13 5.75H11C10.04 5.75 9.25 4.96 9.25 4V2C9.25 1.59 9.59 1.25 10 1.25H14C14.41 1.25 14.75 1.59 14.75 2V4C14.75 4.96 13.96 5.75 13 5.75ZM10.75 2.75V4C10.75 4.14 10.86 4.25 11 4.25H13C13.14 4.25 13.25 4.14 13.25 4V2.75H10.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13 15.75H11C10.04 15.75 9.25 14.96 9.25 14V12C9.25 11.59 9.59 11.25 10 11.25H14C14.41 11.25 14.75 11.59 14.75 12V14C14.75 14.96 13.96 15.75 13 15.75ZM10.75 12.75V14C10.75 14.14 10.86 14.25 11 14.25H13C13.14 14.25 13.25 14.14 13.25 14V12.75H10.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FileDrawer__clip0_4482_5511", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FileDrawer_default = FileDrawer;
+export {
+  FileDrawer_default as default
+};

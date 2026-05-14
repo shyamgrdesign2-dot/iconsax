@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SpiderWeb = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SpiderWeb__clip0_2085_384893)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.34009 7L20.6601 17", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.6601 7L3.34009 17", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0001 4C14.4801 5.92 15.9501 6.86 18.9301 8C18.4401 11.12 18.4201 12.88 18.9301 16C15.9701 17.06 14.4601 17.95 12.0001 20C9.55007 18.05 8.07007 17.13 5.07007 16C5.67007 12.88 5.67007 11.12 5.07007 8C8.08007 6.99 9.60007 6.12 12.0001 4Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.9999 7C13.5399 8.39 14.5099 8.86 16.3299 9.5C15.9399 11.45 15.9399 12.55 16.3299 14.5C14.2699 15.13 13.3299 15.69 11.9999 17C10.5099 15.63 9.56992 15.07 7.66992 14.5C8.00992 12.61 7.97992 11.52 7.66992 9.5C9.52992 8.93 10.4799 8.39 11.9999 7Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SpiderWeb__clip0_2085_384893", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SpiderWeb_default = SpiderWeb;
+export {
+  SpiderWeb_default as default
+};

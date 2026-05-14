@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ColorPalette = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ColorPalette__clip0_4482_10992)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0005 18.1095C10.3505 18.1095 8.77049 17.4395 7.62049 16.2595C6.47049 15.0795 5.85049 13.4795 5.89049 11.8295C6.01049 8.60948 8.60049 6.01948 11.8305 5.88948C13.4805 5.83948 15.0805 6.46948 16.2605 7.61948C17.4405 8.76948 18.1105 10.3495 18.1105 11.9995V12.6795C18.1105 13.0395 17.9705 13.3895 17.7105 13.6395C17.4605 13.8995 17.1105 14.0395 16.7505 14.0395H15.3505C14.9205 14.0395 14.5205 14.2395 14.2705 14.5795C14.0105 14.9195 13.9305 15.3595 14.0505 15.7695L14.2205 16.3795C14.3405 16.7895 14.2605 17.2295 14.0005 17.5695C13.7405 17.9095 13.3405 18.1095 12.9205 18.1095H12.0005Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.21094 10H9.21104", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.21094 13.5098H9.21104", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6699 10.3594H14.67", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9307 8.7793H11.9308", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.44 2H7.56C4.4893 2 2 4.4893 2 7.56V16.44C2 19.5107 4.4893 22 7.56 22H16.44C19.5107 22 22 19.5107 22 16.44V7.56C22 4.4893 19.5107 2 16.44 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ColorPalette__clip0_4482_10992", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ColorPalette_default = ColorPalette;
+export {
+  ColorPalette_default as default
+};

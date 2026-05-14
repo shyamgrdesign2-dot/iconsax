@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const NoInternet5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#NoInternet5__clip0_2085_385170)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.3299 19.3309L2.50994 10.0209C1.68994 9.04094 1.88994 7.58094 2.91994 6.83094C8.30994 2.92094 15.6899 2.92094 21.0799 6.83094C22.1099 7.58094 22.3099 9.04094 21.4899 10.0209L13.6599 19.3309C12.7899 20.3709 11.1999 20.3709 10.3299 19.3309Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 11.5509V7.46094", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9998 14.4609C11.9098 14.4609 11.8398 14.5309 11.8398 14.6209C11.8398 14.7109 11.9098 14.7809 11.9998 14.7809C12.0898 14.7809 12.1598 14.7109 12.1598 14.6209C12.1598 14.5309 12.0898 14.4609 11.9998 14.4609Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "NoInternet5__clip0_2085_385170", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var NoInternet5_default = NoInternet5;
+export {
+  NoInternet5_default as default
+};

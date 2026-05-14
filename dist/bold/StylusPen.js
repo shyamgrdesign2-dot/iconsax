@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const StylusPen = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#StylusPen__clip0_4482_4868)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.6899 3.32C19.8399 2.47 18.7199 2 17.5199 2C16.3199 2 15.1899 2.47 14.3499 3.32L3.48989 14.18C2.99989 14.67 2.6699 15.32 2.5699 16.01L2.02989 19.83C1.92989 20.46 2.11989 21.06 2.52989 21.48C2.87989 21.82 3.34989 22 3.86989 22C3.96989 22 4.06989 22 4.17989 21.98L7.9999 21.44C8.6899 21.34 9.33988 21.01 9.82988 20.52L20.6899 9.66C21.5399 8.81 21.9999 7.69 21.9999 6.49C21.9999 5.29 21.5399 4.17 20.6899 3.32ZM17.7799 7.5L16.2099 9.07C16.0399 9.24 15.8099 9.33 15.5699 9.33C15.3399 9.33 15.1099 9.24 14.9399 9.07C14.5899 8.72 14.5899 8.15 14.9399 7.8L16.5099 6.23C16.8599 5.88 17.4299 5.88 17.7799 6.23C18.1299 6.58 18.1299 7.15 17.7799 7.5Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "StylusPen__clip0_4482_4868", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var StylusPen_default = StylusPen;
+export {
+  StylusPen_default as default
+};

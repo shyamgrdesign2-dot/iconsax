@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CrossHealth = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CrossHealth__clip0_4482_8767)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.4404 22H18.6604C20.5004 22 21.9904 20.51 21.9904 18.67V16.45", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.4404 2H18.6604C20.5004 2 21.9904 3.49 21.9904 5.33V7.55", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M2 16.4399V18.6599C2 20.4999 3.49 21.9899 5.33 21.9899H7.55", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M2 7.56001V5.34001C2 3.50001 3.49 2.01001 5.33 2.01001H7.55", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.1698 11.17C16.1698 10.71 15.7998 10.34 15.3398 10.34H13.6698V8.66997C13.6698 8.20997 13.2998 7.83997 12.8398 7.83997H11.1698C10.7098 7.83997 10.3398 8.20997 10.3398 8.66997V10.34H8.66984C8.20984 10.34 7.83984 10.71 7.83984 11.17V12.84C7.83984 13.3 8.20984 13.67 8.66984 13.67H10.3398V15.34C10.3398 15.8 10.7098 16.17 11.1698 16.17H12.8398C13.2998 16.17 13.6698 15.8 13.6698 15.34V13.67H15.3398C15.7998 13.67 16.1698 13.3 16.1698 12.84V11.17Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CrossHealth__clip0_4482_8767", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CrossHealth_default = CrossHealth;
+export {
+  CrossHealth_default as default
+};

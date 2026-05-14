@@ -1,0 +1,22 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Gun36 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M6.33998 18.3L11.7 12.78L20.22 4M8.37998 16.29L8.84998 18.29C8.92998 18.63 8.83998 18.95 8.63998 19.16L7.77998 20.04C7.59998 20.22 7.23998 20.26 7.11998 20.04L5.22998 16.38L16.9 4.72C17.25 4.36 17.84 4.36 18.2 4.72L18.84 5.35", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M6.68006 19.3496L5.56006 20.8996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M5.30994 16.71C4.58994 17.43 3.88994 18.13 3.18994 18.84", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M9.91992 14.7203L10.3299 15.1303C10.8299 15.6303 11.6499 15.6303 12.1499 15.1303C12.6299 14.6503 12.6499 13.8803 12.2099 13.3703L10.3899 11.2803", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M8.68 9.94051C8.68 10.1805 8.59 10.4105 8.41 10.5905L4.58 14.4205C4.22 14.7805 3.63 14.7805 3.27 14.4205C3.09 14.2405 3 14.0005 3 13.7705C3 13.5405 3.09 13.3005 3.27 13.1205L3.75 12.6405L6.62 9.77051L7.1 9.29051C7.46 8.93051 8.05 8.93051 8.41 9.29051C8.59 9.47051 8.68 9.70051 8.68 9.94051Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M5.41992 13.96L6.34992 14.89", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M7.93994 11.4297L8.86994 12.3597", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " "
+] });
+var Gun36_default = Gun36;
+export {
+  Gun36_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SmileHeart3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SmileHeart3__clip0_2085_391090)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.76 2.07031C6.29998 2.61031 2.65998 6.21031 2.08998 10.6703C1.61998 14.2903 3.09998 17.6003 5.61998 19.7003L5.00998 20.2903C4.36998 20.9203 4.80998 22.0103 5.70998 22.0103H11.72C17.06 22.0103 21.68 17.9403 21.99 12.6103C22.35 6.40031 17.05 1.33031 10.77 2.09031L10.76 2.07031Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.67999 15.3203C8.67999 17.1503 10.17 18.6403 12 18.6403C12.29 18.6403 12.56 18.6003 12.83 18.5403", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.63 8.68066C17.2 8.68066 16.82 8.87066 16.56 9.17066C16.3 8.87066 15.92 8.68066 15.49 8.68066C14.7 8.68066 14.07 9.32066 14.07 10.1007C14.07 11.6707 16.56 12.9507 16.56 12.9507C16.56 12.9507 19.05 11.6807 19.05 10.1007C19.05 9.31066 18.41 8.68066 17.63 8.68066Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.37001 8.68066C6.80001 8.68066 7.18001 8.87066 7.44001 9.17066C7.70001 8.87066 8.08001 8.68066 8.51001 8.68066C9.30001 8.68066 9.93001 9.32066 9.93001 10.1007C9.93001 11.6707 7.44001 12.9507 7.44001 12.9507C7.44001 12.9507 4.95001 11.6807 4.95001 10.1007C4.95001 9.31066 5.59001 8.68066 6.37001 8.68066Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SmileHeart3__clip0_2085_391090", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SmileHeart3_default = SmileHeart3;
+export {
+  SmileHeart3_default as default
+};

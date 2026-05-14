@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareMarker = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareMarker__clip0_4482_2192)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M22.0001 7.7627V8.43269L16.7401 13.6927L11.3501 8.30269L16.8901 2.7627H17.0001C19.7501 2.7627 22.0001 5.0127 22.0001 7.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16.7401 13.7025L15.22 13.7825C14.04 13.8425 12.9201 14.3725 12.1201 15.2425L9.81006 12.9325C10.6801 12.1325 11.2101 11.0225 11.2701 9.8325L11.35 8.3125", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M7.1001 15.6426L9.82013 12.9326L12.1201 15.2326L10.5401 16.8126L7.1001 15.6426Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22.7627H7C4.25 22.7627 2 20.5127 2 17.7627V7.7627C2 5.0127 4.25 2.7627 7 2.7627H17C19.75 2.7627 22 5.0127 22 7.7627V17.7627C22 20.5127 19.75 22.7627 17 22.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareMarker__clip0_4482_2192", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor", transform: "translate(0 0.762695)" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareMarker_default = SquareMarker;
+export {
+  SquareMarker_default as default
+};

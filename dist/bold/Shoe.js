@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Shoe = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Shoe__clip0_4482_11918)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.99 14.7404C21.98 13.7904 21.31 12.9904 20.39 12.8004L18.06 12.3404C17.36 12.2004 16.69 11.9604 16.06 11.6504L15.73 11.4904C13.98 10.6104 12.61 9.12037 11.88 7.30037L11.74 6.94036C11.56 6.51036 11.2 6.18036 10.75 6.06036C10.3 5.93036 9.82 6.02037 9.44 6.30037L7.28 7.93036C7.11 8.06036 6.89 8.13036 6.68 8.13036H5.5C5.18 8.13036 4.89 7.98036 4.7 7.73036C4.31 7.21036 3.64 7.00036 3.03 7.20036C2.41 7.41036 2 7.98036 2 8.63036V16.0004C2 17.1004 2.89 18.0004 4 18.0004H20C20.53 18.0004 21.04 17.7904 21.42 17.4104C21.79 17.0304 22 16.5204 22 15.9904V14.7404H21.99Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Shoe__clip0_4482_11918", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Shoe_default = Shoe;
+export {
+  Shoe_default as default
+};

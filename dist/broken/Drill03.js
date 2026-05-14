@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Drill03 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Drill03__clip0_4482_9089)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19 5.5H21C21.55 5.5 22 5.95 22 6.5V7.5C22 8.05 21.55 8.5 21 8.5H19V5.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14 11L13.34 12.97C13.14 13.58 12.56 14 11.92 14H9.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14 3V11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.07 17H3.5C2.67 17 2 17.67 2 18.5V19.5C2 20.33 2.67 21 3.5 21H9.5C10.33 21 11 20.33 11 19.5V19.38C11 19.13 10.94 18.88 10.83 18.66L10.42 17.83C10.17 17.32 9.65 17 9.08 17H9.07Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.5 11L8.5 17", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.5 17L5.5 11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6 7H8.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 5C2 4.47 2.21 3.96 2.58 3.59C2.95 3.22 3.46 3 3.99 3H15.4C15.79 3 16.18 3.12 16.51 3.34L18.12 4.41C18.68 4.78 19.01 5.41 19.01 6.07V7.93C19.01 8.6 18.68 9.22 18.12 9.59L16.51 10.66C16.18 10.88 15.8 11 15.4 11H3.99C3.46 11 2.95 10.79 2.58 10.41C2.21 10.03 2 9.53 2 9", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Drill03__clip0_4482_9089", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Drill03_default = Drill03;
+export {
+  Drill03_default as default
+};

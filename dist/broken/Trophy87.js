@@ -1,0 +1,50 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Trophy87 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Trophy87__clip0_2085_392100)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 20.5V22H7V20.5C7 19.95 7.45 19.5 8 19.5H16C16.55 19.5 17 19.95 17 20.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.75 18V19.5H8.25V18C8.25 17.45 8.7 17 9.25 17H14.75C15.3 17 15.75 17.45 15.75 18Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.1201 13.2499C17.6001 12.4199 19.4801 10.4999 20.2901 8.12988", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.6201 4.5V3.56C17.6201 2.7 18.3201 2 19.1901 2C20.0601 2 20.7501 2.7 20.7501 3.56V5.08", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.25 4.57V3.56C3.25 2.7 3.95 2 4.81 2C5.67 2 6.38 2.7 6.38 3.56V4.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.55029 7.62988C4.26029 10.2299 6.23029 12.3699 8.88029 13.2499", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.6201 4.5C17.6201 7.95 16.5601 10.95 15.1901 12.88C14.3401 14.07 13.8701 15.49 13.8701 16.96V17H10.1201V16.96C10.1201 15.49 9.65012 14.07 8.81012 12.88C7.44012 10.95 6.37012 7.95 6.37012 4.5H17.6201Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.8801 22H17.0001H7.00012H5.12012", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7 7H17", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 12C12.69 12 13.25 11.44 13.25 10.75C13.25 10.06 12.69 9.5 12 9.5C11.31 9.5 10.75 10.06 10.75 10.75C10.75 11.44 11.31 12 12 12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.8101 13.25V16.37", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.25 14.8096H21.37", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.18994 15.75V18.88", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.62012 17.3096H5.75012", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Trophy87__clip0_2085_392100", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "22.75", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Trophy87_default = Trophy87;
+export {
+  Trophy87_default as default
+};

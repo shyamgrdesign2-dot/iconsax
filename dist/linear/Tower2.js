@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Tower2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Tower2__clip0_4482_10029)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.2103 21.9998V8.3198C16.2103 8.0398 16.1003 7.7698 15.9003 7.5798L12.7403 4.4198C12.3303 4.0098 11.6603 4.0098 11.2503 4.4198L8.09027 7.5798C7.89027 7.7798 7.78027 8.0498 7.78027 8.3198V21.9998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2V4.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.21 8.31982H7.79004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.2103 22.0001V11.4701C16.2103 11.1201 16.3803 10.8001 16.6603 10.6001C16.9403 10.4001 17.3103 10.3601 17.6303 10.4801L20.7903 11.6601C21.2003 11.8101 21.4703 12.2101 21.4703 12.6501V19.9901C21.4703 21.0901 20.5703 21.9901 19.4703 21.9901H4.53027C3.43027 21.9901 2.53027 21.0901 2.53027 19.9901V14.5201C2.53027 13.4201 3.43027 12.5201 4.53027 12.5201H7.79027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 21.9998V12.5298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Tower2__clip0_4482_10029", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Tower2_default = Tower2;
+export {
+  Tower2_default as default
+};

@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const RaiseExposure = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#RaiseExposure__clip0_4482_15547)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.5304 2.61043C11.3404 1.80043 12.6604 1.80043 13.4704 2.61043L14.5704 3.71043C14.9604 4.10043 15.4904 4.32043 16.0404 4.32043H17.6004C18.7504 4.32043 19.6804 5.25043 19.6804 6.40043V7.96043C19.6804 8.51043 19.9004 9.04043 20.2904 9.43043L21.3904 10.5304C22.2004 11.3404 22.2004 12.6604 21.3904 13.4704L20.2904 14.5704C19.9004 14.9604 19.6804 15.4904 19.6804 16.0404V17.6004C19.6804 18.7504 18.7504 19.6804 17.6004 19.6804H16.0404C15.4904 19.6804 14.9604 19.9004 14.5704 20.2904L13.4704 21.3904C12.6604 22.2004 11.3404 22.2004 10.5304 21.3904L9.43043 20.2904C9.04043 19.9004 8.51043 19.6804 7.96043 19.6804H6.40043C5.25043 19.6804 4.32043 18.7504 4.32043 17.6004V16.0404C4.32043 15.4904 4.10043 14.9604 3.71043 14.5704L2.61043 13.4704C1.80043 12.6604 1.80043 11.3404 2.61043 10.5304L3.71043 9.43043C4.10043 9.04043 4.32043 8.51043 4.32043 7.96043V6.40043C4.32043 5.25043 5.25043 4.32043 6.40043 4.32043", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 8.11035V15.8904", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.8904 12H8.11035", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "RaiseExposure__clip0_4482_15547", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var RaiseExposure_default = RaiseExposure;
+export {
+  RaiseExposure_default as default
+};

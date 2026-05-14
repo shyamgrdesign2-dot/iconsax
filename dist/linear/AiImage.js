@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiImage = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiImage__clip0_3111_11753)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 10.34C10.07 10.34 10.94 9.47 10.94 8.4C10.94 7.33 10.07 6.46 9 6.46C7.93 6.46 7.06 7.33 7.06 8.4C7.06 9.47 7.93 10.34 9 10.34Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.91 2.58H9C4.15 2.58 2.21 4.52 2.21 9.37V15.19C2.21 20.04 4.15 21.98 9 21.98H14.82C19.67 21.98 21.62 20.04 21.62 15.19V11.31", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.85 19.03L7.64 15.82C8.41 15.31 9.51 15.36 10.2 15.96L10.52 16.24C11.28 16.89 12.5 16.89 13.26 16.24L17.3 12.77C18.06 12.12 19.28 12.12 20.04 12.77L21.62 14.13", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.71 5.34L20.58 5.6C19.77 5.79 19.15 6.42 18.96 7.22L18.7 8.35C18.67 8.47 18.5 8.47 18.47 8.35L18.21 7.22C18.02 6.41 17.39 5.79 16.59 5.6L15.46 5.34C15.34 5.31 15.34 5.14 15.46 5.11L16.59 4.85C17.4 4.66 18.02 4.03 18.21 3.23L18.47 2.1C18.5 1.98 18.67 1.98 18.7 2.1L18.96 3.23C19.15 4.04 19.78 4.66 20.58 4.85L21.71 5.11C21.83 5.14 21.83 5.31 21.71 5.34Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiImage__clip0_3111_11753", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiImage_default = AiImage;
+export {
+  AiImage_default as default
+};

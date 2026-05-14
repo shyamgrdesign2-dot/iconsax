@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiDataServer = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiDataServer__clip0_3111_14598)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.22 22C2.99 22 2 21.01 2 19.78V18.73C2 18.08 2.53 17.55 3.18 17.55H7.35C7.72 17.55 8.07 17.74 8.27 18.04L8.72 18.72C8.93 19.03 9.27 19.21 9.65 19.21V19.22H14.34C14.71 19.22 15.06 19.03 15.26 18.73L15.71 18.05C15.92 17.74 16.26 17.56 16.63 17.56H20.87C21.48 17.56 21.98 18.06 21.98 18.67V19.78C21.98 21.01 20.98 22 19.76 22L13.5 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.8899 17.56V12.59", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.11011 17.56V5.53C3.11011 4.23 4.16011 3.18 5.46011 3.18H11.3401", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.8801 4.11V8.48", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.1301 8.48L16.0001 4.11L13.8701 8.48", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.4102 7.48H17.6102", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiDataServer__clip0_3111_14598", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiDataServer_default = AiDataServer;
+export {
+  AiDataServer_default as default
+};

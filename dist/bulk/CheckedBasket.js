@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CheckedBasket = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CheckedBasket__clip0_4482_1132)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16 22H8C5.25 22 3 19.75 3 17V12C3 9.25 5.25 7 8 7H16C18.75 7 21 9.25 21 12V17C21 19.75 18.75 22 16 22Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.84 8.75C15.43 8.75 15.09 8.41 15.09 8V5.84C15.09 4.14 13.7099 2.75 11.9999 2.75C10.2899 2.75 8.90991 4.13 8.90991 5.84V8C8.90991 8.41 8.56991 8.75 8.15991 8.75C7.74991 8.75 7.40991 8.41 7.40991 8V5.84C7.40991 3.31 9.46994 1.25 11.9999 1.25C14.5299 1.25 16.59 3.31 16.59 5.84V8C16.59 8.41 16.25 8.75 15.84 8.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.4801 16.7501C11.2801 16.7501 11.0901 16.6701 10.9501 16.5301L9.3801 14.9601C9.0901 14.6701 9.0901 14.1901 9.3801 13.9001C9.6701 13.6101 10.1501 13.6101 10.4401 13.9001L11.4801 14.9401L13.5601 12.8601C13.8501 12.5701 14.3301 12.5701 14.6201 12.8601C14.9101 13.1501 14.9101 13.6301 14.6201 13.9201L12.0101 16.5301C11.8701 16.6701 11.6801 16.7501 11.4801 16.7501Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CheckedBasket__clip0_4482_1132", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CheckedBasket_default = CheckedBasket;
+export {
+  CheckedBasket_default as default
+};

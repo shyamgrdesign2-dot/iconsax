@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AddEffect = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AddEffect__clip0_4482_2060)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.23975 7.91006V6.19006C4.23975 5.13006 5.10974 4.26005 6.16974 4.26005H7.89978C8.28978 4.26005 8.85973 4.05005 9.15973 3.79005L10.7397 2.44006C11.4297 1.85006 12.5598 1.85006 13.2598 2.44006L14.8398 3.80006C15.1398 4.06006 15.6997 4.27006 16.0997 4.27006H17.7997C18.8597 4.27006 19.7297 5.14005 19.7297 6.20005V7.90005C19.7297 8.29005 19.9398 8.86006 20.1998 9.16006L21.5598 10.7401C22.1498 11.4301 22.1498 12.5601 21.5598 13.2601L20.1998 14.8401C19.9398 15.1401 19.7297 15.7001 19.7297 16.1001V17.8001C19.7297 18.8601 18.8597 19.7301 17.7997 19.7301H16.0997C15.7097 19.7301 15.1398 19.9401 14.8398 20.2001L13.2598 21.5601C12.5698 22.1501 11.4397 22.1501 10.7397 21.5601L9.15973 20.2001C8.85973 19.9401 8.29978 19.7301 7.89978 19.7301H6.16974C5.10974 19.7301 4.23975 18.8601 4.23975 17.8001V16.0901C4.23975 15.7001 4.02979 15.1401 3.77979 14.8401L2.42975 13.2501C2.35975 13.1701 2.30977 13.0901 2.25977 13.0001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 12H15", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 15V9", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AddEffect__clip0_4482_2060", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AddEffect_default = AddEffect;
+export {
+  AddEffect_default as default
+};

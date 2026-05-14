@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ThrowingKnife35 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ThrowingKnife35__clip0_2085_390179)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.45996 6.70996L6.70996 9.50996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.65 11.0205L10.98 13.6905", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.4999 12.2501C17.6399 12.8301 17.4599 13.4401 17.0299 13.8501L13.6599 17.1301C13.3099 17.4501 12.8199 17.5801 12.3499 17.4701L10.7299 17.1001C9.83992 16.9001 9.01992 16.4501 8.37992 15.8001L4.42992 11.8501C4.32992 11.7501 4.17992 11.7001 4.03992 11.7401C3.48992 11.8701 2.89992 11.7201 2.46992 11.2901C1.81992 10.6401 1.81992 9.57012 2.46992 8.92012L8.89992 2.49012C9.55992 1.83012 10.6199 1.83012 11.2699 2.49012C11.6899 2.91012 11.8399 3.51012 11.7199 4.05012C11.6899 4.19012 11.7299 4.34012 11.8299 4.44012L15.8499 8.48012C16.4399 9.07012 16.8699 9.81012 17.0899 10.6201L17.4699 12.2401L17.4999 12.2501Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.32 15.9102C19.9 16.8702 20.91 18.6502 21.84 20.2802C22.42 21.3002 21.28 22.4202 20.27 21.8402C18.66 20.9202 16.93 19.9102 15.97 19.3402", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ThrowingKnife35__clip0_2085_390179", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ThrowingKnife35_default = ThrowingKnife35;
+export {
+  ThrowingKnife35_default as default
+};

@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Gitlab2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Gitlab2__clip0_4482_11634)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M8.23973 9.66023H3.21973L5.33973 3.33023C5.45973 2.96023 6.00973 2.96023 6.12973 3.33023L8.23973 9.66023Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M20.7798 9.66023H15.7598L17.8698 3.33023C17.9898 2.96023 18.5398 2.96023 18.6598 3.33023L20.7798 9.66023Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9598 13.2002L20.8698 9.94016L20.7798 9.66016H17.0498C17.0498 9.66016 17.0198 9.66016 16.9998 9.66016H6.99978C6.99978 9.66016 6.96978 9.66016 6.94978 9.66016H3.21978L3.12978 9.94016L2.03978 13.2002C1.92978 13.5402 2.03978 13.9002 2.33978 14.1102L11.9998 20.9502L8.72978 11.1502H15.2598L11.9898 20.9502L21.6498 14.1102C21.9398 13.9002 22.0598 13.5402 21.9498 13.2002H21.9598Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Gitlab2__clip0_4482_11634", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Gitlab2_default = Gitlab2;
+export {
+  Gitlab2_default as default
+};

@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CloudCreated = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CloudCreated__clip0_4482_12338)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.66992 15.6104H14.7799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7803 15.6101C16.3103 15.6101 17.5603 14.3701 17.5603 12.8301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.6702 11.1699C7.4402 11.1699 6.4502 12.1599 6.4502 13.3899C6.4502 14.6199 7.4402 15.6099 8.6702 15.6099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9999 7.83008C10.1599 7.83008 8.66992 9.32008 8.66992 11.1601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.1396 10.0898C16.5196 10.2698 17.5496 11.4398 17.5596 12.8298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 7.83008C13.42 7.83008 14.69 8.74008 15.14 10.0901", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.4404 4.27965L19.7704 5.60965L21.9904 3.38965", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.05957 7.51C4.69957 4.24 8.08957 2 11.9996 2C12.9996 2 13.9896 2.16 14.9396 2.46", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.54 9.05957C21.84 10.0096 22 10.9996 22 11.9996C22 17.5196 17.52 21.9996 12 21.9996C6.48 21.9996 2 17.5196 2 11.9996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CloudCreated__clip0_4482_12338", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CloudCreated_default = CloudCreated;
+export {
+  CloudCreated_default as default
+};

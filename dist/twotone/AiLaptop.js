@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiLaptop = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiLaptop__clip0_3111_17170)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M20.8602 6.45L19.5202 6.76C18.5602 6.98 17.8102 7.72999 17.5902 8.68999L17.2802 10.03C17.2502 10.17 17.0402 10.17 17.0102 10.03L16.7002 8.68999C16.4802 7.72999 15.7302 6.98 14.7702 6.76L13.4302 6.45C13.2902 6.42 13.2902 6.21 13.4302 6.18L14.7702 5.87C15.7302 5.65 16.4802 4.9 16.7002 3.94L17.0102 2.6C17.0402 2.46 17.2502 2.46 17.2802 2.6L17.5902 3.94C17.8102 4.9 18.5602 5.65 19.5202 5.87L20.8602 6.18C21.0002 6.21 21.0002 6.42 20.8602 6.45Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.32 14.11H4.63005C3.76005 14.11 3.05005 13.4 3.05005 12.53V4.62999C3.05005 3.46999 3.99005 2.51999 5.16005 2.51999H10.42", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.8401 21.47H4.11009C3.45009 21.47 2.83009 21.16 2.43009 20.63C2.03009 20.1 1.91009 19.42 2.09009 18.78L3.21009 14.86C3.34009 14.41 3.75009 14.1 4.22009 14.1H18.7401C19.2101 14.1 19.6201 14.41 19.7501 14.86L20.8701 18.78C21.0501 19.42 20.9201 20.1 20.5301 20.63C20.1301 21.16 19.5101 21.47 18.8501 21.47H18.8401Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M5.9502 18.32H17.0002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiLaptop__clip0_3111_17170", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiLaptop_default = AiLaptop;
+export {
+  AiLaptop_default as default
+};

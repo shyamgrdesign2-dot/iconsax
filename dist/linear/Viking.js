@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Viking = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Viking__clip0_2085_387123)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.56 17.1599H18.51C19.06 17.1599 19.51 16.7099 19.51 16.1599V15.6699C19.51 15.1199 19.06 14.6699 18.51 14.6699H13.56", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.44 14.6699H5.48999C4.93999 14.6699 4.48999 15.1199 4.48999 15.6699V16.1599C4.48999 16.7099 4.93999 17.1599 5.48999 17.1599H10.44", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.44 5.91016C7.73001 6.60016 5.73001 9.06016 5.73001 11.9802V14.6702", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.56 5.91016C16.27 6.60016 18.27 9.06016 18.27 11.9802V14.6702", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.71 8.62973C3.58 8.77973 2.45 4.85973 3.48 3.71973C1.48 5.82973 1.51 9.16973 3.58 11.2397C4.21 11.8697 4.95 12.2997 5.74 12.5597", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.29 8.62973C20.42 8.77973 21.55 4.85973 20.52 3.71973C22.52 5.82973 22.49 9.16973 20.42 11.2397C19.8 11.8697 19.05 12.2997 18.27 12.5597", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.56 4.46973H11.45C10.9 4.46973 10.45 4.91973 10.45 5.46973V19.0297L12.01 20.2697L13.57 19.0297V5.46973C13.57 4.91973 13.12 4.46973 12.57 4.46973H12.56Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Viking__clip0_2085_387123", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Viking_default = Viking;
+export {
+  Viking_default as default
+};

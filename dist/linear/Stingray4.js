@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Stingray4 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Stingray4__clip0_2085_390919)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.38 6.02039C11.38 6.36039 11.1 6.64039 10.76 6.64039C10.42 6.64039 10.14 6.36039 10.14 6.02039C10.14 5.68039 10.42 5.40039 10.76 5.40039C11.1 5.40039 11.38 5.68039 11.38 6.02039Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.86 6.02039C13.86 6.36039 13.58 6.64039 13.24 6.64039C12.9 6.64039 12.62 6.36039 12.62 6.02039C12.62 5.68039 12.9 5.40039 13.24 5.40039C13.58 5.40039 13.86 5.68039 13.86 6.02039Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 16.9902V20.4602C12 21.3102 11.31 22.0002 10.46 22.0002C9.60999 22.0002 8.91999 21.3102 8.91999 20.4602V19.2502C8.91999 18.4002 8.22999 17.7102 7.37999 17.7102H6.17999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.41 15.2696L9.56001 15.5096C8.86001 15.6996 8.13001 15.3396 7.86001 14.6796L6.71001 11.8496", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.59 15.2696L14.44 15.5096C15.13 15.6996 15.87 15.3396 16.14 14.6796L17.29 11.8496", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.02 11.6704C3.79 11.4304 5.96 11.4404 7.76 12.1604C9.23 12.7504 10.28 14.1004 10.5 15.6704C10.55 16.0504 10.74 16.3804 11.01 16.6104C11.28 16.8404 11.63 16.9804 12.01 16.9804C12.39 16.9804 12.74 16.8404 13.01 16.6104C13.28 16.3804 13.47 16.0504 13.52 15.6704C13.74 14.1004 14.79 12.7604 16.26 12.1704C18.06 11.4404 20.23 11.4404 22 11.6804C21.71 11.1904 21.34 10.7304 20.96 10.2704C20.09 9.27035 19.18 8.40035 18.01 7.74035C17.26 7.33035 16.51 6.96035 15.73 6.72035C15.67 4.71035 14.02 3.11035 12 3.11035C9.98 3.11035 8.33 4.72035 8.27 6.72035C7.49 6.96035 6.74 7.33035 5.99 7.74035C4.83 8.40035 3.92 9.28035 3.04 10.2704C2.67 10.7304 2.29 11.1804 2 11.6804M2 11.6804C2.13 11.6604 2.13 11.6204 2.09 11.6204C2.07 11.6204 2.03 11.6404 2 11.6804Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.75 3.32V2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.24 3.32V2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Stingray4__clip0_2085_390919", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Stingray4_default = Stingray4;
+export {
+  Stingray4_default as default
+};

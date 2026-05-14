@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Skiing = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Skiing__clip0_2085_389793)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.31 17.5898L5.05003 21.9498C4.28003 22.1598 3.49003 21.6998 3.28003 20.9298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.68994 9.68996C9.41994 9.20996 17.5999 7.76996 17.5999 2.95996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.41992 9.20996C9.41992 9.20996 9.89992 11.13 10.3799 12.1", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.27 11.6201C7.65001 14.0001 6.21001 13.2801 8.87001 19.6801L7.01001 20.1801", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.8201 8.25C13.2601 12.58 15.7101 15.02 19.0801 16.94L17.2201 17.44", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.82 3.92C11.82 4.98 10.96 5.84 9.89998 5.84C8.83998 5.84 7.97998 4.98 7.97998 3.92C7.97998 2.86 8.83998 2 9.89998 2C10.96 2 11.82 2.86 11.82 3.92Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Skiing__clip0_2085_389793", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Skiing_default = Skiing;
+export {
+  Skiing_default as default
+};

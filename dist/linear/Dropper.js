@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Dropper = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Dropper__clip0_2085_382275)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.94 2.53999C21.29 2.88999 21.48 3.35999 21.48 3.84999C21.48 4.33999 21.28 4.80999 20.94 5.15999L18.05 8.04999L15.43 5.42999L18.3 2.54999C18.47 2.36999 18.68 2.23999 18.9 2.13999C19.13 2.03999 19.37 1.98999 19.61 1.98999C19.86 1.98999 20.1 2.03999 20.33 2.12999C20.56 2.21999 20.76 2.35999 20.94 2.52999V2.53999Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.09 11.2799L12.21 7.3999L3.21 16.3899V16.4899C3.28 16.8999 3.25 17.3299 3.13 17.7299C3 18.1299 2.78 18.4899 2.49 18.7899C2.22 19.0499 2.05 19.3999 2.01 19.7799C1.97 20.1499 2.07 20.5299 2.28 20.8399C2.41 21.0199 2.58 21.1699 2.78 21.2799C2.98 21.3899 3.19 21.4599 3.42 21.4699C3.64 21.4899 3.87 21.4599 4.08 21.3799C4.29 21.2999 4.48 21.1799 4.64 21.0199C4.94 20.7199 5.36 20.4999 5.76 20.3699C6.16 20.2399 6.58 20.2099 7 20.2799H7.1L16.09 11.2599V11.2799Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.46 9.46003L14.03 4.03003L11.44 6.62003L16.87 12.05L19.46 9.46003Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Dropper__clip0_2085_382275", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Dropper_default = Dropper;
+export {
+  Dropper_default as default
+};

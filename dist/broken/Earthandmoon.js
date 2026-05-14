@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Earthandmoon = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Earthandmoon__clip0_4482_7102)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.5 22C9.21 22 6.31001 20.33 4.60001 17.78H8.22C9.2 17.78 10 16.98 10 16C10 15.02 9.2 14.22 8.22 14.22H3.16C3.05 13.66 3 13.09 3 12.5C3 11.1 3.3 9.78 3.84 8.58C4.33 8.85 4.9 9 5.5 9C7.43 9 9 7.43 9 5.5C9 4.9 8.84999 4.33 8.57999 3.84C9.77999 3.3 11.1 3 12.5 3C15.06 3 17.39 4.01 19.1 5.67H17.11C16.25 5.67 15.56 6.36 15.56 7.22C15.56 8.08 16.25 8.78 17.11 8.78C17.97 8.78 18.67 9.47 18.67 10.33C18.67 11.19 17.97 11.89 17.11 11.89H15.56C14.7 11.89 14 12.59 14 13.44C14 14.3 14.7 15 15.56 15H21.66C21.08 17.15 19.77 18.99 18 20.25", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 5.5C9 7.43 7.43 9 5.5 9C4.9 9 4.33 8.85 3.84 8.58C2.74 7.98 2 6.83 2 5.5C2 3.57 3.57 2 5.5 2C6.83 2 7.97999 2.74 8.57999 3.84C8.84999 4.33 9 4.9 9 5.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.0002 15.9997C10.0002 16.9797 9.20015 17.7797 8.22015 17.7797H4.60016C3.89016 16.7297 3.39016 15.5197 3.16016 14.2197H8.22015C9.20015 14.2197 10.0002 15.0197 10.0002 15.9997Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 12.4999C22 13.3699 21.88 14.2099 21.66 14.9999H15.56C14.7 14.9999 14 14.2999 14 13.4399C14 12.5899 14.7 11.8899 15.56 11.8899H17.11C17.97 11.8899 18.67 11.1899 18.67 10.3299C18.67 9.46993 17.97 8.77992 17.11 8.77992C16.25 8.77992 15.56 8.07992 15.56 7.21992C15.56 6.35992 16.25 5.66992 17.11 5.66992H19.1C20.89 7.38992 22 9.81992 22 12.4999Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Earthandmoon__clip0_4482_7102", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Earthandmoon_default = Earthandmoon;
+export {
+  Earthandmoon_default as default
+};

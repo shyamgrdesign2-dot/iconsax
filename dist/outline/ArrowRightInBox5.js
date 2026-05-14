@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ArrowRightInBox5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ArrowRightInBox5__clip0_2085_390796)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.0102 22.8598C9.79019 22.8598 9.57019 22.7798 9.40019 22.6098C9.07019 22.2798 9.06019 21.7298 9.40019 21.3998L18.7802 11.9998L9.41019 2.60984C9.08019 2.27984 9.08019 1.72984 9.41019 1.39984C9.74019 1.06984 10.2902 1.06984 10.6202 1.39984L20.0702 10.8598C20.2102 10.9898 20.3302 11.1698 20.4202 11.3698C20.5102 11.5698 20.5502 11.7898 20.5502 12.0098C20.5502 12.2298 20.5002 12.4498 20.4202 12.6398C20.3302 12.8398 20.2102 13.0198 20.0502 13.1698L10.6202 22.6098C10.4502 22.7798 10.2302 22.8598 10.0102 22.8598Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.3102 22.8606C3.8402 22.8606 3.4502 22.4806 3.4502 22.0006V2.00063C3.4502 1.53063 3.8302 1.14062 4.3102 1.14062C4.7902 1.14062 5.1702 1.52063 5.1702 2.00063V22.0006C5.1702 22.4706 4.7902 22.8606 4.3102 22.8606Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ArrowRightInBox5__clip0_2085_390796", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ArrowRightInBox5_default = ArrowRightInBox5;
+export {
+  ArrowRightInBox5_default as default
+};

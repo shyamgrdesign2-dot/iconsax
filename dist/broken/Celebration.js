@@ -1,0 +1,68 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Celebration = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Celebration__clip0_2085_385531)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5601 11.6502C17.2601 11.1802 18.1001 10.9302 18.9501 10.9302C20.0901 10.9302 21.1901 11.3802 22.0001 12.1902", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.1398 7.72C12.3798 7.41 12.5898 7.07 12.7398 6.7C12.9598 6.18 13.0698 5.62 13.0698 5.05C13.0698 4.48 12.9598 3.92 12.7398 3.4C12.5198 2.88 12.2098 2.4 11.7998 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2798 8.74021L20.3298 7.72021", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.25 6.71016L16.27 3.66016", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.49023 5.70996C8.55023 5.70996 8.60023 5.72996 8.64023 5.76996C8.68023 5.80996 8.70023 5.86996 8.70023 5.91996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27002 5.93021C8.27002 5.87021 8.29002 5.82022 8.33002 5.78022C8.37002 5.74022 8.43002 5.72021 8.48002 5.72021", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.48979 6.14994C8.42979 6.14994 8.37979 6.12994 8.33979 6.08994C8.29979 6.04994 8.27979 5.98994 8.27979 5.93994", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.71 5.93018C8.71 5.99018 8.69 6.04018 8.65 6.08018C8.61 6.12018 8.55 6.14018 8.5 6.14018", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.0098 8.31982C15.0698 8.31982 15.1198 8.33982 15.1598 8.37982C15.1998 8.41982 15.2198 8.47982 15.2198 8.52982", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7998 8.54008C14.7998 8.48008 14.8198 8.43008 14.8598 8.39008C14.8998 8.35008 14.9598 8.33008 15.0098 8.33008", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.0098 8.7598C14.9498 8.7598 14.8998 8.7398 14.8598 8.6998C14.8198 8.6598 14.7998 8.5998 14.7998 8.5498", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.23 8.54004C15.23 8.60004 15.21 8.65004 15.17 8.69004C15.13 8.73004 15.07 8.75004 15.02 8.75004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.4902 13.54C18.5502 13.54 18.6002 13.56 18.6402 13.6C18.6802 13.64 18.7002 13.7 18.7002 13.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.27 13.7598C18.27 13.6998 18.29 13.6498 18.33 13.6098C18.37 13.5698 18.43 13.5498 18.48 13.5498", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.4898 13.9698C18.4298 13.9698 18.3798 13.9498 18.3398 13.9098C18.2998 13.8698 18.2798 13.8098 18.2798 13.7598", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.71 13.7598C18.71 13.8198 18.69 13.8698 18.65 13.9098C18.61 13.9498 18.55 13.9698 18.5 13.9698", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.9302 4.83984C18.9902 4.83984 19.0402 4.85984 19.0802 4.89984C19.1202 4.93984 19.1402 4.99984 19.1402 5.04984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.71 5.0601C18.71 5.0001 18.73 4.9501 18.77 4.9101C18.81 4.8701 18.87 4.8501 18.92 4.8501", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.9302 5.27982C18.8702 5.27982 18.8202 5.25982 18.7802 5.21982C18.7402 5.17982 18.7202 5.11982 18.7202 5.06982", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.1402 5.06006C19.1402 5.12006 19.1202 5.17006 19.0802 5.21006C19.0402 5.25006 18.9802 5.27006 18.9302 5.27006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.72996 21.86C3.50996 21.98 3.24996 22.02 2.99996 21.99C2.74996 21.95 2.51996 21.84 2.33996 21.66C2.15996 21.48 2.04996 21.25 2.00996 21C1.96996 20.75 2.00996 20.5 2.13996 20.27L7.77653 9.71582", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.08008 20.0698L14.3507 16.1826", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.0299 13.97C10.4799 14.42 10.9599 14.83 11.4499 15.17C11.9399 15.51 12.4399 15.78 12.8999 15.96C13.3599 16.14 13.7899 16.22 14.1499 16.21C14.5099 16.2 14.7999 16.08 15.0099 15.88C15.2099 15.68 15.3299 15.38 15.3399 15.02C15.3499 14.66 15.2699 14.23 15.0899 13.77C14.9099 13.31 14.6499 12.81 14.2999 12.32C13.9599 11.83 13.5499 11.34 13.0999 10.9C12.6499 10.45 12.1699 10.04 11.6799 9.70001C11.1899 9.36001 10.6999 9.09001 10.2299 8.91001C9.76989 8.73001 9.33989 8.65001 8.97989 8.66001C8.61989 8.67001 8.32989 8.79001 8.11989 8.99001C7.90989 9.19001 7.79989 9.49001 7.78989 9.85001C7.77989 10.21 7.85989 10.64 8.03989 11.1C8.21989 11.56 8.47989 12.06 8.82989 12.55C9.16989 13.04 9.57989 13.53 10.0299 13.97Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Celebration__clip0_2085_385531", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Celebration_default = Celebration;
+export {
+  Celebration_default as default
+};

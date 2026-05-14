@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ShapesForms = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ShapesForms__clip0_4482_8007)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M5.32969 14.08L2.46969 16.11C2.06969 16.4 1.89969 16.91 2.05969 17.38L3.13969 20.61C3.28969 21.07 3.71969 21.38 4.19969 21.38H7.76969C8.24969 21.38 8.67969 21.07 8.82969 20.61L9.90969 17.38C10.0697 16.91 9.89969 16.4 9.49969 16.11L6.63969 14.08C6.24969 13.8 5.72969 13.8 5.33969 14.08H5.32969Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.57 2.62H8.39C8.98 2.62 9.46 3.1 9.46 3.69V8.51C9.46 9.1 8.98 9.58 8.39 9.58H3.57C2.98 9.58 2.5 9.1 2.5 8.51V3.7C2.5 3.11 2.98 2.63 3.57 2.63V2.62Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.9697 13.88C15.8997 13.88 14.2197 15.56 14.2197 17.63C14.2197 19.7 15.8997 21.38 17.9697 21.38C20.0397 21.38 21.7197 19.7 21.7197 17.63C21.7197 15.56 20.0397 13.88 17.9697 13.88Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16.8698 3.23995L14.1398 7.60995C13.5998 8.46995 14.2198 9.59995 15.2398 9.59995H20.6998C21.7198 9.59995 22.3398 8.47995 21.7998 7.60995L19.0698 3.23995C18.5598 2.42995 17.3798 2.42995 16.8698 3.23995Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ShapesForms__clip0_4482_8007", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ShapesForms_default = ShapesForms;
+export {
+  ShapesForms_default as default
+};

@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cryptosecurity = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cryptosecurity__clip0_4482_4012)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.91 11.1203C20.91 16.0103 17.36 20.5903 12.51 21.9303C12.18 22.0203 11.82 22.0203 11.49 21.9303C6.64 20.5903 3.09 16.0103 3.09 11.1203V6.73031C3.09 5.91031 3.71 4.98031 4.48 4.67031L10.05 2.39031C11.3 1.88031 12.71 1.88031 13.96 2.39031L19.53 4.67031C20.29 4.98031 20.92 5.91031 20.92 6.73031L20.91 11.1203Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 8.25H13.38C14.35 8.25 15.13 9.13 15.13 10C15.13 10.97 14.35 11.75 13.38 11.75H9V8.25Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 11.75H14C15.1 11.75 16 12.53 16 13.5C16 14.47 15.1 15.25 14 15.25H9V11.75Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.8 15.25V17", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.8 6.5V8.25", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cryptosecurity__clip0_4482_4012", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cryptosecurity_default = Cryptosecurity;
+export {
+  Cryptosecurity_default as default
+};

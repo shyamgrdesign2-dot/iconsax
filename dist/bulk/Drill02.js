@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Drill02 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Drill02__clip0_4482_8994)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M11.4696 10.95L9.35961 17.26H4.09961L6.20961 10.95H11.4696Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.47 18.84V19.89C11.47 20.76 10.76 21.47 9.89 21.47H3.58C2.71 21.47 2 20.76 2 19.89V18.84C2 17.96 2.71 17.26 3.58 17.26H9.89C10.76 17.26 11.47 17.96 11.47 18.84Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.47 2.53003V10.95H6.21C3.88 10.95 2 9.06003 2 6.74003C2 4.42003 3.88 2.53003 6.21 2.53003H11.47Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16.7197 4.89003V8.60003C16.7197 9.39003 16.2697 10.12 15.5597 10.48L15.0597 10.73C14.7697 10.87 14.4497 10.95 14.1197 10.95H11.4697V2.53003H14.1197C14.4497 2.53003 14.7697 2.61003 15.0597 2.76003L15.5597 3.00003C16.2697 3.36003 16.7197 4.09003 16.7197 4.89003Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.6697 7.47991L21.1497 8.00991C20.9497 8.20991 20.6797 8.31991 20.4097 8.31991H16.7197V5.15991H20.4097C20.6797 5.15991 20.9497 5.26991 21.1497 5.46991L21.6697 5.99991C22.0897 6.40991 22.0897 7.06991 21.6697 7.47991Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Drill02__clip0_4482_8994", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Drill02_default = Drill02;
+export {
+  Drill02_default as default
+};

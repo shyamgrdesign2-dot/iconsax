@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Earrings11 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Earrings11__clip0_2085_392317)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.51027 4.49L8.02027 2.5C7.79027 2.2 7.43027 2 7.02027 2C6.33027 2 5.78027 2.56 5.78027 3.24C5.78027 3.72 6.05027 4.13 6.45027 4.34C6.83027 4.54 7.03027 4.96 7.03027 5.39V7.02", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.3501 17.78C3.8201 15.6 7.0201 12 7.0201 12C7.0201 12 10.7601 16.2 10.7601 18.27C10.7601 20.34 9.0801 22 7.0201 22C6.5101 22 6.0301 21.9 5.5901 21.72", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27004 18.2702C8.27004 18.9602 7.71004 19.5102 7.03004 19.5102C6.35004 19.5102 5.79004 18.9502 5.79004 18.2702C5.79004 17.5902 7.03004 15.7402 7.03004 15.7402C7.03004 15.7402 8.27004 17.5802 8.27004 18.2702Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27004 10.7598C8.27004 11.4498 7.71004 11.9998 7.03004 11.9998C6.35004 11.9998 5.79004 11.4398 5.79004 10.7598C5.79004 10.0798 6.35004 9.50977 7.03004 9.50977C7.71004 9.50977 8.27004 10.0698 8.27004 10.7598Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.27004 8.27027C8.27004 8.96027 7.71004 9.51027 7.03004 9.51027C6.35004 9.51027 5.79004 8.95027 5.79004 8.27027C5.79004 7.59027 6.35004 7.03027 7.03004 7.03027C7.71004 7.03027 8.27004 7.59027 8.27004 8.27027Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.4702 4.49L17.9802 2.5C17.7502 2.2 17.3902 2 16.9802 2C16.2902 2 15.7402 2.56 15.7402 3.24C15.7402 3.72 16.0102 4.13 16.4102 4.34C16.7902 4.54 16.9902 4.96 16.9902 5.39V7.02", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.71 18.27C20.71 20.33 19.04 22 16.98 22C14.92 22 13.25 20.33 13.25 18.27C13.25 16.21 16.98 12 16.98 12C16.98 12 20.71 16.2 20.71 18.27Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.2202 18.2702C18.2202 18.9602 17.6602 19.5102 16.9802 19.5102C16.3002 19.5102 15.7402 18.9502 15.7402 18.2702C15.7402 17.5902 16.9802 15.7402 16.9802 15.7402C16.9802 15.7402 18.2202 17.5802 18.2202 18.2702Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.2202 10.7598C18.2202 11.4498 17.6602 11.9998 16.9802 11.9998C16.3002 11.9998 15.7402 11.4398 15.7402 10.7598C15.7402 10.0798 16.3002 9.50977 16.9802 9.50977C17.6602 9.50977 18.2202 10.0698 18.2202 10.7598Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.2202 8.27027C18.2202 8.96027 17.6602 9.51027 16.9802 9.51027C16.3002 9.51027 15.7402 8.95027 15.7402 8.27027C15.7402 7.59027 16.3002 7.03027 16.9802 7.03027C17.6602 7.03027 18.2202 7.59027 18.2202 8.27027Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Earrings11__clip0_2085_392317", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Earrings11_default = Earrings11;
+export {
+  Earrings11_default as default
+};

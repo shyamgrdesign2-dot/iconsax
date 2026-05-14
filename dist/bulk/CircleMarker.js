@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CircleMarker = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CircleMarker__clip0_4482_981)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.24 8.16978L16.64 12.7698L11.25 7.37979L15.85 2.77979C18.28 3.78979 20.23 5.72978 21.24 8.16978Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.64 12.7799L15.12 12.8599C13.94 12.9199 12.82 13.4499 12.02 14.3199L9.71997 11.9999C10.59 11.1999 11.12 10.0899 11.18 8.89988L11.26 7.37988", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7 14.7198L9.71997 12.0098L12.02 14.3098L10.44 15.8898L7 14.7198Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 22.75C6.07 22.75 1.25 17.93 1.25 12C1.25 6.07 6.07 1.25 12 1.25C13.46 1.25 14.86 1.53 16.15 2.09C18.75 3.17 20.86 5.28 21.94 7.88C22.48 9.18 22.76 10.57 22.76 12C22.75 17.93 17.93 22.75 12 22.75ZM12 2.75C6.9 2.75 2.75 6.9 2.75 12C2.75 17.1 6.9 21.25 12 21.25C17.1 21.25 21.25 17.1 21.25 12C21.25 10.77 21.01 9.58 20.55 8.46C19.62 6.22 17.81 4.41 15.56 3.47C14.45 2.99 13.25 2.75 12 2.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CircleMarker__clip0_4482_981", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CircleMarker_default = CircleMarker;
+export {
+  CircleMarker_default as default
+};

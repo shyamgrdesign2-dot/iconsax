@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Shake = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Shake__clip0_4482_2127)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20 17.5C20 19.98 17.97 22 15.5 22H8.5C6.03 22 4 19.98 4 17.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4 6.5C4 4.02 6.03 2 8.5 2H15.5C17.97 2 20 4.02 20 6.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10 6H14", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.60986 9L4.18988 10.16C4.29988 10.37 4.29988 10.62 4.18988 10.83L3.77991 11.66C3.66991 11.87 3.66991 12.12 3.77991 12.33L4.18988 13.16C4.29988 13.37 4.29988 13.62 4.18988 13.83L3.60986 14.99", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.3901 9L19.81 10.16C19.7 10.37 19.7 10.62 19.81 10.83L20.22 11.66C20.33 11.87 20.33 12.12 20.22 12.33L19.81 13.16C19.7 13.37 19.7 13.62 19.81 13.83L20.3901 14.99", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.99 18H12.01", stroke: "currentColor", strokeWidth: "2.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Shake__clip0_4482_2127", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Shake_default = Shake;
+export {
+  Shake_default as default
+};

@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const OilTank = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#OilTank__clip0_4482_5787)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 10.5195L17.8 18.3995C17.11 19.7095 15.75 20.5295 14.26 20.5295H5.14999C3.39999 20.5295 1.98999 19.1095 1.98999 17.3695V11.6795C1.98999 9.93953 3.39999 8.51953 5.14999 8.51953H11.16C11.7 8.51953 12.2 8.73953 12.58 9.10953L15.01 11.5396C15.61 12.1396 16.49 12.3495 17.3 12.0895L22 10.5195Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", fillRule: "evenodd", clipRule: "evenodd", d: "M4.83008 2.4707C4.83008 2.05649 5.16586 1.7207 5.58008 1.7207H8H10.4201C10.8343 1.7207 11.1701 2.05649 11.1701 2.4707C11.1701 2.88492 10.8343 3.2207 10.4201 3.2207H8.75V4.96094H10.1599C10.5742 4.96094 10.9099 5.29672 10.9099 5.71094V8.52094C10.9099 8.93515 10.5742 9.27094 10.1599 9.27094H5.94995C5.53574 9.27094 5.19995 8.93515 5.19995 8.52094V5.71094C5.19995 5.29672 5.53574 4.96094 5.94995 4.96094H7.25V3.2207H5.58008C5.16586 3.2207 4.83008 2.88492 4.83008 2.4707ZM6.69995 7.77094V6.46094H9.40994V7.77094H6.69995Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "OilTank__clip0_4482_5787", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var OilTank_default = OilTank;
+export {
+  OilTank_default as default
+};

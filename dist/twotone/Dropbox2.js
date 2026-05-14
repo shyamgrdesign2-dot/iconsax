@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Dropbox2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Dropbox2__clip0_4482_11691)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.6 15.8003V17.7003C17.6 18.1003 17.4 18.4003 17.1 18.6003L13.2 21.0003C12.5 21.4003 11.6 21.4003 10.9 21.0003L7 18.6003C6.7 18.4003 6.5 18.0003 6.5 17.7003V15.8003", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.3996 9.20029L11.9996 12.7003L6.59961 9.20029L11.9996 5.80029L17.3996 9.20029Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.3998 9.2002L21.4998 11.8002C22.0998 12.2002 22.0998 13.1002 21.4998 13.5002L18.4998 15.4002C17.7998 15.8002 16.9998 15.8002 16.3998 15.4002L11.9998 12.7002L7.5998 15.5002C6.8998 15.9002 6.0998 15.9002 5.4998 15.5002L2.4998 13.6002C1.8998 13.2002 1.8998 12.3002 2.4998 11.9002L6.5998 9.3002L2.4998 6.6002C1.8998 6.2002 1.8998 5.3002 2.4998 4.9002L5.4998 3.0002C6.1998 2.6002 6.9998 2.6002 7.5998 3.0002L11.9998 5.8002L16.3998 3.0002C17.0998 2.6002 17.8998 2.6002 18.4998 3.0002L21.4998 4.9002C22.0998 5.3002 22.0998 6.2002 21.4998 6.6002L17.3998 9.2002Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Dropbox2__clip0_4482_11691", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Dropbox2_default = Dropbox2;
+export {
+  Dropbox2_default as default
+};

@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareMaximize = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareMaximize__clip0_4482_1289)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.25 2 2 4.25 2 7V17C2 19.75 4.25 22 7 22H17C19.75 22 22 19.75 22 17V7C22 4.25 19.75 2 17 2ZM9.53003 13.47C9.82003 13.76 9.82003 14.24 9.53003 14.53C9.38003 14.68 9.19 14.75 9 14.75C8.81 14.75 8.61997 14.68 8.46997 14.53L6.46997 12.53C6.17997 12.24 6.17997 11.76 6.46997 11.47L8.46997 9.47C8.75997 9.18 9.24003 9.18 9.53003 9.47C9.82003 9.76 9.82003 10.24 9.53003 10.53L8.06006 12L9.53003 13.47ZM17.53 12.53L15.53 14.53C15.38 14.68 15.19 14.75 15 14.75C14.81 14.75 14.62 14.68 14.47 14.53C14.18 14.24 14.18 13.76 14.47 13.47L15.9399 12L14.47 10.53C14.18 10.24 14.18 9.76 14.47 9.47C14.76 9.18 15.24 9.18 15.53 9.47L17.53 11.47C17.82 11.76 17.82 12.24 17.53 12.53Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareMaximize__clip0_4482_1289", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareMaximize_default = SquareMaximize;
+export {
+  SquareMaximize_default as default
+};

@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HeartProtect = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HeartProtect__clip0_4482_8685)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.3697 2H7.47969C4.41969 2 1.92969 4.49 1.92969 7.56V11.13C1.92969 16.36 5.61969 20.87 10.7497 21.89C11.5297 22.05 12.3297 22.05 13.0997 21.89C18.2297 20.86 21.9197 16.36 21.9197 11.13V7.56C21.9197 4.49 19.4297 2 16.3597 2H16.3697ZM11.9997 15C11.0097 15 6.99969 12.53 6.99969 9.31C6.99969 7.77 8.17969 6.11 9.94969 6.11C10.9597 6.11 11.6197 6.61 11.9997 7.06C12.3797 6.61 13.0397 6.11 14.0497 6.11C15.8097 6.11 16.9997 7.77 16.9997 9.31C16.9997 12.53 12.9897 15 11.9997 15Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HeartProtect__clip0_4482_8685", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HeartProtect_default = HeartProtect;
+export {
+  HeartProtect_default as default
+};

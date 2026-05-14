@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Icon3dVideo2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Icon3dVideo2__clip0_2085_381231)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.06982 15.8502V9.12023C9.06982 9.01023 9.09982 8.90023 9.15982 8.80023C9.21982 8.70023 9.29982 8.62023 9.39982 8.57023C9.49982 8.51023 9.60982 8.49023 9.71982 8.49023C9.82982 8.49023 9.93982 8.52023 10.0398 8.58023L15.8098 11.9302C15.9098 11.9902 15.9898 12.0702 16.0398 12.1602C16.0998 12.2602 16.1298 12.3702 16.1298 12.4802C16.1298 12.5902 16.0998 12.7002 16.0398 12.8002C15.9798 12.9002 15.8998 12.9802 15.8098 13.0302L10.0398 16.4002C9.93982 16.4602 9.82982 16.4902 9.71982 16.4902C9.60982 16.4902 9.49982 16.4602 9.39982 16.4102C9.29982 16.3502 9.21982 16.2702 9.15982 16.1802C9.09982 16.0802 9.06982 15.9702 9.06982 15.8602V15.8502Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.34 20.2798V7.52982C20.99 7.02982 22 6.35982 22 5.61982C22 4.06982 17.52 2.81982 12 2.81982C6.48 2.81982 2 4.06982 2 5.61982C2 6.35982 3.01 7.02982 4.66 7.52982V20.2798", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.98 20.9499C19.52 20.5199 22 19.5299 22 18.3799V5.66992", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 5.6499V18.3799C2 19.9299 6.48 21.1799 12 21.1799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9998 11.8999C21.9998 12.6399 20.9898 13.3199 19.3398 13.8299", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.48992 16.1001C5.81992 16.2201 5.20992 16.3701 4.66992 16.5301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5098 16.1001C18.1798 16.2201 18.7898 16.3701 19.3298 16.5301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.4502 3.14014V5.65014", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5498 3.14014V5.65014", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 11.8999C2 12.6399 3.01 13.3199 4.67 13.8299", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Icon3dVideo2__clip0_2085_381231", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Icon3dVideo2_default = Icon3dVideo2;
+export {
+  Icon3dVideo2_default as default
+};

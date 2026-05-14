@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ComputerStation2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ComputerStation2__clip0_4482_14855)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.88986 22.0004C7.42521 22.0004 8.66986 20.7558 8.66986 19.2204C8.66986 17.6851 7.42521 16.4404 5.88986 16.4404C4.35451 16.4404 3.10986 17.6851 3.10986 19.2204C3.10986 20.7558 4.35451 22.0004 5.88986 22.0004Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9997 7.56C13.5351 7.56 14.7797 6.31535 14.7797 4.78C14.7797 3.24465 13.5351 2 11.9997 2C10.4644 2 9.21973 3.24465 9.21973 4.78C9.21973 6.31535 10.4644 7.56 11.9997 7.56Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.1101 22.0004C19.6454 22.0004 20.8901 20.7558 20.8901 19.2204C20.8901 17.6851 19.6454 16.4404 18.1101 16.4404C16.5747 16.4404 15.3301 17.6851 15.3301 19.2204C15.3301 20.7558 16.5747 22.0004 18.1101 22.0004Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.1096 16.44V14.22C18.1096 12.99 17.1196 12 15.8896 12H8.10965C6.87965 12 5.88965 12.99 5.88965 14.22V16.44", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 7.55957V11.9996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ComputerStation2__clip0_4482_14855", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ComputerStation2_default = ComputerStation2;
+export {
+  ComputerStation2_default as default
+};

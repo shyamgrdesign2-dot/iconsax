@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Duplicate2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Duplicate2__clip0_4482_14747)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.88965 17.5805H12.0196C13.1196 17.5805 14.0196 16.6805 14.0196 15.5805V11.4805C14.0196 10.3805 13.1196 9.48047 12.0196 9.48047H8.88965C7.78965 9.48047 6.88965 10.3805 6.88965 11.4805V15.5805C6.88965 16.6805 7.78965 17.5805 8.88965 17.5805Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.9502 9.47992V8.41992C9.9502 7.31992 10.8502 6.41992 11.9502 6.41992H15.1202C16.2202 6.41992 17.1202 7.31992 17.1202 8.41992V12.5199C17.1202 13.6199 16.2202 14.5199 15.1202 14.5199H14.0302", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 7C2 4.24 4.24 2 7 2H17C19.76 2 22 4.24 22 7V17C22 19.76 19.76 22 17 22H7C4.24 22 2 19.76 2 17V12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Duplicate2__clip0_4482_14747", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Duplicate2_default = Duplicate2;
+export {
+  Duplicate2_default as default
+};

@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Brain = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Brain__clip0_4482_8802)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.11001 5.42006C5.54001 5.33006 5.88001 4.99006 5.97001 4.56006C6.24001 3.45006 7.05001 2.56006 8.13001 2.19006C9.21001 1.82006 10.4 2.03006 11.29 2.74006C11.7 3.07006 12.28 3.07006 12.69 2.74006C13.58 2.02006 14.77 1.82006 15.85 2.19006C16.93 2.56006 17.74 3.45006 18.01 4.56006C18.1 4.99006 18.44 5.33006 18.87 5.42006C20.14 5.68006 21.19 6.55006 21.69 7.75006C22.18 8.95006 22.05 10.3101 21.33 11.3901C21.07 11.7701 21.07 12.2601 21.33 12.6401C22.05 13.7201 22.18 15.0801 21.69 16.2801C21.19 17.4801 20.14 18.3501 18.87 18.6101C18.44 18.7001 18.1 19.0401 18.01 19.4701C17.74 20.5801 16.93 21.4701 15.85 21.8501C14.77 22.2201 13.58 22.0201 12.69 21.3001C12.28 20.9701 11.7 20.9701 11.29 21.3001C10.4 22.0101 9.21001 22.2201 8.13001 21.8501C7.05001 21.4801 6.24001 20.5901 5.97001 19.4801C5.88001 19.0501 5.54001 18.7101 5.11001 18.6201C3.84001 18.3601 2.79001 17.4901 2.29001 16.3001C1.79001 15.1001 1.93001 13.7401 2.64001 12.6601C2.90001 12.2801 2.90001 11.7801 2.64001 11.4101C2.18001 10.7201 1.96001 9.90006 1.99001 9.09006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9902 2.97998V21.02", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3203 16.44C15.3203 15.21 16.3103 14.22 17.5403 14.22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.66043 7.56006C8.66043 8.79006 7.67043 9.78006 6.44043 9.78006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.66043 16.44C8.66043 15.21 7.67043 14.22 6.44043 14.22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3203 7.56006C15.3203 8.79006 16.3103 9.78006 17.5403 9.78006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Brain__clip0_4482_8802", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Brain_default = Brain;
+export {
+  Brain_default as default
+};

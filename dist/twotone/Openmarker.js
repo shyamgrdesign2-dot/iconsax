@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Openmarker = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Openmarker__clip0_4482_6149)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.4501 10.1191V19.4991C10.4501 20.8791 9.33013 21.9991 7.95013 21.9991H5.39014C4.01014 21.9991 2.89014 20.8791 2.89014 19.4991V10.1191H10.4501Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.4501 10.1205H2.89014L3.90012 9.01054C4.65012 8.18054 5.05011 7.10055 5.05011 6.00055V5.81055H8.29013C8.24013 6.98055 8.65012 8.13054 9.44012 9.01054L10.4501 10.1205Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.05005 2V5.81H8.29007V3.59L5.05005 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M6.66992 13.7891V18.4091", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.05 22H18.61C19.99 22 21.11 20.88 21.11 19.5V13H13.55V19.5C13.55 20.88 14.67 22 16.05 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.3301 22C16.5001 22 15.8301 21.32 15.8301 20.5V18.5C15.8301 17.68 16.5001 17 17.3301 17C18.1501 17 18.8301 17.68 18.8301 18.5V20.5C18.8301 21.32 18.1501 22 17.3301 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Openmarker__clip0_4482_6149", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Openmarker_default = Openmarker;
+export {
+  Openmarker_default as default
+};

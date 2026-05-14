@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Gun75 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Gun75__clip0_2085_390153)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.94 4.7398L18.23 5.0298C18.55 5.3498 18.55 5.8798 18.23 6.1998L6.57999 17.8498L6.98999 19.3198C7.04999 19.5398 6.98999 19.7698 6.83999 19.9398L4.70999 22.0698C4.54999 22.2298 4.30999 22.1998 4.11999 22.0698L2.20999 20.6998C1.95999 20.5198 1.91999 20.1698 2.14999 19.9398L6.87999 15.2098M8.92999 17.8598L8.33999 16.0998L6.28999 14.0498C6.12999 13.8898 6.12999 13.6198 6.28999 13.4598L11.38 8.3698C11.56 8.1798 11.85 8.1198 12.16 8.1798L13.63 8.4698L20.3 1.7998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.5999 10.4999L11.9299 10.1699L15.1799 13.4199C15.3399 13.5799 15.3399 13.8499 15.1799 14.0099L14.3599 14.8299C14.1999 14.9899 13.9299 14.9899 13.7699 14.8299L11.9899 13.0499M9.50988 14.3499L8.62988 13.4699L8.95988 13.1399", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.6199 8.47949L14.4999 9.35949", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.2299 2.5402L18.8899 2.2002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 8.37996L18.24 6.20996L19.52 8.42996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.33988 12.17L6.87988 11.71", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Gun75__clip0_2085_390153", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Gun75_default = Gun75;
+export {
+  Gun75_default as default
+};

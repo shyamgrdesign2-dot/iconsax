@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CompletedBag = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CompletedBag__clip0_4482_2345)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.2499 18.2299C15.9899 18.5799 15.72 18.9299 15.67 18.9999C15.66 19.0099 15.66 19.0099 15.66 19.0099L15.53 19.9899C15.46 20.5299 15.0299 20.9599 14.4899 21.0299L13.51 21.1599L12.7299 21.7499C12.2999 22.0799 11.7 22.0799 11.27 21.7499L10.4899 21.1599L9.50995 21.0299C9.03995 20.9699 8.65996 20.6299 8.51996 20.1999C8.49996 20.1299 8.47991 20.0599 8.46991 19.9899L8.33991 19.0099L8.3299 18.9999L7.74994 18.2299C7.41994 17.7999 7.41994 17.1999 7.74994 16.7699C8.03994 16.3799 8.33991 15.9899 8.33991 15.9899L8.47992 15.0099C8.54992 14.4699 8.96995 14.0399 9.50995 13.9699L10.4899 13.8399L11.27 13.2499C11.7 12.9199 12.2999 12.9199 12.7299 13.2499L13.51 13.8399L13.8 13.8799L14.4899 13.9699C15.0299 14.0399 15.46 14.4699 15.53 15.0099L15.66 15.9899L16.2499 16.7699C16.5799 17.1999 16.5799 17.7999 16.2499 18.2299Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.4001 16.7998L11.6501 18.5498L10.6001 17.4998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.43994 6V7.44C9.43994 8.85 10.59 10 12 10C13.41 10 14.5601 8.86 14.5601 7.44V6", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 7V14C22 16.75 19.75 19 17 19H15.67C15.72 18.93 15.99 18.58 16.25 18.23C16.58 17.8 16.58 17.2 16.25 16.77L15.66 15.99L15.53 15.01C15.46 14.47 15.03 14.04 14.49 13.97L13.8 13.88L13.51 13.84L12.73 13.25C12.3 12.92 11.7 12.92 11.27 13.25L10.49 13.84L9.51001 13.97C8.97001 14.04 8.54998 14.47 8.47998 15.01L8.33997 15.99C8.33997 15.99 8.04 16.38 7.75 16.77C7.42 17.2 7.42 17.8 7.75 18.23L8.32996 19H7C4.25 19 2 16.75 2 14V7C2 4.25 4.25 2 7 2H17C19.75 2 22 4.25 22 7Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CompletedBag__clip0_4482_2345", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CompletedBag_default = CompletedBag;
+export {
+  CompletedBag_default as default
+};

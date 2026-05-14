@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CoffeeCup2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CoffeeCup2__clip0_2085_391203)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.60999 7.06083H17.4V5.50083C17.4 4.98083 17 4.54083 16.48 4.50083L7.68999 3.82083C7.10999 3.78083 6.60999 4.23083 6.60999 4.82083V7.06083Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.25 22.0008H14.76C15.79 22.0008 16.65 21.2208 16.75 20.2008L17.81 9.55078H6.19L7.25 20.2008C7.35 21.2208 8.21 22.0008 9.24 22.0008H9.25Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.35999 9.55055H17.64C18.19 9.55055 18.64 9.10055 18.64 8.55055V8.06055C18.64 7.51055 18.19 7.06055 17.64 7.06055H6.35999C5.80999 7.06055 5.35999 7.51055 5.35999 8.06055V8.55055C5.35999 9.10055 5.80999 9.55055 6.35999 9.55055Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.09998 3.93V2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.76 13.7306C15.06 15.0306 15.32 16.8706 14.35 17.8406C13.38 18.8106 11.54 18.5506 10.24 17.2506C8.93996 15.9506 8.67996 14.1106 9.64996 13.1406C10.62 12.1706 12.46 12.4306 13.76 13.7306Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.35 17.8304L13.94 16.9404C13.58 16.1604 12.85 15.6104 12 15.4904C11.15 15.3704 10.42 14.8204 10.06 14.0404L9.64996 13.1504", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CoffeeCup2__clip0_2085_391203", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CoffeeCup2_default = CoffeeCup2;
+export {
+  CoffeeCup2_default as default
+};

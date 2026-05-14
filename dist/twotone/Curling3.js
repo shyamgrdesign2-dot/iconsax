@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Curling3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Curling3__clip0_2085_389681)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.79 9.9502C11.23 15.0802 7.64 18.6702 2 21.2302H4.05", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.9501 12.5099C14.8201 10.9699 14.3101 9.42988 11.7401 7.37988C10.7101 7.88988 5.07011 13.5299 11.2301 13.5299C17.3901 13.5299 14.8201 17.1199 11.2301 21.2199H13.2801", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.9701 19.1797H17.8901C17.3201 19.1797 16.8601 19.6397 16.8601 20.2097C16.8601 20.7797 17.3201 21.2397 17.8901 21.2397H20.9701C21.5401 21.2397 22.0001 20.7797 22.0001 20.2097C22.0001 19.6397 21.5401 19.1797 20.9701 19.1797Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.9699 19.1799V17.1299H17.8999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.85 6.86953C16.9822 6.86953 17.9 5.95172 17.9 4.81953C17.9 3.68735 16.9822 2.76953 15.85 2.76953C14.7179 2.76953 13.8 3.68735 13.8 4.81953C13.8 5.95172 14.7179 6.86953 15.85 6.86953Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Curling3__clip0_2085_389681", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Curling3_default = Curling3;
+export {
+  Curling3_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareNotification = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareNotification__clip0_4482_869)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17 22H7C4.25 22 2 19.75 2 17V7C2 4.25 4.25 2 7 2H17C19.75 2 22 4.25 22 7V17C22 19.75 19.75 22 17 22Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.0998 13.4202C16.7298 13.7502 16.0998 13.7602 15.3698 13.4802C14.3998 13.1302 13.2398 12.2902 12.1998 11.1202C11.1598 9.95019 10.4498 8.70019 10.2098 7.69019C10.0198 6.93019 10.0998 6.31019 10.4698 5.98019C11.3498 5.20019 13.5398 6.2202 15.3698 8.2702C17.2098 10.3402 17.9798 12.6402 17.0998 13.4202Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.2299 6.3501L6.66992 14.3201C6.16992 15.4401 7.2299 16.6201 8.3999 16.2501L16.7299 13.6201", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13 14L13.54 16.13C13.76 16.83 13.37 17.59 12.67 17.81L11.39 18.21C10.69 18.43 9.92996 18.04 9.70996 17.34L9 15L13 14Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareNotification__clip0_4482_869", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareNotification_default = SquareNotification;
+export {
+  SquareNotification_default as default
+};

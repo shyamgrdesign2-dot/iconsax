@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Molotov = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Molotov__clip0_2085_389905)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.71 6.14023C21.18 10.8902 15.27 10.1902 14.66 6.33023C14.3 4.09023 15.76 1.81023 19.39 2.30023C20.37 2.43023 21.07 2.34023 22 1.99023C21.48 4.93023 20.61 5.33023 18.93 6.29023C19.19 6.57023 20.4 7.53023 21.72 6.13023L21.71 6.14023Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M12.48 8.87012L15.12 11.5101", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M14.8799 7.16016L10.0299 10.6302C9.61994 10.9202 9.13994 11.0802 8.63994 11.0802C8.00994 11.0802 7.39994 11.3302 6.94994 11.7802L2.36994 16.3602C1.87994 16.8502 1.87994 17.6302 2.36994 18.1202L5.88994 21.6402C6.37994 22.1302 7.15994 22.1302 7.64994 21.6402L12.2299 17.0602C12.6799 16.6102 12.9299 16.0002 12.9299 15.3702C12.9299 14.8702 13.0899 14.3802 13.3799 13.9802L16.8299 9.16016", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M6.75999 11.9502L10.28 15.4702L6.75999 18.9902L3.23999 15.4702", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Molotov__clip0_2085_389905", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Molotov_default = Molotov;
+export {
+  Molotov_default as default
+};

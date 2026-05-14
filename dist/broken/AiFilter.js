@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiFilter = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiFilter__clip0_3111_14235)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.2501 8.87L20.8301 7.29C21.2101 6.91 21.4201 6.41 21.4201 5.88V4C21.4201 2.9 20.5201 2 19.4201 2H4.59009C3.49009 2 2.59009 2.9 2.59009 4V5.88C2.59009 6.41 2.80009 6.92 3.18009 7.29L4.39009 8.5M8.48009 12.59C8.86009 12.97 9.07009 13.47 9.07009 14V20.52C9.07009 21.48 9.97009 22.18 10.9001 21.95L13.8401 21.21", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.7901 15.8L19.4501 16.11C18.4901 16.33 17.7401 17.08 17.5201 18.04L17.2101 19.38C17.1801 19.52 16.9701 19.52 16.9401 19.38L16.6301 18.04C16.4101 17.08 15.6601 16.33 14.7001 16.11L13.3601 15.8C13.2201 15.77 13.2201 15.56 13.3601 15.53L14.7001 15.22C15.6601 15 16.4101 14.25 16.6301 13.29L16.9401 11.95C16.9701 11.81 17.1801 11.81 17.2101 11.95L17.5201 13.29C17.7401 14.25 18.4901 15 19.4501 15.22L20.7901 15.53C20.9301 15.56 20.9301 15.77 20.7901 15.8Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiFilter__clip0_3111_14235", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiFilter_default = AiFilter;
+export {
+  AiFilter_default as default
+};

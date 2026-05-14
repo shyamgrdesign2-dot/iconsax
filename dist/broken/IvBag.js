@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const IvBag = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#IvBag__clip0_2085_381110)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 19.5V21.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.99023 9.44999V14.01C5.99023 14.92 6.35023 15.79 7.00023 16.44C7.64023 17.08 8.52023 17.45 9.43023 17.45V19.17H14.5802V17.45C15.4902 17.45 16.3602 17.09 17.0102 16.44C17.6502 15.8 18.0202 14.92 18.0202 14.01V5.42999C18.0202 4.51999 17.6602 3.64999 17.0102 2.99999C16.3702 2.35999 15.4902 1.98999 14.5802 1.98999H9.43023C8.52023 1.98999 7.65023 2.34999 7.00023 2.99999C6.36023 3.63999 5.99023 4.51999 5.99023 5.42999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.9298 7.72989C13.9298 8.20989 13.7298 8.66989 13.3598 9.00989C12.9998 9.34989 12.5098 9.53989 11.9898 9.53989C11.4698 9.53989 10.9798 9.34989 10.6198 9.00989C10.2598 8.66989 10.0498 8.20989 10.0498 7.72989C10.0498 6.19989 11.7098 4.38989 11.9798 4.38989C12.2498 4.38989 13.9098 6.18989 13.9098 7.72989H13.9298Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.99023 11.7301C10.5202 10.0101 13.9602 13.6301 18.0002 12.6801", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "IvBag__clip0_2085_381110", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var IvBag_default = IvBag;
+export {
+  IvBag_default as default
+};

@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Toleft = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Toleft__clip0_4482_6059)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 15.6601V10.4701C22 9.33007 21.45 8.26007 20.52 7.60007L15.01 3.66007C14.26 3.12007 13.25 3.11006 12.49 3.62006C11.32 4.40006 11.16 6.05006 12.15 7.04006L13.76 8.65006H9.04999H4.34C3.04 8.65006 1.98999 9.70007 1.98999 11.0001C1.98999 12.3001 3.04 13.3501 4.34 13.3501H8.26999C8.71999 13.3501 9.11999 13.6601 9.23999 14.1001L10.4 18.5201C10.75 19.8401 11.94 20.7601 13.3 20.7601H17C19.76 20.7601 22 18.5201 22 15.7601V15.6601Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Toleft__clip0_4482_6059", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Toleft_default = Toleft;
+export {
+  Toleft_default as default
+};

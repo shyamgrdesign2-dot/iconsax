@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const NoSmoke2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#NoSmoke2__clip0_4482_8775)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9199 22C17.4428 22 21.9199 17.5228 21.9199 12C21.9199 6.47715 17.4428 2 11.9199 2C6.39707 2 1.91992 6.47715 1.91992 12C1.91992 17.5228 6.39707 22 11.9199 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", fillRule: "evenodd", clipRule: "evenodd", d: "M5.37994 4.39936C5.08705 4.10646 4.61217 4.10646 4.31928 4.39936C4.02639 4.69225 4.02639 5.16712 4.31928 5.46002L10.3234 11.4641C10.3338 11.4752 10.3446 11.486 10.3557 11.4964L13.4199 14.5607C13.4624 14.6171 13.5127 14.6674 13.5692 14.7099L18.4593 19.6C18.7522 19.8929 19.227 19.8929 19.5199 19.6C19.8128 19.3071 19.8128 18.8322 19.5199 18.5394L15.8408 14.8602H16.1296C17.4138 14.8602 18.4596 13.8144 18.4596 12.5302C18.4596 11.246 17.4138 10.2002 16.1296 10.2002H11.1808L5.37994 4.39936ZM12.6808 11.7002L14.3408 13.3602H16.1296C16.5854 13.3602 16.9596 12.986 16.9596 12.5302C16.9596 12.0744 16.5854 11.7002 16.1296 11.7002H12.6808Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.3399 14.11H7.70988C6.83988 14.11 6.12988 13.4 6.12988 12.53C6.12988 11.66 6.83988 10.95 7.70988 10.95H7.93988", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.5 5.15991V5.18991C13.5 6.04991 14.21 6.74991 15.08 6.73991C15.94 6.73991 16.65 7.42991 16.66 8.28991V8.31991", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "NoSmoke2__clip0_4482_8775", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var NoSmoke2_default = NoSmoke2;
+export {
+  NoSmoke2_default as default
+};

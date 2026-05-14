@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Rocket2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Rocket2__clip0_2085_389921)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.74 6.90977L22 2.00977L17.1 4.26977L7.24001 14.1198C6.85001 14.5098 6.85001 15.1398 7.24001 15.5298L8.47001 16.7598C8.86001 17.1498 9.49001 17.1498 9.88001 16.7598L14.23 12.4098L19.73 6.90977H19.74Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19.59 7.05016L16.95 4.41016", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.14 11.9093L7.98 10.7493C7.59 10.3593 7.59 9.72934 7.98 9.33934L8.71 8.60934L13.3 8.06934", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.1001 14.87L13.2601 16.03C13.6501 16.42 14.2801 16.42 14.6701 16.03L15.4001 15.3L15.9401 10.71", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.69 9.95934L14.05 7.31934", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.5199 15.1195L8.87988 12.4795", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M5.86 18.14C6.3 18.58 5.66 20.81 4.98 21.49C4.3 22.17 3.19 22.17 2.51 21.49C1.83 20.81 1.83 19.7 2.51 19.02C3.19 18.34 5.42 17.7 5.86 18.14Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Rocket2__clip0_2085_389921", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Rocket2_default = Rocket2;
+export {
+  Rocket2_default as default
+};

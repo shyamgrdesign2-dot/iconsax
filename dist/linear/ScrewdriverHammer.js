@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ScrewdriverHammer = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ScrewdriverHammer__clip0_4482_8920)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.6602 12.5199V8.10986", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.6601 12.5198C20.8101 12.5198 21.7401 13.4498 21.7401 14.5998V19.7898C21.7401 20.9398 20.8101 21.8698 19.6601 21.8698C18.5101 21.8698 17.5801 20.9398 17.5801 19.7898V14.5998C17.5801 13.4498 18.5101 12.5198 19.6601 12.5198Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.6598 2.41988L17.4298 4.87988C17.2298 5.27988 17.3098 5.75988 17.6198 6.07988L19.6498 8.10988L21.6798 6.07988C21.9998 5.75988 22.0698 5.27988 21.8698 4.87988L20.6398 2.41988C20.5498 2.23988 20.3698 2.12988 20.1798 2.12988H19.1098C18.9098 2.12988 18.7298 2.23988 18.6398 2.41988H18.6598Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.12 2.12988L2 5.24988V7.32988H12.39C12.96 7.32988 13.43 6.85988 13.43 6.28988V3.16988C13.43 2.59988 12.96 2.12988 12.39 2.12988H5.12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.16016 7.31982H10.3202V19.7898C10.3202 20.9398 9.39016 21.8698 8.24016 21.8698C7.09016 21.8698 6.16016 20.9398 6.16016 19.7898V7.31982Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ScrewdriverHammer__clip0_4482_8920", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ScrewdriverHammer_default = ScrewdriverHammer;
+export {
+  ScrewdriverHammer_default as default
+};

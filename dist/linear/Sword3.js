@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Sword3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Sword3__clip0_2085_387113)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.02 17.54L21.41 6.15C21.79 5.77 22 5.27 22 4.74V3C22 2.45 21.55 2 21 2H19.26C18.73 2 18.22 2.21 17.85 2.59L6.46002 13.98", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.90005 10.8605L6.45005 10.4105C5.96005 9.92047 5.16005 9.92047 4.67005 10.4105C4.18005 10.9005 4.18005 11.7005 4.67005 12.1905L11.8001 19.3205C12.2901 19.8105 13.0901 19.8105 13.5801 19.3205C14.0701 18.8305 14.0701 18.0305 13.5801 17.5405L13.1301 17.0905", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.57001 16.6504L7.35001 18.4304", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.78003 18.4297L5.56003 20.2097", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.24005 12.1904L11.8101 15.7604", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 8L10.02 13.97", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.46002 13.9697C6.95002 14.4597 6.95002 15.2597 6.46002 15.7497L2.89002 19.3197C2.40002 19.8097 2.40002 20.6097 2.89002 21.0997C3.38002 21.5897 4.18002 21.5897 4.67002 21.0997L8.24002 17.5297C8.73002 17.0397 9.53002 17.0397 10.02 17.5297", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Sword3__clip0_2085_387113", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Sword3_default = Sword3;
+export {
+  Sword3_default as default
+};

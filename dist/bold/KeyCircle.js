@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const KeyCircle = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#KeyCircle__clip0_4482_12592)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM17 14.97H15.06C14.65 14.97 14.31 14.63 14.31 14.22C14.31 13.81 14.65 13.47 15.06 13.47H17C17.41 13.47 17.75 13.81 17.75 14.22C17.75 14.63 17.41 14.97 17 14.97ZM17 12.19H12.67C12.32 13.78 10.91 14.97 9.23 14.97C7.28 14.97 5.7 13.39 5.7 11.44C5.7 9.49 7.28 7.91 9.23 7.91C10.92 7.91 12.33 9.1 12.67 10.69H17C17.41 10.69 17.75 11.03 17.75 11.44C17.75 11.85 17.41 12.19 17 12.19Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.22043 9.41992C8.10043 9.41992 7.19043 10.3299 7.19043 11.4499C7.19043 12.5699 8.10043 13.4799 9.22043 13.4799C10.3404 13.4799 11.2504 12.5699 11.2504 11.4499C11.2504 10.3299 10.3404 9.41992 9.22043 9.41992Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "KeyCircle__clip0_4482_12592", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var KeyCircle_default = KeyCircle;
+export {
+  KeyCircle_default as default
+};

@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiStorage = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiStorage__clip0_3111_17177)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.6901 4.86L13.7201 5.09C13.0301 5.25 12.4801 5.79 12.3201 6.49L12.0901 7.46C12.0701 7.56 11.9201 7.56 11.8901 7.46L11.6601 6.49C11.5001 5.8 10.9601 5.25 10.2601 5.09L9.29009 4.86C9.19009 4.84 9.19009 4.69 9.29009 4.66L10.2601 4.43C10.9501 4.27 11.5001 3.73 11.6601 3.03L11.8901 2.06C11.9101 1.96 12.0601 1.96 12.0901 2.06L12.3201 3.03C12.4801 3.72 13.0201 4.27 13.7201 4.43L14.6901 4.66C14.7901 4.68 14.7901 4.83 14.6901 4.86Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.47 15.79V14.21C21.47 12.18 19.82 10.53 17.79 10.53H6.21003C4.18003 10.53 2.53003 12.18 2.53003 14.21V15.79", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.73999 16.26H13.06", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.3901 16.27C17.3901 16.34 17.3301 16.4 17.2601 16.39C17.1901 16.39 17.1301 16.33 17.1301 16.26C17.1301 16.19 17.1901 16.13 17.2601 16.13C17.2901 16.13 17.3301 16.13 17.3501 16.17C17.3701 16.19 17.3901 16.23 17.3901 16.26", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.74 3.05H18.32C20.06 3.05 21.48 4.46 21.48 6.21V18.32C21.48 20.35 19.83 22 17.8 22H6.21003C4.18003 22 2.53003 20.35 2.53003 18.32V6.21C2.53003 4.47 3.94003 3.05 5.69003 3.05H7.27003", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiStorage__clip0_3111_17177", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiStorage_default = AiStorage;
+export {
+  AiStorage_default as default
+};

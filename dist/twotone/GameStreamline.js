@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const GameStreamline = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#GameStreamline__clip0_2085_385040)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.5 5.00977L15.07 6.47977C14.81 7.38977 14.06 7.99977 13.22 7.99977H10.77C9.92999 7.99977 9.18999 7.38977 8.91999 6.47977L8.48999 5.00977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.45 16.3698C16.16 16.3698 16.8 16.8198 17.04 17.4898L17.34 18.3498C17.66 19.2598 18.57 19.8398 19.53 19.7298C20.83 19.5898 21.93 18.6898 22.33 17.4498C22.51 16.8898 22.55 16.2798 22.42 15.6998L20.55 7.04984C20.17 5.27984 18.51 4.07984 16.71 4.25984C16.11 4.31984 15.54 4.56984 15.09 4.97984C14.57 5.44984 13.88 5.70984 13.18 5.70984H10.82C10.11 5.70984 9.42999 5.44984 8.90999 4.97984C8.45999 4.57984 7.88999 4.31984 7.28999 4.25984C5.48999 4.06984 3.82999 5.27984 3.44999 7.04984L1.57999 15.7098C1.44999 16.2898 1.48999 16.8898 1.66999 17.4598C2.07999 18.6998 3.16999 19.5898 4.46999 19.7398C5.42999 19.8498 6.33999 19.2798 6.65999 18.3598L6.95999 17.4998C7.19999 16.8298 7.82999 16.3798 8.54999 16.3798H15.45V16.3698Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "GameStreamline__clip0_2085_385040", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var GameStreamline_default = GameStreamline;
+export {
+  GameStreamline_default as default
+};

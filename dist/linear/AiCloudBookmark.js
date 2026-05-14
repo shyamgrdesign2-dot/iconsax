@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiCloudBookmark = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiCloudBookmark__clip0_3111_11402)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.8 19.92L12.23 18.79C12.08 18.68 11.88 18.68 11.73 18.79L10.16 19.91C10.03 20 9.86 20.02 9.71 19.94C9.57 19.87 9.48 19.72 9.48 19.56V15.06C9.48 14.78 9.59 14.5 9.79 14.3C9.99 14.1 10.26 13.99 10.55 13.99H13.41C13.69 13.99 13.97 14.1 14.17 14.3C14.37 14.5 14.48 14.77 14.48 15.06V19.56C14.48 19.72 14.39 19.87 14.25 19.94C14.11 20.01 13.93 20 13.8 19.91V19.92Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.29 11.72C21.74 12.37 22 13.15 22 14C22 16.21 20.21 18 18 18H17", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7 18C4.24 18 2 15.76 2 13C2 10.51 3.85 8.4 6.32 8.07C7.15 5.64 9.43 4 12 4C12.93 4 13.81 4.21 14.6 4.59", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.43 8.12999L19.57 8.32999C18.96 8.46999 18.48 8.94999 18.34 9.55999L18.14 10.42C18.12 10.51 17.99 10.51 17.97 10.42L17.77 9.55999C17.63 8.94999 17.15 8.46999 16.54 8.32999L15.68 8.12999C15.59 8.10999 15.59 7.97999 15.68 7.95999L16.54 7.75999C17.15 7.61999 17.63 7.13999 17.77 6.52999L17.97 5.66999C17.99 5.57999 18.12 5.57999 18.14 5.66999L18.34 6.52999C18.48 7.13999 18.96 7.61999 19.57 7.75999L20.43 7.95999C20.52 7.97999 20.52 8.10999 20.43 8.12999Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiCloudBookmark__clip0_3111_11402", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiCloudBookmark_default = AiCloudBookmark;
+export {
+  AiCloudBookmark_default as default
+};

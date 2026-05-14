@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SatelliteDish = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SatelliteDish__clip0_2085_386707)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.31 15.3298C16.79 18.8498 11.14 18.9098 7.61999 15.3898C4.09999 11.8698 4.15999 6.21976 7.67999 2.69976M20.31 15.3298C21.99 13.6498 20.52 9.45976 17.03 5.96976C13.54 2.47976 9.34999 1.00976 7.66999 2.68976C5.98999 4.36976 7.45999 8.55976 10.95 12.0498M20.31 15.3298C18.63 17.0098 14.44 15.5398 10.95 12.0498M10.95 12.0498L14 8.99976", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.48999 15L4.74999 17.49C3.34999 19.49 2.64999 20.5 3.16999 21.25C3.68999 22 5.07999 22 7.84999 22H12.15C14.93 22 16.31 22 16.83 21.25C17.3 20.56 16.76 19.67 15.61 18", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SatelliteDish__clip0_2085_386707", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SatelliteDish_default = SatelliteDish;
+export {
+  SatelliteDish_default as default
+};

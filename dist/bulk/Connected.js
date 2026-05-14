@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Connected = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Connected__clip0_4482_632)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8 19C8 20.66 6.66 22 5 22C3.34 22 2 20.66 2 19C2 17.34 3.34 16 5 16C5.56 16 6.07999 16.15 6.51999 16.42C6.95999 16.67 7.32999 17.04 7.57999 17.48C7.84999 17.92 8 18.44 8 19Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M22 5C22 6.66 20.66 8 19 8C18.44 8 17.92 7.85 17.48 7.58C17.04 7.33 16.67 6.96 16.42 6.52C16.15 6.08 16 5.56 16 5C16 3.34 17.34 2 19 2C20.66 2 22 3.34 22 5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.5 12C14.5 13.38 13.38 14.5 12 14.5C11.58 14.5 11.19 14.4 10.84 14.22C10.62 14.1 10.41 13.95 10.23 13.76C10.05 13.58 9.9 13.38 9.78 13.16C9.6 12.81 9.5 12.41 9.5 12C9.5 10.62 10.62 9.5 12 9.5C12.42 9.5 12.81 9.6 13.16 9.78C13.38 9.9 13.59 10.05 13.77 10.24C13.95 10.42 14.1 10.62 14.22 10.84C14.4 11.19 14.5 11.59 14.5 12Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.84 14.22L7.58002 17.48C7.33002 17.04 6.96002 16.67 6.52002 16.42L9.78003 13.16C9.90003 13.38 10.05 13.58 10.23 13.76C10.41 13.95 10.62 14.1 10.84 14.22Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.48 7.58001L14.22 10.84C14.1 10.62 13.95 10.42 13.77 10.24C13.59 10.05 13.38 9.9 13.16 9.78L16.42 6.52C16.67 6.96 17.04 7.33001 17.48 7.58001Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Connected__clip0_4482_632", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Connected_default = Connected;
+export {
+  Connected_default as default
+};

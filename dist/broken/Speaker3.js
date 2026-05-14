@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Speaker3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Speaker3__clip0_4482_14317)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.0599 13.4396C13.4899 13.8696 13.6199 14.5096 13.3799 15.0696C13.1499 15.6296 12.5999 15.9996 11.9899 15.9996C11.3799 15.9996 10.8399 15.6296 10.5999 15.0696C10.3699 14.5096 10.4999 13.8596 10.9199 13.4396C11.5099 12.8496 12.4599 12.8496 13.0399 13.4396", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.18 11.32C16.94 13.08 16.94 15.93 15.18 17.68C13.42 19.44 10.57 19.44 8.82 17.68C7.06 15.92 7.06 13.07 8.82 11.32C9.66 10.48 10.81 10 12 10C13.19 10 14.34 10.47 15.18 11.32Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.0599 4.93957C13.4899 5.36957 13.6199 6.00957 13.3799 6.56957C13.1499 7.12957 12.5999 7.49957 11.9899 7.49957C11.3799 7.49957 10.8399 7.12957 10.5999 6.56957C10.3699 6.00957 10.4999 5.35957 10.9199 4.93957C11.5099 4.34957 12.4599 4.34957 13.0399 4.93957", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4 7.5V4C4 2.9 4.9 2 6 2H18C19.1 2 20 2.9 20 4V20C20 21.1 19.1 22 18 22H6C4.9 22 4 21.1 4 20V12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Speaker3__clip0_4482_14317", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Speaker3_default = Speaker3;
+export {
+  Speaker3_default as default
+};

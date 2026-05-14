@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Beaver5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Beaver5__clip0_2085_391894)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.04 16.1895C12.04 17.4495 11.02 18.4795 9.75 18.4795", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.33 18.4795C13.07 18.4795 12.04 17.4495 12.04 16.1895", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 11.1496V3.26965C22 2.26965 20.9 1.65965 20.06 2.18965L17.9 3.62965C17.21 4.08965 16.34 4.18965 15.57 3.89965C14.48 3.48965 13.29 3.26965 12.05 3.26965C10.81 3.26965 9.55 3.50965 8.42 3.94965C7.61 4.26965 6.69 4.14965 5.98 3.64965L3.97 2.21965C3.12 1.66965 2 2.26965 2 3.27965V11.1596", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.74 13.5501C18.23 13.1301 16.65 13.0701 15.12 13.3801C15.11 13.4501 15.1 13.5001 15.08 13.5501C14.44 15.2201 12.25 16.1501 12.12 16.1901C11.99 16.2401 9.80999 15.2201 9.16999 13.5501C9.14999 13.5101 9.13999 13.4701 9.12999 13.4201C7.52999 13.0701 5.84999 13.1201 4.25999 13.5701C3.05999 13.9101 2.45999 15.2501 2.99999 16.3701C4.62999 19.7001 8.03999 22.0001 12 22.0001C15.96 22.0001 19.38 19.7001 21 16.3601C21.55 15.2401 20.94 13.8901 19.74 13.5501Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.12 13.38C15.11 13.45 15.1 13.5 15.08 13.55C14.44 15.22 12.25 16.15 12.12 16.19C11.99 16.24 9.80997 15.22 9.16997 13.55C9.14997 13.51 9.13997 13.47 9.12997 13.42C9.04997 12.91 9.46997 12 12.07 12C14.67 12 15.15 12.87 15.12 13.38Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.9101 9.45954C16.9601 10.1095 16.4201 10.6495 15.7701 10.5995C15.2601 10.5595 14.8401 10.1395 14.8001 9.62954C14.7501 8.97954 15.2901 8.43954 15.9401 8.48954C16.4501 8.52954 16.8701 8.94954 16.9101 9.45954Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M7.12992 9.45954C7.07992 10.1095 7.61992 10.6495 8.26992 10.5995C8.77992 10.5595 9.19992 10.1395 9.23992 9.62954C9.28992 8.97954 8.74992 8.43954 8.09992 8.48954C7.58992 8.52954 7.16992 8.94954 7.12992 9.45954Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Beaver5__clip0_2085_391894", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Beaver5_default = Beaver5;
+export {
+  Beaver5_default as default
+};

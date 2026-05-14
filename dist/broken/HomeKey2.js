@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HomeKey2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HomeKey2__clip0_4482_10593)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.35957 13.2002L7.85957 14.7002C7.66957 14.8902 7.55957 15.1502 7.55957 15.4202V16.5302C7.55957 17.1002 8.01957 17.5502 8.57957 17.5502H9.68957C9.95957 17.5502 10.2196 17.4402 10.4096 17.2502L11.9096 15.7502", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.35992 13.2001C8.90992 11.5901 9.60992 9.89007 11.0499 9.04007C12.4899 8.20007 14.3199 8.44007 15.4999 9.62007C16.6799 10.8001 16.9199 12.6301 16.0799 14.0701C15.2399 15.5101 13.5299 16.2101 11.9299 15.7601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.88 7.09988L8.88 3.09988C10.71 1.63988 13.3 1.63988 15.13 3.09988L20.13 7.09988C21.32 8.04988 22.01 9.48988 22.01 10.9999V16.9999C22.01 19.7599 19.77 21.9999 17.01 21.9999H7C4.24 21.9999 2 19.7599 2 16.9999V10.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HomeKey2__clip0_4482_10593", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HomeKey2_default = HomeKey2;
+export {
+  HomeKey2_default as default
+};

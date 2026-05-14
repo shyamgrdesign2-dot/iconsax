@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Socks1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Socks1__clip0_4482_12010)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0001 8.34953V4.01953C22.0001 2.91953 21.1001 2.01953 20.0001 2.01953H16.2301C15.1301 2.01953 14.2301 2.91953 14.2301 4.01953V10.4795C14.2301 10.7495 14.1201 10.9995 13.9401 11.1895L9.83012 15.2995C8.30012 16.8295 8.30012 19.3095 9.83012 20.8395C10.5601 21.5795 11.5601 21.9995 12.6101 21.9995C13.6601 21.9995 14.6501 21.5895 15.3901 20.8495L20.7101 15.5295C21.5401 14.6995 22.0101 13.5695 22.0101 12.3895", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0005 6.45996H14.2305", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.9 2.01953H8.67996C8.06996 2.01953 7.56996 2.51953 7.56996 3.12953V9.40953C7.56996 9.67953 7.45996 9.92953 7.27996 10.1195L3.16996 14.2295C1.63996 15.7595 1.63996 18.2395 3.16996 19.7695", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.9003 6.45996H7.57031", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.94016 20.9295C4.90016 20.9295 3.90016 20.5095 3.16016 19.7695", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Socks1__clip0_4482_12010", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Socks1_default = Socks1;
+export {
+  Socks1_default as default
+};

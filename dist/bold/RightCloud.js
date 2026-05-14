@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const RightCloud = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#RightCloud__clip0_4482_1632)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.47 9.46999C15.91 0.0999932 2.37996 3.65999 5.58996 12.59H5.54003C0.860029 12.92 0.860029 19.73 5.54003 20.06H16.63C17.98 20.07 19.28 19.57 20.27 18.66C23.56 15.79 21.8 10.02 17.47 9.46999ZM14.6899 14.29C14.5699 14.57 14.3 14.75 14 14.75H9.99999C9.58999 14.75 9.24999 14.41 9.24999 14C9.24999 13.59 9.58999 13.25 9.99999 13.25H12.1899L11.81 12.87C11.52 12.58 11.52 12.1 11.81 11.81C12.1 11.52 12.58 11.52 12.87 11.81L14.53 13.47C14.75 13.68 14.8099 14.01 14.6899 14.29Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "RightCloud__clip0_4482_1632", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var RightCloud_default = RightCloud;
+export {
+  RightCloud_default as default
+};

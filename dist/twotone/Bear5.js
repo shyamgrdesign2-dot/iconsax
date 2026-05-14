@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bear5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Bear5__clip0_2085_391893)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.00006 20.75L3.09006 15.86C2.42006 15.02 2.27006 13.89 2.71006 12.91L4.97006 7.82C6.20006 5.04 8.96006 3.25 12.0001 3.25C15.0401 3.25 17.7901 5.04 19.0301 7.82L21.2901 12.91C21.7201 13.89 21.5801 15.03 20.9101 15.86L17.0001 20.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.01001 7.74031L4.16001 5.04031C3.90001 4.21031 4.12 3.30031 4.74 2.69031C5.65 1.78031 7.13001 1.78031 8.04001 2.69031L9.16001 3.81031", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.9901 7.74031L19.8401 5.04031C20.1001 4.21031 19.8801 3.30031 19.2601 2.69031C18.3501 1.78031 16.8701 1.78031 15.9601 2.69031L14.8401 3.81031", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7 20.75V17C7 14.24 9.24 12 12 12C14.76 12 17 14.24 17 17V20.75C17 21.44 16.44 22 15.75 22H8.25C7.56 22 7 21.44 7 20.75Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.8701 16.4599C13.8701 17.4999 12.0001 18.2499 12.0001 18.2499C12.0001 18.2499 10.1301 17.4899 10.1301 16.4599C10.1301 15.4299 10.9701 15.1299 12.0001 15.1299C13.0301 15.1299 13.8701 15.4299 13.8701 16.4599Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 18.25V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M7.63013 9.5H8.88013", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.1201 9.5H16.3601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Bear5__clip0_2085_391893", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Bear5_default = Bear5;
+export {
+  Bear5_default as default
+};

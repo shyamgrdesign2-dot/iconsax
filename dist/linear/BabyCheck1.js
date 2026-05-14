@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BabyCheck1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BabyCheck1__clip0_2085_387021)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.02 14.0902C9.26 13.8502 9.66 13.8502 9.9 14.0902C10.14 14.3302 10.14 14.7302 9.9 14.9702C9.66 15.2102 9.26 15.2102 9.02 14.9702C8.78 14.7302 8.78 14.3302 9.02 14.0902Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.14 10.1401C16.81 12.4701 12.99 16.2901 12.99 16.2901C11.84 17.4401 10.14 17.6701 8.76 17.0001L4.13 21.6301C3.64 22.1201 2.86 22.1201 2.37 21.6301C1.88 21.1401 1.88 20.3601 2.37 19.8701C2.37 19.8701 6.99 15.2501 7 15.2401C6.33 13.8601 6.56 12.1601 7.71 11.0101L15.63 3.09012C17.09 1.63012 19.45 1.63012 20.91 3.09012C22.37 4.55012 22.37 6.91012 20.91 8.37012C20.91 8.37012 20.17 9.11012 19.14 10.1401Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.12 18.1104L5.88 19.8704", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.9 8.38059L15.62 3.10059", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.22 12.7803C10.73 12.2903 10.73 11.5103 11.22 11.0203L14.74 7.50031C15.23 7.01031 16.01 7.01031 16.5 7.50031C16.99 7.99031 16.99 8.77031 16.5 9.26031L12.98 12.7803C12.49 13.2703 11.71 13.2703 11.22 12.7803Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BabyCheck1__clip0_2085_387021", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BabyCheck1_default = BabyCheck1;
+export {
+  BabyCheck1_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiTv = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiTv__clip0_3111_18451)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.6798 2.03003L12.0098 6.03003L9.33984 2.03003", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8.51001 15.3L11.38 13.15L12.59 14.96L15.52 12.77", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.9299 22.03H7.99993C5.19993 22.03 2.92993 19.76 2.92993 16.96V11.11C2.92993 8.31004 5.19993 6.04004 7.99993 6.04004H15.9299C18.7299 6.04004 20.9999 8.31004 20.9999 11.11V14.48", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.57 19.57L20.56 19.81C19.84 19.98 19.28 20.54 19.11 21.26L18.87 22.27C18.84 22.38 18.69 22.38 18.67 22.27L18.43 21.26C18.26 20.54 17.7 19.98 16.98 19.81L15.97 19.57C15.86 19.54 15.86 19.39 15.97 19.37L16.98 19.13C17.7 18.96 18.26 18.4 18.43 17.68L18.67 16.67C18.7 16.56 18.85 16.56 18.87 16.67L19.11 17.68C19.28 18.4 19.84 18.96 20.56 19.13L21.57 19.37C21.68 19.4 21.68 19.55 21.57 19.57Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiTv__clip0_3111_18451", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiTv_default = AiTv;
+export {
+  AiTv_default as default
+};

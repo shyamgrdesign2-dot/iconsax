@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FitnessAbWheel = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FitnessAbWheel__clip0_2085_387245)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 11.4702V12.5302C22 13.3602 21.33 14.0302 20.5 14.0302H17.41C17.47 13.3802 17.5 12.7002 17.5 12.0002C17.5 11.3002 17.47 10.6202 17.41 9.97021H20.5C21.33 9.97021 22 10.6402 22 11.4702Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 12C9.01 12.67 8.93 13.34 8.78 14H3.5C2.67 14 2 13.33 2 12.5V11.5C2 10.67 2.67 10 3.5 10H8.78C8.93 10.66 9.01 11.33 9 12Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5 12C17.5 12.7 17.47 13.38 17.41 14.03C17.08 18.02 15.79 21 14.25 21H9.17004C10.96 21 12.42 16.97 12.42 12C12.42 7.03 10.96 3 9.17004 3H14.25C15.79 3 17.08 5.98 17.41 9.97C17.47 10.62 17.5 11.3 17.5 12Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12.42 12C12.42 16.97 10.96 21 9.17 21C7.62 21 6.33 18.01 6 14H8.78C8.93 13.34 9.01 12.67 9 12C9.01 11.33 8.93 10.66 8.78 10H6C6.33 5.99 7.62 3 9.17 3C10.96 3 12.42 7.03 12.42 12Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FitnessAbWheel__clip0_2085_387245", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FitnessAbWheel_default = FitnessAbWheel;
+export {
+  FitnessAbWheel_default as default
+};

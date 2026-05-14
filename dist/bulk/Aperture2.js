@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Aperture2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Aperture2__clip0_4482_15425)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.9996 9.5298V13.1998L13.8896 7.3098L19.0496 3.5498C20.9196 4.9698 22.0096 7.1598 22.0096 9.5298H21.9996Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16.8704 2.4L10.1104 7.31L7.90043 8.91L6.08043 3.37L5.94043 2.91C7.04043 2.31 8.27043 2 9.54043 2H14.4704C15.2804 2 16.0904 2.13 16.8704 2.4Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M7.57 15.1198H2.03C2.01 14.8998 2 14.6798 2 14.4598V9.52984C2 7.58984 2.76 5.73984 4.07 4.33984L6.73 12.5098L7.57 15.1198Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.3703 17.3398L11.8603 21.9998H9.54031C6.46031 21.9998 3.72031 20.1098 2.57031 17.3398H13.3703Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.6101 11.3004L14.1301 15.1204H9.91012L8.62012 11.1304L12.0001 8.69043L15.6101 11.3004Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.8802 15.8604C21.2202 19.4004 18.1502 22.0004 14.4702 22.0004H14.2002L14.2902 21.7304L15.9302 16.6304L15.9902 16.4704L17.4702 12.6504L21.8802 15.8504V15.8604Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Aperture2__clip0_4482_15425", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Aperture2_default = Aperture2;
+export {
+  Aperture2_default as default
+};

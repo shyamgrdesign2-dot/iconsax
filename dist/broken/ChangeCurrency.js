@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ChangeCurrency = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ChangeCurrency__clip0_4482_13408)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.5 15C17.2614 15 19.5 12.7614 19.5 10C19.5 7.23858 17.2614 5 14.5 5C11.7386 5 9.5 7.23858 9.5 10C9.5 12.7614 11.7386 15 14.5 15Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.5 14C4.5 16.76 6.74 19 9.5 19C12.26 19 14.5 16.76 14.5 14C14.5 11.24 12.26 9 9.5 9C8 9 6.66 9.66 5.75 10.7", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9501 15.6201C21.9501 19.1101 19.1101 21.9501 15.6201 21.9501L16.5701 20.3701", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.0498 8.3798C2.0498 4.8898 4.8898 2.0498 8.3798 2.0498L7.4298 3.6298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ChangeCurrency__clip0_4482_13408", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ChangeCurrency_default = ChangeCurrency;
+export {
+  ChangeCurrency_default as default
+};

@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SendReceiveCloud = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SendReceiveCloud__clip0_4482_1035)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M5.54003 12.59C0.860029 12.92 0.860029 19.73 5.54003 20.06H16.63C17.98 20.07 19.28 19.57 20.27 18.66C23.56 15.79 21.8 10.02 17.47 9.46999C15.91 0.0999918 2.37996 3.65999 5.58996 12.59", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.8299 15.9199C10.6299 15.9199 10.44 15.8399 10.3 15.6999L8.63999 14.0399C8.34999 13.7499 8.34999 13.2699 8.63999 12.9799C8.92999 12.6899 9.40992 12.6899 9.69992 12.9799L10.0799 13.3599V11.1699C10.0799 10.7599 10.4199 10.4199 10.8299 10.4199C11.2399 10.4199 11.5799 10.7599 11.5799 11.1699V15.1699C11.5799 15.4699 11.4 15.7499 11.12 15.8599C11.02 15.8999 10.9299 15.9199 10.8299 15.9199Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.17 15.9199C12.76 15.9199 12.42 15.5799 12.42 15.1699V11.1699C12.42 10.8699 12.6 10.5899 12.88 10.4799C13.16 10.3599 13.48 10.4299 13.7 10.6399L15.36 12.2999C15.65 12.5899 15.65 13.0699 15.36 13.3599C15.07 13.6499 14.59 13.6499 14.3 13.3599L13.92 12.9799V15.1699C13.92 15.5799 13.58 15.9199 13.17 15.9199Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SendReceiveCloud__clip0_4482_1035", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SendReceiveCloud_default = SendReceiveCloud;
+export {
+  SendReceiveCloud_default as default
+};

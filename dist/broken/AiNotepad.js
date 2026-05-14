@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiNotepad = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiNotepad__clip0_3111_15308)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.83984 1.60999V4.72999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.1599 1.60999V4.72999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.80981 13.03H15.1198", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.80981 17.19H11.9998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.9299 22.39H8.88991C3.69991 22.39 2.65991 20.25 2.65991 15.97V9.54997C2.65991 4.66997 4.38991 3.35997 7.84991 3.15997M21.3499 13.96V9.54997C21.3499 4.66997 19.6199 3.34997 16.1599 3.15997H13.7982", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.03 19.82L20.06 20.05C19.37 20.21 18.83 20.75 18.67 21.44L18.44 22.41C18.42 22.51 18.27 22.51 18.24 22.41L18.01 21.44C17.85 20.75 17.31 20.21 16.62 20.05L15.65 19.82C15.55 19.8 15.55 19.65 15.65 19.62L16.62 19.39C17.31 19.23 17.85 18.69 18.01 18L18.24 17.03C18.26 16.93 18.41 16.93 18.44 17.03L18.67 18C18.83 18.69 19.37 19.23 20.06 19.39L21.03 19.62C21.13 19.64 21.13 19.79 21.03 19.82Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiNotepad__clip0_3111_15308", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiNotepad_default = AiNotepad;
+export {
+  AiNotepad_default as default
+};

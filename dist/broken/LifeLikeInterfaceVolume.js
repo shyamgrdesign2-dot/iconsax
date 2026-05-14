@@ -1,0 +1,48 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const LifeLikeInterfaceVolume = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#LifeLikeInterfaceVolume__clip0_2085_381261)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.97006 18C7.71006 18.36 7.56006 18.76 7.56006 19.19C7.56006 20.74 9.55006 22 12.0001 22C14.4501 22 16.4401 20.74 16.4401 19.19C16.4401 18.77 16.2901 18.36 16.0301 18", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.5699 2.11006C11.8399 1.96006 12.1599 1.96006 12.4199 2.11006L18.9199 5.80006C19.1899 5.95006 19.3599 6.24006 19.3599 6.55006V13.3001C19.3599 13.6101 19.1899 13.9001 18.9199 14.0501L12.4199 17.7401C12.1499 17.8901 11.8299 17.8901 11.5699 17.7401L5.06988 14.0501C4.79988 13.9001 4.62988 13.6101 4.62988 13.3001V6.55006C4.62988 6.24006 4.79988 5.95006 5.06988 5.80006L8.40988 3.90006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 17.77V10.23", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.2398 6.12012L11.9998 10.2301L4.75977 6.12012", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2.25977V3.44977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 4.83984V5.91984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 7.43994V8.51994", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.14984 12.9399L4.83984 13.6699", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.4502 12.2L8.7502 11.46", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.3502 9.97021L10.1602 10.6602", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.54 9.99023L13.73 10.6802", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4401 12.22L15.1401 11.48", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.7402 12.96L19.1602 13.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "LifeLikeInterfaceVolume__clip0_2085_381261", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var LifeLikeInterfaceVolume_default = LifeLikeInterfaceVolume;
+export {
+  LifeLikeInterfaceVolume_default as default
+};

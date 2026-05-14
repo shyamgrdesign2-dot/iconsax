@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Water = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Water__clip0_4482_10933)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.0095 9.98C15.8095 9.98 14.0195 8.19 14.0195 5.99C14.0195 3.79 15.8095 2 18.0095 2C20.2095 2 21.9995 3.79 21.9995 5.99C21.9995 7.05 21.5795 8.06 20.8295 8.81C20.0795 9.56 19.0695 9.98 18.0095 9.98Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.49023 19.51C7.40023 22.42 11.9702 22.83 15.3502 20.49C18.7302 18.15 19.9502 13.72 18.2502 9.97998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.0203 5.76024C10.2803 4.06024 5.85033 5.28024 3.51033 8.66024C1.97033 10.8802 1.62033 13.6202 2.39033 16.0702", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.3704 5.29004L17.6704 6.99004L16.6504 5.97004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.0996 10.1601L12.8296 12.4701C13.4796 13.3401 13.5896 14.5101 13.0996 15.4801C12.6096 16.4501 11.6196 17.0701 10.5296 17.0701C9.43961 17.0701 8.43961 16.4501 7.95961 15.4801C7.46961 14.5001 7.57961 13.3401 8.22961 12.4701L9.95961 10.1601C10.0996 9.98012 10.3096 9.87012 10.5396 9.87012C10.7696 9.87012 10.9796 9.98012 11.1196 10.1601H11.0996Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Water__clip0_4482_10933", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Water_default = Water;
+export {
+  Water_default as default
+};

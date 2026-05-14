@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Slack2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Slack2__clip0_4482_11596)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.5 13H15.5C14.67 13 14 13.67 14 14.5C14 15.33 14.67 16 15.5 16H20.5C21.33 16 22 15.33 22 14.5C22 13.67 21.33 13 20.5 13Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.5 19H14V20.5C14 21.33 14.67 22 15.5 22C16.33 22 17 21.33 17 20.5C17 19.67 16.33 19 15.5 19Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 8.5V3.5C16 2.67 15.33 2 14.5 2C13.67 2 13 2.67 13 3.5V8.5C13 9.33 13.67 10 14.5 10C15.33 10 16 9.33 16 8.5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 8.5C22 7.67 21.33 7 20.5 7C19.67 7 19 7.67 19 8.5V10H20.5C21.33 10 22 9.33 22 8.5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.5 11H8.5C9.33 11 10 10.33 10 9.5C10 8.67 9.33 8 8.5 8H3.5C2.67 8 2 8.67 2 9.5C2 10.33 2.67 11 3.5 11Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.5 5H10V3.5C10 2.67 9.33 2 8.5 2C7.67 2 7 2.67 7 3.5C7 4.33 7.67 5 8.5 5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.5 14C8.67 14 8 14.67 8 15.5V20.5C8 21.33 8.67 22 9.5 22C10.33 22 11 21.33 11 20.5V15.5C11 14.67 10.33 14 9.5 14Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 15.5C2 16.33 2.67 17 3.5 17C4.33 17 5 16.33 5 15.5V14H3.5C2.67 14 2 14.67 2 15.5Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Slack2__clip0_4482_11596", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Slack2_default = Slack2;
+export {
+  Slack2_default as default
+};

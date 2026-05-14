@@ -1,0 +1,46 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Syringe = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Syringe__clip0_2085_382271)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.49 16.12C4.84 15.34 4.55 14.41 4.84 13.46H11.44L14.11 16.12H5.49Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.48999 16.1299H14.1L11.96 18.2699C10.44 19.7899 8.77999 19.4499 7.55999 18.2299L5.77999 16.4499C5.67999 16.3499 5.57999 16.2399 5.48999 16.1299Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.44 13.4499H4.84C4.99 12.9799 5.28 12.4999 5.74 12.0399L7.89 9.8999L11.44 13.4499Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.78001 18.89L6.89001 19.78C6.40001 20.27 5.60001 20.27 5.11001 19.78L4.22001 18.89C3.73001 18.4 3.73001 17.6 4.22001 17.11L5.11001 16.22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 22.0001L4.67 19.3301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.44 11.7801L14.12 16.1201H14.11L11.44 13.4601V13.4501L7.89 9.90006L7.88 9.89006H7.89L12.22 5.56006L13.56 6.89006L17.11 10.4401L18.44 11.7801Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.34 12.67L18.44 11.78", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.22 5.55991L11.33 4.65991", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.67 6.89008L17.11 10.4401L13.56 6.89008L17.11 3.33008L20.67 6.89008Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 8.21989L20.67 6.88989", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.11 3.33L15.78 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.49 16.1201H5.22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Syringe__clip0_2085_382271", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Syringe_default = Syringe;
+export {
+  Syringe_default as default
+};

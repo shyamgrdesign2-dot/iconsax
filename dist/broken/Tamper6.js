@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Tamper6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Tamper6__clip0_2085_392673)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.13 19.5092H5.32C3.49 19.5092 2 18.0192 2 16.1892V13.6992H14.45V16.1892C14.45 18.0192 12.96 19.5092 11.13 19.5092Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.22 13.5994L14.45 13.6994V16.1894L20.34 16.5094C21.24 16.5594 22 15.8494 22 14.9494C22 14.0494 21.24 13.3294 20.34 13.3794H20.22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.1601 21.9998H6.30011C5.62011 21.9998 5.14011 21.3298 5.35011 20.6798L5.74011 19.5098H10.7201L11.1101 20.6798C11.3301 21.3298 10.8401 21.9998 10.1601 21.9998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.2 11.2109H3.23999V13.7009H13.2V11.2109Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.47 8.7207H6.98L3.25 11.2107H13.21L9.48 8.7207H9.47Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.45 11.2109H2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.21998 2C7.11998 2 6.25998 2.97 6.39998 4.06L6.97998 8.72H9.46998L10.05 4.06C10.19 2.97 9.32998 2 8.22998 2H8.21998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Tamper6__clip0_2085_392673", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Tamper6_default = Tamper6;
+export {
+  Tamper6_default as default
+};

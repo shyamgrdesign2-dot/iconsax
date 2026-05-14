@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SmartThinking = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SmartThinking__clip0_3111_12899)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.3 2.21002C13.96 2.37002 15.46 3.25002 16.6 4.47002C18.59 6.60002 18.98 8.51002 18.77 10.24C18.73 10.56 18.77 10.89 18.9 11.18L19.87 13.37C20.21 14.14 19.64 15.01 18.8 15.01C18.5 15.01 18.25 15.25 18.25 15.55V17.58C18.25 18.06 17.86 18.45 17.38 18.45H15.33C14.6 18.45 14.01 19.04 14.01 19.77V20.29C14.01 21.02 13.41 21.62 12.68 21.62H8.49002C7.76002 21.62 7.16002 21.02 7.16002 20.29V18.25C7.16002 17.84 6.97002 17.47 6.67002 17.2C6.35002 16.91 6.06002 16.59 5.80002 16.25", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.36 9.56999L10.85 9.92C9.77001 10.17 8.93001 11.01 8.68001 12.09L8.33 13.6C8.3 13.76 8.06 13.76 8.03 13.6L7.68 12.09C7.43 11.01 6.59001 10.17 5.51001 9.92L4 9.56999C3.84 9.53999 3.84 9.3 4 9.27L5.51001 8.92C6.59001 8.67 7.43 7.83 7.68 6.75L8.03 5.24C8.06 5.08 8.3 5.08 8.33 5.24L8.68001 6.75C8.93001 7.83 9.77001 8.67 10.85 8.92L12.36 9.27C12.52 9.3 12.52 9.53999 12.36 9.56999Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SmartThinking__clip0_3111_12899", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SmartThinking_default = SmartThinking;
+export {
+  SmartThinking_default as default
+};

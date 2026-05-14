@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const UserDenied6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#UserDenied6__clip0_2085_392224)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.5 10C9.5 11.1 10.4 12 11.5 12C12.6 12 13.5 11.1 13.5 10C13.5 8.9 12.6 8 11.5 8C10.4 8 9.5 8.9 9.5 10Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.57 14C3.89 12.82 3.5 11.46 3.5 10C3.5 5.58 7.08 2 11.5 2C15.92 2 19.5 5.58 19.5 10C19.5 11.46 19.11 12.82 18.43 14", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.65 14C4.39 14 3.75 14 3.3 14.39C3.1 14.56 2.93 14.77 2.8 15.02C2.5 15.59 2.5 16.4 2.5 18C2.5 19.6 2.5 20.4 2.8 20.98C2.93 21.23 3.1 21.44 3.3 21.61C3.75 22 4.39 22 5.65 22H13.35", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 14H19.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3899 6.60961L17.3999 4.59961", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.5 17L19 19.5M19 19.5L16.5 22M19 19.5L21.5 22M19 19.5L16.5 17", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "UserDenied6__clip0_2085_392224", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var UserDenied6_default = UserDenied6;
+export {
+  UserDenied6_default as default
+};

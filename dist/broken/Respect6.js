@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Respect6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Respect6__clip0_2085_392348)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.2898 21.9995H8.6798C9.3698 21.9995 9.9198 21.4395 9.9198 20.7595C9.9198 20.0695 9.3598 19.5195 8.6798 19.5195H3.2898C2.5998 19.5195 2.0498 20.0795 2.0498 20.7595C2.0498 21.4495 2.6098 21.9995 3.2898 21.9995Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.94973 6.71973L3.68973 8.76973C3.13973 9.26973 2.83973 9.97973 2.86973 10.7197L3.23973 19.5097H9.04973V19.1997C9.03973 18.6097 9.12973 18.0197 9.31973 17.4597V17.4297C9.68973 16.3397 9.69973 15.1697 9.35973 14.0797C9.28973 13.8597 9.23973 13.6997 9.23973 13.6997", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7598 13.6997C14.7598 13.6997 14.7098 13.8597 14.6398 14.0797C14.2998 15.1697 14.3098 16.3397 14.6698 17.4297V17.4597C14.8698 18.0197 14.9598 18.6097 14.9498 19.1997V19.5097H20.7598L21.1298 10.7197C21.1598 9.97973 20.8598 9.26973 20.3098 8.76973L18.0498 6.71973", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.7198 21.9995H15.3298C14.6398 21.9995 14.0898 21.4395 14.0898 20.7595C14.0898 20.0695 14.6498 19.5195 15.3298 19.5195H20.7198C21.4098 19.5195 21.9598 20.0795 21.9598 20.7595C21.9598 21.4495 21.3998 21.9995 20.7198 21.9995Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.9498 11.4697C12.8698 12.2297 11.9998 12.6697 11.9998 12.6697C11.9998 12.6697 11.1398 12.2297 10.0498 11.4697", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.78978 5.29004C5.77978 5.38004 5.77979 5.47004 5.77979 5.56004C5.77979 7.15004 6.79979 8.62004 8.01979 9.80004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.44971 2.55C7.98971 2.2 8.64971 2 9.33971 2C10.4097 2 11.3497 2.48 11.9997 3.23C12.6597 2.48 13.5997 2 14.6697 2C16.6397 2 18.2297 3.59 18.2297 5.56C18.2297 5.96 18.1697 6.34 18.0497 6.72C17.7097 7.86 16.9097 8.91 15.9897 9.8", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.7597 13.7003L13.3696 9.88029C13.1296 9.23029 13.4696 8.52029 14.1096 8.28029C14.7596 8.04029 15.4697 8.3803 15.7097 9.0203L17.5496 14.0903", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.23971 13.7003L10.6297 9.88029C10.8697 9.23029 10.5297 8.52029 9.88971 8.28029C9.23971 8.04029 8.52971 8.3803 8.28971 9.0203L6.44971 14.0903", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Respect6__clip0_2085_392348", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Respect6_default = Respect6;
+export {
+  Respect6_default as default
+};

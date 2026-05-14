@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Electric = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Electric__clip0_4482_10750)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.4997 10.3801L15.4897 11.1001C15.9197 11.2601 16.0497 11.8101 15.7197 12.1301L11.6297 16.2301C11.1997 16.6601 10.4697 16.2901 10.5697 15.6901L10.8697 13.7901C10.9197 13.4901 10.7497 13.2001 10.4597 13.1001L8.50966 12.4001C8.05966 12.2401 7.94966 11.6601 8.29966 11.3401L12.2997 7.73006C12.7497 7.33006 13.4497 7.72006 13.3397 8.31006L13.0897 9.67006C13.0297 9.97006 13.2097 10.2701 13.4897 10.3701L13.4997 10.3801Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.23858 2 2 4.23858 2 7V17C2 19.7614 4.23858 22 7 22H17C19.7614 22 22 19.7614 22 17V7C22 4.23858 19.7614 2 17 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Electric__clip0_4482_10750", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Electric_default = Electric;
+export {
+  Electric_default as default
+};

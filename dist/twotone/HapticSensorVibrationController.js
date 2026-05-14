@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HapticSensorVibrationController = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HapticSensorVibrationController__clip0_2085_385045)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.69 15.4802C4.1 15.4802 2 13.3802 2 10.7902V9.66016C2 9.11016 2.45 8.66016 3 8.66016H12.59L20.1 16.1702C21.16 17.2302 21.42 18.9302 20.58 20.1802C19.44 21.8602 17.14 22.0202 15.78 20.6602L10.6 15.4802H6.69Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M3.67993 6.18994H5.37993", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.78003 5.23975H12.19", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.49 8.65V5.25", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8.51001 15.4897C8.79001 16.0097 8.99001 16.7097 8.94001 17.5597C8.90001 18.1997 9.35001 18.8297 9.99001 18.8297H13.95", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.8099 8.94994L21.9999 6.96994L20.0199 6.77994L20.2099 4.79994L18.2299 4.60994L18.4199 2.62994L16.4399 2.43994", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HapticSensorVibrationController__clip0_2085_385045", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HapticSensorVibrationController_default = HapticSensorVibrationController;
+export {
+  HapticSensorVibrationController_default as default
+};

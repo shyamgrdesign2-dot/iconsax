@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const City2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#City2__clip0_4482_10112)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.3702 7.2601H15.1602V5.1501C15.1602 4.5701 15.6302 4.1001 16.2102 4.1001H18.3202C18.9002 4.1001 19.3702 4.5701 19.3702 5.1501V7.2601Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2598 2V4.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.79004 21.9998V10.2098C7.79004 9.85984 7.96004 9.53984 8.24004 9.33984C8.52004 9.13984 8.89004 9.09984 9.21004 9.21984L15.53 11.5898C15.94 11.7398 16.21 12.1398 16.21 12.5798V22.0098", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.88977 9.48016V7.27016C9.88977 6.11016 8.94977 5.16016 7.77977 5.16016H4.61977C3.45977 5.16016 2.50977 6.10016 2.50977 7.27016V19.9002C2.50977 21.0602 3.44977 22.0102 4.61977 22.0102H19.3598C20.5198 22.0102 21.4698 21.0702 21.4698 19.9002V9.37016C21.4698 8.21016 20.5298 7.26016 19.3598 7.26016H14.0998C13.5198 7.26016 13.0498 7.73016 13.0498 8.31016V10.6502", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.0495 18.8398H10.9395", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.0495 15.6802H10.9395", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "City2__clip0_4482_10112", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var City2_default = City2;
+export {
+  City2_default as default
+};

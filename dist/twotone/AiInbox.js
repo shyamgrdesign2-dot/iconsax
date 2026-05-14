@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiInbox = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiInbox__clip0_3111_18002)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.93 6.26001L13.87 6.51001C13.11 6.69001 12.52 7.28001 12.35 8.03001L12.1 9.09001C12.07 9.20001 11.91 9.20001 11.89 9.09001L11.64 8.03001C11.46 7.27001 10.87 6.68001 10.12 6.51001L9.06004 6.26001C8.95004 6.23001 8.95004 6.07001 9.06004 6.05001L10.12 5.80001C10.88 5.62001 11.47 5.03001 11.64 4.28001L11.89 3.22001C11.92 3.11001 12.08 3.11001 12.1 3.22001L12.35 4.28001C12.53 5.04001 13.12 5.63001 13.87 5.80001L14.93 6.05001C15.04 6.08001 15.04 6.24001 14.93 6.26001Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M2.08008 12.85H6.45008C6.83008 12.85 7.16008 13.06 7.33008 13.4L8.49008 15.72C8.83008 16.39 9.51008 16.82 10.2601 16.82H13.7601C14.5101 16.82 15.2001 16.39 15.5301 15.72L16.6901 13.4C16.8601 13.06 17.2101 12.85 17.5701 12.85H21.8901", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.05009 4.06C3.54009 4.58 2.09009 6.64 2.09009 10.87V14.83C2.09009 19.79 4.07009 21.77 9.03009 21.77H14.9801C19.9401 21.77 21.9201 19.79 21.9201 14.83V10.87C21.9201 6.64 20.4701 4.58 16.9601 4.06", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiInbox__clip0_3111_18002", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiInbox_default = AiInbox;
+export {
+  AiInbox_default as default
+};

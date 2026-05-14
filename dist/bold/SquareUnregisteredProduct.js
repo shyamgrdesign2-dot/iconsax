@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareUnregisteredProduct = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareUnregisteredProduct__clip0_4482_1656)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.25 2 2 4.25 2 7V17C2 19.75 4.25 22 7 22H17C19.75 22 22 19.75 22 17V7C22 4.25 19.75 2 17 2ZM10.6 10.35H9.04999V14.4C9.04999 14.81 8.70999 15.15 8.29999 15.15C7.88999 15.15 7.54999 14.81 7.54999 14.4V10.35H6C5.59 10.35 5.25 10.01 5.25 9.6C5.25 9.19 5.59 8.85 6 8.85H10.6C11.01 8.85 11.35 9.19 11.35 9.6C11.35 10.01 11.01 10.35 10.6 10.35ZM18.75 14.4C18.75 14.81 18.41 15.15 18 15.15C17.59 15.15 17.25 14.81 17.25 14.4V11.47L16.24 12.52C15.96 12.81 15.44 12.81 15.16 12.52L14.15 11.47V14.4C14.15 14.81 13.81 15.15 13.4 15.15C12.99 15.15 12.65 14.81 12.65 14.4V9.6C12.65 9.29 12.84 9.02 13.12 8.9C13.4 8.79 13.73 8.86 13.94 9.08L15.7 10.91L17.46 9.08C17.67 8.86 18 8.79 18.28 8.9C18.56 9.01 18.75 9.29 18.75 9.6V14.4Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareUnregisteredProduct__clip0_4482_1656", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareUnregisteredProduct_default = SquareUnregisteredProduct;
+export {
+  SquareUnregisteredProduct_default as default
+};

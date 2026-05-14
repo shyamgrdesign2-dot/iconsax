@@ -1,0 +1,12 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Hearts = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M21.9996 8.68047C22.0296 15.6905 15.5296 19.8305 12.6096 20.8205C12.2696 20.9305 11.7096 20.9305 11.3796 20.8205C10.0896 20.3805 8.10957 19.3305 6.30957 17.6905L19.7696 4.23047C21.1296 5.24047 21.9996 6.86047 21.9996 8.68047Z", fill: "currentColor" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19.77 4.2296L6.31 17.6896C4.02 15.6096 2 12.5896 2 8.6796C2 5.5796 4.49 3.09961 7.56 3.09961C9.38 3.09961 11.01 3.9796 12 5.3396C13.02 3.9796 14.65 3.09961 16.44 3.09961C17.7 3.09961 18.85 3.5196 19.77 4.2296Z", fill: "currentColor" }),
+  " "
+] });
+var Hearts_default = Hearts;
+export {
+  Hearts_default as default
+};

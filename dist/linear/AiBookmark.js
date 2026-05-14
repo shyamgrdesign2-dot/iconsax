@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiBookmark = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiBookmark__clip0_3111_12717)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.06 4.69995L20.09 4.92995C19.4 5.08995 18.85 5.62995 18.69 6.32995L18.46 7.29995C18.44 7.39995 18.29 7.39995 18.26 7.29995L18.03 6.32995C17.87 5.63995 17.33 5.08995 16.63 4.92995L15.66 4.69995C15.56 4.67995 15.56 4.52995 15.66 4.49995L16.63 4.26995C17.32 4.10995 17.87 3.56995 18.03 2.86995L18.26 1.89995C18.28 1.79995 18.43 1.79995 18.46 1.89995L18.69 2.86995C18.85 3.55995 19.39 4.10995 20.09 4.26995L21.06 4.49995C21.16 4.51995 21.16 4.66995 21.06 4.69995Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.87 1.78998H6.79999C4.62999 1.78998 2.85999 3.56998 2.85999 5.72998V20.11C2.85999 21.95 4.17999 22.72 5.78999 21.83L10.77 19.06C11.3 18.76 12.16 18.76 12.68 19.06L17.66 21.83C19.27 22.73 20.59 21.95 20.59 20.11V9.70998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.25998 10.98L10.79 12.51L14.87 8.42999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiBookmark__clip0_3111_12717", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiBookmark_default = AiBookmark;
+export {
+  AiBookmark_default as default
+};

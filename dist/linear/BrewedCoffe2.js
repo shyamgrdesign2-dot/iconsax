@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BrewedCoffe2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BrewedCoffe2__clip0_2085_391197)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.24 22.0009H9.91999C7.62999 22.0009 5.76999 20.1409 5.76999 17.8509V11.3809C5.76999 10.8309 6.21999 10.3809 6.76999 10.3809H16.39C16.94 10.3809 17.39 10.8309 17.39 11.3809V17.8509C17.39 20.1409 15.53 22.0009 13.24 22.0009Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.39 17.4408L19.77 16.8508C20.32 16.7108 20.71 16.2108 20.71 15.6408V13.2908C20.71 12.6008 20.15 12.0508 19.47 12.0508H17.4", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.49 4.9C14.49 6.5 13.19 7.8 11.59 7.8C9.99 7.8 8.69 6.5 8.69 4.9C8.69 3.3 9.99 2 11.59 2C13.19 2 14.49 3.3 14.49 4.9Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.58 10.3805V7.81055H6.28C4.62 7.81055 3.28 9.15055 3.28 10.8105V11.9605", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.58 4.90031V4.07031", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.78 13.2891H17.4", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BrewedCoffe2__clip0_2085_391197", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BrewedCoffe2_default = BrewedCoffe2;
+export {
+  BrewedCoffe2_default as default
+};

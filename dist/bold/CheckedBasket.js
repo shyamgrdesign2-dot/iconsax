@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CheckedBasket = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CheckedBasket__clip0_4482_1744)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.84 8.75C15.43 8.75 15.09 8.41 15.09 8V5.84C15.09 4.14 13.7099 2.75 11.9999 2.75C10.2899 2.75 8.90991 4.13 8.90991 5.84V8C8.90991 8.41 8.56991 8.75 8.15991 8.75C7.74991 8.75 7.40991 8.41 7.40991 8V5.84C7.40991 3.31 9.46994 1.25 11.9999 1.25C14.5299 1.25 16.59 3.31 16.59 5.84V8C16.59 8.41 16.25 8.75 15.84 8.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 7H8C5.25 7 3 9.25 3 12V17C3 19.75 5.25 22 8 22H16C18.75 22 21 19.75 21 17V12C21 9.25 18.75 7 16 7ZM14.62 13.92L12.01 16.53C11.86 16.68 11.67 16.75 11.48 16.75C11.29 16.75 11.1 16.68 10.95 16.53L9.38 14.96C9.09 14.67 9.09 14.19 9.38 13.9C9.67 13.61 10.15 13.61 10.44 13.9L11.48 14.94L13.56 12.86C13.85 12.57 14.33 12.57 14.62 12.86C14.91 13.15 14.91 13.63 14.62 13.92Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CheckedBasket__clip0_4482_1744", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CheckedBasket_default = CheckedBasket;
+export {
+  CheckedBasket_default as default
+};

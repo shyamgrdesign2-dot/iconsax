@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Comet2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Comet2__clip0_2085_386679)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.89 20.8901L15.33 15.3301M15.33 22.0001L13.11 19.7801M22 15.3301L19.78 13.1101M10.69 15.6801L11.87 11.8801L15.67 10.7001C15.99 10.6001 16.22 10.3301 16.27 10.0101C16.32 9.68009 16.18 9.36009 15.91 9.16009L12.66 6.86009L12.71 2.88009C12.71 2.55009 12.53 2.25009 12.24 2.09009C11.95 1.94009 11.59 1.97009 11.33 2.17009L8.13997 4.55009L4.36997 3.27009C4.05997 3.16009 3.70997 3.24009 3.47997 3.48009C3.24997 3.71009 3.16997 4.06009 3.26997 4.37009L4.54997 8.14009L2.16997 11.3301C1.96997 11.6001 1.93997 11.9501 2.08997 12.2401C2.23997 12.5301 2.53997 12.7201 2.87997 12.7101L6.85997 12.6601L9.15997 15.9101C9.34997 16.1801 9.67997 16.3201 10.01 16.2701C10.34 16.2201 10.61 15.9901 10.7 15.6701L10.69 15.6801Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Comet2__clip0_2085_386679", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Comet2_default = Comet2;
+export {
+  Comet2_default as default
+};

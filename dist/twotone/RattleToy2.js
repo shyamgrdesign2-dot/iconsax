@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const RattleToy2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#RattleToy2__clip0_2085_385149)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.0699 15.86C18.8972 15.86 21.9999 12.7573 21.9999 8.93C21.9999 5.10267 18.8972 2 15.0699 2C11.2426 2 8.13989 5.10267 8.13989 8.93C8.13989 12.7573 11.2426 15.86 15.0699 15.86Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.9699 13.8298C14.5599 13.8298 10.1699 9.43979 10.1699 4.02979", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M18.3999 7.81988C19.626 7.81988 20.6199 6.82595 20.6199 5.59988C20.6199 4.37381 19.626 3.37988 18.3999 3.37988C17.1739 3.37988 16.1799 4.37381 16.1799 5.59988C16.1799 6.82595 17.1739 7.81988 18.3999 7.81988Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8.67008 11.73C7.57008 13.81 5.88008 15.51 3.81008 16.63L3.44008 16.83C2.40008 17.39 1.84008 18.54 2.03008 19.7C2.22008 20.86 3.13008 21.77 4.29008 21.96C5.45008 22.15 6.61008 21.59 7.16008 20.55L7.36008 20.18C8.48008 18.11 10.1801 16.42 12.2601 15.32", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "RattleToy2__clip0_2085_385149", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var RattleToy2_default = RattleToy2;
+export {
+  RattleToy2_default as default
+};

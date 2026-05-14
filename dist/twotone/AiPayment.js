@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiPayment = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiPayment__clip0_3111_17691)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.1099 18.18L20.8099 18.48C19.8799 18.69 19.1499 19.42 18.9299 20.35L18.6199 21.65C18.5899 21.79 18.3899 21.79 18.3599 21.65L18.0599 20.35C17.8499 19.42 17.1199 18.69 16.1899 18.47L14.8899 18.16C14.7499 18.13 14.7499 17.93 14.8899 17.9L16.1899 17.6C17.1199 17.39 17.8499 16.66 18.0699 15.73L18.3799 14.43C18.4099 14.29 18.6099 14.29 18.6399 14.43L18.9399 15.73C19.1499 16.66 19.8799 17.39 20.8099 17.61L22.1099 17.92C22.2499 17.95 22.2499 18.15 22.1099 18.18Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.1101 11.05V10.06C17.1101 8.74 16.0401 7.66 14.7101 7.66H8.71006C7.39006 7.66 6.31006 8.73 6.31006 10.06V13.9C6.31006 15.22 7.38006 16.3 8.71006 16.3H11.6301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.1101 11.05H6.32007", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12 22H7C4.25 22 2 19.75 2 17V7C2 4.25 4.25 2 7 2H17C19.75 2 22 4.25 22 7V11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiPayment__clip0_3111_17691", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiPayment_default = AiPayment;
+export {
+  AiPayment_default as default
+};

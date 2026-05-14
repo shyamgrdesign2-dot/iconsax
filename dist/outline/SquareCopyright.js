@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareCopyright = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareCopyright__clip0_4482_3466)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22.75H7C3.83 22.75 1.25 20.17 1.25 17V7C1.25 3.83 3.83 1.25 7 1.25H17C20.17 1.25 22.75 3.83 22.75 7V17C22.75 20.17 20.17 22.75 17 22.75ZM7 2.75C4.66 2.75 2.75 4.66 2.75 7V17C2.75 19.34 4.66 21.25 7 21.25H17C19.34 21.25 21.25 19.34 21.25 17V7C21.25 4.66 19.34 2.75 17 2.75H7Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.62 16.3699C10.21 16.3699 8.25 14.4099 8.25 11.9999C8.25 9.58988 10.21 7.62988 12.62 7.62988C13.68 7.62988 14.7 8.01988 15.5 8.71988C15.81 8.98988 15.84 9.46988 15.57 9.77988C15.29 10.0899 14.82 10.1199 14.51 9.84988C13.99 9.38988 13.32 9.12988 12.62 9.12988C11.04 9.12988 9.75 10.4199 9.75 11.9999C9.75 13.5799 11.04 14.8699 12.62 14.8699C13.31 14.8699 13.98 14.6199 14.51 14.1499C14.82 13.8799 15.3 13.9099 15.57 14.2199C15.84 14.5299 15.81 15.0099 15.5 15.2799C14.7 15.9799 13.67 16.3699 12.62 16.3699Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareCopyright__clip0_4482_3466", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareCopyright_default = SquareCopyright;
+export {
+  SquareCopyright_default as default
+};

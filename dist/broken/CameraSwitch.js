@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CameraSwitch = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CameraSwitch__clip0_4482_15524)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.9196 12.2598L15.5896 11.5898C16.1896 13.0098 15.9196 14.7098 14.7596 15.8698C13.8296 16.7998 12.5496 17.1498 11.3496 16.9398", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.08012 13.96L8.41012 14.63C7.81012 13.21 8.08012 11.51 9.24012 10.35C10.2301 9.35998 11.6101 9.02998 12.8701 9.31998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.51969 3H14.4297C15.1397 3 15.7897 3.37 16.1497 3.98L16.9897 5.38C17.3497 5.99 18.0097 6.36 18.7097 6.36H18.7297C20.5597 6.36 22.0497 7.84 22.0497 9.68V17.58C22.0497 19.41 20.5697 20.9 18.7297 20.9H5.24969C3.41969 20.9 1.92969 19.42 1.92969 17.58V9.68C1.92969 7.85 3.40969 6.36 5.24969 6.36C5.96969 6.36 6.62969 5.98 6.98969 5.36", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CameraSwitch__clip0_4482_15524", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CameraSwitch_default = CameraSwitch;
+export {
+  CameraSwitch_default as default
+};

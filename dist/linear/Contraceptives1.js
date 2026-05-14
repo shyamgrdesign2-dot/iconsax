@@ -1,0 +1,50 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Contraceptives1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Contraceptives1__clip0_2085_387031)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.24 15.1102C13.24 16.1402 12.68 16.9802 12 16.9802C11.32 16.9802 10.76 16.1402 10.76 15.1102C10.76 14.0802 11.32 13.2402 12 13.2402C12.68 13.2402 13.24 14.0802 13.24 15.1102Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 16.9805V18.2705C12 18.8805 10.76 19.2205 10.76 19.8305C10.76 20.4405 12 20.7805 12 21.3905V22.0105", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.76001 15.5096C7.03001 16.2396 6.05001 16.4396 5.56001 15.9496C5.07001 15.4596 5.27001 14.4796 6.00001 13.7496C6.73001 13.0196 7.71001 12.8196 8.20001 13.3096C8.69001 13.7996 8.49001 14.7796 7.76001 15.5096Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.56 15.9502L4.68 16.8302C4.25 17.2602 3.09 16.6202 2.66 17.0502C2.23 17.4802 2.87 18.6002 2.44 19.0302L2 19.4702", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.24 15.5096C16.97 16.2396 17.95 16.4396 18.44 15.9496C18.93 15.4596 18.73 14.4796 18 13.7496C17.27 13.0196 16.29 12.8196 15.8 13.3096C15.31 13.7996 15.51 14.7796 16.24 15.5096Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.44 15.9502L19.32 16.8302C19.75 17.2602 20.91 16.6202 21.34 17.0502C21.77 17.4802 21.13 18.6002 21.56 19.0302L22 19.4702", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 10.7598H3.29", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.78 10.7598H7.02", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.51001 10.7598H10.75", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.24 10.7598H14.48", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.98 10.7598H18.22", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.71 10.7598H22", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.78 2C5.78 5.44 8.57 8.27 12 8.27C15.43 8.27 18.22 5.44 18.22 2H5.78Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.49 2C14.49 3.37 13.38 4.49 12 4.49C10.62 4.49 9.51001 3.38 9.51001 2", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Contraceptives1__clip0_2085_387031", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Contraceptives1_default = Contraceptives1;
+export {
+  Contraceptives1_default as default
+};

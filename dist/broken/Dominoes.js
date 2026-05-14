@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Dominoes = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Dominoes__clip0_4482_15863)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.0902 10.9304C22.3002 9.72043 22.3002 7.76043 21.0902 6.54043L17.4502 2.91043C16.2402 1.70043 14.2802 1.70043 13.0702 2.91043L2.96023 13.0204C1.75023 14.2304 1.75023 16.1904 2.96023 17.4104L6.60023 21.0404C7.81023 22.2504 9.77023 22.2504 10.9802 21.0404L17.4602 14.5604", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.0298 15.9897L8.00977 7.96973", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.53977 13.1794C8.53977 13.2545 8.47515 13.3188 8.39977 13.3081C8.32438 13.3081 8.25977 13.2438 8.25977 13.1687C8.25977 13.0936 8.32438 13.0293 8.39977 13.0293C8.43207 13.0293 8.47515 13.04 8.49669 13.0722C8.51823 13.0936 8.53977 13.1365 8.53977 13.1687", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.53977 18.0408C8.53977 18.1158 8.47515 18.1802 8.39977 18.1695C8.32438 18.1695 8.25977 18.1051 8.25977 18.03C8.25977 17.955 8.32438 17.8906 8.39977 17.8906C8.43207 17.8906 8.47515 17.9014 8.49669 17.9335C8.51823 17.955 8.53977 17.9979 8.53977 18.03", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.9704 15.6111C10.9704 15.6861 10.9058 15.7505 10.8304 15.7398C10.755 15.7398 10.6904 15.6754 10.6904 15.6004C10.6904 15.5253 10.755 15.4609 10.8304 15.4609C10.8627 15.4609 10.9058 15.4717 10.9274 15.5038C10.9489 15.5253 10.9704 15.5682 10.9704 15.6004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.11008 15.6111C6.11008 15.6861 6.04546 15.7505 5.97008 15.7398C5.89469 15.7398 5.83008 15.6754 5.83008 15.6004C5.83008 15.5253 5.89469 15.4609 5.97008 15.4609C6.00239 15.4609 6.04546 15.4717 6.067 15.5038C6.08854 15.5253 6.11008 15.5682 6.11008 15.6004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.3601 8.36108C13.3601 8.43614 13.2955 8.50049 13.2201 8.48976C13.1447 8.48976 13.0801 8.42542 13.0801 8.35035C13.0801 8.27528 13.1447 8.21094 13.2201 8.21094C13.2524 8.21094 13.2955 8.22166 13.317 8.25383C13.3385 8.27528 13.3601 8.31818 13.3601 8.35035", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.2204 8.36108C18.2204 8.43614 18.1558 8.50049 18.0804 8.48976C18.005 8.48976 17.9404 8.42542 17.9404 8.35035C17.9404 8.27528 18.005 8.21094 18.0804 8.21094C18.1127 8.21094 18.1558 8.22166 18.1774 8.25383C18.1989 8.27528 18.2204 8.31818 18.2204 8.35035", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Dominoes__clip0_4482_15863", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Dominoes_default = Dominoes;
+export {
+  Dominoes_default as default
+};

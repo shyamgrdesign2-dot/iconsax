@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ScubaDiving = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ScubaDiving__clip0_2085_385590)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.8301 17.5601H6.83008C6.00165 17.5601 5.33008 18.2316 5.33008 19.0601V20.5001C5.33008 21.3285 6.00165 22.0001 6.83008 22.0001H13.8301C14.6585 22.0001 15.3301 21.3285 15.3301 20.5001V19.0601C15.3301 18.2316 14.6585 17.5601 13.8301 17.5601Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3301 19.78H18.6601C20.5001 19.78 21.9901 18.29 21.9901 16.45V2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 8.66984V10.8898C2 12.7298 3.49 14.2198 5.33 14.2198H7C8.84 14.2198 10.33 12.7298 10.33 10.8898C10.33 12.7298 11.82 14.2198 13.66 14.2198H15.33C17.17 14.2198 18.66 12.7298 18.66 10.8898V8.66984C18.66 6.82984 17.17 5.33984 15.33 5.33984H5.33C4.89 5.33984 4.47 5.42984 4.08 5.57984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ScubaDiving__clip0_2085_385590", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ScubaDiving_default = ScubaDiving;
+export {
+  ScubaDiving_default as default
+};

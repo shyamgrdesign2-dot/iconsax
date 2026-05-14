@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ModuleBlocks5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ModuleBlocks5__clip0_2085_392150)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.44 5.33V3.11C6.44 2.5 5.94 2 5.33 2H3.11C2.5 2 2 2.5 2 3.11V5.33C2 5.94 2.5 6.44 3.11 6.44H5.33C5.94 6.44 6.44 5.94 6.44 5.33Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M7.38011 14.2196V12.1696C7.38011 11.5596 6.88011 11.0596 6.27011 11.0596H4.22011C3.61011 11.0596 3.11011 11.5596 3.11011 12.1696V14.2196C3.11011 14.8296 3.61011 15.3296 4.22011 15.3296H6.27011C6.88011 15.3296 7.38011 14.8296 7.38011 14.2196Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.22 8.66984V6.44984C14.22 5.83984 13.72 5.33984 13.11 5.33984H10.89C10.28 5.33984 9.78003 5.83984 9.78003 6.44984V8.66984C9.78003 9.27984 10.28 9.77984 10.89 9.77984H13.11C13.72 9.77984 14.22 9.27984 14.22 8.66984Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.1099 17.5597V14.2297C13.1099 13.6197 13.6099 13.1197 14.2199 13.1197H17.5499V9.78969C17.5499 9.17969 18.0499 8.67969 18.6599 8.67969H20.8799C21.4899 8.67969 21.9899 9.17969 21.9899 9.78969V20.8997C21.9899 21.5097 21.4899 22.0097 20.8799 22.0097H9.76991C9.15991 22.0097 8.65991 21.5097 8.65991 20.8997V18.6797C8.65991 18.0697 9.15991 17.5697 9.76991 17.5697H13.0999L13.1099 17.5597Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ModuleBlocks5__clip0_2085_392150", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ModuleBlocks5_default = ModuleBlocks5;
+export {
+  ModuleBlocks5_default as default
+};

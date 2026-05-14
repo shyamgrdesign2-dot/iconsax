@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ModenCity = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ModenCity__clip0_4482_10025)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2798 7.2601V5.1501C14.2798 4.5701 13.8098 4.1001 13.2298 4.1001H11.1198C10.5398 4.1001 10.0698 4.5701 10.0698 5.1501V7.2601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.1802 2V4.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.1201 14.6299H13.2301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.1201 17.79H13.2301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.1201 14.6299H13.2301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.97021 22V8.32002C7.97021 7.74002 8.44022 7.27002 9.02022 7.27002H15.3402C15.9202 7.27002 16.3902 7.74002 16.3902 8.32002V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.1201 11.4702H13.2301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.39 22.0002V11.6102C16.39 11.2602 16.56 10.9402 16.84 10.7402C17.12 10.5402 17.49 10.5002 17.81 10.6202L20.97 11.8002C21.38 11.9502 21.65 12.3502 21.65 12.7902V20.9502C21.65 21.5302 21.18 22.0002 20.6 22.0002H3.75996C3.17996 22.0002 2.70996 21.5302 2.70996 20.9502V12.7902C2.70996 12.3502 2.97996 11.9602 3.38996 11.8002L6.54996 10.6202C6.86996 10.5002 7.23996 10.5402 7.51996 10.7402C7.79996 10.9402 7.96996 11.2602 7.96996 11.6102V22.0002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ModenCity__clip0_4482_10025", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ModenCity_default = ModenCity;
+export {
+  ModenCity_default as default
+};

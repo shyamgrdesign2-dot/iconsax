@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BCircle = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BCircle__clip0_4482_7908)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.8302 16.08H10.1602C9.38023 16.08 8.74023 15.44 8.74023 14.66V9.32997C8.74023 8.54997 9.37023 7.90997 10.1602 7.90997H12.2702C13.6002 7.90997 14.6902 8.98997 14.6902 10.33C14.6902 10.84 14.5302 11.32 14.2502 11.71C14.8502 12.15 15.2402 12.86 15.2402 13.66C15.2402 14.99 14.1602 16.08 12.8202 16.08H12.8302ZM10.2502 14.58H12.8302C13.3402 14.58 13.7502 14.17 13.7502 13.66C13.7502 13.15 13.3402 12.74 12.8302 12.74H10.2502V14.57V14.58ZM10.2502 11.25H12.2802C12.7902 11.25 13.2002 10.84 13.2002 10.33C13.2002 9.81997 12.7902 9.40997 12.2802 9.40997H10.2502V11.24V11.25Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M12 22C6.48 22 2 17.52 2 12C2 6.48 6.48 2 12 2C17.52 2 22 6.48 22 12C22 17.52 17.52 22 12 22Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BCircle__clip0_4482_7908", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BCircle_default = BCircle;
+export {
+  BCircle_default as default
+};

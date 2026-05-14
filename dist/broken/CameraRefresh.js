@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CameraRefresh = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CameraRefresh__clip0_4482_2058)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.57017 15.04L2.77019 18.25C2.89019 20.31 4.00018 22 6.76018 22H17.2402C20.0002 22 21.1001 20.31 21.2301 18.25L21.7502 9.99001C21.8902 7.83001 20.1702 6 18.0002 6C17.3902 6 16.8302 5.65 16.5502 5.11L15.8302 3.66C15.3702 2.75 14.1702 2 13.1502 2H10.8602C9.83015 2 8.63015 2.75 8.17015 3.66L7.45018 5.11C7.17018 5.65 6.61017 6 6.00017 6C3.83017 6 2.11017 7.83001 2.25017 9.99001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.06024 13.4599L7.77026 12.1699L6.49023 13.4599", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.9399 13L16.2199 14.28L17.4999 13", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.2198 14.28V13.22C16.2198 10.88 14.3298 8.98999 11.9898 8.98999C11.0798 8.98999 10.2398 9.27999 9.5498 9.76999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.77002 12.1699V13.2299C7.77002 15.5699 9.66 17.4599 12 17.4599C12.93 17.4599 13.8 17.1599 14.5 16.6399", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CameraRefresh__clip0_4482_2058", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CameraRefresh_default = CameraRefresh;
+export {
+  CameraRefresh_default as default
+};

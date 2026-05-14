@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cake = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cake__clip0_2085_380965)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 18.52H2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.1602 6.36996C10.1602 7.13996 10.4702 7.88996 11.0102 8.42996C11.5502 8.96996 12.3002 9.27996 13.0702 9.27996C13.8402 9.27996 14.5902 8.96996 15.1302 8.42996C15.6702 7.88996 15.9802 7.13996 15.9802 6.36996C15.9802 5.59996 15.6702 4.84996 15.1302 4.30996C14.5902 3.76996 13.8402 3.45996 13.0702 3.45996C12.3002 3.45996 11.5502 3.76996 11.0102 4.30996C10.4702 4.84996 10.1602 5.59996 10.1602 6.36996Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.1802 3.67005C14.8702 1.99005 16.5502 1.63005 18.1802 2.36005", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.91016 22H21.1302C21.3602 22 21.5802 21.91 21.7402 21.75C21.9002 21.59 21.9902 21.37 21.9902 21.13V15.86C21.9902 15.33 21.7802 14.82 21.4002 14.45L17.3002 10.34", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.26 6.22998C5.67 7.08998 4.34 8.35998 3.41 9.90998C2.48 11.46 2 13.24 2 15.04V20.69C2 21.04 2.14 21.37 2.38 21.61C2.62 21.85 2.96 21.99 3.3 21.99", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.6 15.04H2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cake__clip0_2085_380965", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cake_default = Cake;
+export {
+  Cake_default as default
+};

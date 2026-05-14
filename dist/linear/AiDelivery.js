@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiDelivery = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiDelivery__clip0_3111_11705)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.67999 6L7.43999 6.29C6.55999 6.5 5.85999 7.19 5.65999 8.07L5.36999 9.31C5.33999 9.44 5.14999 9.44 5.11999 9.31L4.82999 8.07C4.61999 7.19 3.92999 6.49 3.04999 6.29L1.80999 6C1.67999 5.97 1.67999 5.78 1.80999 5.75L3.04999 5.46C3.92999 5.25 4.62999 4.56 4.82999 3.68L5.11999 2.44C5.14999 2.31 5.33999 2.31 5.36999 2.44L5.65999 3.68C5.86999 4.56 6.55999 5.26 7.43999 5.46L8.67999 5.75C8.80999 5.78 8.80999 5.97 8.67999 6Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.72998 2.64H14.26C14.84 2.64 15.31 3.11 15.31 3.69V12.05C15.31 13.08 14.46 13.93 13.43 13.93H12.49", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.56001 11.91V12.88C3.56001 13.46 4.03001 13.93 4.61001 13.93H12.49H13.43C14.46 13.93 15.31 13.08 15.31 12.05V5.46H17.04C17.72 5.46 18.34 5.83 18.68 6.41L20.29 9.22H19.08C18.56 9.22 18.14 9.64 18.14 10.16V12.98C18.14 13.5 18.56 13.92 19.08 13.92H21.9V16.74C21.9 18.3 20.64 19.56 19.08 19.56H18.14C18.14 18.53 17.29 17.68 16.26 17.68C15.23 17.68 14.38 18.53 14.38 19.56H10.62C10.62 18.53 9.77001 17.68 8.74001 17.68C7.71001 17.68 6.86001 18.53 6.86001 19.56H5.92001C4.36001 19.56 3.10001 18.3 3.10001 16.74", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.73001 21.45C9.77001 21.45 10.61 20.61 10.61 19.57C10.61 18.53 9.77001 17.69 8.73001 17.69C7.69001 17.69 6.85001 18.53 6.85001 19.57C6.85001 20.61 7.69001 21.45 8.73001 21.45Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.25 21.45C17.29 21.45 18.13 20.61 18.13 19.57C18.13 18.53 17.29 17.69 16.25 17.69C15.21 17.69 14.37 18.53 14.37 19.57C14.37 20.61 15.21 21.45 16.25 21.45Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9 12.04V13.92H19.08C18.56 13.92 18.14 13.5 18.14 12.98V10.16C18.14 9.64 18.56 9.22 19.08 9.22H20.29L21.9 12.04Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiDelivery__clip0_3111_11705", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiDelivery_default = AiDelivery;
+export {
+  AiDelivery_default as default
+};

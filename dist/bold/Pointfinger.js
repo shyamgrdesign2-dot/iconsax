@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Pointfinger = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Pointfinger__clip0_4482_4771)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.7601 10.41L13.3401 9.25C12.9101 9.14 12.6001 8.74 12.6001 8.29V4.35C12.6001 3.7 12.3401 3.11 11.9101 2.69C11.4801 2.26 10.9001 2 10.2501 2C8.95006 2 7.89006 3.05 7.89006 4.35V13.76L6.28006 12.15C5.84006 11.71 5.28006 11.5 4.71006 11.5C4.00006 11.5 3.29006 11.84 2.86006 12.49C2.35006 13.26 2.36006 14.26 2.90006 15.01L6.84006 20.52C7.12006 20.92 7.48006 21.25 7.89006 21.49C8.43006 21.82 9.06006 22 9.71006 22H15.0001C16.3801 22 17.6301 21.44 18.5401 20.54C19.4401 19.63 20.0001 18.38 20.0001 17V13.31C20.0001 11.95 19.0801 10.76 17.7601 10.41Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Pointfinger__clip0_4482_4771", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Pointfinger_default = Pointfinger;
+export {
+  Pointfinger_default as default
+};

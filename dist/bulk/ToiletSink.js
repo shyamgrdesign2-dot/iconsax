@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ToiletSink = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ToiletSink__clip0_4482_9531)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.5399 15.3301L21.9699 18.9601C21.7499 20.4201 20.4899 21.5001 19.0099 21.5001H4.98986C3.50986 21.5001 2.24986 20.4201 2.01986 18.9601L1.45986 15.3301C1.40986 15.0301 1.49986 14.7101 1.69986 14.4801C1.89986 14.2501 2.18986 14.1101 2.49986 14.1101H21.4999C21.8099 14.1101 22.0999 14.2501 22.2999 14.4801C22.4999 14.7101 22.5899 15.0301 22.5399 15.3301Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.4697 14.8599C11.0597 14.8599 10.7197 14.5199 10.7197 14.1099V10.9399C10.7197 10.5299 11.0597 10.1899 11.4697 10.1899H13.5797C13.9897 10.1899 14.3297 10.5299 14.3297 10.9399C14.3297 11.3499 13.9897 11.6899 13.5797 11.6899H12.2197V14.1099C12.2197 14.5199 11.8797 14.8599 11.4697 14.8599Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M18.3299 8.83V14.11H5.66992V8.83C5.66992 5.34 8.49992 2.5 11.9999 2.5C13.7499 2.5 15.3299 3.21 16.4799 4.36C17.6199 5.5 18.3299 7.08 18.3299 8.83Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ToiletSink__clip0_4482_9531", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ToiletSink_default = ToiletSink;
+export {
+  ToiletSink_default as default
+};

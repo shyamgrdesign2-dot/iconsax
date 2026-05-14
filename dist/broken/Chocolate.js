@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Chocolate = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Chocolate__clip0_2085_380977)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.48 8.52001L19.18 12.22M15.48 8.52001L12.71 11.29M15.48 8.52001L19.18 4.82001L21.39 7.03C22.21 7.85 22.21 9.19001 21.39 10.01L19.18 12.22M15.48 8.52001L11.78 4.82001L9.01002 7.59L12.71 11.29M19.18 12.22L16.41 14.99L12.71 11.29M2.93002 13.68L6.70002 9.91L5.31002 9.45L7.15002 7.61C7.66002 7.1 8.50002 7.1 9.01002 7.61L16.39 14.99C16.9 15.5 16.9 16.34 16.39 16.85L14.55 18.69L14.09 17.3L10.32 21.07C9.08002 22.31 7.08002 22.31 5.85002 21.07L2.93002 18.15C2.64002 17.86 2.42002 17.53 2.27002 17.18M16.97 2.62L19.18 4.83L15.48 8.53L11.78 4.83L13.99 2.62C14.81 1.8 16.15 1.8 16.97 2.62ZM9.02002 7.6L16.4 14.98C16.91 15.49 16.91 16.33 16.4 16.84L14.56 18.68L13.64 15.91L9.94002 14.06L8.09002 10.36L5.32002 9.44L7.16002 7.6C7.67002 7.09 8.51002 7.09 9.02002 7.6Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Chocolate__clip0_2085_380977", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Chocolate_default = Chocolate;
+export {
+  Chocolate_default as default
+};

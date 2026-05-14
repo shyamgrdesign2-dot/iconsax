@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AngledDoubleDiagonal5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AngledDoubleDiagonal5__clip0_2085_390791)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.00014 9.01063C1.53014 9.01063 1.14014 8.63062 1.14014 8.15062V2.00063C1.14014 1.53063 1.52014 1.14062 2.00014 1.14062H8.15014C8.62014 1.14062 9.01014 1.52063 9.01014 2.00063C9.01014 2.48063 8.63014 2.86062 8.15014 2.86062H2.86014V8.16062C2.86014 8.63062 2.48014 9.02063 2.00014 9.02063V9.01063Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0001 22.8598C21.7801 22.8598 21.5601 22.7798 21.3901 22.6098L1.39008 2.60984C1.06008 2.27984 1.06008 1.72984 1.39008 1.39984C1.73008 1.06984 2.27008 1.06984 2.60008 1.39984L22.6001 21.3998C22.9301 21.7298 22.9301 22.2798 22.6001 22.6098C22.4301 22.7798 22.2101 22.8598 21.9901 22.8598H22.0001Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0002 22.8605H15.8502C15.3802 22.8605 14.9902 22.4805 14.9902 22.0005C14.9902 21.5205 15.3702 21.1405 15.8502 21.1405H21.1502V15.8405C21.1502 15.3705 21.5302 14.9805 22.0102 14.9805C22.4902 14.9805 22.8702 15.3605 22.8702 15.8405V21.9905C22.8702 22.4605 22.4802 22.8605 22.0002 22.8605Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AngledDoubleDiagonal5__clip0_2085_390791", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AngledDoubleDiagonal5_default = AngledDoubleDiagonal5;
+export {
+  AngledDoubleDiagonal5_default as default
+};

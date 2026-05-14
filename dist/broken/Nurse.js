@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Nurse = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Nurse__clip0_2085_381324)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.96 6.35006V16.3501L12 14.6101L5.04004 16.3501V6.35006C5.04004 5.55006 5.51004 4.84006 6.24004 4.52006L11.2 2.35006C11.71 2.13006 12.29 2.13006 12.8 2.35006L17.76 4.52006C18.49 4.84006 18.96 5.56006 18.96 6.35006Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.64004 19.2201C5.28004 19.0601 5.04004 18.7001 5.04004 18.3001V16.3401L12 14.6001L18.96 16.3401V18.3001C18.96 18.7001 18.72 19.0601 18.36 19.2201L12.4 21.8201C12.14 21.9301 11.85 21.9301 11.6 21.8201L8.29004 20.3701", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.39014 12.4302V13.3002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6099 12.4302V13.3002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.04004 8.08984H9.39004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6099 8.08984H18.9599", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6101 9.8298L12.0001 11.1298L9.39014 9.8298V6.3498L12.0001 5.0498L14.6101 6.3498V9.8298Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3 8V12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21 8V12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Nurse__clip0_2085_381324", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Nurse_default = Nurse;
+export {
+  Nurse_default as default
+};

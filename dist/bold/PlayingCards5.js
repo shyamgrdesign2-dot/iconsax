@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const PlayingCards5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#PlayingCards5__clip0_2085_388496)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.79 2 3 3.79 3 6V18C3 20.21 4.79 22 7 22H17C19.21 22 21 20.21 21 18V6C21 3.79 19.21 2 17 2ZM12.3125 15.2585C12.1123 15.3454 11.8876 15.3455 11.6875 15.2583C10.4606 14.7241 8.2 13.1465 8.2 10.74C8.2 9.57 9.15 8.63 10.31 8.63C10.9184 8.63 11.4646 8.88658 11.8527 9.29691C11.9307 9.37941 12.0674 9.3779 12.1443 9.29441C12.5273 8.87891 13.0814 8.63 13.69 8.63C14.86 8.63 15.8 9.57 15.8 10.74C15.8 13.1556 13.5395 14.7256 12.3125 15.2585Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "PlayingCards5__clip0_2085_388496", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var PlayingCards5_default = PlayingCards5;
+export {
+  PlayingCards5_default as default
+};

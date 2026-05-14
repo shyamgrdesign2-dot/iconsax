@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ChessKnight = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ChessKnight__clip0_4482_15772)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.6898 13H12.9198C12.9098 12.71 12.8798 12.46 12.8298 12.26C12.7598 12.53 12.6798 12.78 12.5898 13C12.0298 14.43 11.1798 14.81 10.0498 15.31C9.13976 15.71 8.05976 16.19 6.82976 17.34C4.63976 19.39 1.62976 17.13 2.74976 14.87C3.19976 13.96 3.64976 13.43 4.06976 13L4.33976 12.73C4.84976 12.21 5.28976 11.78 5.52976 10.87C6.36976 7.74 8.06976 6.24 9.61976 5.66C9.85976 5.57 10.1698 5.51 10.4998 5.49C9.82976 4.39 10.2998 2.86 10.7798 2L14.1398 5.66C17.8598 6.32 19.7598 9.11 20.6898 13Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.49 20.67C21.51 21.4 20.91 22 20.17 22H8.90997C8.19997 22 7.63997 21.44 7.79997 20.76C8.07997 19.52 8.83997 17.82 10.54 16.86C12.48 15.76 12.94 14.11 12.92 13H20.69C21.23 15.26 21.44 17.88 21.49 20.67Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ChessKnight__clip0_4482_15772", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ChessKnight_default = ChessKnight;
+export {
+  ChessKnight_default as default
+};

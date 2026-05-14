@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Boat3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Boat3__clip0_2085_389667)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.68994 5.68994L18.3099 18.3099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.69 5.69C6.36 5.02 5.36 2 4.68 2C4 2 2 4.01 2 4.68C2 5.35 5.02 6.36 5.69 5.69Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.3101 18.3099C18.9801 17.6399 22.0001 18.6399 22.0001 19.3199C22.0001 19.9999 19.9901 21.9999 19.3201 21.9999C18.6501 21.9999 17.6401 18.9799 18.3101 18.3099Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M14.9502 4.35986C15.2202 5.40986 15.7902 6.44986 16.6602 7.31986C17.5502 8.20986 18.6202 8.78986 19.6902 9.04986", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16.0201 16.02C10.7601 21.22 5.50011 21.04 3.83011 20.81C3.49011 20.76 3.23011 20.51 3.18011 20.17C2.94011 18.49 2.71011 13.19 7.98011 7.98004C13.2401 2.78004 18.5001 2.97004 20.1701 3.19004C20.5101 3.24004 20.7701 3.49004 20.8201 3.83004C21.0601 5.51004 21.2901 10.81 16.0301 16.02H16.0201Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.3701 13.32C12.0701 14.62 10.4201 15.07 9.68007 14.33C8.94007 13.59 9.39007 11.94 10.6901 10.64C11.9901 9.34002 13.6401 8.89002 14.3801 9.63002C15.1201 10.37 14.6701 12.02 13.3701 13.32Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Boat3__clip0_2085_389667", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Boat3_default = Boat3;
+export {
+  Boat3_default as default
+};

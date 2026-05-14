@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const DiscountSign = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#DiscountSign__clip0_4482_565)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5 22H6.5C4.3 22 2.5 20.2 2.5 18V13C2.5 10.8 4.3 9 6.5 9H17.5C19.7 9 21.5 10.8 21.5 13V18C21.5 20.2 19.7 22 17.5 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 6C13.1046 6 14 5.10457 14 4C14 2.89543 13.1046 2 12 2C10.8954 2 10 2.89543 10 4C10 5.10457 10.8954 6 12 6Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.06006 8.94016L10.5901 5.41016", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 8.93978L13.5801 5.52979", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.1599 17.3402L13.8401 13.6602", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.5701 12.51C11.0001 12.94 11.0001 13.64 10.5701 14.07C10.1401 14.5 9.44 14.5 9.01 14.07C8.58 13.64 8.58 12.94 9.01 12.51C9.45 12.08 10.1401 12.08 10.5701 12.51Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.99 16.9301C15.42 17.3601 15.42 18.0601 14.99 18.4901C14.56 18.9201 13.8599 18.9201 13.4299 18.4901C12.9999 18.0601 12.9999 17.3601 13.4299 16.9301C13.8599 16.4901 14.55 16.4901 14.99 16.9301Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "DiscountSign__clip0_4482_565", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var DiscountSign_default = DiscountSign;
+export {
+  DiscountSign_default as default
+};

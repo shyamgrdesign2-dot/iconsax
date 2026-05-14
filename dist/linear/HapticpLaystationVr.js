@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HapticpLaystationVr = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HapticpLaystationVr__clip0_2085_382385)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.58997 3.7898L7.76997 3.2998L7.27997 5.1198L5.45997 4.6298L4.96997 6.4498L3.14997 5.9598L2.65997 7.77981", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.44 3.7898L16.26 3.2998L16.75 5.1198L18.57 4.6298L19.06 6.4498L20.88 5.9598L21.37 7.77981", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.5 10.51L20.07 12.08C20.39 12.4 20.58 12.83 20.58 13.29V19.44C20.58 20.86 19.43 22.01 18.01 22.01H15.01C14.74 22.01 14.49 21.88 14.32 21.67L12.69 19.5C12.53 19.29 12.28 19.16 12 19.16C11.72 19.16 11.48 19.29 11.31 19.5L9.67998 21.67C9.51998 21.88 9.25998 22.01 8.98998 22.01H5.98998C4.56998 22.01 3.41998 20.86 3.41998 19.44V13.29C3.41998 12.84 3.59998 12.4 3.92998 12.08L5.49998 10.51C5.82998 10.18 6.24998 10 6.70998 10H17.29C17.74 10 18.18 10.18 18.5 10.51Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.84998 13.4302H17.14", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HapticpLaystationVr__clip0_2085_382385", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HapticpLaystationVr_default = HapticpLaystationVr;
+export {
+  HapticpLaystationVr_default as default
+};

@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Sporttshirt = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Sporttshirt__clip0_4482_3812)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.83 7.70027L20.6 9.54027C20.41 9.82027 20.09 10.0003 19.74 10.0003H18.22V18.9003C18.22 20.2803 17.1 21.4003 15.72 21.4003H8.28003C6.90003 21.4003 5.78003 20.2803 5.78003 18.9003V10.0003H4.26001C3.91001 10.0003 3.59003 9.82027 3.40003 9.54027L2.16998 7.70027C1.86998 7.24027 1.96997 6.63027 2.40997 6.30027L5.5 3.98027C5.68 3.85027 5.9 3.78027 6.12 3.78027H8.46002C8.69002 3.78027 8.91003 3.85027 9.09003 4.00027C9.13003 4.02027 9.16 4.05027 9.19 4.08027L11.29 6.18027C11.68 6.57027 12.31 6.57027 12.7 6.18027L14.8 4.08027C14.83 4.05027 14.86 4.02027 14.9 4.00027C15.08 3.85027 15.3 3.78027 15.53 3.78027H17.87C18.09 3.78027 18.31 3.85027 18.49 3.98027L21.58 6.30027C22.03 6.63027 22.13 7.25027 21.83 7.70027Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.91 3.99984C14.87 4.01984 14.84 4.04984 14.81 4.07984L12.71 6.17984C12.32 6.56984 11.69 6.56984 11.3 6.17984L9.20001 4.07984C9.17001 4.04984 9.13998 4.01984 9.09998 3.99984C9.34998 3.17984 10.12 2.58984 11.01 2.58984H13.01C13.89 2.59984 14.66 3.18984 14.91 3.99984Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6 17.04H12", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.78003 8V11", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.22 8V11", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Sporttshirt__clip0_4482_3812", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Sporttshirt_default = Sporttshirt;
+export {
+  Sporttshirt_default as default
+};

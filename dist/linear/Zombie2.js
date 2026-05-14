@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Zombie2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Zombie2__clip0_2085_382234)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.55 5.27003L3.75 6.65003C3.77 6.80003 3.79 6.94003 3.81 7.07003C2.67 8.51003 2 10.27 2 12.17C2 17.08 6.48 21.06 12 21.06C17.52 21.06 22 17.08 22 12.17C22 10.27 21.33 8.51003 20.19 7.07003C20.21 6.94003 20.23 6.80003 20.25 6.65003L20.45 5.27003C20.59 4.26003 20.67 3.75003 20.5 3.43003C20.35 3.15003 20.09 2.95003 19.78 2.87003C19.43 2.79003 18.95 2.98003 18.01 3.38003L16.82 3.87003C16.6 3.96003 16.4 4.04003 16.23 4.12003C14.94 3.59003 13.51 3.29003 12 3.29003C10.49 3.29003 9.05 3.59003 7.77 4.12003C7.6 4.05003 7.41 3.96003 7.18 3.87003L5.99 3.38003C5.04 2.99003 4.57 2.79003 4.22 2.87003C3.91 2.95003 3.65 3.15003 3.5 3.43003C3.33 3.75003 3.4 4.26003 3.55 5.27003Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.67 14.95L9.58 15.86C9.69 15.97 9.86 15.97 9.97 15.86L10.69 15.14C10.8 15.03 10.97 15.03 11.08 15.14L11.8 15.86C11.91 15.97 12.08 15.97 12.19 15.86L12.91 15.14C13.02 15.03 13.19 15.03 13.3 15.14L14.02 15.86C14.13 15.97 14.3 15.97 14.41 15.86L15.32 14.95", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.15001 8.89989C6.97001 9.04989 6.81001 9.23989 6.69001 9.45989C6.10001 10.4899 6.45001 11.7999 7.48001 12.3899C8.51001 12.9799 9.82001 12.6299 10.41 11.5999C10.54 11.3799 10.62 11.1499 10.66 10.9199L7.15001 8.88989V8.89989Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.85 8.89989C17.03 9.04989 17.19 9.23989 17.31 9.45989C17.9 10.4899 17.55 11.7999 16.52 12.3899C15.49 12.9799 14.18 12.6299 13.59 11.5999C13.46 11.3799 13.38 11.1499 13.34 10.9199L16.85 8.88989V8.89989Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.53 3.5V4.85003C12.53 5.28003 12.18 5.64003 11.74 5.64003C11.31 5.64003 10.95 5.99003 10.95 6.43003V7.22003", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.97 5.06004C9.59 2.70004 14.4 2.70004 18.02 5.06004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Zombie2__clip0_2085_382234", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Zombie2_default = Zombie2;
+export {
+  Zombie2_default as default
+};

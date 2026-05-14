@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquarePen = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquarePen__clip0_4482_2196)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M21.8 6.38289C19.66 8.04289 17.8 10.0229 16.26 12.2429L12.52 8.5029C14.74 6.9629 16.72 5.10289 18.38 2.96289C20.03 3.43289 21.33 4.73289 21.8 6.38289Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M13.2701 9.25293L10.6201 11.8929L12.8601 14.1429L15.5101 11.5029L13.2701 9.25293Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M12.87 14.1426L10.93 16.0926L8.01001 16.7626L8.67999 13.8426L10.63 11.8926L12.87 14.1426Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 7.7627V17.7627C22 20.5127 19.75 22.7627 17 22.7627H7C4.25 22.7627 2 20.5127 2 17.7627V7.7627C2 5.0127 4.25 2.7627 7 2.7627H17C17.48 2.7627 17.94 2.83269 18.38 2.96269C20.03 3.43269 21.33 4.73269 21.8 6.38269C21.93 6.82269 22 7.2827 22 7.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquarePen__clip0_4482_2196", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor", transform: "translate(0 0.762695)" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquarePen_default = SquarePen;
+export {
+  SquarePen_default as default
+};

@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiShield = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiShield__clip0_3111_15955)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M20.92 6.73L20.9 11.12C20.9 16.01 17.35 20.59 12.5 21.93C12.17 22.02 11.81 22.02 11.48 21.93C6.62996 20.59 3.07996 16.01 3.07996 11.12V6.73C3.07996 5.91 3.70996 4.98 4.46996 4.67L10.04 2.39C11.29 1.88 12.71 1.88 13.95 2.39L19.52 4.67C20.29 4.98 20.92 5.91 20.92 6.73Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.8099 12.36L14.6799 12.67C13.6999 12.94 12.9399 13.7 12.6699 14.68L12.3599 15.81C12.2599 16.19 11.7299 16.19 11.6399 15.81L11.3299 14.68C11.0599 13.7 10.2999 12.94 9.31991 12.67L8.18991 12.36C7.80991 12.26 7.80991 11.73 8.18991 11.64L9.31991 11.33C10.2999 11.06 11.0599 10.3 11.3299 9.32L11.6399 8.19C11.7399 7.81 12.2699 7.81 12.3599 8.19L12.6699 9.32C12.9399 10.3 13.6999 11.06 14.6799 11.33L15.8099 11.64C16.1899 11.74 16.1899 12.27 15.8099 12.36Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiShield__clip0_3111_15955", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiShield_default = AiShield;
+export {
+  AiShield_default as default
+};

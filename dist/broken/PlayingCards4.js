@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const PlayingCards4 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#PlayingCards4__clip0_2085_385584)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.1399 12.0998C14.1399 13.2798 13.1799 13.5298 11.9999 13.5298C10.8199 13.5298 9.85986 13.2798 9.85986 12.0998C9.85986 10.9198 11.9999 8.52979 11.9999 8.52979C11.9999 8.52979 14.1399 10.9198 14.1399 12.0998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 15.3198V13.5298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3 6C3 3.79 4.79 2 7 2H17C19.21 2 21 3.79 21 6V18C21 20.21 19.21 22 17 22H7C4.79 22 3 20.21 3 18V10.01", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "PlayingCards4__clip0_2085_385584", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var PlayingCards4_default = PlayingCards4;
+export {
+  PlayingCards4_default as default
+};

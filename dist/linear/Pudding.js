@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Pudding = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Pudding__clip0_2085_382184)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.17 17.05C1.97 16.74 1.95 16.35 2.12 16.02C2.29 15.69 2.63 15.49 3 15.49H21C21.37 15.49 21.71 15.69 21.88 16.02C22.05 16.34 22.03 16.74 21.83 17.05L20.5 19.05C20.31 19.33 20 19.5 19.67 19.5H4.34C4.01 19.5 3.69 19.33 3.51 19.05L2.18 17.05H2.17Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.31 15.5L4.56 7.35C4.81 5.71 6.22 4.5 7.88 4.5C8.63 4.5 9.35 4.76 9.94 5.22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.06 5.22C14.65 4.76 15.37 4.5 16.12 4.5C17.78 4.5 19.19 5.71 19.44 7.35L20.69 15.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.72998 15.5L8.65998 7.48C8.85998 5.78 10.29 4.5 12 4.5C13.71 4.5 15.15 5.78 15.34 7.48L16.27 15.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Pudding__clip0_2085_382184", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Pudding_default = Pudding;
+export {
+  Pudding_default as default
+};

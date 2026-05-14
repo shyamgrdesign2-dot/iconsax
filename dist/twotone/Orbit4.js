@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Orbit4 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Orbit4__clip0_2085_389607)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.7299 17.7299C22.2499 13.2099 23.3499 6.96986 20.1899 3.79986C17.6199 1.23986 13.0499 1.46986 8.99992 4.04986M3.80992 20.1899C6.28992 22.6699 10.6499 22.5299 14.5899 20.1899M6.26992 6.26986C2.97992 9.55986 1.49992 13.7399 2.14992 16.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.92 7.07987C15.02 5.17987 11.28 5.83987 8.56003 8.54987C5.84003 11.2599 5.18003 15.0099 7.08003 16.9099C8.98003 18.8099 12.72 18.1499 15.44 15.4399C17.09 13.7899 17.98 11.7599 18 9.99987", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.6401 10.3599C14.2701 10.9899 14.0501 12.2399 13.1501 13.1499C12.2501 14.0599 11.0001 14.2699 10.3601 13.6399C9.73011 13.0099 9.95011 11.7599 10.8501 10.8499C11.7601 9.94987 13.0001 9.72987 13.6401 10.3599Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Orbit4__clip0_2085_389607", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Orbit4_default = Orbit4;
+export {
+  Orbit4_default as default
+};

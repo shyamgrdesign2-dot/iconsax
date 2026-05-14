@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareMuteVolume = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareMuteVolume__clip0_4482_1480)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.25 2 2 4.25 2 7V17C2 19.75 4.25 22 7 22H17C19.75 22 22 19.75 22 17V7C22 4.25 19.75 2 17 2ZM12.97 15.21C12.97 15.97 12.11 16.42 11.49 15.97L9.23999 14.36C9.02999 14.21 8.77001 14.13 8.51001 14.13H7.04004C6.18004 14.13 5.47998 13.43 5.47998 12.57V11.05C5.47998 10.19 6.18004 9.49 7.04004 9.49H8.57996C8.79996 9.49 9.00995 9.43 9.19995 9.33L11.5699 7.97C12.1899 7.61 12.97 8.06 12.97 8.78V15.21ZM18.62 12.43C18.91 12.72 18.91 13.2 18.62 13.49C18.47 13.64 18.28 13.71 18.09 13.71C17.9 13.71 17.7101 13.64 17.5601 13.49L17.02 12.95L16.48 13.49C16.33 13.64 16.14 13.71 15.95 13.71C15.76 13.71 15.57 13.64 15.42 13.49C15.13 13.2 15.13 12.72 15.42 12.43L15.96 11.89L15.42 11.35C15.13 11.06 15.13 10.58 15.42 10.29C15.71 10 16.19 10 16.48 10.29L17.02 10.83L17.5601 10.29C17.8501 10 18.33 10 18.62 10.29C18.91 10.58 18.91 11.06 18.62 11.35L18.08 11.89L18.62 12.43Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareMuteVolume__clip0_4482_1480", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareMuteVolume_default = SquareMuteVolume;
+export {
+  SquareMuteVolume_default as default
+};

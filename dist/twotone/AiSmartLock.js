@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiSmartLock = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiSmartLock__clip0_3111_17595)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9701 19.33L20.8801 19.58C20.1001 19.76 19.4901 20.37 19.3001 21.15L19.0401 22.24C19.0101 22.36 18.8501 22.36 18.8201 22.24L18.5701 21.15C18.3901 20.37 17.7801 19.76 17.0001 19.57L15.9101 19.31C15.7901 19.28 15.7901 19.12 15.9101 19.09L17.0001 18.84C17.7801 18.66 18.3901 18.05 18.5801 17.27L18.8401 16.18C18.8701 16.06 19.0301 16.06 19.0601 16.18L19.3101 17.27C19.4901 18.05 20.1001 18.66 20.8801 18.85L21.9701 19.11C22.0901 19.14 22.0901 19.3 21.9701 19.33Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M5.40991 9.24V7.3C5.40991 4.09 6.37991 1.47 11.2399 1.47C16.0999 1.47 17.0699 4.08 17.0699 7.3V9.24", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 20.9H6.38002C2.50002 20.9 1.52002 19.93 1.52002 16.04V14.1C1.52002 10.22 2.49002 9.24 6.38002 9.24H16.09C19.46 9.24 20.64 9.97 20.89 12.71", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.1301 16.07C14.5801 16.07 14.1301 15.62 14.1301 15.07C14.1301 14.52 14.5701 14.07 15.1301 14.07C15.6801 14.07 16.1301 14.52 16.1301 15.07C16.1301 15.62 15.6801 16.07 15.1301 16.07Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.24 16.07C10.69 16.07 10.24 15.62 10.24 15.07C10.24 14.52 10.68 14.07 11.24 14.07C11.79 14.07 12.24 14.52 12.24 15.07C12.24 15.62 11.79 16.07 11.24 16.07Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M7.3501 16.07C6.8001 16.07 6.3501 15.62 6.3501 15.07C6.3501 14.52 6.7901 14.07 7.3501 14.07C7.9001 14.07 8.3501 14.52 8.3501 15.07C8.3501 15.62 7.9001 16.07 7.3501 16.07Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiSmartLock__clip0_3111_17595", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiSmartLock_default = AiSmartLock;
+export {
+  AiSmartLock_default as default
+};

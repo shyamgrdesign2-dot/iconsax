@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Terminal2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Terminal2__clip0_4482_15227)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.10965 11.44L5.88965 9.22L8.10965 7", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.4404 7L13.6604 9.22L11.4404 11.44", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5601 7.55957H18.0001C20.2101 7.55957 22.0001 9.34957 22.0001 11.5596V17.9996C22.0001 20.2096 20.2101 21.9996 18.0001 21.9996H9.33008C7.12008 21.9996 5.33008 20.2096 5.33008 17.9996V16.4396", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 6C2 3.79 3.79 2 6 2H13.56C15.77 2 17.56 3.79 17.56 6V12.44C17.56 14.65 15.77 16.44 13.56 16.44H6C3.79 16.44 2 14.65 2 12.44V9.92", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Terminal2__clip0_4482_15227", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Terminal2_default = Terminal2;
+export {
+  Terminal2_default as default
+};

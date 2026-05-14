@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Diaper2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Diaper2__clip0_2085_381318)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.8799 6.70996H19.0599", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.93994 10.2402H6.11994", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.41016 6.71C1.41016 4.11 3.52016 2 6.12016 2H17.8802C20.4802 2 22.5902 4.11 22.5902 6.71V12.59C22.5902 18.44 17.8502 22 12.0002 22C6.15016 22 1.41016 18.44 1.41016 12.59V10.49", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.46998 21.53V19.65C8.46998 16.4 5.83998 13.77 2.58998 13.77H1.47998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.02 6.2302C11.56 5.6902 12.44 5.6902 12.99 6.2302L14.25 7.4902C14.79 8.0302 14.79 8.9102 14.25 9.4602L12.99 10.7202C12.45 11.2602 11.57 11.2602 11.02 10.7202L9.75998 9.4602C9.21998 8.9202 9.21998 8.0402 9.75998 7.4902L11.02 6.2302Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.5298 21.53V19.65C15.5298 16.4 18.1598 13.77 21.4098 13.77H22.5198", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Diaper2__clip0_2085_381318", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Diaper2_default = Diaper2;
+export {
+  Diaper2_default as default
+};

@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FavoritePage5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FavoritePage5__clip0_2085_392138)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.8899 22H4.88989C3.22989 22 1.88989 20.66 1.88989 19V5C1.88989 3.34 3.22989 2 4.88989 2H18.8899C20.5499 2 21.8899 3.34 21.8899 5V19C21.8899 20.66 20.5499 22 18.8899 22Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.6199 9.50977H8.14991C8.14991 10.1998 7.58991 10.7498 6.90991 10.7498V13.0898C6.90991 16.1098 8.95991 18.7398 11.8899 19.4698C14.8199 18.7398 16.8699 16.1098 16.8699 13.0898V10.7498C16.1799 10.7498 15.6199 10.1898 15.6199 9.50977Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M5.0398 4.49012C5.0398 4.83012 4.7598 5.11012 4.4198 5.11012C4.0798 5.11012 3.7998 4.83012 3.7998 4.49012C3.7998 4.15012 4.0798 3.87012 4.4198 3.87012C4.7598 3.87012 5.0398 4.15012 5.0398 4.49012Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M7.5298 4.49012C7.5298 4.83012 7.24979 5.11012 6.90979 5.11012C6.56979 5.11012 6.28979 4.83012 6.28979 4.49012C6.28979 4.15012 6.56979 3.87012 6.90979 3.87012C7.24979 3.87012 7.5298 4.15012 7.5298 4.49012Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.0198 4.49012C10.0198 4.83012 9.73979 5.11012 9.39979 5.11012C9.05979 5.11012 8.77979 4.83012 8.77979 4.49012C8.77979 4.15012 9.05979 3.87012 9.39979 3.87012C9.73979 3.87012 10.0198 4.15012 10.0198 4.49012Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.3799 4.49023H19.3599", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.88989 6.98047H21.8899", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.0198 14.4902L11.2698 15.7302", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.2698 15.7302L13.7598 13.2402", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FavoritePage5__clip0_2085_392138", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FavoritePage5_default = FavoritePage5;
+export {
+  FavoritePage5_default as default
+};

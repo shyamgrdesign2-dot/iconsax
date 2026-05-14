@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SendBasket1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SendBasket1__clip0_4482_1129)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.6699 17.25C11.2599 17.25 10.9199 16.91 10.9199 16.5V12.5C10.9199 12.2 11.0999 11.92 11.3799 11.81C11.6599 11.69 11.98 11.76 12.2 11.97L13.8599 13.63C14.1499 13.92 14.1499 14.4 13.8599 14.69C13.5699 14.98 13.0899 14.98 12.7999 14.69L12.4199 14.31V16.5C12.4199 16.91 12.0799 17.25 11.6699 17.25Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16 22H8C5.25 22 3 19.75 3 17V12C3 9.25 5.25 7 8 7H16C18.75 7 21 9.25 21 12V17C21 19.75 18.75 22 16 22Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.84 8.75C15.43 8.75 15.09 8.41 15.09 8V5.84C15.09 4.14 13.7099 2.75 11.9999 2.75C10.2899 2.75 8.90991 4.13 8.90991 5.84V8C8.90991 8.41 8.56991 8.75 8.15991 8.75C7.74991 8.75 7.40991 8.41 7.40991 8V5.84C7.40991 3.31 9.46994 1.25 11.9999 1.25C14.5299 1.25 16.59 3.31 16.59 5.84V8C16.59 8.41 16.25 8.75 15.84 8.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SendBasket1__clip0_4482_1129", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SendBasket1_default = SendBasket1;
+export {
+  SendBasket1_default as default
+};

@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareBackwardSearch = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareBackwardSearch__clip0_4482_1264)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.14 11.57C16.14 9.05 14.09 7 11.57 7C9.05001 7 7 9.05 7 11.57C7 14.09 9.05001 16.14 11.57 16.14C14.09 16.14 16.14 14.09 16.14 11.57ZM13.6 12.09H11.41L11.79 12.47C12.08 12.76 12.08 13.24 11.79 13.53C11.64 13.68 11.45 13.75 11.26 13.75C11.07 13.75 10.88 13.68 10.73 13.53L9.07001 11.87C8.86001 11.66 8.79 11.33 8.91 11.05C9.03 10.77 9.30001 10.59 9.60001 10.59H13.6C14.01 10.59 14.35 10.93 14.35 11.34C14.35 11.75 14.01 12.09 13.6 12.09Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.25 2 2 4.25 2 7V17C2 19.75 4.25 22 7 22H17C19.75 22 22 19.75 22 17V7C22 4.25 19.75 2 17 2ZM18.28 18.28C18.13 18.43 17.94 18.5 17.75 18.5C17.56 18.5 17.37 18.43 17.22 18.28L15.29 16.35C14.26 17.15 12.97 17.64 11.57 17.64C8.22001 17.64 5.5 14.92 5.5 11.57C5.5 8.22 8.22001 5.5 11.57 5.5C14.92 5.5 17.64 8.22 17.64 11.57C17.64 12.97 17.16 14.26 16.35 15.29L18.28 17.22C18.57 17.51 18.57 17.99 18.28 18.28Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareBackwardSearch__clip0_4482_1264", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareBackwardSearch_default = SquareBackwardSearch;
+export {
+  SquareBackwardSearch_default as default
+};

@@ -1,0 +1,50 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Steering = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Steering__clip0_2085_392086)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.93994 10.47C2.46994 6.99 4.79994 4.11 7.93994 2.79C9.12994 2.28 10.4399 2 11.8199 2C13.1999 2 14.5099 2.28 15.6999 2.78C18.8399 4.11 21.1699 6.99 21.6999 10.47", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.6999 13.5303C21.1699 17.0103 18.8399 19.8903 15.6999 21.2103C14.5099 21.7203 13.1999 22.0003 11.8199 22.0003C10.4399 22.0003 9.12994 21.7203 7.93994 21.2203C4.79994 19.8903 2.46994 17.0103 1.93994 13.5303", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.8199 18.8801C15.6199 18.8801 18.6999 15.8001 18.6999 12.0001C18.6999 8.20012 15.6199 5.12012 11.8199 5.12012C8.01994 5.12012 4.93994 8.20012 4.93994 12.0001C4.93994 15.8001 8.01994 18.8801 11.8199 18.8801Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.8199 13.8801C12.8599 13.8801 13.6899 13.0401 13.6899 12.0001C13.6899 10.9601 12.8499 10.1201 11.8199 10.1201C10.7899 10.1201 9.93994 10.9601 9.93994 12.0001C9.93994 13.0401 10.7799 13.8801 11.8199 13.8801Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.5797 13.25H13.2197", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.5797 10.75H13.2197", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.4201 10.75H5.06006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.4201 13.25H5.06006", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.5698 18.7604V13.4004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.0698 18.7604V13.4004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.80994 5.82027L7.93994 2.78027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.7001 2.78027L14.8301 5.82027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.80994 18.1797L7.93994 21.2197", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.7001 21.2197L14.8301 18.1797", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Steering__clip0_2085_392086", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Steering_default = Steering;
+export {
+  Steering_default as default
+};

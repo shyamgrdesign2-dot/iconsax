@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Dildo4 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Dildo4__clip0_2085_389298)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.3299 5.33V16.67H11.6699V14C10.6099 14 9.58992 13.58 8.83992 12.83C8.08992 12.08 7.66992 11.06 7.66992 10C7.66992 9.65 7.80992 9.31 8.05992 9.06C8.30992 8.81 8.64992 8.67 8.99992 8.67C9.42992 8.67 9.83992 8.84 10.1399 9.14C10.7299 9.73 11.6699 10.67 11.6699 10.67V7.33C11.6699 7.33 11.3199 5.95 10.9799 4.59C10.8199 3.97 10.9599 3.31 11.3599 2.8C11.7499 2.3 12.3599 2 12.9999 2C14.8399 2 16.3299 3.49 16.3299 5.33Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.3299 16.6699V19.6699C16.3299 20.9599 15.2899 21.9999 13.9999 21.9999C12.7099 21.9999 11.6699 20.9599 11.6699 19.6699V16.6699H16.3299Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Dildo4__clip0_2085_389298", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Dildo4_default = Dildo4;
+export {
+  Dildo4_default as default
+};

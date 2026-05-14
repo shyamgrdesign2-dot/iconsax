@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Backpack6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M14.67 22H15C16.65 22 18 20.66 18 19V8.43C18 6.26 16.24 4.5 14.07 4.5H9.43C7.26 4.5 5.5 6.26 5.5 8.43V19C5.5 19.17 5.51 19.34 5.55 19.5C5.78 20.92 7.01 22 8.5 22H8.67", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M5.5 14.5V11.96C5.5 11.54 5.55 11.14 5.65 10.75C6.19 8.6 8.14 7 10.46 7H13.03C15.35 7 17.31 8.6 17.85 10.75C17.95 11.14 18 11.54 18 11.96V14.5", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M17.8499 10.75H7.9999H5.6499", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M8 19.5V10.75", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M5.5 19.5H5.55H8H17.85", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M14.2397 2.9V4.5H9.23975V2.9C9.23975 2.4 9.64975 2 10.1397 2H13.3497C13.8397 2 14.2397 2.4 14.2397 2.9Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M5.5 13.25V19.5H5C3.9 19.5 3 18.6 3 17.5V15.08C3 14.07 3.82 13.25 4.83 13.25H5.5Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M20.5 15.08V17.5C20.5 18.6 19.6 19.5 18.5 19.5H18V13.25H18.67C19.68 13.25 20.5 14.07 20.5 15.08Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " "
+] });
+var Backpack6_default = Backpack6;
+export {
+  Backpack6_default as default
+};

@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CodeComment26 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CodeComment26__clip0_2085_392177)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20 18.13C21.2 17.44 22 16.15 22 14.67V6C22 3.79 20.21 2 18 2H6C3.79 2 2 3.79 2 6V14.67C2 16.88 3.79 18.67 6 18.67H7.56V21.32C7.56 21.58 7.71 21.82 7.94 21.93C8.18 22.05 8.46 22.01 8.66 21.85L12.64 18.67H16", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.3401 12.5601L8.12012 10.3401L10.3401 8.12012", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.6802 8.11035L15.9002 10.3304L13.6802 12.5504", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CodeComment26__clip0_2085_392177", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CodeComment26_default = CodeComment26;
+export {
+  CodeComment26_default as default
+};

@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Thombstone = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Thombstone__clip0_2085_382944)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M18.67 8.67V18.67H5.32996V8.67C5.32996 4.98 8.31996 2 12 2C12.98 2 13.91 2.21 14.75 2.59C15.23 2.8 15.67 3.07 16.08 3.39C17.65 4.61 18.67 6.52 18.67 8.67Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.78 19.6699V20.9999C19.78 21.5499 19.33 21.9999 18.78 21.9999H5.21997C4.66997 21.9999 4.21997 21.5499 4.21997 20.9999V19.6699C4.21997 19.1099 4.66997 18.6699 5.21997 18.6699H18.78C19.33 18.6699 19.78 19.1099 19.78 19.6699Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.17 5.00009C15.69 5.53009 15.69 6.37009 15.17 6.89009L14.29 7.78009C14.14 7.92009 13.95 8.00009 13.76 8.00009C13.56 8.00009 13.37 7.92009 13.23 7.78009C12.93 7.48009 12.93 7.01009 13.23 6.72009L14 5.95009L13.64 5.59009C13.12 5.07009 13.12 4.23009 13.64 3.71009L14.75 2.59009C15.23 2.80009 15.67 3.07009 16.08 3.39009L14.82 4.65009L15.17 5.00009Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Thombstone__clip0_2085_382944", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Thombstone_default = Thombstone;
+export {
+  Thombstone_default as default
+};

@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareFountainPen = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareFountainPen__clip0_4482_2189)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16.7401 8.79257C16.2201 10.3526 15.9601 11.9726 15.9601 13.6026C15.9601 14.3126 16.0101 15.0226 16.1101 15.7226L15.5501 15.6126C15.0101 15.5026 14.4601 15.4526 13.9101 15.4526C13.0001 15.4526 12.1001 15.6026 11.2301 15.8926L10.8201 15.4826C10.8001 15.4526 10.7801 15.4326 10.7601 15.4126L9.3501 14.0026C9.3301 13.9826 9.3101 13.9626 9.2901 13.9526L8.87012 13.5326C9.34012 12.1426 9.43015 10.6526 9.15015 9.21257L9.0401 8.65257C11.3701 8.98257 13.7401 8.76257 15.9701 8.02257L17.1201 7.64258L16.7401 8.79257Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M17.1201 7.64258L13.8201 10.9426", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M10.76 17.7727C10.43 18.0927 10.01 18.2627 9.57997 18.2627C9.14997 18.2627 8.72998 18.0927 8.39998 17.7727L6.98994 16.3627C6.33994 15.7127 6.33994 14.6527 6.98994 14.0027C7.30994 13.6727 7.73993 13.5127 8.16993 13.5127C8.57993 13.5127 8.97993 13.6527 9.28993 13.9527L10.82 15.4827C11.41 16.1327 11.39 17.1427 10.76 17.7727Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22.7627H7C4.24 22.7627 2 20.5227 2 17.7627V7.7627C2 5.0027 4.24 2.7627 7 2.7627H17C19.76 2.7627 22 5.0027 22 7.7627V17.7627C22 20.5227 19.76 22.7627 17 22.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareFountainPen__clip0_4482_2189", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor", transform: "translate(0 0.762695)" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareFountainPen_default = SquareFountainPen;
+export {
+  SquareFountainPen_default as default
+};

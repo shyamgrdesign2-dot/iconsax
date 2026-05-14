@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Nuclearenergy = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Nuclearenergy__clip0_4482_4162)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6 7.20955L13.53 9.07955C13.47 9.18955 13.5 9.32956 13.61 9.38956C14.33 9.86956 14.8 10.6596 14.87 11.5296C14.87 11.6496 14.97 11.7496 15.09 11.7496L17.08 11.7396C17.53 11.7396 17.75 11.5096 17.73 11.2296C17.57 9.53955 16.67 7.99956 15.27 7.02956C15.16 6.95956 15.02 6.93955 14.89 6.96955C14.76 6.99955 14.66 7.08955 14.6 7.20955Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.35 7.23963L10.55 9.29963C9.66 9.80963 9.11999 10.7596 9.11999 11.7896L6.74 11.7996C6.61 11.7996 6.47999 11.7496 6.38999 11.6496C6.29999 11.5596 6.24999 11.4296 6.25999 11.2996C6.39999 9.59963 7.27999 8.05963 8.66999 7.07963C8.77999 7.00963 8.92 6.97963 9.05 7.00963C9.18 7.03963 9.28 7.11963 9.35 7.23963Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.65 16.3104L13.67 14.6404C13.56 14.4404 13.31 14.3504 13.09 14.4304C12.4 14.7304 11.62 14.7304 10.93 14.4404C10.71 14.3604 10.47 14.4504 10.35 14.6504L9.38998 16.3304C9.31998 16.4404 9.30998 16.5804 9.33998 16.7104C9.37998 16.8404 9.45999 16.9404 9.57999 17.0004C11.12 17.7204 12.91 17.7104 14.44 16.9704C14.56 16.9104 14.65 16.8004 14.68 16.6804C14.73 16.5604 14.72 16.4204 14.65 16.3104Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 12V12.01", stroke: "currentColor", strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Nuclearenergy__clip0_4482_4162", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Nuclearenergy_default = Nuclearenergy;
+export {
+  Nuclearenergy_default as default
+};

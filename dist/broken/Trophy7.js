@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Trophy7 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Trophy7__clip0_2085_392093)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.02034 2H7.87034C6.70034 2 5.78034 3 5.87034 4.16V4.24L6.47034 11.57C6.47034 11.61 6.48034 11.64 6.48034 11.68C6.56034 12.29 6.92034 12.83 7.45034 13.14L10.8103 15.11C11.4403 15.48 12.2203 15.48 12.8403 15.11L16.2003 13.14C16.7403 12.83 17.0903 12.29 17.1703 11.68C17.1703 11.64 17.1803 11.61 17.1803 11.57L17.7803 4.16C17.8803 3 16.9603 2 15.7903 2H14.6303", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.88022 4.24023H4.34022C3.17022 4.24023 2.25022 5.24023 2.35022 6.40023L2.63022 9.84023C2.71022 10.8802 3.58022 11.6802 4.62022 11.6802H6.48022", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.7802 4.24023H19.3202C20.4902 4.24023 21.4102 5.24023 21.3102 6.40023L21.0302 9.84023C20.9502 10.8802 20.0802 11.6802 19.0402 11.6802H17.1802", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.0304 21.9996H8.00043C7.33043 21.9996 6.85043 21.3596 7.04043 20.7196L7.22043 20.1096C7.34043 19.6796 7.74043 19.3896 8.18043 19.3896H15.8504C16.2904 19.3896 16.6904 19.6796 16.8104 20.1096L16.9904 20.7196C17.1804 21.3596 16.7004 21.9996 16.0304 21.9996Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.4502 14.1904V19.3904", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.2002 19.3904V14.1904", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Trophy7__clip0_2085_392093", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Trophy7_default = Trophy7;
+export {
+  Trophy7_default as default
+};

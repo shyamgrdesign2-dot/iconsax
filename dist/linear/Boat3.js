@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Boat3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Boat3__clip0_2085_386752)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.69 5.69L18.31 18.31M5.69 5.69C6.36 5.02 5.36 2 4.68 2C4 2 2 4.01 2 4.68C2 5.35 5.02 6.36 5.69 5.69ZM18.31 18.31C18.98 17.64 22 18.64 22 19.32C22 20 19.99 22 19.32 22C18.65 22 17.64 18.98 18.31 18.31ZM14.95 4.36C15.22 5.41 15.79 6.45 16.66 7.32C17.55 8.21 18.62 8.79 19.69 9.05M16.02 16.02C10.76 21.22 5.5 21.04 3.83 20.81C3.49 20.76 3.23 20.51 3.18 20.17C2.94 18.49 2.71 13.19 7.98 7.98C13.24 2.78 18.5 2.97 20.17 3.19C20.51 3.24 20.77 3.49 20.82 3.83C21.06 5.51 21.29 10.81 16.03 16.02H16.02ZM13.37 13.32C12.07 14.62 10.42 15.07 9.68 14.33C8.94 13.59 9.39 11.94 10.69 10.64C11.99 9.34 13.64 8.89 14.38 9.63C15.12 10.37 14.67 12.02 13.37 13.32Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Boat3__clip0_2085_386752", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Boat3_default = Boat3;
+export {
+  Boat3_default as default
+};

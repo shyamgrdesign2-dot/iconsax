@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareLiquid = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareLiquid__clip0_4482_1297)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.25 2 2 4.25 2 7V17C2 19.75 4.25 22 7 22H17C19.75 22 22 19.75 22 17V7C22 4.25 19.75 2 17 2ZM15.16 16.16C14.46 16.96 13.39 17.5 12 17.5C11.33 17.5 10.73 17.4 10.2 17.2C8.76995 16.67 7.89995 15.47 7.94995 13.79C8.01995 11.19 10.8701 10.6 10.8101 6.51C10.8101 6.51 16.04 9.61 16.04 13.79C16.05 14.64 15.74 15.49 15.16 16.16Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareLiquid__clip0_4482_1297", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareLiquid_default = SquareLiquid;
+export {
+  SquareLiquid_default as default
+};

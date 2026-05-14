@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SmallPanda1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SmallPanda1__clip0_2085_391982)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.1899 16.9102H12.8799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.04 17.7602V16.9102", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.17003 3.67008C8.50003 2.76008 7.01002 2.01008 5.74002 2.00008C4.14002 2.00008 2.77003 2.92008 2.23003 4.39008C1.79003 5.57008 2.03003 7.07008 2.79003 8.13008C3.08003 8.54008 3.13003 9.07008 2.93003 9.53008C2.33003 10.8801 2.02003 12.2801 2.02003 13.5701C2.02003 18.0001 6.50003 22.0001 12.02 22.0001C17.54 22.0001 22.02 18.0001 22.02 13.5701C22.02 12.2901 21.71 10.8801 21.11 9.53008C20.91 9.07008 20.95 8.54008 21.25 8.13008C22.01 7.07008 22.25 5.57008 21.81 4.39008C21.27 2.92008 19.9 1.99008 18.3 2.00008C17.02 2.00008 15.53 2.75008 14.86 3.67008", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.6101 5.98027C17.5601 4.97027 16.2901 4.14027 14.8301 3.67027C14.6701 3.62027 14.5101 3.57027 14.3501 3.53027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.65014 3.53027C9.49014 3.57027 9.33014 3.62027 9.17014 3.67027C7.71014 4.14027 6.44014 4.97027 5.39014 5.98027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.6899 11.0899C13.6899 10.2499 14.0699 9.62988 15.1299 9.62988C16.9599 9.62988 18.7699 11.5099 18.7699 13.4899C18.7699 14.5999 18.4399 15.7299 16.7399 15.7299C15.0399 15.7299 13.6899 12.9099 13.6899 11.0899Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.58 13.6498C16.58 14.2298 16.11 14.7098 15.52 14.7098C14.93 14.7098 14.46 14.2398 14.46 13.6498C14.46 13.0598 14.93 12.5898 15.52 12.5898C16.11 12.5898 16.58 13.0598 16.58 13.6498Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.25022 15.7299C5.54022 15.7299 5.22021 14.5999 5.22021 13.4899C5.22021 11.5099 7.03021 9.62988 8.86021 9.62988C9.92021 9.62988 10.3002 10.2499 10.3002 11.0899C10.3002 12.9099 9.04022 15.7299 7.25022 15.7299Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.41992 13.6498C7.41992 14.2298 7.88992 14.7098 8.47992 14.7098C9.06992 14.7098 9.53992 14.2398 9.53992 13.6498C9.53992 13.0598 9.06992 12.5898 8.47992 12.5898C7.88992 12.5898 7.41992 13.0598 7.41992 13.6498Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SmallPanda1__clip0_2085_391982", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SmallPanda1_default = SmallPanda1;
+export {
+  SmallPanda1_default as default
+};

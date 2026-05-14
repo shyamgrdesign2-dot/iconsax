@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bulldozer = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Bulldozer__clip0_4482_7080)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.1503 19.4598H4.84021C3.27021 19.4598 1.99023 18.1898 1.99023 16.6098C1.99023 15.0398 3.26021 13.7598 4.84021 13.7598H14.1503C15.7203 13.7598 17.0002 15.0298 17.0002 16.6098C17.0002 18.1898 15.7303 19.4598 14.1503 19.4598Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 14.4601V11.69C16 10.7 15.2 9.90004 14.21 9.90004C13.72 9.90004 13.3199 9.50004 13.3199 9.01004V6.33005C13.3199 5.34005 12.52 4.54004 11.53 4.54004H7.06006C6.07006 4.54004 5.27002 5.34005 5.27002 6.33005V9.01004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.58984 14.7104V12.6904", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.1001 4.54004V7.68004C8.1001 8.86004 9.0501 9.81004 10.2301 9.81004H13.3701", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 19.46H20C18.9 19.46 18 18.56 18 17.46V14.46L18.23 15.39C18.71 17.3 20.13 18.84 22 19.46Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7 16.71H12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Bulldozer__clip0_4482_7080", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Bulldozer_default = Bulldozer;
+export {
+  Bulldozer_default as default
+};

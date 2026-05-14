@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareForbiddenProduct1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareForbiddenProduct1__clip0_4482_1053)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17 22H7C4.25 22 2 19.75 2 17V7C2 4.25 4.25 2 7 2H17C19.75 2 22 4.25 22 7V17C22 19.75 19.75 22 17 22Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.29004 16.75C8.88004 16.75 8.54004 16.41 8.54004 16V8C8.54004 7.59 8.88004 7.25 9.29004 7.25H12.58C14.17 7.25 15.47 8.55 15.47 10.14C15.47 11.74 14.17 13.03 12.58 13.03H10.04V16C10.04 16.41 9.70004 16.75 9.29004 16.75ZM10.04 11.54H12.58C13.35 11.54 13.97 10.92 13.97 10.15C13.97 9.38 13.34 8.76 12.58 8.76H10.04V11.54Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.07001 20.08C2.85001 20.08 2.64 19.99 2.49 19.81C2.23 19.49 2.27 19.02 2.59 18.75L5.96 15.99C6.28 15.73 6.75 15.77 7.02 16.09C7.29 16.41 7.24002 16.88 6.92002 17.15L3.54999 19.91C3.39999 20.02 3.23001 20.08 3.07001 20.08Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.57 8.19988C17.35 8.19988 17.14 8.10988 16.99 7.92988C16.73 7.60988 16.77 7.13988 17.09 6.86988L20.45 4.11988C20.77 3.85988 21.24 3.89988 21.51 4.21988C21.77 4.53988 21.73 5.00988 21.41 5.27988L18.05 8.02988C17.9 8.14988 17.74 8.19988 17.57 8.19988Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareForbiddenProduct1__clip0_4482_1053", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareForbiddenProduct1_default = SquareForbiddenProduct1;
+export {
+  SquareForbiddenProduct1_default as default
+};

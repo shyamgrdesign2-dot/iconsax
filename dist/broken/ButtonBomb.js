@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ButtonBomb = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ButtonBomb__clip0_2085_389952)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.35998 19.5098C8.03998 19.5498 6.97998 20.6298 6.97998 21.9598V21.9998H9.35998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6396 19.5098H16.9796C18.3296 19.5098 19.4296 20.6098 19.4296 21.9598V21.9998H14.6396", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.64 19.5095H15.15V17.0195H11.25V18.5695", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5598 14.1201V16.0201C17.5598 16.5701 17.1098 17.0201 16.5598 17.0201H9.83984C9.28984 17.0201 8.83984 16.5701 8.83984 16.0201V14.1201", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.8501 14.0495C8.8501 14.0495 8.8501 14.0095 8.8501 13.9895C8.8501 12.7595 10.8001 11.7695 13.2101 11.7695C15.6201 11.7695 17.5701 12.7595 17.5701 13.9895V14.0095", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.4499 2V7.84C14.4499 8.52 13.8899 9.08 13.2099 9.08C12.5299 9.08 11.9699 8.52 11.9699 7.84V4.92C11.9599 5.6 11.3999 6.15 10.7299 6.15C10.1199 6.15 9.60986 5.71 9.50986 5.13C9.39986 5.71 8.88986 6.15 8.28986 6.15C7.68986 6.15 7.16986 5.71 7.06986 5.13C6.95986 5.71 6.44986 6.15 5.84986 6.15C5.16986 6.15 4.60986 5.59 4.60986 4.91V2.01", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.04004 5.13027V3.78027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.46973 5.13027V3.78027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.96 5.13027V3.78027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ButtonBomb__clip0_2085_389952", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ButtonBomb_default = ButtonBomb;
+export {
+  ButtonBomb_default as default
+};

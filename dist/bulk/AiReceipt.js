@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiReceipt = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiReceipt__clip0_3111_16246)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M20.9501 6.78V18.64C20.9501 21.44 19.43 22.11 17.55 20.11C16.68 19.18 15.37 19.25 14.61 20.26L13.54 21.69C12.69 22.81 11.31 22.81 10.46 21.69L9.39005 20.26C8.64005 19.26 7.33005 19.19 6.46005 20.11H6.45005C4.59005 22.12 3.05005 21.45 3.05005 18.65V6.78C3.05005 2.54 4.04005 1.47 8.02005 1.47H15.99C19.97 1.47 20.9601 2.54 20.9501 6.78Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.25 12.4L14.98 12.75C13.89 13.04 13.04 13.89 12.74 14.98L12.4 16.25C12.29 16.66 11.7 16.66 11.6 16.25L11.25 14.98C10.96 13.89 10.11 13.04 9.02001 12.74L7.75 12.4C7.34 12.29 7.34 11.7 7.75 11.6L9.02001 11.25C10.11 10.96 10.96 10.11 11.26 9.02001L11.6 7.75C11.71 7.34 12.3 7.34 12.4 7.75L12.75 9.02001C13.04 10.11 13.89 10.96 14.98 11.26L16.25 11.6C16.66 11.71 16.66 12.3 16.25 12.4Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiReceipt__clip0_3111_16246", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiReceipt_default = AiReceipt;
+export {
+  AiReceipt_default as default
+};

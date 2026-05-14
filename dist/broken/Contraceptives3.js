@@ -1,0 +1,50 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Contraceptives3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Contraceptives3__clip0_2085_390086)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.2398 15.1102C13.2398 16.1402 12.6798 16.9802 11.9998 16.9802C11.3198 16.9802 10.7598 16.1402 10.7598 15.1102C10.7598 14.0802 11.3198 13.2402 11.9998 13.2402C12.6798 13.2402 13.2398 14.0802 13.2398 15.1102Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9998 16.9805V18.2705C11.9998 18.8805 10.7598 19.2205 10.7598 19.8305C10.7598 20.4405 11.9998 20.7805 11.9998 21.3905V22.0105", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.76013 15.5096C7.03013 16.2396 6.05013 16.4396 5.56013 15.9496C5.07013 15.4596 5.27013 14.4796 6.00013 13.7496C6.73013 13.0196 7.71013 12.8196 8.20013 13.3096C8.69013 13.7996 8.49013 14.7796 7.76013 15.5096Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.56 15.9502L4.68 16.8302C4.25 17.2602 3.09 16.6202 2.66 17.0502C2.23 17.4802 2.87 18.6002 2.44 19.0302L2 19.4702", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.2399 15.5096C16.9699 16.2396 17.9499 16.4396 18.4399 15.9496C18.9299 15.4596 18.7299 14.4796 17.9999 13.7496C17.2699 13.0196 16.2899 12.8196 15.7999 13.3096C15.3099 13.7996 15.5099 14.7796 16.2399 15.5096Z", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.4399 15.9502L19.3199 16.8302C19.7499 17.2602 20.9099 16.6202 21.3399 17.0502C21.7699 17.4802 21.1299 18.6002 21.5599 19.0302L21.9999 19.4702", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 10.7598H3.29", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.77979 10.7598H7.01978", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.50977 10.7598H10.7498", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.2402 10.7598H14.4802", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.98 10.7598H18.22", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.71 10.7598H22", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.6998 4.49C18.0398 3.73 18.2198 2.88 18.2198 2H5.77979C5.77979 5.44 8.55978 8.27 11.9998 8.27C13.6498 8.27 15.1598 7.62 16.2598 6.55", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.4898 2C14.4898 3.37 13.3798 4.49 11.9998 4.49C10.6198 4.49 9.50977 3.38 9.50977 2", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Contraceptives3__clip0_2085_390086", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Contraceptives3_default = Contraceptives3;
+export {
+  Contraceptives3_default as default
+};

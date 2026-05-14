@@ -1,0 +1,9 @@
+scripts
+crawl-state
+src
+.env
+.env.local
+.env.example
+tsconfig.json
+node_modules
+.github

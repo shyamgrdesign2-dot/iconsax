@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const JumpRope3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#JumpRope3__clip0_2085_389733)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M12.08 9.12C14.21 9.12 15.94 7.52 15.94 5.56C15.94 3.6 14.21 2 12.08 2C9.94997 2 8.21997 3.59 8.21997 5.56C8.21997 7.53 9.94997 9.12 12.08 9.12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M5.94995 5.1C7.29995 3.22 9.50995 2 12 2C14.05 2 15.92 2.84 17.27 4.18C18.62 5.53 19.45 7.39 19.45 9.45V11.16", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M18.05 5.1C16.7 3.22 14.49 2 12 2C9.95005 2 8.08005 2.84 6.73005 4.18C5.38005 5.53 4.55005 7.39 4.55005 9.45V11.29", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.04005 11.89C7.04005 11.67 6.86005 11.5 6.65005 11.5H2.44005C2.22005 11.5 2.05005 11.68 2.05005 11.89V12.92C2.05005 13.14 2.23005 13.31 2.44005 13.31C2.68005 13.31 2.86005 13.52 2.83005 13.76L2.05005 19.38C2.05005 20.76 3.17005 21.87 4.54005 21.87C5.91005 21.87 7.04005 20.75 7.04005 19.38L6.26005 13.76C6.23005 13.52 6.41005 13.31 6.65005 13.31C6.87005 13.31 7.04005 13.13 7.04005 12.92V11.89Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.95 11.89C21.95 11.67 21.77 11.5 21.56 11.5H17.36C17.15 11.5 16.97 11.68 16.97 11.89V12.92C16.97 13.14 17.15 13.31 17.36 13.31C17.6 13.31 17.78 13.52 17.75 13.76L16.97 19.38C16.97 20.76 18.09 21.87 19.47 21.87C20.85 21.87 21.96 20.75 21.96 19.38L21.18 13.76C21.15 13.52 21.33 13.31 21.57 13.31C21.79 13.31 21.96 13.13 21.96 12.92V11.89H21.95Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "JumpRope3__clip0_2085_389733", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var JumpRope3_default = JumpRope3;
+export {
+  JumpRope3_default as default
+};

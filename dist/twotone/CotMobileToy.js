@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CotMobileToy = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CotMobileToy__clip0_2085_385131)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.53003 11.7302C8.08003 7.08018 16.18 7.08018 21.73 11.7302", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.13 5.32988C13.0137 5.32988 13.73 4.61354 13.73 3.72988C13.73 2.84623 13.0137 2.12988 12.13 2.12988C11.2464 2.12988 10.53 2.84623 10.53 3.72988C10.53 4.61354 11.2464 5.32988 12.13 5.32988Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.1299 8.24008V5.33008", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.2399 14.2298C11.7299 13.7398 12.5299 13.7398 13.0199 14.2298L14.1599 15.3698C14.6499 15.8598 14.6499 16.6598 14.1599 17.1498L13.0199 18.2898C12.5299 18.7798 11.7299 18.7798 11.2399 18.2898L10.0999 17.1498C9.60992 16.6598 9.60992 15.8598 10.0999 15.3698L11.2399 14.2298Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M4.66992 13.8701V18.1401", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.5001 21.5202C5.2801 21.7402 4.9801 21.8702 4.6701 21.8702C4.3601 21.8702 4.0601 21.7502 3.8401 21.5202L2.4301 20.1102C1.8601 19.5302 1.8701 18.6002 2.4401 18.0302C3.0101 17.4602 3.9401 17.4502 4.5201 18.0202L4.6701 18.1702L4.8201 18.0202C5.4001 17.4502 6.3301 17.4602 6.9001 18.0302C7.4701 18.6002 7.4801 19.5302 6.9101 20.1102L5.5001 21.5202Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19.6001 13.8701V17.0701", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.6 21.8698C20.9254 21.8698 22 20.7953 22 19.4698C22 18.1443 20.9254 17.0698 19.6 17.0698C18.2745 17.0698 17.2 18.1443 17.2 19.4698C17.2 20.7953 18.2745 21.8698 19.6 21.8698Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12.1299 11.29V13.86", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CotMobileToy__clip0_2085_385131", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CotMobileToy_default = CotMobileToy;
+export {
+  CotMobileToy_default as default
+};

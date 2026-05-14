@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Avatar4 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Avatar4__clip0_2085_390929)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.34 16.2896V6.13965L20.48 7.73965C20.73 7.92965 20.88 8.22965 20.88 8.53965V13.7496C20.88 15.1496 19.74 16.2896 18.34 16.2896Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.66 16.2896V6.13965L3.52 7.73965C3.27 7.92965 3.12 8.22965 3.12 8.53965V13.7496C3.12 15.1496 4.26 16.2896 5.66 16.2896Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.98 11.4896L12.44 12.2596C12.16 12.3996 11.83 12.3996 11.55 12.2596L10.01 11.4896C9.66999 11.3196 9.45999 10.9696 9.45999 10.5996V8.18962C9.45999 6.85962 10.41 5.64962 11.74 5.51962C13.26 5.36962 14.54 6.55962 14.54 8.03962V10.5896C14.54 10.9696 14.33 11.3196 13.99 11.4796L13.98 11.4896Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 12.4902V22.0002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.27 3.36994V5.50994H10.73V3.36994C10.73 2.68994 10.07 2.20994 9.42999 2.41994L6.35999 3.38994C5.93999 3.51994 5.65999 3.90994 5.65999 4.33994V15.3899C5.65999 18.8599 8.33999 21.8899 11.81 21.9999C15.28 22.1099 18.35 19.2299 18.35 15.6599V4.33994C18.35 3.89994 18.07 3.51994 17.65 3.38994L14.58 2.41994C13.94 2.21994 13.28 2.69994 13.28 3.36994H13.27Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 7.41016V9.95016", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.34 13.75L14.53 15.02V21.36", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.65999 13.75L9.46999 15.02V21.36", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.34 10.5801H20.88", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.12 10.5801H5.66", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Avatar4__clip0_2085_390929", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Avatar4_default = Avatar4;
+export {
+  Avatar4_default as default
+};

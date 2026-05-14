@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const TiktokSquare = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#TiktokSquare__clip0_4482_11667)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16.44 2H7.56C4.49 2 2 4.49 2 7.56V16.44C2 19.51 4.49 22 7.56 22H16.44C19.51 22 22 19.51 22 16.44V7.56C22 4.49 19.51 2 16.44 2Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.6098 17.75C8.5098 17.75 6.7998 16.04 6.7998 13.94C6.8098 12.15 8.2798 10.69 10.0598 10.69H10.3298C10.7398 10.69 11.0798 11.03 11.0798 11.44C11.0798 11.85 10.7398 12.19 10.3298 12.19H10.0598C9.0998 12.19 8.3098 12.98 8.2998 13.95C8.2998 15.22 9.3398 16.25 10.6098 16.25C11.8798 16.25 12.9198 15.21 12.9198 13.94V7C12.9198 6.59 13.2598 6.25 13.6698 6.25C14.0798 6.25 14.4198 6.59 14.4198 7V13.94C14.4198 16.04 12.7098 17.75 10.6098 17.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4499 10.53C14.4999 10.53 12.9199 8.95 12.9199 7C12.9199 6.59 13.2599 6.25 13.6699 6.25C14.0799 6.25 14.4199 6.59 14.4199 7C14.4199 8.12 15.3299 9.03 16.4499 9.03C16.8599 9.03 17.1999 9.37 17.1999 9.78C17.1999 10.19 16.8599 10.53 16.4499 10.53Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "TiktokSquare__clip0_4482_11667", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var TiktokSquare_default = TiktokSquare;
+export {
+  TiktokSquare_default as default
+};

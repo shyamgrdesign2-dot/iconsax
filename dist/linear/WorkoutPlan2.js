@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const WorkoutPlan2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#WorkoutPlan2__clip0_2085_386940)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.13996 17.8198C7.57996 17.5298 6.57996 16.5798 6.57996 15.1698C6.57996 14.5998 6.75996 14.0498 7.10996 13.5898C7.45996 13.1398 7.93996 12.8098 8.48996 12.6698C9.03996 12.5198 9.61996 12.5698 10.15 12.7898C10.67 13.0098 11.11 13.3998 11.39 13.8998C11.74 13.7298 12.12 13.6398 12.5 13.6398C12.8 13.6398 13.09 13.6898 13.38 13.7898C13.06 12.7998 13.06 11.7298 13.38 10.7298V10.1198C13.1 10.2498 12.79 10.3098 12.48 10.3098C12.17 10.3098 11.86 10.2398 11.58 10.1198C11.27 9.9098 11.05 9.5998 10.96 9.2498C10.86 8.8898 10.9 8.5098 11.06 8.1798C11.27 7.7698 11.63 7.4498 12.07 7.2998C12.51 7.1498 12.99 7.1798 13.4 7.3898C14.03 7.6198 14.6 7.9998 15.06 8.4898C15.19 8.5998 15.34 8.7298 15.48 8.8698C16.28 9.6498 16.87 10.6198 17.19 11.6898C17.51 12.7598 17.56 13.8898 17.34 14.9898C17.26 15.4898 17.13 15.9898 16.97 16.4798C16.7 17.3198 15.68 17.7198 14.47 17.8998C12.7 17.9798 10.92 17.9498 9.15996 17.8098L9.13996 17.8198Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.38 13.9004C11.08 14.0604 10.84 14.3304 10.71 14.6404", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.38 13.8301C13.38 13.8301 13.84 13.9301 14.24 14.6801", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.4 6.58996C21.4 5.68996 21.04 4.82996 20.4 4.19996C19.76 3.56996 18.9 3.20996 18.01 3.20996H5.98998C5.08998 3.20996 4.22998 3.56996 3.59998 4.19996C2.95998 4.82996 2.60998 5.68996 2.59998 6.58996V18.67C2.61998 19.56 2.97998 20.41 3.60998 21.03C4.23998 21.65 5.09998 22 5.98998 22H18.01C18.9 22 19.75 21.65 20.39 21.03C21.02 20.41 21.39 19.56 21.4 18.67V6.58996Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.91 2V4.38", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.08997 2V4.38", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "WorkoutPlan2__clip0_2085_386940", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var WorkoutPlan2_default = WorkoutPlan2;
+export {
+  WorkoutPlan2_default as default
+};

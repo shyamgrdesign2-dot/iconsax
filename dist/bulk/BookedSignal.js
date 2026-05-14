@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BookedSignal = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BookedSignal__clip0_4482_943)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21 12.5C21 15.11 19.94 17.49 18.21 19.21C16.49 20.94 14.11 22 11.5 22C6.28 22 2 17.72 2 12.5C2 9.89 3.05998 7.51 4.78998 5.79C6.50998 4.06 8.89 3 11.5 3C12.31 3 13.08 3.1 13.82 3.28C13.3 4.06 13 4.99 13 6C13 8.77 15.23 11 18 11C19.01 11 19.94 10.7 20.72 10.18C20.9 10.92 21 11.69 21 12.5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.69995 8.31982V16.6798", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.5 11.3599V16.6799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3 13.6401V16.6801", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18 1C16.51 1 15.18 1.64 14.28 2.68C14.11 2.87 13.95 3.07 13.82 3.28C13.3 4.06 13 4.99 13 6C13 8.77 15.23 11 18 11C19.01 11 19.94 10.7 20.72 10.18C20.93 10.05 21.13 9.89 21.32 9.72C22.36 8.82 23 7.49 23 6C23 3.23 20.77 1 18 1ZM19.87 6.23L18.69 6.7L18.22 7.88C18.1 8.17 17.9 8.17 17.77 7.88L17.3 6.7L16.12 6.23C15.83 6.11 15.83 5.91 16.12 5.78L17.3 5.31L17.77 4.13C17.89 3.81 18.09 3.81 18.22 4.13L18.69 5.31L19.87 5.78C20.17 5.91 20.17 6.11 19.87 6.23Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BookedSignal__clip0_4482_943", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BookedSignal_default = BookedSignal;
+export {
+  BookedSignal_default as default
+};

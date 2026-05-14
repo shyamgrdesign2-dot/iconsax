@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HeartPuzzle5 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HeartPuzzle5__clip0_2085_392259)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0001 11.9995V9.52953H12.4201C13.1101 9.52953 13.6701 8.96953 13.6701 8.27953C13.6701 7.58953 13.1101 7.02953 12.4201 7.02953H12.0001V5.39953C10.7701 3.98953 8.88006 3.16953 6.79006 3.49953C4.52006 3.85953 2.65006 5.58953 2.14006 7.82953C1.81006 9.27953 2.06006 10.6795 2.65006 11.9995", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9901 11.9991H8.66015V11.5791C8.66015 10.8891 8.10015 10.3291 7.41015 10.3291C6.72015 10.3291 6.16015 10.8891 6.16015 11.5791V11.9991H2.65015C4.88015 16.9291 11.9901 20.5691 11.9901 20.5691", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.85 7.82953C21.34 5.58953 19.47 3.85953 17.2 3.49953C15.11 3.16953 13.23 3.98953 11.99 5.39953V7.02953H12.41C13.1 7.02953 13.66 7.58953 13.66 8.27953C13.66 8.96953 13.1 9.52953 12.41 9.52953H11.99V11.9995H15.32V12.4195C15.32 13.1095 15.88 13.6695 16.57 13.6695C17.26 13.6695 17.82 13.1095 17.82 12.4195V11.9995H21.33C21.92 10.6895 22.17 9.27953 21.84 7.82953H21.85Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0001 12V14.53H11.5801C10.8901 14.53 10.3301 15.09 10.3301 15.78C10.3301 16.47 10.8901 17.03 11.5801 17.03H12.0001V20.57C12.0001 20.57 19.1201 16.93 21.3401 12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HeartPuzzle5__clip0_2085_392259", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HeartPuzzle5_default = HeartPuzzle5;
+export {
+  HeartPuzzle5_default as default
+};

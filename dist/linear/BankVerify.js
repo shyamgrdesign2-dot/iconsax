@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BankVerify = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BankVerify__clip0_4482_12995)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.9001 16.2998L6.1501 18.0498L5.1001 16.9998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.24994 17.7297L2.84994 18.5097L2.97994 19.4797C3.04994 20.0197 3.47994 20.4397 4.01994 20.5197L4.99994 20.6497L5.77994 21.2497C6.20994 21.5797 6.80994 21.5797 7.23994 21.2497L8.01994 20.6497L8.98994 20.5197C9.52994 20.4497 9.94994 20.0197 10.0299 19.4797L10.1599 18.4997C10.1599 18.4997 10.4599 18.1097 10.7599 17.7197C11.0899 17.2897 11.0899 16.6897 10.7599 16.2597L10.1599 15.4797L10.0299 14.5097C9.95994 13.9697 9.52994 13.5497 8.98994 13.4697L8.00994 13.3397L7.22994 12.7397C6.79994 12.4097 6.19994 12.4097 5.76994 12.7397L4.98994 13.3397L4.01994 13.4697C3.47994 13.5397 3.05994 13.9697 2.97994 14.5097L2.84994 15.4897C2.84994 15.4897 2.54994 15.8797 2.24994 16.2697C1.91994 16.6997 1.91994 17.2997 2.24994 17.7297Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.6401 12V15", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20 17.4997V9.42969", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14 20.5H22V19.5L21 17.5H14", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5 9.43039H22V7.08039C22 6.68039 21.76 6.32039 21.4 6.16039L13.4 2.67039C13.14 2.56039 12.86 2.56039 12.6 2.67039L4.6 6.16039C4.24 6.32039 4 6.68039 4 7.08039V8.43039C4 8.98039 4.45 9.43039 5 9.43039Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BankVerify__clip0_4482_12995", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BankVerify_default = BankVerify;
+export {
+  BankVerify_default as default
+};

@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiCutScissors = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiCutScissors__clip0_3111_12595)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.8 4.48001L20.88 4.69001C20.22 4.84001 19.71 5.36002 19.56 6.01002L19.35 6.93001C19.33 7.03001 19.19 7.03001 19.16 6.93001L18.95 6.01002C18.8 5.35001 18.28 4.84001 17.63 4.69001L16.71 4.48001C16.61 4.46001 16.61 4.32001 16.71 4.29001L17.63 4.08001C18.29 3.93001 18.8 3.41001 18.95 2.76001L19.16 1.84001C19.18 1.74001 19.32 1.74001 19.35 1.84001L19.56 2.76001C19.71 3.42001 20.23 3.93001 20.88 4.08001L21.8 4.29001C21.9 4.31001 21.9 4.45001 21.8 4.48001Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.15 2.70001H8.96C4.08 2.70001 2.13 4.65001 2.13 9.53001V15.39C2.13 20.27 4.08 22.22 8.96 22.22H14.82C19.7 22.22 21.65 20.27 21.65 15.39V9.53001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.39 11.39C9.43 11.39 10.26 10.55 10.26 9.52002C10.26 8.49002 9.42 7.65002 8.39 7.65002C7.36 7.65002 6.52 8.49002 6.52 9.52002C6.52 10.55 7.36 11.39 8.39 11.39Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.39 17.29C9.43 17.29 10.26 16.45 10.26 15.42C10.26 14.39 9.42 13.55 8.39 13.55C7.36 13.55 6.52 14.39 6.52 15.42C6.52 16.45 7.36 17.29 8.39 17.29Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.26 9.23999L10.09 14.6", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.26 15.67L10.09 10.31", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiCutScissors__clip0_3111_12595", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiCutScissors_default = AiCutScissors;
+export {
+  AiCutScissors_default as default
+};

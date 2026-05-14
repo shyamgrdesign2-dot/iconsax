@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Launcher6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Launcher6__clip0_2085_390217)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.1333 6.36619L11.7876 11.7119L14.3049 14.2292L19.6506 8.88349L17.1333 6.36619Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.4802 3.00977L19.2202 4.26977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.74 4.26953L20.48 5.52953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M23.0002 5.5293L21.7002 6.8293", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.93 14.8602L13.68 16.1102L9.27002 11.7102L10.52 10.4502L11.79 11.7202L14.31 14.2402L14.93 14.8602Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.14 18.2396L5.81 16.4296L8.64 13.5996L12.41 17.3696L9.4 20.3796C8.63 21.1596 7.38 21.1896 6.57 20.4496L4.14 18.2396ZM4.14 18.2396L3.95 18.0596L3.01 18.9996C2.79 19.2196 2.42 19.2196 2.19 18.9996L1.6 18.4096C1.2 18.0096 1 17.4796 1 16.9596", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.47021 12.6297L4.88022 12.2197C5.10022 11.9997 5.47021 11.9997 5.70021 12.2197L7.33021 13.8597", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.37988 14.1101L10.4099 13.0801", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.8999 16.6296L12.9299 15.5996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.93 9.14016C21.65 9.42016 21.29 9.55016 20.92 9.55016C20.55 9.55016 20.19 9.42016 19.91 9.14016L19.66 8.89016L16.88 6.11016C16.32 5.55016 16.32 4.65016 16.88 4.08016C17.45 3.52016 18.35 3.52016 18.91 4.08016L21.94 7.11016C22.5 7.68016 22.5 8.58016 21.94 9.14016H21.93Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Launcher6__clip0_2085_390217", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Launcher6_default = Launcher6;
+export {
+  Launcher6_default as default
+};

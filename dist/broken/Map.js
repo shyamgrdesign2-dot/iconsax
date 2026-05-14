@@ -1,0 +1,50 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Map = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Map__clip0_2085_389969)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.64 21.0003L14.89 21.0603C15.18 21.1203 15.48 21.1203 15.78 21.0603L20.45 19.9803C21.36 19.7703 22 18.9703 22 18.0303V5.35034C22 4.07034 20.8 3.11035 19.55 3.40035L15.76 4.28035C15.47 4.35035 15.16 4.35035 14.87 4.28035L8.9 2.94035C8.6 2.87035 8.29 2.88035 7.99 2.95035L3.52 4.06034C2.63 4.28034 2 5.08034 2 6.00034V18.6603C2 19.9603 3.22 20.9103 4.48 20.6003L7.99 19.7303C8.29 19.6503 8.6 19.6503 8.9 19.7203L9.36 19.8203", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.39014 11.5205L7.17014 13.3005", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.1799 11.5205L5.3999 13.3005", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.1601 7.65039L11.3501 10.0304", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.0501 11.0203L11.3501 10.0303", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9201 8.12988L11.3501 10.0099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4599 17.1504L10.6899 14.6904", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.1799 16.5904L10.6899 14.6904", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.4402 13.7607L10.7002 14.6807", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M8.68006 7.4607C9.02006 7.4607 9.30006 7.1807 9.30006 6.8407C9.30006 6.5007 9.02006 6.2207 8.68006 6.2207C8.34006 6.2207 8.06006 6.5007 8.06006 6.8407C8.06006 7.1807 8.34006 7.4607 8.68006 7.4607Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M15.9398 13.1902C16.2798 13.1902 16.5598 12.9102 16.5598 12.5702C16.5598 12.2302 16.2798 11.9502 15.9398 11.9502C15.5998 11.9502 15.3198 12.2302 15.3198 12.5702C15.3198 12.9102 15.5998 13.1902 15.9398 13.1902Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M6.0702 17.6707C6.4102 17.6707 6.6902 17.3907 6.6902 17.0507C6.6902 16.7107 6.4102 16.4307 6.0702 16.4307C5.7302 16.4307 5.4502 16.7107 5.4502 17.0507C5.4502 17.3907 5.7302 17.6707 6.0702 17.6707Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M19.0599 18.4099C19.3999 18.4099 19.6799 18.1299 19.6799 17.7899C19.6799 17.4499 19.3999 17.1699 19.0599 17.1699C18.7199 17.1699 18.4399 17.4499 18.4399 17.7899C18.4399 18.1299 18.7199 18.4099 19.0599 18.4099Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M19.3002 7.61988C19.6402 7.61988 19.9202 7.33988 19.9202 6.99988C19.9202 6.65988 19.6402 6.37988 19.3002 6.37988C18.9602 6.37988 18.6802 6.65988 18.6802 6.99988C18.6802 7.33988 18.9602 7.61988 19.3002 7.61988Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Map__clip0_2085_389969", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Map_default = Map;
+export {
+  Map_default as default
+};

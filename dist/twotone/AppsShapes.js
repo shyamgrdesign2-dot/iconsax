@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AppsShapes = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AppsShapes__clip0_4482_8533)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.1302 15.8601C21.5302 17.2601 21.5302 19.5401 20.1302 20.9401C18.7302 22.3401 16.4502 22.3401 15.0402 20.9401C13.6402 19.5401 13.6402 17.2601 15.0402 15.8601C16.4402 14.4601 18.7202 14.4601 20.1302 15.8601Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.5298 7.18998L18.4298 10.29C17.9598 10.76 17.1998 10.76 16.7298 10.29L13.6298 7.18998C13.1598 6.71998 13.1598 5.95998 13.6298 5.48998L16.7298 2.38998C17.1998 1.91998 17.9598 1.91998 18.4298 2.38998L21.5298 5.48998C21.9998 5.95998 21.9998 6.71998 21.5298 7.18998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.14 3.87996C9.54 5.27996 9.54 7.55996 8.14 8.96996C6.74 10.37 4.46 10.37 3.05 8.96996C1.65 7.56996 1.65 5.28996 3.05 3.87996C4.45 2.47996 6.73 2.47996 8.14 3.87996Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.40996 15.09H7.79996C8.45996 15.09 8.99996 15.63 8.99996 16.29V20.67C8.99996 21.33 8.45996 21.87 7.79996 21.87H3.40996C2.74996 21.87 2.20996 21.33 2.20996 20.67V16.29C2.20996 15.63 2.74996 15.09 3.40996 15.09Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AppsShapes__clip0_4482_8533", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AppsShapes_default = AppsShapes;
+export {
+  AppsShapes_default as default
+};

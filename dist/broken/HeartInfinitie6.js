@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HeartInfinitie6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HeartInfinitie6__clip0_2085_392325)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.14 1.99023C13.28 1.99023 12.52 2.38023 12 2.98023C11.48 2.38023 10.72 1.99023 9.86 1.99023C8.28 1.99023 7 3.27023 7 4.85023C7 8.01023 12 10.5602 12 10.5602C12 10.5602 17 8.00023 17 4.85023C17 3.27023 15.72 1.99023 14.14 1.99023Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.9401 14.9302L13.6201 14.5202L14.0301 12.2002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.06006 19.3506L10.3801 19.7606L9.97006 22.0806", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.6201 14.5205C14.5401 13.6305 15.7301 13.0305 17.0501 12.8405C19.6601 12.4705 22.0001 14.5005 22.0001 17.1405C22.0001 19.0705 20.7501 20.6705 19.0601 21.2505", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.92 21.2005C13.99 20.5905 12.45 19.0905 11.79 17.1205L11.69 16.8305C10.99 14.7205 9.15 13.1805 6.95 12.8605C4.34 12.4805 2 14.5005 2 17.1405C2 19.7805 4.34 21.8005 6.95 21.4305C8.27 21.2405 9.45 20.6405 10.37 19.7605H10.38", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HeartInfinitie6__clip0_2085_392325", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HeartInfinitie6_default = HeartInfinitie6;
+export {
+  HeartInfinitie6_default as default
+};

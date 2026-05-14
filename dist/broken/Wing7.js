@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Wing7 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Wing7__clip0_2085_392101)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.8999 8.89062V9.85063C4.8999 11.5006 6.2399 12.8506 7.8999 12.8506H15.3399", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.97 4.94043H2.96C2.43 4.94043 2 5.37043 2 5.90043C2 6.72043 2.34 7.47043 2.88 8.01043C3.42 8.56043 4.16 8.89043 4.99 8.89043H13.3", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.45 4.94043H16.65C19.6 4.94043 22 7.34043 22 10.2904V18.1004C22 18.6304 21.57 19.0604 21.04 19.0604H18.84C18.31 19.0604 17.88 18.6304 17.88 18.1004V17.7504C17.88 17.2204 17.45 16.7904 16.93 16.7904H10.79C9.14004 16.7904 7.79004 15.4504 7.79004 13.8004V12.8404", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Wing7__clip0_2085_392101", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Wing7_default = Wing7;
+export {
+  Wing7_default as default
+};

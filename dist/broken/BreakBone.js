@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BreakBone = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BreakBone__clip0_4482_8803)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2304 3.43994L16.4404 4.22994", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.1104 14.22H16.5404L18.0904 15.77C18.6704 16.35 19.5104 16.57 20.3004 16.36C21.0904 16.15 21.7104 15.53 21.9204 14.74C22.1304 13.95 21.9104 13.11 21.3304 12.53L20.7904 11.99", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2197 9.78004H16.5397L18.0897 8.23004C18.9797 7.34004 20.4297 7.35004 21.3197 8.23004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2V3.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.76953 3.43994L7.55953 4.22994", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.76953 20.56L7.55953 19.77", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 21.99V20.88", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2304 20.56L16.4404 19.77", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.78035 14.22H7.46035L5.91035 15.77C5.02035 16.66 3.57035 16.65 2.68035 15.77C1.79035 14.88 1.79035 13.44 2.68035 12.54L3.22035 12L2.68035 11.46C2.10035 10.88 1.87035 10.04 2.08035 9.25003C2.29035 8.46003 2.91035 7.84003 3.70035 7.63003C4.49035 7.42003 5.34035 7.65003 5.91035 8.23003L7.46035 9.78003H10.8903", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BreakBone__clip0_4482_8803", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BreakBone_default = BreakBone;
+export {
+  BreakBone_default as default
+};

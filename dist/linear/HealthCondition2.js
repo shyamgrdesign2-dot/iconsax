@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HealthCondition2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HealthCondition2__clip0_4482_8620)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.66986 22H6.10986C4.44986 22 3.10986 20.66 3.10986 19V5C3.10986 3.34 4.44986 2 6.10986 2H13.4399C15.0999 2 16.4399 3.34 16.4399 5V8.67", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7 2.10999V4.10999C6.97 4.44999 7.22 4.73999 7.56 4.77999H12C12.34 4.74999 12.58 4.44999 12.56 4.10999V2.10999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.8902 16.67C20.8902 16.18 20.4902 15.78 20.0002 15.78H18.2202V14C18.2202 13.51 17.8202 13.11 17.3302 13.11H15.5502C15.0602 13.11 14.6602 13.51 14.6602 14V15.78H12.8802C12.3902 15.78 11.9902 16.18 11.9902 16.67V18.45C11.9902 18.94 12.3902 19.34 12.8802 19.34H14.6602V21.12C14.6602 21.61 15.0602 22.01 15.5502 22.01H17.3302C17.8202 22.01 18.2202 21.61 18.2202 21.12V19.34H20.0002C20.4902 19.34 20.8902 18.94 20.8902 18.45V16.67Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HealthCondition2__clip0_4482_8620", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HealthCondition2_default = HealthCondition2;
+export {
+  HealthCondition2_default as default
+};

@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Boat2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Boat2__clip0_2085_389666)", children: [
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M19.6399 13.75C19.6399 11.25 15.6399 2.75 9.13989 2.75C9.82989 4.13 10.2499 5.7 10.4999 7.25", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M10.5 7.25C11.16 11.32 10.64 15.25 10.64 15.25", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M10.4999 7.25C9.13989 10.25 6.49989 14.25 4.13989 16.25", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.99997 19.2499L2.85997 17.4599C2.52997 17.1799 2.67997 16.6499 3.10997 16.5799L21.01 13.8899C21.42 13.8299 21.72 14.2599 21.52 14.6199L19 19.2399", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 21.2498L3.67 19.9998C4.32 19.5198 5.12 19.3498 5.88 19.4998C6.28 19.5798 6.67 19.7498 7.01 19.9998C8 20.7398 9.36 20.7398 10.34 19.9998C11.33 19.2598 12.69 19.2598 13.67 19.9998C14.66 20.7398 16.02 20.7398 17 19.9998C17.34 19.7398 17.73 19.5798 18.13 19.4998C18.89 19.3498 19.69 19.5198 20.34 19.9998L22.01 21.2498", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Boat2__clip0_2085_389666", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Boat2_default = Boat2;
+export {
+  Boat2_default as default
+};

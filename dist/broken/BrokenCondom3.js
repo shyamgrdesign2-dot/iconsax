@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BrokenCondom3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BrokenCondom3__clip0_2085_390077)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.2198 22H5.77979", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 2L2 22", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.9798 22.0002V19.4702L15.7298 18.2202L14.4898 19.4702L13.2398 18.2202H10.7598L13.2398 14.4902L14.4898 15.7302L15.7298 14.4902L16.9798 15.7302V8.85023C16.9798 8.30023 16.8898 7.78023 16.7198 7.28023C16.2798 5.95023 15.2798 4.86023 13.9898 4.30023C13.5598 4.11023 13.2698 3.70023 13.2398 3.24023", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.2398 3.17V3.24C13.2398 2.56 12.6898 2 11.9998 2C11.3098 2 10.7598 2.56 10.7598 3.24", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.76 3.16992V3.23992C10.73 3.69992 10.44 4.10992 10.01 4.29992C8.25002 5.06992 7.02002 6.80992 7.02002 8.84992V8.86992", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.02002 12.5996V16.9796V21.9996", stroke: "currentColor", strokeWidth: "1.41", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BrokenCondom3__clip0_2085_390077", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BrokenCondom3_default = BrokenCondom3;
+export {
+  BrokenCondom3_default as default
+};

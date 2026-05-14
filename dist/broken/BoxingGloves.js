@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BoxingGloves = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BoxingGloves__clip0_2085_385700)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.58013 5.70996C7.93013 6.47996 7.34013 7.29996 6.83013 8.07996C5.54013 10.04 4.95013 12.5 6.29013 14.59C6.29013 14.59 9.66013 19.34 12.7601 18.65C12.7601 18.65 16.1301 17.53 17.6801 17.44C17.6801 17.44 20.7001 17.01 21.2201 15.11C21.2201 15.11 21.8001 11.83 19.2701 12.02H19.2101C18.7701 12.06 18.3601 12.26 18.0501 12.57C17.6701 12.95 17.1901 13.54 17.1701 14.2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.2698 12.0204L21.0098 10.3204C21.0098 10.3204 22.8198 8.46039 21.0098 6.22039C19.9298 4.88039 18.2598 3.76039 17.0998 3.07039C15.3998 2.07039 13.2798 2.02039 11.5898 3.02039", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.50991 12.1699L2.66991 14.4499C2.04991 14.9499 1.82991 15.7999 2.12991 16.5199C2.79991 18.1199 4.12991 20.0599 6.76991 21.4799C7.39991 21.8199 8.16991 21.7299 8.72991 21.2799C9.92991 20.3099 11.9199 18.7099 11.9199 18.7099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BoxingGloves__clip0_2085_385700", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BoxingGloves_default = BoxingGloves;
+export {
+  BoxingGloves_default as default
+};

@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Watchsquare = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Watchsquare__clip0_4482_4731)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.9801 5.1H15.3201V2.75C15.3201 2.34 14.9801 2 14.5701 2C14.1601 2 13.8201 2.34 13.8201 2.75V5.1H10.1802V2.75C10.1802 2.34 9.84018 2 9.43018 2C9.02018 2 8.68018 2.34 8.68018 2.75V5.1H8.02014C6.41014 5.1 5.1001 6.41 5.1001 8.02V15.98C5.1001 17.59 6.41014 18.9 8.02014 18.9H8.68018V21.25C8.68018 21.66 9.02018 22 9.43018 22C9.84018 22 10.1802 21.66 10.1802 21.25V18.9H13.8201V21.25C13.8201 21.66 14.1601 22 14.5701 22C14.9801 22 15.3201 21.66 15.3201 21.25V18.9H15.9801C17.5901 18.9 18.9001 17.59 18.9001 15.98V8.02C18.9001 6.41 17.5901 5.1 15.9801 5.1ZM12.8801 12.97C12.8801 13.45 12.4901 13.85 12.0001 13.85C11.5101 13.85 11.1201 13.46 11.1201 12.97V9.89C11.1201 9.41 11.5101 9.01 12.0001 9.01C12.4901 9.01 12.8801 9.4 12.8801 9.89V12.97Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Watchsquare__clip0_4482_4731", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Watchsquare_default = Watchsquare;
+export {
+  Watchsquare_default as default
+};

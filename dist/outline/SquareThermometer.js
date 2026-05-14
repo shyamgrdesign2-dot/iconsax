@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SquareThermometer = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SquareThermometer__clip0_4482_3188)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9998 17.26C10.5998 17.26 9.35979 16.37 8.91979 15.04C8.51979 13.84 8.84977 12.53 9.74977 11.66V9C9.74977 7.76 10.7598 6.75 11.9998 6.75C13.2398 6.75 14.2498 7.76 14.2498 9V11.66C15.1498 12.52 15.4798 13.83 15.0798 15.03C14.6398 16.36 13.3998 17.26 11.9998 17.26ZM11.9998 8.24001C11.5898 8.24001 11.2498 8.58001 11.2498 8.99001V12C11.2498 12.24 11.1398 12.46 10.9498 12.6C10.3498 13.05 10.0998 13.84 10.3398 14.56C10.5798 15.28 11.2498 15.76 11.9998 15.76C12.7498 15.76 13.4198 15.28 13.6598 14.56C13.8998 13.84 13.6498 13.06 13.0498 12.61C12.8598 12.47 12.7498 12.25 12.7498 12.01V9C12.7498 8.58 12.4098 8.24001 11.9998 8.24001Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22.75H7C3.83 22.75 1.25 20.17 1.25 17V7C1.25 3.83 3.83 1.25 7 1.25H17C20.17 1.25 22.75 3.83 22.75 7V17C22.75 20.17 20.17 22.75 17 22.75ZM7 2.75C4.66 2.75 2.75 4.66 2.75 7V17C2.75 19.34 4.66 21.25 7 21.25H17C19.34 21.25 21.25 19.34 21.25 17V7C21.25 4.66 19.34 2.75 17 2.75H7Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SquareThermometer__clip0_4482_3188", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SquareThermometer_default = SquareThermometer;
+export {
+  SquareThermometer_default as default
+};

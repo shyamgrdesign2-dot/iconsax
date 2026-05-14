@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Sword23 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Sword23__clip0_2085_387114)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.09001 19.0098L3.82001 19.3298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.75999 20.6699L5.35999 20.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.46 17.6196C10.15 17.9296 9.64999 17.9296 9.34999 17.6196L8.14998 18.6296L6.94999 19.6496L5.10999 17.7996L6.11999 16.6096L7.13999 15.4096C6.82999 15.1096 6.82999 14.6096 7.13999 14.3096C7.43999 13.9996 7.93999 13.9996 8.24999 14.3096L10.46 16.5196C10.76 16.8196 10.76 17.3196 10.46 17.6196Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.76001 20.6698C6.06001 20.9698 6.06001 21.4698 5.76001 21.7698C5.45001 22.0798 4.95001 22.0798 4.65001 21.7698L2.99001 20.1098C2.69001 19.8098 2.69001 19.3098 2.99001 19.0098C3.29001 18.7098 3.78001 18.6998 4.09001 19.0098L5.10001 17.7998L6.94001 19.6498L5.75001 20.6698H5.76001Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.54999 14.5701L14.66 8.13008L17.08 5.58008L18.65 3.92008C19.12 3.45008 19.22 3.34008 19.85 3.15008C20.1 3.07008 21.8 2.69008 21.98 2.79008C22.09 2.97008 21.7 4.67008 21.62 4.92008C21.42 5.55008 21.31 5.65008 20.85 6.12008L10.18 16.2401", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Sword23__clip0_2085_387114", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Sword23_default = Sword23;
+export {
+  Sword23_default as default
+};

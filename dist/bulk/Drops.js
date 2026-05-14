@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Drops = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Drops__clip0_4482_6502)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M4.67004 17.2796C4.67004 13.4096 9.35999 9.88965 9.35999 9.88965C9.35999 9.88965 14.05 13.4096 14.05 17.2796C14.05 19.3896 12.53 21.4996 9.35999 21.4996C6.18999 21.4996 4.67004 19.3896 4.67004 17.2796Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.15 7.87C14.15 5.06 17.5601 2.5 17.5601 2.5C17.5601 2.5 20.97 5.06 20.97 7.87C20.97 9.41 19.8601 10.94 17.5601 10.94C15.2601 10.94 14.15 9.41 14.15 7.87Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.03003 5.83C3.03003 4.09 5.14001 2.5 5.14001 2.5C5.14001 2.5 7.25 4.08 7.25 5.83C7.25 6.78 6.56001 7.73 5.14001 7.73C3.72001 7.73 3.03003 6.78 3.03003 5.83Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Drops__clip0_4482_6502", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Drops_default = Drops;
+export {
+  Drops_default as default
+};

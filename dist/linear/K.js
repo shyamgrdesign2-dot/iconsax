@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const K = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#K__clip0_2085_391163)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.98 18.93L12.13 12L17.98 5.07C18.64 4.28 18.54 3.1 17.76 2.44C16.97 1.78 15.79 1.88 15.13 2.66L9.31 9.55V3.87C9.31 2.84 8.47 2 7.44 2C6.41 2 5.57 2.84 5.57 3.87V20.14C5.57 21.17 6.41 22.01 7.44 22.01C8.47 22.01 9.31 21.17 9.31 20.14V15.36L9.69 14.91L15.12 21.35C15.49 21.79 16.02 22.01 16.55 22.01C16.97 22.01 17.4 21.87 17.75 21.57C18.54 20.9 18.64 19.73 17.97 18.94L17.98 18.93Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "K__clip0_2085_391163", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var K_default = K;
+export {
+  K_default as default
+};

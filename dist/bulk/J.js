@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const J = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#J__clip0_2085_391569)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.4199 3.87V12H14.6899V3.87C14.6899 2.84 15.5199 2 16.5599 2C17.5999 2 18.4199 2.84 18.4199 3.87Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M18.42 12V15.58C18.42 19.12 15.54 22 12 22C8.45996 22 5.57996 19.12 5.57996 15.58V14.4C5.57996 13.36 6.40996 12.53 7.43996 12.53C8.46996 12.53 9.30996 13.36 9.30996 14.4V15.58C9.30996 17.06 10.52 18.27 12 18.27C13.48 18.27 14.69 17.06 14.69 15.58V12H18.42Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "J__clip0_2085_391569", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var J_default = J;
+export {
+  J_default as default
+};

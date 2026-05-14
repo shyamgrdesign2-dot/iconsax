@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Gun153 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Gun153__clip0_2085_387101)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.66 7.18019C18.66 4.43019 16.43 2.2002 13.68 2.2002C10.93 2.2002 8.70001 4.43019 8.70001 7.18019C8.70001 9.93019 10.93 12.1602 13.68 12.1602C16.43 12.1602 18.66 9.93019 18.66 7.18019Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.09 12.1503L21.28 17.2603C22.02 17.8003 22.22 18.8303 21.73 19.6103L20.88 20.9803C20.39 21.7603 19.39 22.0303 18.57 21.6103L6.48001 15.0803C4.82001 14.0403 4.31001 11.8503 5.34001 10.1903C5.51001 9.92027 5.71001 9.68027 5.93001 9.47027L8.67001 8.28027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.84 15.4804L10.71 11.3604", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.37 2.2002H2.66C3.67 2.2002 4.58 2.8002 4.97 3.7302L6.29 8.9402", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.33 7.18051C15.33 6.26051 14.59 5.52051 13.67 5.52051C12.75 5.52051 12.01 6.26051 12.01 7.18051C12.01 8.10051 12.75 8.84051 13.67 8.84051C14.59 8.84051 15.33 8.10051 15.33 7.18051Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.62 19.6904C3.62 19.6904 4.93 20.3504 6.24 18.1904", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.04 9.83977C2.47 9.83977 2 9.37977 2 8.79977C2 8.21977 2.47 7.75977 3.04 7.75977C3.61 7.75977 4.08 8.21977 4.08 8.79977C4.08 9.37977 3.61 9.83977 3.04 9.83977Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Gun153__clip0_2085_387101", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Gun153_default = Gun153;
+export {
+  Gun153_default as default
+};

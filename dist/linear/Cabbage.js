@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cabbage = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cabbage__clip0_2085_382154)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 14.85C13.74 8.69995 22 8.69995 22 8.69995V10.89C22 13.57 20.95 16.14 19.07 18.03C17.19 19.92 14.65 20.99 12 20.99C9.35 20.99 6.8 19.93 4.93 18.03C3.05 16.14 2 13.57 2 10.89V8.69995C2 8.69995 15.11 8.69995 11.78 20.99", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.21 8.87004C20.24 8.59004 20.26 8.30004 20.26 8.02004V6.25004C20.26 6.25004 13.57 5.46004 12 9.83004C10.43 5.46004 3.73999 6.25004 3.73999 6.25004V8.02004C3.73999 8.30004 3.75999 8.59004 3.78999 8.87004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.63 6.26C17.06 5.27 16.23 4.45 15.25 3.87C14.26 3.3 13.14 3 12.01 3C10.88 3 9.75002 3.3 8.77002 3.87C7.78002 4.44 6.96001 5.26 6.39001 6.26", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.61001 17.7C4.61001 17.7 1.95001 14.11 5.67001 11.62", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.19999 20.24C8.19999 20.24 5.56999 16.63 9.27999 14.14", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.4 17.7C19.4 17.7 22.06 14.11 18.33 11.62", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.8 20.24C15.8 20.24 18.44 16.63 14.72 14.14", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.06 3.08997C12.22 3.71997 11.61 4.60997 11.32 5.62997C11.02 6.63997 11.06 7.71997 11.42 8.70997", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cabbage__clip0_2085_382154", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cabbage_default = Cabbage;
+export {
+  Cabbage_default as default
+};

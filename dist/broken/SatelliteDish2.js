@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SatelliteDish2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SatelliteDish2__clip0_2085_385647)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.66 14.7599C14.85 15.0299 14 15.1399 13.15 15.0899M8.78999 13.1299C7.08999 11.4299 6.48999 9.04988 6.98999 6.86988M14.01 7.90988L16.92 4.99988M11.13 5.29988L19.32 13.4899C20.14 14.3099 20.14 15.6499 19.18 16.2799C15.39 18.7199 10.28 18.2899 6.95999 14.9699C3.63999 11.6499 3.20999 6.53988 5.64999 2.74988C6.27999 1.77988 7.61999 1.78988 8.43999 2.59988M13.34 17.8099L15.2 20.4199C15.67 21.0799 15.2 21.9999 14.39 21.9999H7.13999C6.32999 21.9999 5.84999 21.0799 6.32999 20.4199L9.07999 16.5699C10.41 17.3199 11.87 17.7299 13.35 17.8099H13.34ZM19.75 3.72988C19.75 4.58988 19.05 5.29988 18.18 5.29988C17.31 5.29988 16.61 4.59988 16.61 3.72988C16.61 2.85988 17.31 2.15988 18.18 2.15988C19.05 2.15988 19.75 2.85988 19.75 3.72988Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SatelliteDish2__clip0_2085_385647", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SatelliteDish2_default = SatelliteDish2;
+export {
+  SatelliteDish2_default as default
+};

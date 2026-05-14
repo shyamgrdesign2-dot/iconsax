@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cardio = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cardio__clip0_2085_385703)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.5 10L18.5 10.5M21.31 18.02L22 22H2M20 10.5L20.62 14.07M10 8C7.5 10.5 7 12 10.5 13.5C12.8333 14.5 13.5 16.8333 12.5 20.5L15 20M12 8.95C13.5 10 17 8.5 18.5 6M2.5 8.5C6 6.5 11.19 7.5 11.9 8.7C12.75 10.15 9.5 14.5 2.5 19L4.5 20.5M15 4C15 5.1 14.1 6 13 6C11.9 6 11 5.1 11 4C11 2.9 11.9 2 13 2C14.1 2 15 2.9 15 4Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cardio__clip0_2085_385703", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cardio_default = Cardio;
+export {
+  Cardio_default as default
+};

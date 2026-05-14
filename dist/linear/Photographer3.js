@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Photographer3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Photographer3__clip0_2085_391085)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.73 5.78C16.42 5.78 16.98 6.34 16.98 7.02C16.98 7.7 16.42 8.26 15.73 8.26H15.76C15.64 10.18 14.17 11.84 12.23 11.95C10.08 12.06 8.29999 10.35 8.29999 8.22V8.26H8.25999C7.56999 8.26 7.01999 7.7 7.01999 7.02C7.01999 6.34 7.57999 5.78 8.25999 5.78C8.25999 3.72 9.92999 2 11.99 2C14.05 2 15.72 3.71 15.72 5.78H15.73Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.76 8.26953C10.76 8.95953 11.32 9.50953 12.01 9.50953C12.7 9.50953 13.25 8.94953 13.25 8.26953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.68 11.7002C10.44 12.6602 9.63999 13.4002 8.61999 13.5502L5.42999 14.1802C4.19999 14.3602 3.28999 15.4502 3.28999 16.6902V20.0002C3.28999 21.1002 4.18999 22.0002 5.28999 22.0002H18.72C19.82 22.0002 20.72 21.1002 20.72 20.0002V16.6902C20.72 15.4502 19.81 14.3602 18.58 14.1802L15.39 13.5502C14.38 13.4102 13.58 12.6702 13.33 11.7202", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.49 19.5095C14.49 20.8895 13.38 21.9995 12 21.9995C10.62 21.9995 9.50999 20.8895 9.50999 19.5095C9.50999 18.1295 10.62 17.0195 12 17.0195C13.38 17.0195 14.49 18.1295 14.49 19.5095Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.62 19.5096C12.62 19.8496 12.34 20.1296 12 20.1296C11.66 20.1296 11.38 19.8496 11.38 19.5096C11.38 19.1696 11.66 18.8896 12 18.8896C12.34 18.8896 12.62 19.1696 12.62 19.5096Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.26999 13.6201V17.0201", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.73 13.6201V17.0201", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.98 21.9995H7.01999V17.0195H16.98V21.9995Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.35999 3.08984L10.76 4.48984H13.25L14.65 3.08984", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.31999 13.3398C9.94999 13.9298 10.85 14.4898 12 14.4898C13.15 14.4898 14.05 13.9298 14.68 13.3398", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Photographer3__clip0_2085_391085", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Photographer3_default = Photographer3;
+export {
+  Photographer3_default as default
+};

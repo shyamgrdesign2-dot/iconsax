@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cheese2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cheese2__clip0_2085_391199)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 10.4102H22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.59 3.47091C17.34 3.38091 17.07 3.39091 16.83 3.50091L2 10.4109V12.6109C2 13.0509 2.25 13.4909 2.68 13.6309C3.53 13.9109 4.14 14.7109 4.14 15.6609C4.14 16.6109 3.53 17.4109 2.68 17.6909C2.26 17.8309 2 18.2609 2 18.7109V19.6609C2 20.2109 2.45 20.6609 3 20.6609H14.59C14.59 19.1609 16.1 18.0209 17.67 18.6609C18.46 18.9809 18.94 19.8009 18.94 20.6609H20.99C21.54 20.6609 21.99 20.2109 21.99 19.6609V10.4209C21.99 5.55091 18.74 3.90091 17.58 3.47091H17.59Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.49 10.7207C10.49 11.8707 9.56001 12.7907 8.42001 12.7907C7.28001 12.7907 6.35001 11.8607 6.35001 10.7207", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.46 14.0817C19.46 14.9517 18.76 15.6517 17.89 15.6517C17.02 15.6517 16.32 14.9517 16.32 14.0817C16.32 13.2117 17.02 12.5117 17.89 12.5117C18.76 12.5117 19.46 13.2117 19.46 14.0817Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.06 16.8005C12.06 17.6705 11.36 18.3705 10.49 18.3705C9.62001 18.3705 8.92001 17.6705 8.92001 16.8005C8.92001 15.9305 9.62001 15.2305 10.49 15.2305C11.36 15.2305 12.06 15.9305 12.06 16.8005Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cheese2__clip0_2085_391199", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cheese2_default = Cheese2;
+export {
+  Cheese2_default as default
+};

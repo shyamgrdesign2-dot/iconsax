@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Baseballbat_2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Baseballbat_2__clip0_4482_3821)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.11996 20.5004L6.32998 19.2904C10.47 15.1504 14.92 11.3204 19.63 7.84036C21.2 6.68036 21.37 4.39036 19.99 3.01036C18.61 1.63036 16.3199 1.80036 15.1599 3.37036C11.6799 8.08036 7.84998 12.5304 3.70998 16.6704L2.49996 17.8804C1.77996 18.6004 1.77996 19.7804 2.49996 20.5004C3.21996 21.2204 4.39996 21.2204 5.11996 20.5004Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.18994 12.1904L10.8099 14.8104", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.8101 9.55957L13.4401 12.1896", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.56006 14.8096L8.19006 17.4396", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5 20C18.8807 20 20 18.8807 20 17.5C20 16.1193 18.8807 15 17.5 15C16.1193 15 15 16.1193 15 17.5C15 18.8807 16.1193 20 17.5 20Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Baseballbat_2__clip0_4482_3821", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Baseballbat_2_default = Baseballbat_2;
+export {
+  Baseballbat_2_default as default
+};

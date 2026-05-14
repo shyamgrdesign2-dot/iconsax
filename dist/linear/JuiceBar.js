@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const JuiceBar = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#JuiceBar__clip0_2085_386814)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.7 6.38965H8.50003C7.35003 6.38965 6.44003 7.35965 6.50003 8.49965L6.60003 10.1896C7.37003 9.85965 8.21003 9.72965 9.05003 9.82965C11.24 10.0896 12.75 10.7096 14.58 10.0696L14.69 8.52965C14.77 7.36965 13.86 6.38965 12.7 6.38965Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.49 6.39034C11.54 5.80034 11.76 5.24034 12.12 4.77034C12.48 4.30034 12.97 3.95034 13.53 3.75034C14.09 3.55034 14.69 3.53034 15.27 3.67034C15.85 3.81034 16.37 4.12034 16.77 4.55034C17.18 4.98034 17.45 5.52034 17.55 6.11034C17.66 6.69034 17.59 7.29034 17.36 7.84034C17.13 8.39034 16.75 8.86034 16.26 9.19034C15.77 9.52034 15.19 9.71034 14.6 9.72034L14.68 8.54034C14.76 7.38034 13.85 6.40034 12.69 6.40034H11.48L11.49 6.39034Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.61001 10.2201C7.38001 9.89015 8.23001 9.77015 9.06001 9.87015C11.25 10.1201 12.76 10.7401 14.59 10.1001L14.05 20.1101C13.99 21.1701 13.12 22.0001 12.05 22.0001H9.13001C8.07001 22.0001 7.19001 21.1701 7.13001 20.1101L6.60001 10.2201H6.61001Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.39001 2H6.80001C7.24001 2 7.67001 2.17 8.00001 2.47C8.33001 2.77 8.53001 3.18 8.57001 3.62C8.95001 7.78 9.93002 18.57 9.93002 18.57", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "JuiceBar__clip0_2085_386814", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var JuiceBar_default = JuiceBar;
+export {
+  JuiceBar_default as default
+};

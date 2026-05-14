@@ -1,0 +1,44 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Trophy66 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Trophy66__clip0_2085_392045)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.92 9.85953V11.3095C6.92 11.9295 6.41 12.4395 5.79 12.4395H4.34C4.03 12.4395 3.73 12.3195 3.51 12.0995L2.34 10.9295C2.12 10.7095 2 10.4095 2 10.0995V8.64953C2 8.02953 2.51 7.51953 3.13 7.51953H4.58C4.89 7.51953 5.19 7.63953 5.41 7.85953L6.58 9.02953C6.8 9.24953 6.92 9.54953 6.92 9.85953Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.92009 10.5395C7.84009 10.9695 9.14009 11.2595 10.8801 11.2595C16.6401 11.2595 17.6301 8.10949 15.6001 6.96949C14.0801 6.11949 12.4101 5.97949 10.8801 5.97949C9.35009 5.97949 7.68009 6.11949 6.16009 6.96949C5.77009 7.18949 5.50009 7.47949 5.34009 7.79949", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.54005 12.4396C4.20005 13.8396 4.05005 15.2896 4.05005 16.2296C4.05005 18.2396 6.83005 19.1296 10.89 19.1296C14.95 19.1296 17.73 18.2296 17.73 16.2296C17.73 14.5896 17.28 11.4096 16.12 9.59961", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.54 8.14977C17 8.54977 17.44 8.97977 17.64 9.18977C18.17 9.71977 18.93 10.4998 19.33 11.1398C19.63 11.6198 20.27 11.7798 20.75 11.4698C21.24 11.1698 21.38 10.5298 21.08 10.0498C20.59 9.24977 19.79 8.40977 19.14 7.76977C18.47 7.09977 17.62 6.28977 16.81 5.77977C16.32 5.47977 15.69 5.62977 15.39 6.10977C15.26 6.31977 15.22 6.54977 15.24 6.77977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M20.1201 8.78995L21.7301 7.17995C22.0901 6.81995 22.0901 6.23995 21.7301 5.87995L20.9901 5.13995C20.7001 4.84995 20.2701 4.78995 19.9301 4.96995L18.9001 5.93995L18.0801 6.75995", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.24 12.4804L18.75 10.3604", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.9299 18.9203C13.9699 16.5203 16.0499 14.8103 17.5599 14.3203", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9699 15.0198H9.77991C9.43991 15.0198 9.15991 14.7398 9.15991 14.3998V13.7098C9.15991 13.3698 9.43991 13.0898 9.77991 13.0898H11.9699C12.3099 13.0898 12.5899 13.3698 12.5899 13.7098V14.3998C12.5899 14.7398 12.3099 15.0198 11.9699 15.0198Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.8899 13.0995V11.2295", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.86011 11.2197V13.0997", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.86011 15.0195V15.8195C9.86011 16.0495 9.95011 16.2695 10.1101 16.4295L10.5001 16.8195C10.7001 17.0195 11.0301 17.0195 11.2401 16.8195L11.6301 16.4295C11.7901 16.2695 11.8801 16.0495 11.8801 15.8195V15.0195", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Trophy66__clip0_2085_392045", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Trophy66_default = Trophy66;
+export {
+  Trophy66_default as default
+};

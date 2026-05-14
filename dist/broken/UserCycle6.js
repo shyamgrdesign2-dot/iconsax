@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const UserCycle6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#UserCycle6__clip0_2085_392222)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.61 18.11L21.19 19.94C21.41 20.64 21.52 20.99 21.49 21.21C21.43 21.66 21.06 22 20.62 22C20.42 22 20.1 21.84 19.47 21.51C19.2 21.36 19.07 21.29 18.93 21.25C18.65 21.17 18.35 21.17 18.07 21.25C17.93 21.29 17.8 21.36 17.53 21.51C16.9 21.84 16.58 22 16.38 22C15.94 22 15.57 21.66 15.51 21.21C15.48 20.99 15.59 20.64 15.81 19.94L16.39 18.11M20.61 18.11C20.05 18.51 19.37 18.75 18.62 18.75H18.38C17.63 18.75 16.95 18.51 16.39 18.11M20.61 18.11C21.45 17.49 22 16.5 22 15.38C22 13.51 20.49 12 18.62 12H18.38C16.51 12 15 13.51 15 15.38C15 16.5 15.55 17.49 16.39 18.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13 11C13 12.1 12.11 13 11 13C9.89 13 9 12.1 9 11C9 9.9 9.89 9 11 9C12.11 9 13 9.9 13 11Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.5 19.89C12.04 19.96 11.58 20 11.1 20C8.58 20 6.3 18.99 4.65 17.35C3.02 15.73 2 13.48 2 11V10.96", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.72021 7.49C4.10021 4.26 7.33021 2 11.1002 2C15.4802 2 19.1302 5.06 20.0002 9.13", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.3602 4.63965L15.2402 6.75965", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.76014 15.2402L4.64014 17.3602", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "UserCycle6__clip0_2085_392222", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var UserCycle6_default = UserCycle6;
+export {
+  UserCycle6_default as default
+};

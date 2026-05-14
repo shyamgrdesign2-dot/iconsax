@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CircleHome01 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CircleHome01__clip0_4482_3502)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.23 9.88965L13.23 7.55965C12.51 6.99965 11.5 6.99965 10.77 7.55965L7.76999 9.88965C7.27999 10.2697 7 10.8497 7 11.4697V15.0497C7 16.1497 7.9 17.0497 9 17.0497H15C16.1 17.0497 17 16.1497 17 15.0497V11.4697C17 10.8497 16.72 10.2697 16.23 9.88965Z", stroke: "currentColor", strokeWidth: "1.5" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 22C6.5 22 2 17.5 2 12C2 6.5 6.5 2 12 2C17.5 2 22 6.5 22 12C22 17.5 17.5 22 12 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CircleHome01__clip0_4482_3502", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CircleHome01_default = CircleHome01;
+export {
+  CircleHome01_default as default
+};

@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HomeEnhance = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HomeEnhance__clip0_3242_29605)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.8601 18.45L20.5501 18.75C19.6101 18.97 18.8701 19.7 18.6601 20.64L18.3601 21.95C18.3301 22.09 18.1201 22.09 18.1001 21.95L17.8001 20.64C17.5801 19.7 16.8501 18.96 15.9101 18.75L14.6001 18.45C14.4601 18.42 14.4601 18.21 14.6001 18.19L15.9101 17.89C16.8501 17.67 17.5901 16.94 17.8001 16L18.1001 14.69C18.1301 14.55 18.3401 14.55 18.3601 14.69L18.6601 16C18.8801 16.94 19.6101 17.68 20.5501 17.89L21.8601 18.19C22.0001 18.22 22.0001 18.43 21.8601 18.45Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 12.4501V10.5101C22 9.16006 21.39 7.88006 20.33 7.04006L15.47 3.15006C13.44 1.53006 10.56 1.53006 8.53 3.15006L3.67 7.04006C2.62 7.88006 2 9.16006 2 10.5101V17.4901C2 19.9401 3.99 21.9301 6.44 21.9301H12.3", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HomeEnhance__clip0_3242_29605", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HomeEnhance_default = HomeEnhance;
+export {
+  HomeEnhance_default as default
+};

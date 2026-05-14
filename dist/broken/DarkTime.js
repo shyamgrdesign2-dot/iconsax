@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const DarkTime = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#DarkTime__clip0_4482_8287)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.7403 9.74997C22.7403 14.1 20.7403 18.58 16.8403 20.74C12.9403 22.9 8.08033 22.22 4.92033 19.06C1.77033 15.92 1.09033 11.05 3.25033 7.14997C5.42033 3.24997 9.90033 1.24997 14.2503 2.24997", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.2298 6.98999C20.4558 6.98999 21.4498 5.99606 21.4498 4.76999C21.4498 3.54392 20.4558 2.54999 19.2298 2.54999C18.0037 2.54999 17.0098 3.54392 17.0098 4.76999C17.0098 5.99606 18.0037 6.98999 19.2298 6.98999Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.2496 6.84998C11.2996 6.75998 11.2996 6.63998 11.2396 6.54998C11.1796 6.45998 11.0696 6.41998 10.9696 6.43998C9.9196 6.67998 8.9596 7.20998 8.1996 7.96998C6.7396 9.35998 6.1396 11.43 6.6496 13.38C7.1596 15.33 8.6796 16.86 10.6296 17.36C12.5796 17.86 14.6496 17.27 16.0396 15.81C16.7996 15.05 17.3296 14.09 17.5696 13.04C17.5896 12.93 17.5396 12.83 17.4596 12.77C17.3696 12.71 17.2596 12.7 17.1596 12.76C15.4696 13.67 13.3796 13.36 12.0196 12C10.6596 10.64 10.3496 8.54998 11.2596 6.85998L11.2496 6.84998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "DarkTime__clip0_4482_8287", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var DarkTime_default = DarkTime;
+export {
+  DarkTime_default as default
+};

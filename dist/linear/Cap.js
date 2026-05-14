@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cap = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cap__clip0_4482_11877)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.99 15.8799C15.12 13.5999 8.62 13.5999 2.75 15.8799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.98013 14.73L1.93013 19.22C1.74013 20.04 2.02013 20.89 2.66013 21.44C3.30013 21.99 4.18013 22.14 4.96013 21.84C9.42013 20.25 14.3001 20.25 18.7601 21.84C19.5401 22.14 20.4301 21.99 21.0601 21.44C21.6901 20.89 21.9801 20.04 21.7901 19.22C21.4101 17.61 21.0401 16.01 20.7401 14.73", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.7602 14.7302V10.8802C20.7602 5.97023 16.7802 1.99023 11.8702 1.99023C6.96023 1.99023 2.99023 5.98024 2.99023 10.8902V14.7402", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.54004 14.37V9.98C8.54004 7.28 9.52004 4.68 11.3 2.66L11.88 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.1999 14.37V9.98C15.1999 7.28 14.2199 4.68 12.4399 2.66L11.8599 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cap__clip0_4482_11877", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cap_default = Cap;
+export {
+  Cap_default as default
+};

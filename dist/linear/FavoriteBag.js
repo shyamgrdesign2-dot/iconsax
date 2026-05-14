@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FavoriteBag = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FavoriteBag__clip0_4482_531)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 22H8C5.25 22 3 19.75 3 17V12C3 9.25 5.25 7 8 7H16C18.75 7 21 9.25 21 12V17C21 19.75 18.75 22 16 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.16003 8V5.84C8.16003 3.72 9.88 2 12 2C14.12 2 15.84 3.72 15.84 5.84V8", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.27 12.0898C14.36 12.0898 15.1 13.0798 15.1 13.9998C15.1 15.9298 12.61 17.3998 12 17.3998C11.39 17.3998 8.90002 15.9198 8.90002 13.9998C8.90002 13.0798 9.62998 12.0898 10.73 12.0898C11.35 12.0898 11.76 12.3898 12 12.6598C12.24 12.3998 12.65 12.0898 13.27 12.0898Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FavoriteBag__clip0_4482_531", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FavoriteBag_default = FavoriteBag;
+export {
+  FavoriteBag_default as default
+};

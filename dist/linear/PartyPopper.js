@@ -1,0 +1,50 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const PartyPopper = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#PartyPopper__clip0_2085_382466)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.56 15.98L10.2 14.44C9.92001 14.34 9.70001 14.12 9.60001 13.85L7.99001 9.52002L12.35 11.06C12.63 11.16 12.85 11.38 12.95 11.65L14.56 15.98Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.43 8.51977L11.93 7.76977C11.71 7.42977 11.71 6.99977 11.93 6.65977L12.06 6.46977C12.28 6.12977 12.28 5.69977 12.06 5.35977L11.93 5.16977C11.71 4.82977 11.71 4.39977 11.93 4.05977L12.06 3.86977C12.28 3.52977 12.28 3.09977 12.06 2.75977L11.56 2.00977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.04 11.9999L16.26 11.3899C16.58 11.2299 16.96 11.2499 17.26 11.4499L17.53 11.6299C17.87 11.8499 18.3 11.8499 18.64 11.6299L18.83 11.4999C19.17 11.2799 19.6 11.2799 19.94 11.4999L20.13 11.6299C20.47 11.8499 20.9 11.8499 21.24 11.6299L21.99 11.1299", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.41 9.08004L17.91 8.33004C18.13 7.99004 18.54 7.83004 18.94 7.91004L19.17 7.96004C19.57 8.04004 19.97 7.87004 20.2 7.54004L20.7 6.79004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.37 6.50004L14.62 5.63004C14.73 5.24004 15.06 4.96004 15.46 4.91004L15.69 4.88004C16.09 4.83004 16.42 4.55004 16.53 4.16004L16.78 3.29004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.52 5.47998L8.09 5.90998L8.52 6.33998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.52 5.47998L8.95 5.90998L8.52 6.33998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.04 8.52002L14.61 8.95002L15.04 9.38002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.04 8.52002L15.47 8.95002L15.04 9.38002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.96 4.60986L18.53 5.03986L18.96 5.47986", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.96 4.60986L19.39 5.03986L18.96 5.47986", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.52 13.7402L18.09 14.1702L18.52 14.6002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.52 13.7402L18.95 14.1702L18.52 14.6002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.56 15.98L4.56 20.77C3.71 21.18 2.82 20.29 3.23 19.44L7.99 9.52002L9.6 13.85C9.7 14.13 9.92 14.34 10.2 14.44L14.56 15.98Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "PartyPopper__clip0_2085_382466", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var PartyPopper_default = PartyPopper;
+export {
+  PartyPopper_default as default
+};

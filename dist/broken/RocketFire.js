@@ -1,0 +1,22 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const RocketFire = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M21.9999 2.33C21.6299 2.78 21.3399 3.28 21.2099 3.85C21.1099 4.27 21.0399 4.64 20.9599 5.06C20.8999 5.43 20.6699 5.77 20.4099 6.03C19.9799 6.46 19.4099 6.68 18.8399 6.68C18.2699 6.68 17.7099 6.46 17.2799 6.03C16.4099 5.16 16.4099 3.76 17.2799 2.9C17.5999 2.57 18.0599 2.25 18.6999 2L19.1499 2.83C20.4099 1.61 21.9999 2.33 21.9999 2.33Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M10.1 17.47L7.97 19.6L6.56 21.01C6.16 21.41 5.51 21.41 5.12 21.01L2.3 18.19C1.9 17.79 1.9 17.15 2.3 16.75L3.71 15.34L5.84 13.21L8.14 10.91C8.62 10.42 9.27 10.15 9.95 10.15C10.63 10.15 11.29 9.87996 11.78 9.39996L12.09 9.08996L14.22 6.95996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M16.35 9.08984L14.22 11.2198L13.91 11.5298C13.43 12.0098 13.15 12.6598 13.15 13.3398C13.15 13.6098 13.11 13.8798 13.03 14.1298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M12.0901 9.08984L14.2201 11.2198", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M17.2798 10.0195L16.3498 9.08953L14.2198 6.95953L13.2798 6.01953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M3.70996 15.3398L7.96996 19.5998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M5.84009 13.21L10.1001 17.47", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " "
+] });
+var RocketFire_default = RocketFire;
+export {
+  RocketFire_default as default
+};

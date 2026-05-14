@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Saturn = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Saturn__clip0_4482_3960)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.14999 5.75977C-9.71556e-06 7.74977 3.90999 12.1498 9.86999 15.5998C15.84 19.0498 21.61 20.2298 22.75 18.2398", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.76 18.2396C23.32 17.2796 22.69 15.7596 21.24 14.0596", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.01999 5.08969C3.56999 4.54969 1.74999 4.72969 1.14999 5.74969", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.03 3.03027C7.08 3.03027 3.06 7.04027 3.06 12.0003C3.06 16.9503 7.07 20.9703 12.03 20.9703C16.98 20.9703 21 16.9603 21 12.0003C21 9.62027 20.06 7.34027 18.38 5.66027C16.7 3.97027 14.41 3.03027 12.03 3.03027Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Saturn__clip0_4482_3960", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Saturn_default = Saturn;
+export {
+  Saturn_default as default
+};

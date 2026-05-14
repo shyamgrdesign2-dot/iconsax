@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiSupport = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiSupport__clip0_3111_17521)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.53 4.63L9.57002 4.85C8.88002 5.01 8.35002 5.55 8.19002 6.23L7.97002 7.19C7.95002 7.29 7.80002 7.29 7.78002 7.19L7.56002 6.23C7.40002 5.54 6.86002 5.01 6.18002 4.85L5.22002 4.63C5.12002 4.61 5.12002 4.46 5.22002 4.44L6.18002 4.22C6.87002 4.06 7.40002 3.52 7.56002 2.84L7.78002 1.88C7.80002 1.78 7.95002 1.78 7.97002 1.88L8.19002 2.84C8.35002 3.53 8.89002 4.06 9.57002 4.22L10.53 4.44C10.63 4.46 10.63 4.61 10.53 4.63Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.25007 17.67H3.91007C2.76007 17.67 1.82007 16.73 1.82007 15.58V12.97C1.82007 11.82 2.76007 10.88 3.91007 10.88H4.25007C5.40007 10.88 6.34007 11.82 6.34007 12.97V15.58C6.34007 16.74 5.41007 17.67 4.25007 17.67Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 1.84C16.37 1.84 19.91 5.38 19.91 9.75V10.88", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.09009 10.9V9.76C4.09009 9.05 4.18009 8.36 4.36009 7.7", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.1301 22.2H14.2601C17.0001 22.2 19.2801 20.26 19.8001 17.67", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.0902 17.67H19.7502C18.6002 17.67 17.6602 16.73 17.6602 15.58V12.97C17.6602 11.82 18.6002 10.88 19.7502 10.88H20.0902C21.2402 10.88 22.1802 11.82 22.1802 12.97V15.58C22.1802 16.74 21.2402 17.67 20.0902 17.67Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiSupport__clip0_3111_17521", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiSupport_default = AiSupport;
+export {
+  AiSupport_default as default
+};

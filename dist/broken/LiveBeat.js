@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const LiveBeat = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#LiveBeat__clip0_4482_8819)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.0696 4.92999C22.9796 8.83999 22.9796 15.17 19.0696 19.07C15.1596 22.98 8.82957 22.98 4.92957 19.07C1.01957 15.16 1.01957 8.82999 4.92957 4.92999C7.56957 2.28999 11.3296 1.42999 14.6896 2.36999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.02 10.43C18.89 11.3 18.89 12.7 18.02 13.57C17.15 14.44 15.75 14.44 14.88 13.57C14.01 12.7 14.01 11.3 14.88 10.43C15.75 9.55997 17.15 9.55997 18.02 10.43Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2198 12H12.3898L10.7998 7.89001L8.40977 14.26L6.01977 9.48001L4.42977 12.03L2.00977 12.01", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "LiveBeat__clip0_4482_8819", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var LiveBeat_default = LiveBeat;
+export {
+  LiveBeat_default as default
+};

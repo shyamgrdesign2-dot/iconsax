@@ -1,0 +1,14 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bomb4 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M9.49132 20.66C9.44132 20.72 9.39132 20.77 9.34132 20.81C7.61132 22.38 4.94132 22.33 3.27132 20.66C1.60132 18.99 1.55132 16.15 3.27132 14.44L5.35132 12.36L7.42132 10.28C8.75132 8.95 10.7213 8.65 12.3413 9.38L11.4913 6.21L15.7013 2L17.0213 6.91L21.9313 8.23L17.7213 12.44L14.5513 11.59C15.2813 13.21 14.9813 15.18 13.6513 16.51L11.6413 18.52L11.5713 18.59", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M9.49124 20.6595L9.34124 20.5095L3.27124 14.4395", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M5.35132 12.3594L11.5013 18.5194L11.5713 18.5894", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " "
+] });
+var Bomb4_default = Bomb4;
+export {
+  Bomb4_default as default
+};

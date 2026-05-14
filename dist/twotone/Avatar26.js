@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Avatar26 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Avatar26__clip0_2085_392002)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.8201 17.54V20.24C10.8201 20.89 11.3501 21.41 11.9901 21.41C12.6301 21.41 13.1601 20.88 13.1601 20.24V17.54", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.05 2.59009C8.73999 2.56009 5.98999 5.28009 5.98999 8.60009C5.98999 10.1101 6.53999 11.4801 7.45999 12.5401V14.4601L8.30999 15.3101H15.69L16.54 14.4601V12.5401C17.46 11.4901 18.01 10.1101 18.01 8.60009C18.01 5.30009 15.35 2.62009 12.05 2.59009Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8.08001 15.0704V17.1104C8.08001 17.7604 7.56001 18.2804 6.91001 18.2804C6.26001 18.2804 5.74001 17.7504 5.74001 17.1104V15.1404C5.74001 14.0404 4.85001 13.1504 3.75001 13.1504H2.01001H2.38001C2.94001 13.1504 3.39001 13.6004 3.39001 14.1604V17.1004C3.39001 19.4804 5.32001 21.4104 7.70001 21.4104C8.89001 21.4104 9.97001 20.9304 10.75 20.1504", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.26 20.1504C14.04 20.9304 15.12 21.4104 16.31 21.4104C18.69 21.4104 20.62 19.4804 20.62 17.1004V14.1604C20.62 13.6004 21.07 13.1504 21.63 13.1504H22H20.26C19.16 13.1504 18.27 14.0404 18.27 15.1404V17.1104C18.27 17.7604 17.74 18.2804 17.1 18.2804C16.46 18.2804 15.93 17.7504 15.93 17.1104V15.0704", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.18994 11.4297L11.0099 12.5797", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.81 11.4297L12.99 12.5797", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Avatar26__clip0_2085_392002", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Avatar26_default = Avatar26;
+export {
+  Avatar26_default as default
+};

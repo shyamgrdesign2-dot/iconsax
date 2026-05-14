@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BeachBed = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BeachBed__clip0_4482_7439)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0698 15.33V8.66", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.72998 8.67C8.72998 5 10.17 2 12.06 2C13.95 2 15.39 5 15.39 8.67", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.6199 18.67L5.3999 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.3999 18.67L17.6199 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.73006 18.67H16.0601C17.2801 18.67 18.3901 18.23 19.3901 17.56L21.3901 16C21.9501 15.56 22.1701 14.78 21.9501 14.11C21.6201 13 20.2801 12.67 19.3901 13.33L17.3901 14.89C17.0601 15.22 16.5001 15.33 16.0601 15.33H3.73006C2.84006 15.33 2.06006 16.11 2.06006 17C2.06006 17.89 2.84006 18.67 3.73006 18.67Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.1 8.67H18.04C19.72 8.67 20.69 6.69 19.6 5.41C17.95 3.46 15.01 2 12.07 2C9.13 2 6.2 3.46 4.54 5.41C3.45 6.69 4.41 8.67 6.1 8.67Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BeachBed__clip0_4482_7439", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BeachBed_default = BeachBed;
+export {
+  BeachBed_default as default
+};

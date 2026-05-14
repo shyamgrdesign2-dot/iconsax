@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Cluster4 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Cluster4__clip0_2085_390986)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.88 10.2297C13.0895 10.2297 14.07 9.49096 14.07 8.57969C14.07 7.66842 13.0895 6.92969 11.88 6.92969C10.6705 6.92969 9.69 7.66842 9.69 8.57969C9.69 9.49096 10.6705 10.2297 11.88 10.2297Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.92999 2H5.27999C3.45999 2 1.98999 3.47 1.98999 5.29V6.94", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.98999 16.8203V18.4703C1.98999 20.2903 3.45999 21.7603 5.27999 21.7603H6.92999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.81 21.7496H18.46C20.28 21.7496 21.75 20.2796 21.75 18.4596V16.8096", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.75 6.94V5.29C21.75 3.47 20.28 2 18.46 2H16.81", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.88 16.8195C13.0895 16.8195 14.07 16.0808 14.07 15.1695C14.07 14.2583 13.0895 13.5195 11.88 13.5195C10.6705 13.5195 9.69 14.2583 9.69 15.1695C9.69 16.0808 10.6705 16.8195 11.88 16.8195Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.46 12.9797C19.6695 12.9797 20.65 12.241 20.65 11.3297C20.65 10.4184 19.6695 9.67969 18.46 9.67969C17.2505 9.67969 16.27 10.4184 16.27 11.3297C16.27 12.241 17.2505 12.9797 18.46 12.9797Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.28998 12.9797C6.49948 12.9797 7.47998 12.241 7.47998 11.3297C7.47998 10.4184 6.49948 9.67969 5.28998 9.67969C4.08047 9.67969 3.09998 10.4184 3.09998 11.3297C3.09998 12.241 4.08047 12.9797 5.28998 12.9797Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Cluster4__clip0_2085_390986", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Cluster4_default = Cluster4;
+export {
+  Cluster4_default as default
+};

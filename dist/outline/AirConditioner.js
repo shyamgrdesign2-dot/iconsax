@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AirConditioner = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AirConditioner__clip0_4482_5477)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19 16.25H5C2.76 16.25 1.25 14.74 1.25 12.5V7.5C1.25 5.26 2.76 3.75 5 3.75H19C21.24 3.75 22.75 5.26 22.75 7.5V12.5C22.75 14.74 21.24 16.25 19 16.25ZM5 5.25C3.59 5.25 2.75 6.09 2.75 7.5V12.5C2.75 13.91 3.59 14.75 5 14.75H19C20.41 14.75 21.25 13.91 21.25 12.5V7.5C21.25 6.09 20.41 5.25 19 5.25H5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5 13.25H7.5C7.09 13.25 6.75 12.91 6.75 12.5C6.75 12.09 7.09 11.75 7.5 11.75H16.5C16.91 11.75 17.25 12.09 17.25 12.5C17.25 12.91 16.91 13.25 16.5 13.25Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 8.75H15C14.59 8.75 14.25 8.41 14.25 8C14.25 7.59 14.59 7.25 15 7.25H17C17.41 7.25 17.75 7.59 17.75 8C17.75 8.41 17.41 8.75 17 8.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8 21.75C7.59 21.75 7.25 21.41 7.25 21V19C7.25 18.59 7.59 18.25 8 18.25C8.41 18.25 8.75 18.59 8.75 19V21C8.75 21.41 8.41 21.75 8 21.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 21.75C11.59 21.75 11.25 21.41 11.25 21V19C11.25 18.59 11.59 18.25 12 18.25C12.41 18.25 12.75 18.59 12.75 19V21C12.75 21.41 12.41 21.75 12 21.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 21.75C15.59 21.75 15.25 21.41 15.25 21V19C15.25 18.59 15.59 18.25 16 18.25C16.41 18.25 16.75 18.59 16.75 19V21C16.75 21.41 16.41 21.75 16 21.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AirConditioner__clip0_4482_5477", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AirConditioner_default = AirConditioner;
+export {
+  AirConditioner_default as default
+};

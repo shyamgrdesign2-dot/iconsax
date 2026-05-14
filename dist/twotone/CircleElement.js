@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CircleElement = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CircleElement__clip0_4482_2199)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 22.7627H7C4.25 22.7627 2 20.5127 2 17.7627V7.7627C2 5.0127 4.25 2.7627 7 2.7627H17C19.75 2.7627 22 5.0127 22 7.7627V17.7627C22 20.5127 19.75 22.7627 17 22.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M18 10.7627C18 12.9627 16.2 14.7627 14 14.7627C14 13.6627 13.5499 12.6627 12.8199 11.9427C12.0999 11.2127 11.1 10.7627 10 10.7627C10 9.6627 10.4501 8.66269 11.1801 7.94269C11.9001 7.21269 12.9 6.7627 14 6.7627C15.1 6.7627 16.0999 7.21269 16.8199 7.94269C17.5499 8.66269 18 9.6627 18 10.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M14 14.7627C14 16.9627 12.2 18.7627 10 18.7627C8.9 18.7627 7.90005 18.3127 7.18005 17.5827C6.45005 16.8627 6 15.8627 6 14.7627C6 13.6627 6.45005 12.6627 7.18005 11.9427C7.90005 11.2127 8.9 10.7627 10 10.7627C11.1 10.7627 12.0999 11.2127 12.8199 11.9427C13.5499 12.6627 14 13.6627 14 14.7627Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CircleElement__clip0_4482_2199", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor", transform: "translate(0 0.762695)" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CircleElement_default = CircleElement;
+export {
+  CircleElement_default as default
+};

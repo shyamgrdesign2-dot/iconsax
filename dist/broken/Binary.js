@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Binary = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Binary__clip0_4482_15168)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.71 7.56047L15.05 6.73047V10.6205", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.55957 14.0296L8.94957 13.3896V17.2796", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4404 22.0004H18.0004C20.2104 22.0004 22.0004 20.2104 22.0004 18.0004V16.4404", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4404 2H18.0004C20.2104 2 22.0004 3.79 22.0004 6V7.56", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 16.4404V18.0004C2 20.2104 3.79 22.0004 6 22.0004H7.56", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 7.56V6C2 3.79 3.79 2 6 2H7.56", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.2198 6.71973C10.1398 6.71973 10.8898 7.46973 10.8898 8.38973V8.94973C10.8898 9.86973 10.1398 10.6197 9.2198 10.6197C8.2998 10.6197 7.5498 9.86973 7.5498 8.94973", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4404 15.0596C16.4404 14.1373 15.6949 13.3896 14.7754 13.3896C13.8558 13.3896 13.1104 14.1373 13.1104 15.0596V15.6096C13.1104 16.532 13.8558 17.2796 14.7754 17.2796C15.6949 17.2796 16.4404 16.532 16.4404 15.6096V15.0596Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Binary__clip0_4482_15168", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Binary_default = Binary;
+export {
+  Binary_default as default
+};

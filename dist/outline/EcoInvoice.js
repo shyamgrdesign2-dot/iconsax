@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const EcoInvoice = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#EcoInvoice__clip0_4482_5533)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.3202 13.1309C20.9002 14.9309 21.7202 19.2309 18.4302 20.4909C16.8902 21.0709 15.1202 20.6809 13.9602 19.5709C13.7302 19.3509 13.5202 19.0909 13.3402 18.8109C11.8902 16.5009 12.9202 13.5709 15.3302 12.5909C17.6102 11.6409 20.2102 11.8409 22.3202 13.1309Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2198 15.9102C15.1698 17.1602 13.7498 19.2302 13.3198 21.6002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.25 20C5.1 20 3.75 18.2 3.75 15.5V6.5C3.75 3.8 5.1 2 8.25 2H15.45C18.6 2 19.95 3.8 19.95 6.5V8.02", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.74023 8.23047H14.9702", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.74023 13.2207H9.98023", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "EcoInvoice__clip0_4482_5533", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var EcoInvoice_default = EcoInvoice;
+export {
+  EcoInvoice_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Gitlab2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Gitlab2__clip0_4482_11699)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.08953 10.63L7.55953 6.23004C7.59953 6.12004 7.70953 6.04004 7.81953 6.04004C7.92953 6.04004 8.03953 6.11004 8.07953 6.23004L9.54953 10.63L11.9895 17.96L5.54953 13.4C5.35953 13.27 5.26953 13.02 5.34953 12.8L6.07953 10.63H6.08953Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.9098 10.63L16.4398 6.23004C16.3998 6.12004 16.2898 6.04004 16.1798 6.04004C16.0698 6.04004 15.9598 6.11004 15.9198 6.23004L14.4498 10.63L12.0098 17.96L18.4498 13.4C18.6398 13.27 18.7298 13.02 18.6498 12.8L17.9198 10.63H17.9098Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17 2H7C4.24 2 2 4.24 2 7V17C2 19.76 4.24 22 7 22H17C19.76 22 22 19.76 22 17V7C22 4.24 19.76 2 17 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.49023 10.4399H14.5102", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Gitlab2__clip0_4482_11699", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Gitlab2_default = Gitlab2;
+export {
+  Gitlab2_default as default
+};

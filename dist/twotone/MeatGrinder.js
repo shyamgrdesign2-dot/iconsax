@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MeatGrinder = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MeatGrinder__clip0_4482_14470)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.1996 8.67012C20.1996 7.53793 19.2818 6.62012 18.1496 6.62012C17.0174 6.62012 16.0996 7.53793 16.0996 8.67012V11.2401C16.0996 12.3723 17.0174 13.2901 18.1496 13.2901C19.2818 13.2901 20.1996 12.3723 20.1996 11.2401V8.67012Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33004 2H11.48C12.33 2 13.02 2.69 13.02 3.54C13.02 4.39 12.33 5.08 11.48 5.08H5.33004C4.48004 5.08 3.79004 4.39 3.79004 3.54C3.79004 2.69 4.48004 2 5.33004 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", fillRule: "evenodd", clipRule: "evenodd", d: "M5.83984 4.33008C5.42563 4.33008 5.08984 4.66586 5.08984 5.08008V7.64008C5.08984 8.05429 5.42563 8.39008 5.83984 8.39008H8.89077C8.90036 8.39044 8.91 8.39062 8.91968 8.39062H15.3497V11.5106H9.94968C9.53546 11.5106 9.19968 11.8464 9.19968 12.2606C9.19968 12.6748 9.53546 13.0106 9.94968 13.0106H16.0997C16.5139 13.0106 16.8497 12.6748 16.8497 12.2606V7.64062C16.8497 7.22641 16.5139 6.89062 16.0997 6.89062H11.7198V5.08008C11.7198 4.66586 11.3841 4.33008 10.9698 4.33008H5.83984ZM6.58984 6.89008V5.83008H10.2198V6.89008H6.58984Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.94953 14.8196V7.63965H4.81953C3.68953 7.63965 2.76953 8.55965 2.76953 9.68965V18.9196C2.76953 20.0496 3.68953 20.9696 4.81953 20.9696H18.6695C20.0895 20.9696 21.2295 19.8196 21.2295 18.4096C21.2295 16.9896 20.0795 15.8496 18.6695 15.8496H10.9795C10.4095 15.8496 9.94953 15.3896 9.94953 14.8196Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.83984 20.9697V21.9997", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.1504 20.9697V21.9997", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.41055 17.8534C6.41055 17.8802 6.38747 17.9032 6.36055 17.8994C6.33362 17.8994 6.31055 17.8764 6.31055 17.8496C6.31055 17.8228 6.33362 17.7998 6.36055 17.7998C6.37209 17.7998 6.38747 17.8036 6.39516 17.8151C6.40285 17.8228 6.41055 17.8381 6.41055 17.8496", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MeatGrinder__clip0_4482_14470", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MeatGrinder_default = MeatGrinder;
+export {
+  MeatGrinder_default as default
+};

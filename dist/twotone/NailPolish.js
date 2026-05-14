@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const NailPolish = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#NailPolish__clip0_4482_5810)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.0899 21.9998H9.90985C8.10985 21.9998 6.59986 20.6298 6.41986 18.8398L5.94989 14.1598C5.73989 12.0898 7.36988 10.2998 9.43988 10.2998H14.5499C16.6299 10.2998 18.2499 12.0898 18.0399 14.1598L17.5699 18.8398C17.3999 20.6298 15.8899 21.9998 14.0899 21.9998Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.11 10.3002H9.08008V4.38023C9.08008 3.06023 10.15 1.99023 11.47 1.99023H11.72C13.04 1.99023 14.11 3.06023 14.11 4.38023V10.3002Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M6.12012 15.5597C7.09012 15.3197 9.55012 14.8697 12.0001 15.6797C14.3001 16.4497 16.6001 16.0997 17.6801 15.8497", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "NailPolish__clip0_4482_5810", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var NailPolish_default = NailPolish;
+export {
+  NailPolish_default as default
+};

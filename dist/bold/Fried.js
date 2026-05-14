@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Fried = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Fried__clip0_2085_383890)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.07 4.93C17.2 3.05 14.65 2 12 2C9.35 2 6.81 3.05 4.93 4.93C3.06 6.81 2 9.35 2 12C2 12.88 2.35 13.73 2.98 14.36C3.61 14.99 4.45 15.34 5.34 15.34H6.96C7.94 15.34 8.87 15.77 9.5 16.52C10.13 17.27 10.41 18.26 10.24 19.22L10.14 19.82C10.05 20.37 10.2 20.92 10.56 21.34C10.92 21.76 11.44 22.01 11.99 22.01C14.64 22.01 17.19 20.96 19.06 19.08C20.93 17.2 21.99 14.66 21.99 12.01C21.99 9.36 20.94 6.81 19.06 4.94L19.07 4.93ZM11.24 11.79C9.71 11.79 8.46 10.55 8.46 9.01C8.46 7.47 9.7 6.23 11.24 6.23C12.78 6.23 14.02 7.47 14.02 9.01C14.02 10.55 12.78 11.79 11.24 11.79Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Fried__clip0_2085_383890", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Fried_default = Fried;
+export {
+  Fried_default as default
+};

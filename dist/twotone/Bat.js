@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Bat = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Bat__clip0_2085_384858)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15 16.6V16.53M9 16.6V16.53", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 9.5001V10.5201C22 10.5201 21.96 10.6001 21.92 10.6001C20.31 10.6001 19 11.9101 19 13.5201V13.6001H18C16.36 13.6001 15.04 14.9001 15 16.5301C15 17.2001 14.67 17.8201 14.11 18.1901L12.55 19.2301C12.22 19.4501 11.78 19.4501 11.45 19.2301L9.89 18.1901C9.33 17.8201 9 17.2001 9 16.5301C8.96 14.9001 7.64 13.6001 6 13.6001H5V13.5201C5 11.9101 3.69 10.6001 2.08 10.6001C2.04 10.6001 2 10.5601 2 10.5201V9.5001C2 7.3401 3.74 5.6001 5.9 5.6001C5.95 5.6001 6 5.6501 6 5.7001C6 7.3001 7.29 8.6001 8.89 8.6001H9V4.6001C9 6.2601 10.34 7.6001 12 7.6001C13.66 7.6001 15 6.2601 15 4.6001V8.6001H15.11C16.71 8.6001 18 7.3001 18 5.7001C18 5.6501 18.05 5.6001 18.1 5.6001C20.26 5.6001 22 7.3401 22 9.5001Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11 10.6001V11.5301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13 10.6001V11.5301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Bat__clip0_2085_384858", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Bat_default = Bat;
+export {
+  Bat_default as default
+};

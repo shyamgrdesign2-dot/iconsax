@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Seedlings01 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Seedlings01__clip0_4482_3981)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 13V10.75", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 10C10.11 10 8.57001 8.46001 8.57001 6.57001V5.42999C8.57001 3.53999 10.11 2 12 2C13.89 2 15.43 3.53999 15.43 5.42999V6.57001C15.43 8.46001 13.89 10 12 10Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.28 22H9.71003C8.68003 22 7.81997 21.22 7.71997 20.2L7.21003 15.2C7.09003 14.02 8.02002 13 9.20002 13H14.78C15.96 13 16.89 14.02 16.77 15.2L16.26 20.2C16.17 21.22 15.31 22 14.28 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.25 17.5H13.25", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Seedlings01__clip0_4482_3981", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Seedlings01_default = Seedlings01;
+export {
+  Seedlings01_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HeartInfinite3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HeartInfinite3__clip0_2085_391064)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.14 1.99023C13.28 1.99023 12.52 2.38023 12 2.98023C11.48 2.38023 10.72 1.99023 9.86 1.99023C8.28 1.99023 7 3.27023 7 4.85023C7 8.01023 12 10.5602 12 10.5602C12 10.5602 17 8.00023 17 4.85023C17 3.27023 15.72 1.99023 14.14 1.99023Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.94 14.9302L13.62 14.5202L14.03 12.2002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.06 19.3506L10.38 19.7606L9.97 22.0806", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.38 19.7498C9.46 20.6398 8.27 21.2398 6.95 21.4298C4.34 21.7998 2 19.7798 2 17.1398C2 14.4998 4.34 12.4798 6.95 12.8598C9.15 13.1798 10.99 14.7198 11.69 16.8298L11.79 17.1198C12.56 19.4298 14.57 21.0998 16.97 21.4298H17.05C19.67 21.8098 22 19.7698 22 17.1298C22 14.4898 19.66 12.4598 17.05 12.8398C15.73 13.0298 14.54 13.6298 13.62 14.5198", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HeartInfinite3__clip0_2085_391064", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HeartInfinite3_default = HeartInfinite3;
+export {
+  HeartInfinite3_default as default
+};

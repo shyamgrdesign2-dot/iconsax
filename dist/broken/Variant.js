@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Variant = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Variant__clip0_4482_11384)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.43969 17.8304C7.83969 17.8304 7.25969 17.5904 6.83969 17.1704C6.41969 16.7504 6.17969 16.1704 6.17969 15.5704V8.44041C6.17969 7.19041 7.19969 6.17041 8.44969 6.17041C9.69969 6.17041 10.7197 7.19041 10.7197 8.44041V15.5704C10.7197 16.1704 10.4797 16.7504 10.0597 17.1704C9.62969 17.6004 9.05969 17.8304 8.45969 17.8304H8.43969Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.1699 17.0305L15.7799 11.4205C16.6699 10.5305 16.6699 9.10047 15.7799 8.21047C14.8899 7.32047 13.4599 7.32047 12.5699 8.21047L10.6999 10.0805", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.9097 13.3003H15.5597C16.1597 13.3003 16.7397 13.5403 17.1597 13.9603C17.5897 14.3903 17.8197 14.9603 17.8197 15.5603C17.8197 16.1603 17.5797 16.7403 17.1597 17.1603C16.7397 17.5803 16.1597 17.8203 15.5597 17.8203H8.42969", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 8.26023V7.55023C2 4.48023 4.49 1.99023 7.56 1.99023H16.45C19.52 1.99023 22.01 4.48023 22.01 7.55023V16.4402C22.01 19.5102 19.52 22.0002 16.45 22.0002H7.56C4.49 22.0002 2 19.5102 2 16.4402V12.0002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Variant__clip0_4482_11384", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Variant_default = Variant;
+export {
+  Variant_default as default
+};

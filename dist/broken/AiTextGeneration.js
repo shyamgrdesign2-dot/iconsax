@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiTextGeneration = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiTextGeneration__clip0_3111_14159)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.909 18.3L20.569 18.61C19.609 18.83 18.859 19.58 18.639 20.54L18.329 21.88C18.299 22.02 18.089 22.02 18.059 21.88L17.749 20.54C17.529 19.58 16.779 18.83 15.819 18.61L14.479 18.3C14.339 18.27 14.339 18.06 14.479 18.03L15.819 17.72C16.779 17.5 17.529 16.75 17.749 15.79L18.059 14.45C18.089 14.31 18.299 14.31 18.329 14.45L18.639 15.79C18.859 16.75 19.609 17.5 20.569 17.72L21.909 18.03C22.049 18.06 22.049 18.27 21.909 18.3Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.99951 6.99997C1.99951 4.24997 4.24951 1.99997 6.99951 1.99997H16.9995C19.7495 1.99997 21.9995 4.24997 21.9995 6.99997V11.9", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.9495 22H6.99951C4.24951 22 1.99951 19.75 1.99951 17V12", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.99902 8.49997H14.999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.99902 13H11.499", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiTextGeneration__clip0_3111_14159", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiTextGeneration_default = AiTextGeneration;
+export {
+  AiTextGeneration_default as default
+};

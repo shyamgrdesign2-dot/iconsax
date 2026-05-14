@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Surfing = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Surfing__clip0_2085_385831)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.66011 2.01C13.0701 3.47 17.2601 7.06 15.0501 10.89C13.7701 13.1 11.5801 13.62 9.44011 13.37M15.5101 9.81C19.4101 11.27 20.8701 13.71 16.4901 14.68C12.1101 15.65 12.5901 15.17 13.0801 20.53H11.1301M14.5401 12.25C17.4601 12.98 16.4901 14.98 20.8801 19.85L18.9301 20.34M9.67011 2L4.29011 13.55M21.8501 21.03C21.8501 21.03 18.7601 22 12.5901 22C6.42011 22 3.33011 21.03 3.33011 21.03M4.28011 13.55C4.28011 13.55 2.76011 13.92 2.35011 14.8C1.94011 15.68 2.17011 16.33 2.84011 16.64C3.50011 16.95 4.15011 16.71 4.56011 15.83C4.97011 14.95 4.28011 13.55 4.28011 13.55ZM13.5601 8.84C13.5601 9.92 12.6901 10.79 11.6101 10.79C10.5301 10.79 9.66011 9.92 9.66011 8.84C9.66011 7.76 10.5301 6.89 11.6101 6.89C12.6901 6.89 13.5601 7.76 13.5601 8.84Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Surfing__clip0_2085_385831", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Surfing_default = Surfing;
+export {
+  Surfing_default as default
+};

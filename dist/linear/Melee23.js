@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Melee23 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Melee23__clip0_2085_387106)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.03 21C7.19 21.16 7.19 21.42 7.03 21.58C6.55 22.07 5.76 22.07 5.28 21.58L2.36 18.67C1.88 18.19 1.88 17.4 2.36 16.92C2.52 16.76 2.78 16.76 2.94 16.92L3.53 17.5L4.99 16.04L7.91 18.96L6.44 20.42L7.03 21Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.87 16.9098C12.55 17.2298 12.02 17.2298 11.7 16.9098L10.83 16.0398L7.91 18.9598L4.99 16.0398L6.45 14.5798L7.91 13.1198L7.04 12.2398C6.72 11.9198 6.72 11.3998 7.04 11.0798C7.36 10.7598 7.88 10.7598 8.2 11.0798L12.87 15.7498C13.19 16.0698 13.19 16.5898 12.87 16.9098Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.91 11.5397C10.47 9.97972 11.91 8.53972 13.47 6.97972C13.97 6.47972 14.11 6.38972 14.8 6.38972H15.73C16.35 6.38972 16.44 6.34972 16.86 5.92972C18.05 4.73972 19.24 3.54972 20.44 2.34972C20.86 1.92972 21.3 1.98972 21.52 2.33972C22.31 3.60972 22.15 5.30972 21.05 6.40972L12.42 15.0397", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 14.8701H11.99", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.41 9.62012L11.99 10.2001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.74 7.2793L14.32 7.8593", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Melee23__clip0_2085_387106", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Melee23_default = Melee23;
+export {
+  Melee23_default as default
+};

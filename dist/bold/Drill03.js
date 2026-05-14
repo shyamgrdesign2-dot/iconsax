@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Drill03 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Drill03__clip0_4482_8948)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19 5.5H21C21.55 5.5 22 5.95 22 6.5V7.5C22 8.05 21.55 8.5 21 8.5H19V5.5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.75 11C14.75 11.08 14.74 11.16 14.71 11.24L14.05 13.21C13.75 14.13 12.89 14.75 11.92 14.75H9.5C9.42 14.75 9.33 14.74 9.26 14.71C8.96 14.61 8.75 14.33 8.75 14C8.75 13.59 9.09 13.25 9.5 13.25H11.92C12.24 13.25 12.53 13.04 12.63 12.74L13.21 11H14.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11 19.38V19.5C11 20.33 10.33 21 9.5 21H3.5C2.67 21 2 20.33 2 19.5V18.5C2 17.67 2.67 17 3.5 17H9.07C9.64 17 10.16 17.32 10.42 17.83L10.83 18.66C10.94 18.88 11 19.13 11 19.38Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.5 11L9.75 13.25L9.26 14.71L8.5 17H3.5L5.5 11H10.5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.11 4.41L16.5 3.34C16.18 3.12 15.79 3 15.4 3H3.99C3.46 3 2.96 3.21 2.58 3.59C2.2 3.97 2 4.47 2 5V9C2 9.53 2.21 10.04 2.58 10.41C2.95 10.78 3.46 11 3.99 11H15.4C15.79 11 16.18 10.88 16.5 10.66L18.11 9.59C18.67 9.22 19 8.6 19 7.93V6.07C19 5.4 18.67 4.78 18.11 4.41ZM8.5 7.75H6C5.59 7.75 5.25 7.41 5.25 7C5.25 6.59 5.59 6.25 6 6.25H8.5C8.91 6.25 9.25 6.59 9.25 7C9.25 7.41 8.91 7.75 8.5 7.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Drill03__clip0_4482_8948", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Drill03_default = Drill03;
+export {
+  Drill03_default as default
+};

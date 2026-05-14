@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ValentineShop = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ValentineShop__clip0_4482_14122)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.65981 14.26L4.35981 18.8C4.23981 20.53 5.61981 22 7.34981 22H16.9398C18.6798 22 20.0498 20.53 19.9298 18.8L19.3298 9.8C19.2198 8.22 17.9198 7 16.3398 7H7.94981C6.36981 7 5.05981 8.22 4.95981 9.8", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.1396 9V5C15.1396 3.34 13.7996 2 12.1396 2C10.4796 2 9.13965 3.34 9.13965 5V9", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.1396 13.53C12.3696 13.28 12.7696 13 13.3696 13C14.4296 13 15.1396 13.93 15.1396 14.8C15.1396 16.61 12.7296 18 12.1396 18C11.5496 18 9.13965 16.61 9.13965 14.8C9.13965 13.93 9.84965 13 10.9096 13C11.5196 13 11.9096 13.28 12.1396 13.53Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ValentineShop__clip0_4482_14122", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ValentineShop_default = ValentineShop;
+export {
+  ValentineShop_default as default
+};

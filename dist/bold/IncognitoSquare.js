@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const IncognitoSquare = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#IncognitoSquare__clip0_4482_12582)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2604 6.63965H9.73043C9.37043 6.63965 9.07043 6.89965 9.01043 7.24965L8.44043 10.6896H15.5604L14.9904 7.24965C14.9304 6.89965 14.6304 6.63965 14.2704 6.63965H14.2604Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.24 2 2 4.24 2 7V17C2 19.76 4.24 22 7 22H17C19.76 22 22 19.76 22 17V7C22 4.24 19.76 2 17 2ZM15.33 18.61C14.14 18.61 13.15 17.76 12.93 16.64H11.06C10.84 17.76 9.85 18.61 8.66 18.61C7.31 18.61 6.22 17.51 6.22 16.17C6.22 14.83 7.32 13.73 8.66 13.73C9.64 13.73 10.48 14.31 10.87 15.15H13.12C13.51 14.32 14.35 13.73 15.33 13.73C16.68 13.73 17.77 14.83 17.77 16.17C17.77 17.51 16.67 18.61 15.33 18.61ZM18.11 12.19H5.89C5.48 12.19 5.14 11.85 5.14 11.44C5.14 11.03 5.48 10.69 5.89 10.69H6.92L7.54 7C7.72 5.92 8.65 5.13 9.74 5.13H14.27C15.37 5.13 16.29 5.91 16.47 7L17.09 10.69H18.12C18.53 10.69 18.87 11.03 18.87 11.44C18.87 11.85 18.53 12.19 18.12 12.19H18.11Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "IncognitoSquare__clip0_4482_12582", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var IncognitoSquare_default = IncognitoSquare;
+export {
+  IncognitoSquare_default as default
+};

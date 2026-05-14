@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SpoonFork = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SpoonFork__clip0_4482_14387)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.1396 6.68C14.1396 8.4 15.3596 9.8 16.8696 9.8C18.3796 9.8 19.5996 8.4 19.5996 6.68C19.5996 4.1 18.3796 2 16.8696 2C15.3596 2 14.1396 4.09 14.1396 6.68Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.17969 10.2197V13.1097", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.17977 13.1104C8.09977 13.1104 8.84977 13.8604 8.84977 14.7804V20.3404C8.84977 21.2604 8.09977 22.0104 7.17977 22.0104C6.25977 22.0104 5.50977 21.2604 5.50977 20.3404V14.7804C5.50977 13.8604 6.25977 13.1104 7.17977 13.1104Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.8701 10.2197V13.1097", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.8702 13.1104C17.7902 13.1104 18.5402 13.8604 18.5402 14.7804V20.3404C18.5402 21.2604 17.7902 22.0104 16.8702 22.0104C15.9502 22.0104 15.2002 21.2604 15.2002 20.3404V14.7804C15.2002 13.8604 15.9502 13.1104 16.8702 13.1104Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.17969 7.00027V2.28027", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.96016 2V8C9.96016 9.23 8.97016 10.22 7.74016 10.22H6.63016C5.40016 10.22 4.41016 9.23 4.41016 8V2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.96039 7H4.40039", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SpoonFork__clip0_4482_14387", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SpoonFork_default = SpoonFork;
+export {
+  SpoonFork_default as default
+};
