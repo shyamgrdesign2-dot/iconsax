@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BlendFree = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BlendFree__clip0_4418_5915)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.9702 12C21.9702 15.31 19.2802 18 15.9702 18C14.4302 18 13.0302 17.42 11.9702 16.46C13.2002 15.37 13.9702 13.77 13.9702 12C13.9702 10.23 13.2002 8.63 11.9702 7.54C13.0302 6.58 14.4302 6 15.9702 6C19.2802 6 21.9702 8.69 21.9702 12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.9702 12C13.9702 13.77 13.2002 15.37 11.9702 16.46C10.9102 17.42 9.51021 18 7.97021 18C4.66021 18 1.97021 15.31 1.97021 12C1.97021 8.69 4.66021 6 7.97021 6C9.51021 6 10.9102 6.58 11.9702 7.54C13.2002 8.63 13.9702 10.23 13.9702 12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BlendFree__clip0_4418_5915", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BlendFree_default = BlendFree;
+export {
+  BlendFree_default as default
+};

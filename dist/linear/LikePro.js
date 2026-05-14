@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const LikePro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#LikePro__clip0_4482_300)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20 6.5V14.77C19.32 14.88 18.74 15.25 18.35 15.78C17.89 15.14 17.14 14.73 16.29 14.73C14.87 14.73 13.71 15.89 13.71 17.33C13.71 19.44 14.98 20.99 16.24 21.94C16 21.98 15.75 22 15.5 22H8.5C6.03 22 4 19.98 4 17.5V6.5C4 4.03 6.02 2 8.5 2H15.5C17.97 2 20 4.02 20 6.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10 6H14", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M23 17.33C23 20.58 19.99 22.5 18.65 22.95C18.56 22.98 18.46 23 18.35 23C18.25 23 18.15 22.98 18.06 22.95C17.59 22.79 16.92 22.45 16.24 21.94C14.98 20.99 13.71 19.44 13.71 17.33C13.71 15.89 14.87 14.73 16.29 14.73C17.14 14.73 17.89 15.14 18.35 15.78C18.74 15.25 19.32 14.88 20 14.77C20.13 14.74 20.28 14.73 20.42 14.73C21.84 14.73 23 15.89 23 17.33Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "LikePro__clip0_4482_300", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var LikePro_default = LikePro;
+export {
+  LikePro_default as default
+};

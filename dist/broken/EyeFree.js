@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const EyeFree = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#EyeFree__clip0_4418_3424)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.02992 13.9999C8.63992 13.4299 8.41992 12.7399 8.41992 11.9999C8.41992 10.0199 10.0199 8.41992 11.9999 8.41992C13.9799 8.41992 15.5799 10.0199 15.5799 11.9999C15.5799 13.9799 13.9799 15.5799 11.9999 15.5799", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5598 5.58047C15.8698 4.38047 13.9698 3.73047 11.9998 3.73047C8.46984 3.73047 5.17984 5.81047 2.88984 9.41047C1.98984 10.8205 1.98984 13.1905 2.88984 14.6005C5.17984 18.2005 8.46984 20.2805 11.9998 20.2805C15.5298 20.2805 18.8198 18.2005 21.1098 14.6005C22.0098 13.1905 22.0098 10.8205 21.1098 9.41047", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "EyeFree__clip0_4418_3424", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var EyeFree_default = EyeFree;
+export {
+  EyeFree_default as default
+};

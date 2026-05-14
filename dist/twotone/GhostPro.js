@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const GhostPro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#GhostPro__clip0_2085_384872)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33008 22C5.33008 20.77 6.32008 19.78 7.55008 19.78C8.78008 19.78 9.77008 20.77 9.77008 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.78003 22C9.78003 20.77 10.77 19.78 12 19.78C13.23 19.78 14.22 20.77 14.22 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.22 22C14.22 20.77 15.21 19.78 16.44 19.78C17.67 19.78 18.66 20.77 18.66 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33007 22V20.14C5.33007 19.31 5.33007 18.89 5.29007 18.48C5.20007 17.53 4.96007 16.59 4.57007 15.72C4.40007 15.34 4.20007 14.98 3.80007 14.25L3.17007 13.11C2.89007 12.61 3.25007 11.99 3.83007 11.99H4.56007C4.98007 11.99 5.33007 11.65 5.33007 11.22V8.65999C5.33007 4.97999 8.31007 1.98999 12.0001 1.98999C15.6901 1.98999 18.6701 4.96999 18.6701 8.65999V11.22C18.6701 11.64 19.0101 11.99 19.4401 11.99H20.1701C20.7401 11.99 21.1001 12.61 20.8301 13.11L20.2001 14.25C19.7901 14.98 19.5901 15.34 19.4301 15.72C19.0401 16.6 18.8001 17.53 18.7101 18.48C18.6701 18.89 18.6701 19.31 18.6701 20.14V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.4401 10.33L16.3701 10.24C15.5701 9.17 13.9701 9.17 13.1701 10.24L13.1001 10.33", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.89 10.33L10.82 10.24C10.02 9.17 8.42005 9.17 7.62005 10.24L7.55005 10.33", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.78003 12.5601C10.89 14.0401 13.11 14.0401 14.22 12.5601", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "GhostPro__clip0_2085_384872", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var GhostPro_default = GhostPro;
+export {
+  GhostPro_default as default
+};

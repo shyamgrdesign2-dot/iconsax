@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const TranslatePro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#TranslatePro__clip0_4482_7446)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8 4L6 2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.8896 12.61C13.0396 14.76 13.0396 18.24 10.8896 20.39C8.73957 22.54 5.25957 22.54 3.10957 20.39C0.95957 18.24 0.95957 14.76 3.10957 12.61C5.25957 10.46 8.73957 10.46 10.8896 12.61Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.4793 18.55L6.9993 13.6L4.5293 18.55", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.01953 17.56H8.97953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.8896 3.61C23.0396 5.76 23.0396 9.24 20.8896 11.39C18.7396 13.54 15.2596 13.54 13.1096 11.39C10.9596 9.24 10.9596 5.76 13.1096 3.61C15.2596 1.46 18.7396 1.46 20.8896 3.61Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15 7.5V5.53C15 5.25 15.22 5.03 15.5 5.03H17.81C18.49 5.03 19.05 5.58 19.05 6.27C19.05 6.95 18.5 7.51 17.81 7.51H15V7.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15 7.5V9.48C15 9.76 15.22 9.98 15.5 9.98H18.05C18.73 9.98 19.29 9.43 19.29 8.74C19.29 8.06 18.74 7.5 18.05 7.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 20L18 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21 16V18C21 19.1 20.1 20 19 20H16", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3 8V6C3 4.89 3.89 4 5 4H8", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "TranslatePro__clip0_4482_7446", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var TranslatePro_default = TranslatePro;
+export {
+  TranslatePro_default as default
+};

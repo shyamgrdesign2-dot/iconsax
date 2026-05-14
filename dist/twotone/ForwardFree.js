@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ForwardFree = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ForwardFree__clip0_4418_5539)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M2 8.34043V15.6604C2 17.1604 3.62999 18.1004 4.92999 17.3504L8.10001 15.5304L11.27 13.7004C11.47 13.5804 11.63 13.4504 11.76 13.2904V10.7304C11.63 10.5704 11.47 10.4404 11.27 10.3204L8.10001 8.49042L4.92999 6.67044C3.62999 5.90044 2 6.84043 2 8.34043Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.7598 8.34043V15.6604C11.7598 17.1604 13.3898 18.1004 14.6898 17.3504L17.8597 15.5304L21.0298 13.7004C22.3298 12.9504 22.3298 11.0804 21.0298 10.3204L17.8597 8.49042L14.6898 6.67044C13.3898 5.90044 11.7598 6.84043 11.7598 8.34043Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ForwardFree__clip0_4418_5539", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ForwardFree_default = ForwardFree;
+export {
+  ForwardFree_default as default
+};

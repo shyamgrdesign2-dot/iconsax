@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CloudAddPro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CloudAddPro__clip0_4482_2231)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.54003 12.59C0.860029 12.92 0.860029 19.73 5.54003 20.06H16.6301C17.9801 20.07 19.2801 19.57 20.2701 18.66C23.5601 15.79 21.8 10.02 17.47 9.46999C15.91 0.0999932 2.38008 3.65999 5.59008 12.59", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", fillRule: "evenodd", clipRule: "evenodd", d: "M12.75 11.5C12.75 11.0858 12.4142 10.75 12 10.75C11.5858 10.75 11.25 11.0858 11.25 11.5V13H9.75C9.33579 13 9 13.3358 9 13.75C9 14.1642 9.33579 14.5 9.75 14.5H11.25V16C11.25 16.4142 11.5858 16.75 12 16.75C12.4142 16.75 12.75 16.4142 12.75 16V14.5H14.25C14.6642 14.5 15 14.1642 15 13.75C15 13.3358 14.6642 13 14.25 13H12.75V11.5Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CloudAddPro__clip0_4482_2231", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CloudAddPro_default = CloudAddPro;
+export {
+  CloudAddPro_default as default
+};

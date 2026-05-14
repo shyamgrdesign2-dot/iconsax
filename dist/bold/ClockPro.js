@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ClockPro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ClockPro__clip0_4482_8100)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM16.5 13.42H11.33C10.92 13.42 10.58 13.08 10.58 12.67V6.44C10.58 6.03 10.92 5.69 11.33 5.69C11.74 5.69 12.08 6.03 12.08 6.44V11.91H16.5C16.91 11.91 17.25 12.25 17.25 12.66C17.25 13.07 16.91 13.41 16.5 13.41V13.42Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ClockPro__clip0_4482_8100", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ClockPro_default = ClockPro;
+export {
+  ClockPro_default as default
+};

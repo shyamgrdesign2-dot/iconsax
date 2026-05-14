@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CardsPro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CardsPro__clip0_4482_4121)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.65 6.2098V15.6498C17.65 17.3898 16.23 18.8098 14.49 18.8098H9.54999C7.79999 18.8098 6.39001 17.3898 6.39001 15.6498V6.2098C6.39001 4.4598 7.79999 3.0498 9.54999 3.0498H14.49C16.23 3.0498 17.65 4.4598 17.65 6.2098Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.29 14.3095L19.52 18.9195C18.9 20.5495 17.07 21.3695 15.44 20.7395L12 19.4195L10.83 18.9695C10.72 18.9295 10.61 18.8795 10.51 18.8195H14.48C16.22 18.8195 17.64 17.3995 17.64 15.6595V9.51953L19.46 10.2195C21.1 10.8495 21.92 12.6795 21.29 14.3095Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.49 18.8198C13.4 18.8698 13.28 18.9298 13.17 18.9698L12 19.4198L8.55997 20.7398C6.92997 21.3598 5.09995 20.5498 4.47995 18.9198L2.71 14.3098C2.08 12.6798 2.89999 10.8498 4.51999 10.2198L6.37998 9.50977V15.6598C6.37998 17.3998 7.78995 18.8198 9.53995 18.8198H13.49Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CardsPro__clip0_4482_4121", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CardsPro_default = CardsPro;
+export {
+  CardsPro_default as default
+};

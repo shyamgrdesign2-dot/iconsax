@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const WifiPro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#WifiPro__clip0_4482_12897)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 14.7695C12.13 14.7695 12.24 14.8895 12.23 15.0195C12.23 15.1495 12.12 15.2595 11.99 15.2595C11.86 15.2595 11.75 15.1495 11.75 15.0195C11.75 14.8795 11.86 14.7795 12 14.7795", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 10.1101C13.64 8.29012 10.35 8.29012 8 10.1101", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.66992 12.5499C11.0499 11.4899 12.9599 11.4899 14.3399 12.5499", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.08008 11.1196V6.72957C3.08008 5.90957 3.70008 4.96957 4.46008 4.67957L10.0301 2.37957C11.2801 1.86957 12.7001 1.86957 13.9501 2.37957L17.8701 3.97957L19.5201 4.66957C20.2801 4.95957 20.9001 5.89957 20.9001 6.71957H20.9101V11.1196C20.9101 15.9996 17.3401 20.5896 12.5101 21.9296C12.1801 22.0196 11.8201 22.0196 11.4801 21.9296C7.89008 20.9396 5.01008 18.1696 3.76008 14.8196", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "WifiPro__clip0_4482_12897", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var WifiPro_default = WifiPro;
+export {
+  WifiPro_default as default
+};

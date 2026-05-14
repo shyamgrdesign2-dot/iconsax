@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CardPro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CardPro__clip0_2085_392057)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.22998 19.35V19.79C4.22998 20.06 4.32998 20.31 4.51998 20.5L5.72998 21.71C5.91998 21.89 6.16998 22 6.43998 22H17.21C17.48 22 17.73 21.89 17.92 21.71L19.13 20.5C19.32 20.31 19.42 20.06 19.42 19.79V4.21C19.42 3.94 19.32 3.69 19.13 3.5L17.92 2.29C17.73 2.11 17.48 2 17.21 2H6.43998C6.16998 2 5.91998 2.11 5.72998 2.29L4.51998 3.5C4.32998 3.69 4.22998 3.94 4.22998 4.21V13.73", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.3398 19.5101V17.0801", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.31 9.77043C13.62 9.08043 12.51 9.08043 11.82 9.77043C11.13 9.08043 10.02 9.08043 9.33 9.77043C8.64 10.4604 8.64 11.5704 9.33 12.2604L11.82 14.7504L14.31 12.2604C15 11.5704 15 10.4604 14.31 9.77043Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.31006 6.93V4.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CardPro__clip0_2085_392057", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CardPro_default = CardPro;
+export {
+  CardPro_default as default
+};

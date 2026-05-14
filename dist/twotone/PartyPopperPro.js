@@ -1,0 +1,50 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const PartyPopperPro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#PartyPopperPro__clip0_2085_385144)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.56 15.98L10.2 14.44C9.91999 14.34 9.69999 14.12 9.59999 13.85L7.98999 9.52002L12.35 11.06C12.63 11.16 12.85 11.38 12.95 11.65L14.56 15.98Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.4301 8.51977L11.9301 7.76977C11.7101 7.42977 11.7101 6.99977 11.9301 6.65977L12.0601 6.46977C12.2801 6.12977 12.2801 5.69977 12.0601 5.35977L11.9301 5.16977C11.7101 4.82977 11.7101 4.39977 11.9301 4.05977L12.0601 3.86977C12.2801 3.52977 12.2801 3.09977 12.0601 2.75977L11.5601 2.00977", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.04 11.9999L16.26 11.3899C16.58 11.2299 16.96 11.2499 17.26 11.4499L17.53 11.6299C17.87 11.8499 18.3 11.8499 18.64 11.6299L18.83 11.4999C19.17 11.2799 19.6 11.2799 19.94 11.4999L20.13 11.6299C20.47 11.8499 20.9 11.8499 21.24 11.6299L21.99 11.1299", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.4099 9.08004L17.9099 8.33004C18.1299 7.99004 18.5399 7.83004 18.9399 7.91004L19.1699 7.96004C19.5699 8.04004 19.9699 7.87004 20.1999 7.54004L20.6999 6.79004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.3701 6.50004L14.6201 5.63004C14.7301 5.24004 15.0601 4.96004 15.4601 4.91004L15.6901 4.88004C16.0901 4.83004 16.4201 4.55004 16.5301 4.16004L16.7801 3.29004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.52009 5.47998L8.09009 5.90998L8.52009 6.33998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.52002 5.47998L8.95002 5.90998L8.52002 6.33998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.0401 8.52002L14.6101 8.95002L15.0401 9.38002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.04 8.52002L15.47 8.95002L15.04 9.38002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.96 4.60986L18.53 5.03986L18.96 5.47986", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.96 4.60986L19.39 5.03986L18.96 5.47986", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.5201 13.7402L18.0901 14.1702L18.5201 14.6002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.52 13.7402L18.95 14.1702L18.52 14.6002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M14.56 15.98L4.55996 20.77C3.70996 21.18 2.81996 20.29 3.22996 19.44L7.98996 9.52002L9.59996 13.85C9.69996 14.13 9.91996 14.34 10.2 14.44L14.56 15.98Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "PartyPopperPro__clip0_2085_385144", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var PartyPopperPro_default = PartyPopperPro;
+export {
+  PartyPopperPro_default as default
+};

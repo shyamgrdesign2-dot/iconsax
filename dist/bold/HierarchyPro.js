@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HierarchyPro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HierarchyPro__clip0_4482_14958)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 2H7C4.24 2 2 4.24 2 7V17C2 19.76 4.24 22 7 22H17C19.76 22 22 19.76 22 17V7C22 4.24 19.76 2 17 2ZM16.22 11.23C16.22 11.23 16.25 11.32 16.25 11.37C16.25 13.99 14.12 16.12 11.5 16.12H10.5C10.5 16.12 10.41 16.1 10.36 16.09C10.07 16.84 9.35 17.37 8.5 17.37C7.39 17.37 6.5 16.47 6.5 15.37C6.5 14.52 7.03 13.8 7.78 13.51C7.78 13.46 7.75 13.42 7.75 13.37V7.37C7.75 6.96 8.09 6.62 8.5 6.62C8.91 6.62 9.25 6.96 9.25 7.37V13.37C9.25 13.37 9.23 13.46 9.22 13.51C9.74 13.71 10.16 14.13 10.36 14.65C10.41 14.65 10.45 14.62 10.5 14.62H11.5C13.29 14.62 14.75 13.16 14.75 11.37C14.75 11.32 14.77 11.28 14.78 11.23C14.03 10.94 13.5 10.22 13.5 9.37C13.5 8.26 14.4 7.37 15.5 7.37C16.6 7.37 17.5 8.27 17.5 9.37C17.5 10.22 16.97 10.94 16.22 11.23Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HierarchyPro__clip0_4482_14958", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HierarchyPro_default = HierarchyPro;
+export {
+  HierarchyPro_default as default
+};

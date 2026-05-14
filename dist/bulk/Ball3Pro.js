@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Ball3Pro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Ball3Pro__clip0_2085_387479)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.5599 9.43994L9.43994 14.5599", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.49 8.91992L15.08 12.5099", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.92004 11.4902L12.51 15.0802", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.88 9.84012C21.53 12.3601 20.38 15.2201 17.8 17.8001C15.22 20.3801 12.36 21.5301 9.84 21.8801C9.23 17.9001 6.1 14.7601 2.12 14.1601C2.47 11.6401 3.62 8.78012 6.2 6.20012C8.77999 3.62012 11.64 2.47012 14.16 2.12012C14.76 6.10012 17.9 9.24012 21.88 9.84012Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.88 9.8398C17.9 9.2398 14.76 6.0998 14.16 2.1198C17.3 1.6898 19.9 2.4898 20.7 3.2998C21.51 4.0998 22.31 6.6998 21.88 9.8398Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.84005 21.8802C6.70005 22.3102 4.10005 21.5102 3.30005 20.7002C2.49005 19.9002 1.69005 17.3002 2.12005 14.1602C6.10005 14.7602 9.23005 17.9002 9.84005 21.8802Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Ball3Pro__clip0_2085_387479", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Ball3Pro_default = Ball3Pro;
+export {
+  Ball3Pro_default as default
+};

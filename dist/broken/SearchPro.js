@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SearchPro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SearchPro__clip0_2085_390263)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.67 6.12023C13.38 5.99023 13.06 5.90023 12.74 5.83023C12.7 5.83023 12.7 5.77023 12.74 5.76023C14.62 5.38023 16.09 3.91023 16.48 2.02023C16.48 1.98023 16.54 1.98023 16.55 2.02023C16.93 3.90023 18.4 5.37023 20.29 5.76023C20.33 5.76023 20.33 5.82023 20.29 5.83023C18.41 6.21023 16.94 7.68023 16.55 9.57023C16.55 9.61023 16.49 9.61023 16.48 9.57023C16.41 9.22023 16.3 8.88024 16.15 8.56024", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.2699 10.15C12.3399 9.81002 12.8299 9.81002 12.8999 10.15C13.0599 10.91 13.6499 11.5 14.4099 11.66C14.7499 11.73 14.7499 12.22 14.4099 12.29C13.6499 12.45 13.0599 13.04 12.8999 13.8C12.8299 14.14 12.3399 14.14 12.2699 13.8C12.1099 13.04 11.5199 12.45 10.7599 12.29C10.4199 12.22 10.4199 11.73 10.7599 11.66C11.5199 11.5 12.1099 10.91 12.2699 10.15Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.51 18.0299C14 21.5399 8.30998 21.5399 4.79998 18.0299C1.28998 14.5199 1.28998 8.82994 4.79998 5.31994C6.48998 3.62994 8.67998 2.75994 10.89 2.68994M17.51 18.0299C19.33 16.2099 20.21 13.7999 20.14 11.4099M17.51 18.0299L21.48 21.9999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SearchPro__clip0_2085_390263", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SearchPro_default = SearchPro;
+export {
+  SearchPro_default as default
+};

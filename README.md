@@ -1,34 +1,30 @@
-# Iconsax Icons
+# tp_icon
 
-A unified icon library packaged as React components plus raw SVGs.
+A unified icon library combining Iconsax (free + Pro) with TatvaPractice's
+custom medical icons, packaged as React components plus raw SVGs.
 
-Three sources, each in its own namespace:
-
-| Source | Names | Styles | Notes |
-|--------|------:|--------|-------|
-| `free` | 1,207 | 6 (bold · broken · bulk · linear · outline · twotone) | Iconsax free set |
-| `pro`  | 5,468 | 6 (bold · broken · bulk · linear · outline · twotone) | Iconsax Pro set (requires an Iconsax Pro license to crawl) |
-| `tp`   | 72    | 3 (bulk · line · solid) | Custom TP Medical icons |
-
-> 25,164 React components / raw SVGs total. Many icons (especially in `pro`)
-> only ship with a subset of styles — see `icons-pro.json` / `icons-free.json`
-> / `icons-tp.json` for per-icon style availability.
+| Metric | Count |
+|--------|------:|
+| Unique component names | 6,769 |
+| Total React components | 25,165 |
+| Styles | 6 (bold · broken · bulk · linear · outline · twotone) |
+| Sources merged | Iconsax free, Iconsax Pro, TatvaPractice Medical |
 
 ## Install
 
 ```bash
 npm install github:shyamgrdesign2-dot/iconsax
 # or pin a tag (recommended):
-npm install github:shyamgrdesign2-dot/iconsax#v0.2.0
+npm install github:shyamgrdesign2-dot/iconsax#v0.3.0
 ```
+
+The package's name is `tp_icon`.
 
 ## Usage
 
 ```tsx
-// Subpath imports — your bundler tree-shakes unused icons.
-import { AiHome }    from "@iconsax/icons/pro/linear";
-import { Home }      from "@iconsax/icons/free/bold";
-import { Ambulance } from "@iconsax/icons/tp/line";
+// Subpath imports — your bundler tree-shakes the unused icons.
+import { AiHome, Home, Ambulance } from "tp_icon/linear";
 
 export const Header = () => (
   <header>
@@ -40,63 +36,95 @@ export const Header = () => (
 ```
 
 ```tsx
-// Or use namespaced imports.
-import { Pro, Free, Tp } from "@iconsax/icons";
+// Or namespace style.
+import { Linear, Bold, Bulk } from "tp_icon";
 
-<Pro.Linear.AiHome />
-<Free.Bold.Home />
-<Tp.Solid.Brain />
+<Linear.AiHome />
+<Bold.Home />
+<Bulk.Ambulance />
 ```
 
-All icons accept the standard React `SVGProps<SVGSVGElement>`:
+All icons accept the standard React `SVGProps<SVGSVGElement>`. They render with
+`stroke="currentColor"` / `fill="currentColor"` so they inherit the surrounding
+text color out of the box:
 
 ```tsx
-<AiHome width={48} height={48} stroke="currentColor" className="my-icon" />
+<AiHome width={48} height={48} color="#7c3aed" className="my-icon" />
 ```
-
-The icons render `stroke="currentColor"` / `fill="currentColor"` so they
-inherit the surrounding text color out of the box.
 
 ### Raw SVGs
 
-Every SVG is shipped on disk under `svg/<source>/<style>/<name>.svg`:
+Every SVG is also shipped under `svg/<style>/<name>.svg`:
 
 ```ts
-import linearHomeUrl from "@iconsax/icons/svg/pro/linear/ai-home.svg";
+import linearHomeUrl from "tp_icon/svg/linear/home-pro.svg";
+```
+
+## Naming
+
+- **Single namespace.** All icons live in one flat set; no source prefix on
+  imports. There are no `free/` / `pro/` / `tp/` import paths anymore.
+- **Style mapping.** TP's three styles map into Iconsax's six like so:
+  `line → linear`, `bulk → bulk`, `solid → bold`. TP icons therefore appear in
+  three of the six style folders; the other three just don't have a TP version.
+- **Name collisions.** When two sources both define the same icon name with
+  different artwork, both are kept and tagged with a source suffix:
+
+  | Original | Pro version | Free version | TP version |
+  |----------|-------------|--------------|------------|
+  | `home`   | `HomePro`   | `HomeFree`   | — |
+  | `ambulance` | — | — | `Ambulance` (no suffix; unique to TP) |
+
+  Source priority for the "winner" of unprefixed forms: **pro > free > tp**.
+  In practice every collision gets suffixed so consumers always know which
+  artwork they are picking. The `-pro` / `-free` / `-tp` suffix uses a hyphen
+  so it never collides with Iconsax's own numeric suffixes (`home-1`, `home-2`,
+  …).
+- **TP icons.** Custom TatvaPractice icons (e.g. medical) are merged into the
+  same namespace with no special prefix unless they collide with an Iconsax
+  name. So `Brain`, `Ambulance`, `Stethoscope` etc. import directly.
+
+The `icons.json` manifest records the source, original (pre-collision) name,
+and available styles for every component:
+
+```json
+{
+  "HomePro":   { "source": "pro",  "originalName": "home", "styles": ["bold", "broken", "bulk", "linear", "outline", "twotone"] },
+  "HomeFree":  { "source": "free", "originalName": "home", "styles": [...] },
+  "Ambulance": { "source": "tp",   "originalName": "ambulance", "styles": ["bold", "bulk", "linear"] }
+}
 ```
 
 ## What's in the box
 
-- `dist/<source>/<style>/<Component>.{js,d.ts}` — compiled React components (ESM + types).
-- `svg/<source>/<style>/<name>.svg` — raw SVG files.
-- `icons-<source>.json` — manifest for each source (category + available styles per icon).
-- `scripts/` — crawler, importer, generator, build.
+- `dist/<style>/<Component>.{js,d.ts}` — compiled React components (ESM + types).
+- `svg/<style>/<name>.svg` — flat raw-SVG tree.
+- `icons.json` — per-icon manifest (source attribution + style availability).
+- `scripts/` — crawler, importer, merger, generator, build pipeline.
 
 ## Regenerating from scratch
 
-When Iconsax adds new icons or TP gets new custom icons:
+When Iconsax adds icons or TP adds new custom ones:
 
 ```bash
-cp .env.example .env   # fill in ICONSAX_TOKEN (your Iconsax Pro API key)
+cp .env.example .env   # add your ICONSAX_TOKEN (Iconsax Pro API key)
 npm install
 
 # 1. Refresh Iconsax sources (resumable; skips icons already on disk).
 npm run crawl:free
 npm run crawl:pro
 
-# 2. Refresh TP Medical icons from the source repo on disk.
+# 2. Refresh TP Medical icons from the source directory on disk.
 npm run import:tp
 
-# 3. Regenerate components and rebuild dist/.
-npm run generate
-npm run build
+# 3. Merge sources → flat svg/ + icons.json, then build dist/.
+npm run rebuild:all   # = merge && generate && build
 ```
 
-The crawlers are resumable — they persist progress in `crawl-state/` and skip
-already-downloaded SVGs on re-runs.
+The crawlers persist progress under `crawl-state/` so they survive Ctrl+C.
 
 ## License
 
-The Iconsax icons themselves are licensed by Iconsax under the terms of your
-Iconsax subscription. The TP Medical icons are owned by TP. This packaging
-code is provided for use within projects that hold the appropriate licenses.
+Iconsax icons are licensed by Iconsax under the terms of your subscription.
+TatvaPractice's custom icons are owned by TatvaPractice. The packaging code
+in this repository is provided for projects holding the relevant licenses.

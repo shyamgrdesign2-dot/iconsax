@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const TicketPro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#TicketPro__clip0_4482_4577)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.12 12H19.1899V6.35C19.1899 4.37 17.57 2.75 15.59 2.75H8.40002C6.42002 2.75 4.80005 4.37 4.80005 6.35V12C5.93005 12 6.85999 12.92 6.85999 14.06C6.85999 15.19 5.93005 16.12 4.80005 16.12V17.66C4.80005 19.64 6.42002 21.26 8.40002 21.26H15.59C17.57 21.26 19.1899 19.64 19.1899 17.66V16.12H19.15C18.3 16.12 17.49 15.62 17.2 14.81C16.68 13.36 17.75 12 19.12 12ZM13.54 14.81H10.46C10.05 14.81 9.70996 14.47 9.70996 14.06C9.70996 13.65 10.05 13.31 10.46 13.31H13.54C13.95 13.31 14.29 13.65 14.29 14.06C14.29 14.47 13.96 14.81 13.54 14.81Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "TicketPro__clip0_4482_4577", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var TicketPro_default = TicketPro;
+export {
+  TicketPro_default as default
+};

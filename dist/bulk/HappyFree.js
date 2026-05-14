@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HappyFree = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HappyFree__clip0_4418_4887)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M19.0702 4.95008C23.0402 8.92008 22.9702 15.4 18.8702 19.29C15.0802 22.88 8.93021 22.88 5.13021 19.29C1.02021 15.4 0.950194 8.92008 4.93019 4.95008C8.83019 1.04008 15.1702 1.04008 19.0702 4.95008Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9998 18.3209C10.4198 18.3209 8.84975 17.7509 7.64975 16.6209C7.34975 16.3309 7.33975 15.8609 7.61975 15.5609C7.90975 15.2609 8.37975 15.2509 8.67975 15.5309C10.5097 17.2609 13.4898 17.2609 15.3198 15.5309C15.6198 15.2509 16.0998 15.2609 16.3798 15.5609C16.6598 15.8609 16.6498 16.3409 16.3498 16.6209C15.1498 17.7509 13.5798 18.3209 11.9998 18.3209Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HappyFree__clip0_4418_4887", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HappyFree_default = HappyFree;
+export {
+  HappyFree_default as default
+};

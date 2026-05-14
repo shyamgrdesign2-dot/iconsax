@@ -1,7 +1,7 @@
 {
-  "name": "@iconsax/icons",
-  "version": "0.2.0",
-  "description": "Iconsax (free + pro) and TP Medical icons as React components and raw SVGs. 25K+ components across three sources.",
+  "name": "tp_icon",
+  "version": "0.3.0",
+  "description": "Unified icon library (Iconsax free + Iconsax Pro + TP Medical) as React components and raw SVGs. 25K+ components across 6 styles.",
   "type": "module",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -10,49 +10,29 @@
       "types": "./dist/index.d.ts",
       "import": "./dist/index.js"
     },
-    "./free": {
-      "types": "./dist/free/index.d.ts",
-      "import": "./dist/free/index.js"
-    },
-    "./free/bold":    { "types": "./dist/free/bold/index.d.ts",    "import": "./dist/free/bold/index.js" },
-    "./free/broken":  { "types": "./dist/free/broken/index.d.ts",  "import": "./dist/free/broken/index.js" },
-    "./free/bulk":    { "types": "./dist/free/bulk/index.d.ts",    "import": "./dist/free/bulk/index.js" },
-    "./free/linear":  { "types": "./dist/free/linear/index.d.ts",  "import": "./dist/free/linear/index.js" },
-    "./free/outline": { "types": "./dist/free/outline/index.d.ts", "import": "./dist/free/outline/index.js" },
-    "./free/twotone": { "types": "./dist/free/twotone/index.d.ts", "import": "./dist/free/twotone/index.js" },
-    "./pro": {
-      "types": "./dist/pro/index.d.ts",
-      "import": "./dist/pro/index.js"
-    },
-    "./pro/bold":    { "types": "./dist/pro/bold/index.d.ts",    "import": "./dist/pro/bold/index.js" },
-    "./pro/broken":  { "types": "./dist/pro/broken/index.d.ts",  "import": "./dist/pro/broken/index.js" },
-    "./pro/bulk":    { "types": "./dist/pro/bulk/index.d.ts",    "import": "./dist/pro/bulk/index.js" },
-    "./pro/linear":  { "types": "./dist/pro/linear/index.d.ts",  "import": "./dist/pro/linear/index.js" },
-    "./pro/outline": { "types": "./dist/pro/outline/index.d.ts", "import": "./dist/pro/outline/index.js" },
-    "./pro/twotone": { "types": "./dist/pro/twotone/index.d.ts", "import": "./dist/pro/twotone/index.js" },
-    "./tp": {
-      "types": "./dist/tp/index.d.ts",
-      "import": "./dist/tp/index.js"
-    },
-    "./tp/bulk":  { "types": "./dist/tp/bulk/index.d.ts",  "import": "./dist/tp/bulk/index.js" },
-    "./tp/line":  { "types": "./dist/tp/line/index.d.ts",  "import": "./dist/tp/line/index.js" },
-    "./tp/solid": { "types": "./dist/tp/solid/index.d.ts", "import": "./dist/tp/solid/index.js" },
-    "./svg/*": "./svg/*"
+    "./bold":    { "types": "./dist/bold/index.d.ts",    "import": "./dist/bold/index.js" },
+    "./broken":  { "types": "./dist/broken/index.d.ts",  "import": "./dist/broken/index.js" },
+    "./bulk":    { "types": "./dist/bulk/index.d.ts",    "import": "./dist/bulk/index.js" },
+    "./linear":  { "types": "./dist/linear/index.d.ts",  "import": "./dist/linear/index.js" },
+    "./outline": { "types": "./dist/outline/index.d.ts", "import": "./dist/outline/index.js" },
+    "./twotone": { "types": "./dist/twotone/index.d.ts", "import": "./dist/twotone/index.js" },
+    "./svg/*": "./svg/*",
+    "./icons.json": "./icons.json"
   },
   "files": [
     "dist",
     "svg",
-    "icons-free.json",
-    "icons-pro.json",
-    "icons-tp.json",
+    "icons.json",
     "README.md"
   ],
   "scripts": {
     "crawl:pro": "node scripts/discover.mjs && SOURCE=pro node scripts/fetch.mjs",
     "crawl:free": "node scripts/discover-free.mjs && SOURCE=free node scripts/fetch.mjs",
     "import:tp": "node scripts/import-tp.mjs",
+    "merge": "node scripts/merge.mjs",
     "generate": "node scripts/generate.mjs",
     "build": "node scripts/build.mjs",
+    "rebuild:all": "npm run merge && npm run generate && npm run build",
     "prepublishOnly": "npm run build"
   },
   "peerDependencies": {
@@ -63,7 +43,14 @@
     "esbuild": "^0.24.0",
     "typescript": "^5.5.0"
   },
-  "keywords": ["icons", "iconsax", "react", "svg"],
+  "keywords": [
+    "icons",
+    "iconsax",
+    "tatvapractice",
+    "tp",
+    "react",
+    "svg"
+  ],
   "license": "UNLICENSED",
   "private": false
 }

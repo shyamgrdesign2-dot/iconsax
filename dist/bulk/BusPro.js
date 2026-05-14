@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BusPro = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BusPro__clip0_4482_6426)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.9 22H7.10001C5.40001 22 4 20.61 4 18.9V5.1C4 3.4 5.39001 2 7.10001 2H16.9C18.6 2 20 3.39 20 5.1V18.9C20 20.61 18.61 22 16.9 22Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.5 13H5.5C4.67 13 4 12.33 4 11.5V9.5C4 8.67 4.67 8 5.5 8H18.5C19.33 8 20 8.67 20 9.5V11.5C20 12.33 19.33 13 18.5 13Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.5 18.9502C7.81 18.9502 7.25 18.3902 7.25 17.7002C7.25 17.0102 7.8 16.4502 8.5 16.4502H8.51001C9.20001 16.4502 9.76001 17.0102 9.76001 17.7002C9.76001 18.3902 9.19 18.9502 8.5 18.9502Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.5 18.9502C14.81 18.9502 14.25 18.3902 14.25 17.7002C14.25 17.0102 14.8 16.4502 15.5 16.4502H15.51C16.2 16.4502 16.76 17.0102 16.76 17.7002C16.76 18.3902 16.19 18.9502 15.5 18.9502Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.5 5.75H9.5C9.09 5.75 8.75 5.41 8.75 5C8.75 4.59 9.09 4.25 9.5 4.25H14.5C14.91 4.25 15.25 4.59 15.25 5C15.25 5.41 14.91 5.75 14.5 5.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.5 9.75C1.09 9.75 0.75 9.41 0.75 9V6C0.75 5.59 1.09 5.25 1.5 5.25C1.91 5.25 2.25 5.59 2.25 6V9C2.25 9.41 1.91 9.75 1.5 9.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.5 9.75C22.09 9.75 21.75 9.41 21.75 9V6C21.75 5.59 22.09 5.25 22.5 5.25C22.91 5.25 23.25 5.59 23.25 6V9C23.25 9.41 22.91 9.75 22.5 9.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BusPro__clip0_4482_6426", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BusPro_default = BusPro;
+export {
+  BusPro_default as default
+};

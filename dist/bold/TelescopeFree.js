@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const TelescopeFree = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#TelescopeFree__clip0_4418_8785)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.8399 10.9006L20.4999 7.11057C21.0699 6.73057 21.2199 5.95057 20.8399 5.39057L19.0199 2.68057C18.6399 2.11057 17.8599 1.96057 17.2999 2.34057L11.6399 6.13057L14.8399 10.9006Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.5199 10.4196L12.7599 11.5996L10.0899 13.3896L9.73993 13.6196L9.57993 13.3796L7.33993 10.0396L7.17993 9.79961L11.9599 6.59961L14.5199 10.4196Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.6401 16.0191L9.5901 13.3791L7.3501 10.0391L3.4001 12.6791C2.9401 12.9891 2.8201 13.6091 3.1301 14.0691L4.2601 15.7491C4.5601 16.2091 5.1801 16.3291 5.6401 16.0191Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5599 21.8096C16.4599 21.8496 16.3499 21.8796 16.2499 21.8796C15.9599 21.8796 15.6899 21.7096 15.5599 21.4296L11.8299 13.1896L8.0499 21.4396C7.9199 21.7096 7.6499 21.8796 7.3599 21.8796C7.2599 21.8796 7.1499 21.8496 7.0499 21.8096C6.6799 21.6296 6.5099 21.1896 6.6799 20.8096L10.0899 13.3896L12.7599 11.5996L16.9299 20.8196C17.0999 21.1896 16.9299 21.6396 16.5599 21.8096Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "TelescopeFree__clip0_4418_8785", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var TelescopeFree_default = TelescopeFree;
+export {
+  TelescopeFree_default as default
+};

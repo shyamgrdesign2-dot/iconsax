@@ -113,16 +113,14 @@ export default ${componentName};
 fs.rmSync(SRC_ROOT, { recursive: true, force: true });
 fs.mkdirSync(SRC_ROOT, { recursive: true });
 
-const SOURCES = listDirs(SVG_ROOT); // e.g. ["free", "pro", "tp"]
-// Each source defines its own style set on disk. Iconsax sources expose 6
-// styles (bold/broken/bulk/linear/outline/twotone); TP exposes 3 (bulk/line/solid).
-const stylesBySource = Object.fromEntries(SOURCES.map((s) => [s, listDirs(path.join(SVG_ROOT, s))]));
+// Flat layout: svg/<style>/<name>.svg → src/<style>/<Component>.tsx
+const STYLES = listDirs(SVG_ROOT);
 const summary = {};
 const allComponentNames = new Set();
 
-for (const source of SOURCES) for (const style of stylesBySource[source]) {
-  const styleDir = path.join(SVG_ROOT, source, style);
-  const outDir = path.join(SRC_ROOT, source, style);
+for (const style of STYLES) {
+  const styleDir = path.join(SVG_ROOT, style);
+  const outDir = path.join(SRC_ROOT, style);
   fs.mkdirSync(outDir, { recursive: true });
 
   const files = fs.readdirSync(styleDir).filter((f) => f.endsWith(".svg")).sort();
@@ -152,28 +150,17 @@ for (const source of SOURCES) for (const style of stylesBySource[source]) {
   }
 
   fs.writeFileSync(path.join(outDir, "index.ts"), indexLines.join("\n") + "\n");
-  summary[`${source}/${style}`] = files.length;
-  console.log(`[generate] ${source}/${style}: ${files.length} components`);
+  summary[style] = files.length;
+  console.log(`[generate] ${style}: ${files.length} components`);
 }
 
-// Per-source barrel: e.g. import { Bold, Linear } from "@iconsax/icons/pro".
-// Style names become PascalCase namespace names.
-for (const source of SOURCES) {
-  const styles = stylesBySource[source].filter((s) => fs.existsSync(path.join(SRC_ROOT, source, s)));
-  fs.writeFileSync(
-    path.join(SRC_ROOT, source, "index.ts"),
-    styles
-      .map((s) => `export * as ${s.charAt(0).toUpperCase() + s.slice(1)} from "./${s}/index.js";`)
-      .join("\n") + "\n"
-  );
-}
-
-// Root barrel: re-export each source as a namespace so users can do
-//   import { Free, Pro } from "@iconsax/icons";
-//   <Pro.Linear.AiHome />
+// Root barrel: re-export each style as a namespace.
+//   import { Linear, Bold } from "tp_icon";
+//   <Linear.AiHome />
+// Or use subpath: import { AiHome } from "tp_icon/linear";
 fs.writeFileSync(
   path.join(SRC_ROOT, "index.ts"),
-  SOURCES
+  STYLES
     .map((s) => `export * as ${s.charAt(0).toUpperCase() + s.slice(1)} from "./${s}/index.js";`)
     .join("\n") + "\n"
 );
@@ -183,4 +170,4 @@ fs.writeFileSync(
   JSON.stringify(summary, null, 2)
 );
 
-console.log(`[generate] DONE. sources=${SOURCES.join(",")}  total component files=${Object.values(summary).reduce((a, b) => a + b, 0)}`);
+console.log(`[generate] DONE. styles=${STYLES.join(",")}  total component files=${Object.values(summary).reduce((a, b) => a + b, 0)}`);
