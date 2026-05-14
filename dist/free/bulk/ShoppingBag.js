@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ShoppingBag = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ShoppingBag__clip0_4418_4778)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.4899 22H7.50984C3.99984 22 3.23984 19.99 3.52984 17.53L4.42984 10.03C4.65984 8.09 4.99984 6.5 8.39984 6.5H15.5999C18.9999 6.5 19.3399 8.09 19.5699 10.03L20.3199 16.28L20.4698 17.53C20.4798 17.61 20.4898 17.69 20.4998 17.77C20.7098 20.12 19.8899 22 16.4899 22Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 8.75C15.59 8.75 15.25 8.41 15.25 8V4.5C15.25 3.42 14.58 2.75 13.5 2.75H10.5C9.42 2.75 8.75 3.42 8.75 4.5V8C8.75 8.41 8.41 8.75 8 8.75C7.59 8.75 7.25 8.41 7.25 8V4.5C7.25 2.59 8.59 1.25 10.5 1.25H13.5C15.41 1.25 16.75 2.59 16.75 4.5V8C16.75 8.41 16.41 8.75 16 8.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.5 17.7693C20.47 17.7793 20.44 17.7793 20.41 17.7793H8C7.59 17.7793 7.25 17.4393 7.25 17.0293C7.25 16.6093 7.59 16.2793 8 16.2793H20.32L20.47 17.5293C20.48 17.6093 20.49 17.6893 20.5 17.7693Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ShoppingBag__clip0_4418_4778", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ShoppingBag_default = ShoppingBag;
+export {
+  ShoppingBag_default as default
+};

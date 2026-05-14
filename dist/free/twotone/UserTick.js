@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const UserTick = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#UserTick__clip0_3111_32683)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 12C14.7614 12 17 9.76142 17 7C17 4.23858 14.7614 2 12 2C9.23858 2 7 4.23858 7 7C7 9.76142 9.23858 12 12 12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M3.41003 22C3.41003 18.13 7.26003 15 12 15C12.96 15 13.89 15.13 14.76 15.37", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 18C22 18.75 21.79 19.46 21.42 20.06C21.21 20.42 20.94 20.74 20.63 21C19.93 21.63 19.01 22 18 22C16.54 22 15.27 21.22 14.58 20.06C14.21 19.46 14 18.75 14 18C14 16.74 14.58 15.61 15.5 14.88C16.19 14.33 17.06 14 18 14C20.21 14 22 15.79 22 18Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4399 17.9995L17.4299 18.9895L19.5599 17.0195", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "UserTick__clip0_3111_32683", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var UserTick_default = UserTick;
+export {
+  UserTick_default as default
+};

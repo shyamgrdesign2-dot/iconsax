@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ThorchainRune = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ThorchainRune__clip0_4418_10159)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.7 11.7007L16.8 15.8007C17.3 16.4007 17.1 17.3007 16.4 17.6007L6.10002 21.9007C5.00002 22.4007 4.10002 21.0007 4.90002 20.2007L12.7 11.7007ZM12.7 11.7007L8.60002 7.60068C8.10002 7.10068 8.30002 6.10068 9.00002 5.80068L17.9 2.10068C19 1.70068 19.9 2.90068 19.2 3.80068L12.7 11.7007Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ThorchainRune__clip0_4418_10159", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ThorchainRune_default = ThorchainRune;
+export {
+  ThorchainRune_default as default
+};

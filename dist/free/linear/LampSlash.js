@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const LampSlash = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#LampSlash__clip0_4418_9917)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.0301 2.48047L4.18005 18.3305", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.24996 12.9992C4.82996 12.0292 4.57996 10.9792 4.57996 9.8992C4.57996 4.9892 8.79996 1.1192 13.6 2.1692C15.06 2.4892 16.36 3.2692 17.36 4.3492", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.06 7.30078C20.28 11.1808 18.31 15.0808 15.52 16.8708V18.0308C15.52 18.3208 15.62 18.9908 14.62 18.9908H9.42003C8.39003 18.9908 8.52003 18.5608 8.52003 18.0308V16.8708C8.04003 16.5708 7.59003 16.2008 7.16003 15.7708", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.5 21.9992C10.79 21.3492 13.21 21.3492 15.5 21.9992", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "LampSlash__clip0_4418_9917", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var LampSlash_default = LampSlash;
+export {
+  LampSlash_default as default
+};

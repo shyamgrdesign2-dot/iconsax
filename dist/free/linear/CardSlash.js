@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const CardSlash = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#CardSlash__clip0_4418_169845)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 8.5H15.24", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6 16.5H7.29", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11 16.5H14.5", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.97998 20.4996H17.56C21.12 20.4996 22 19.6196 22 16.1096V6.88965", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.99 3.75C19.37 3.57 18.57 3.5 17.56 3.5H6.44C2.89 3.5 2 4.38 2 7.89V16.1C2 18.44 2.39 19.61 3.71 20.13", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 2L2 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "CardSlash__clip0_4418_169845", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var CardSlash_default = CardSlash;
+export {
+  CardSlash_default as default
+};

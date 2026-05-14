@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Icon3DotsMore = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Icon3DotsMore__clip0_4418_5051)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.19 2H7.81C4.17 2 2 4.17 2 7.81V16.18C2 19.83 4.17 22 7.81 22H16.18C19.82 22 21.99 19.83 21.99 16.19V7.81C22 4.17 19.83 2 16.19 2Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9999 10.6895C11.2799 10.6895 10.6899 11.2795 10.6899 11.9995C10.6899 12.7195 11.2799 13.3095 11.9999 13.3095C12.7199 13.3095 13.3099 12.7195 13.3099 11.9995C13.3099 11.2795 12.7199 10.6895 11.9999 10.6895Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.99994 10.6895C6.27994 10.6895 5.68994 11.2795 5.68994 11.9995C5.68994 12.7195 6.27994 13.3095 6.99994 13.3095C7.71994 13.3095 8.30994 12.7195 8.30994 11.9995C8.30994 11.2795 7.71994 10.6895 6.99994 10.6895Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.9999 10.6895C16.2799 10.6895 15.6899 11.2795 15.6899 11.9995C15.6899 12.7195 16.2799 13.3095 16.9999 13.3095C17.7199 13.3095 18.3099 12.7195 18.3099 11.9995C18.3099 11.2795 17.7199 10.6895 16.9999 10.6895Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Icon3DotsMore__clip0_4418_5051", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Icon3DotsMore_default = Icon3DotsMore;
+export {
+  Icon3DotsMore_default as default
+};

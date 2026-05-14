@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Signpost = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Signpost__clip0_4418_6133)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.22 2H8.96005C8.56005 2 8.18002 2.14 7.87002 2.38L5.68002 4.13C4.80002 4.83 4.80002 6.15999 5.68002 6.85999L7.87002 8.60999C8.18002 8.85999 8.57005 8.98999 8.96005 8.98999H17.22C18.19 8.98999 18.97 8.20999 18.97 7.23999V3.73999C18.97 2.77999 18.19 2 17.22 2Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.7998 12H15.0598C15.4598 12 15.8398 12.14 16.1498 12.38L18.3398 14.13C19.2198 14.83 19.2198 16.16 18.3398 16.86L16.1498 18.61C15.8398 18.86 15.4498 18.99 15.0598 18.99H6.7998C5.8298 18.99 5.0498 18.21 5.0498 17.24V13.74C5.0498 12.78 5.8298 12 6.7998 12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12 12V9", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { opacity: "0.4", fillRule: "evenodd", clipRule: "evenodd", d: "M12.75 19C12.75 18.5858 12.4142 18.25 12 18.25C11.5858 18.25 11.25 18.5858 11.25 19V21.25H9C8.58579 21.25 8.25 21.5858 8.25 22C8.25 22.4142 8.58579 22.75 9 22.75H12H15C15.4142 22.75 15.75 22.4142 15.75 22C15.75 21.5858 15.4142 21.25 15 21.25H12.75V19Z", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Signpost__clip0_4418_6133", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Signpost_default = Signpost;
+export {
+  Signpost_default as default
+};

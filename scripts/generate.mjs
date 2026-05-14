@@ -10,10 +10,15 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { STYLES } from "./lib/mcp.mjs";
 
 const SVG_ROOT = path.resolve("svg");
 const SRC_ROOT = path.resolve("src");
+
+function listDirs(d) {
+  return fs.existsSync(d)
+    ? fs.readdirSync(d, { withFileTypes: true }).filter((e) => e.isDirectory()).map((e) => e.name)
+    : [];
+}
 
 function toPascal(name) {
   // Map non-identifier characters to readable words before splitting.
@@ -108,13 +113,16 @@ export default ${componentName};
 fs.rmSync(SRC_ROOT, { recursive: true, force: true });
 fs.mkdirSync(SRC_ROOT, { recursive: true });
 
+const SOURCES = listDirs(SVG_ROOT); // e.g. ["free", "pro", "tp"]
+// Each source defines its own style set on disk. Iconsax sources expose 6
+// styles (bold/broken/bulk/linear/outline/twotone); TP exposes 3 (bulk/line/solid).
+const stylesBySource = Object.fromEntries(SOURCES.map((s) => [s, listDirs(path.join(SVG_ROOT, s))]));
 const summary = {};
 const allComponentNames = new Set();
 
-for (const style of STYLES) {
-  const styleDir = path.join(SVG_ROOT, style);
-  if (!fs.existsSync(styleDir)) continue;
-  const outDir = path.join(SRC_ROOT, style);
+for (const source of SOURCES) for (const style of stylesBySource[source]) {
+  const styleDir = path.join(SVG_ROOT, source, style);
+  const outDir = path.join(SRC_ROOT, source, style);
   fs.mkdirSync(outDir, { recursive: true });
 
   const files = fs.readdirSync(styleDir).filter((f) => f.endsWith(".svg")).sort();
@@ -144,17 +152,30 @@ for (const style of STYLES) {
   }
 
   fs.writeFileSync(path.join(outDir, "index.ts"), indexLines.join("\n") + "\n");
-  summary[style] = files.length;
-  console.log(`[generate] ${style}: ${files.length} components`);
+  summary[`${source}/${style}`] = files.length;
+  console.log(`[generate] ${source}/${style}: ${files.length} components`);
 }
 
-// Root barrel: re-export each style as a namespace so users can:
-//   import { Bold, Linear } from "@iconsax/icons";
-//   <Bold.AiHome />
-// or use subpath imports: `import { AiHome } from "@iconsax/icons/linear";`
+// Per-source barrel: e.g. import { Bold, Linear } from "@iconsax/icons/pro".
+// Style names become PascalCase namespace names.
+for (const source of SOURCES) {
+  const styles = stylesBySource[source].filter((s) => fs.existsSync(path.join(SRC_ROOT, source, s)));
+  fs.writeFileSync(
+    path.join(SRC_ROOT, source, "index.ts"),
+    styles
+      .map((s) => `export * as ${s.charAt(0).toUpperCase() + s.slice(1)} from "./${s}/index.js";`)
+      .join("\n") + "\n"
+  );
+}
+
+// Root barrel: re-export each source as a namespace so users can do
+//   import { Free, Pro } from "@iconsax/icons";
+//   <Pro.Linear.AiHome />
 fs.writeFileSync(
   path.join(SRC_ROOT, "index.ts"),
-  STYLES.map((s) => `export * as ${s.charAt(0).toUpperCase() + s.slice(1)} from "./${s}/index.js";`).join("\n") + "\n"
+  SOURCES
+    .map((s) => `export * as ${s.charAt(0).toUpperCase() + s.slice(1)} from "./${s}/index.js";`)
+    .join("\n") + "\n"
 );
 
 fs.writeFileSync(
@@ -162,4 +183,4 @@ fs.writeFileSync(
   JSON.stringify(summary, null, 2)
 );
 
-console.log(`[generate] DONE. styles=${Object.keys(summary).length}  total component files=${Object.values(summary).reduce((a, b) => a + b, 0)}`);
+console.log(`[generate] DONE. sources=${SOURCES.join(",")}  total component files=${Object.values(summary).reduce((a, b) => a + b, 0)}`);

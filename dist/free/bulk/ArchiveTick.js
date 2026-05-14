@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ArchiveTick = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ArchiveTick__clip0_4418_5076)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.8198 1.91016H7.17982C5.05982 1.91016 3.31982 3.65016 3.31982 5.77016V19.8602C3.31982 21.6602 4.60982 22.4202 6.18982 21.5502L11.0698 18.8402C11.5898 18.5502 12.4298 18.5502 12.9398 18.8402L17.8198 21.5502C19.3998 22.4302 20.6898 21.6702 20.6898 19.8602V5.77016C20.6798 3.65016 18.9498 1.91016 16.8198 1.91016Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.0898 13.2495C10.8998 13.2495 10.7098 13.1795 10.5598 13.0295L9.05979 11.5295C8.76979 11.2395 8.76979 10.7595 9.05979 10.4695C9.34979 10.1795 9.82978 10.1795 10.1198 10.4695L11.0898 11.4395L14.5598 7.96945C14.8498 7.67945 15.3298 7.67945 15.6198 7.96945C15.9098 8.25945 15.9098 8.73945 15.6198 9.02945L11.6198 13.0295C11.4698 13.1795 11.2798 13.2495 11.0898 13.2495Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ArchiveTick__clip0_4418_5076", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ArchiveTick_default = ArchiveTick;
+export {
+  ArchiveTick_default as default
+};

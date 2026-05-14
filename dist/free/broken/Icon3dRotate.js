@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Icon3dRotate = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Icon3dRotate__clip0_4418_3403)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.7002 9.25977L12.0002 12.3298L17.2602 9.27976", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 17.7703V12.3203", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.22998 10.2991C6.22998 9.46914 6.81996 8.45914 7.54996 8.05914L10.75 6.27914C11.43 5.89914 12.55 5.89914 13.24 6.27914L16.44 8.05914C17.16 8.45914 17.76 9.46914 17.76 10.2991V13.6891C17.76 14.5191 17.17 15.5291 16.44 15.9291L13.24 17.7091C12.56 18.0891 11.44 18.0891 10.75 17.7091L7.54996 15.9291C7.18996 15.7291 6.85996 15.3791 6.61996 14.9691", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 15C22 18.87 18.87 22 15 22L16.05 20.25", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 9C2 5.13 5.13 2 9 2L7.95001 3.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Icon3dRotate__clip0_4418_3403", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Icon3dRotate_default = Icon3dRotate;
+export {
+  Icon3dRotate_default as default
+};

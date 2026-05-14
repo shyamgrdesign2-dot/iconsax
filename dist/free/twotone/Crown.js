@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Crown = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Crown__clip0_4418_6177)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 15.2895V5.70953C2 4.37953 2.77 4.05953 3.71 4.99953L6.3 7.58953C6.69 7.97953 7.33 7.97953 7.71 7.58953L11.29 3.99953C11.68 3.60953 12.32 3.60953 12.7 3.99953L16.29 7.58953C16.68 7.97953 17.32 7.97953 17.7 7.58953L20.29 4.99953C21.23 4.05953 22 4.37953 22 5.70953V15.2995C22 18.2995 20 20.2995 17 20.2995H7C4.24 20.2895 2 18.0495 2 15.2895Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Crown__clip0_4418_6177", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Crown_default = Crown;
+export {
+  Crown_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Sleigh3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Sleigh3__clip0_655_7067)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.56 17.19H2C1.59 17.19 1.25 16.85 1.25 16.44C1.25 16.03 1.59 15.69 2 15.69H17.56C19.6 15.69 21.25 14.03 21.25 12C21.25 11.59 21.59 11.25 22 11.25C22.41 11.25 22.75 11.59 22.75 12C22.75 14.86 20.42 17.19 17.56 17.19Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.56 12.75H6.44C3.58 12.75 1.25 10.42 1.25 7.56C1.25 7.15 1.59 6.81 2 6.81C2.41 6.81 2.75 7.15 2.75 7.56C2.75 9.6 4.41 11.25 6.44 11.25H17.55C17.96 11.25 18.3 11.59 18.3 12C18.3 12.41 17.96 12.75 17.55 12.75H17.56Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.43945 17.19C6.02945 17.19 5.68945 16.85 5.68945 16.44V12C5.68945 11.59 6.02945 11.25 6.43945 11.25C6.84945 11.25 7.18945 11.59 7.18945 12V16.44C7.18945 16.85 6.84945 17.19 6.43945 17.19Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 17.19C11.59 17.19 11.25 16.85 11.25 16.44V12C11.25 11.59 11.59 11.25 12 11.25C12.41 11.25 12.75 11.59 12.75 12V16.44C12.75 16.85 12.41 17.19 12 17.19Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Sleigh3__clip0_655_7067", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Sleigh3_default = Sleigh3;
+export {
+  Sleigh3_default as default
+};

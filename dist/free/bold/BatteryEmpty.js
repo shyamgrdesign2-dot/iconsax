@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BatteryEmpty = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BatteryEmpty__clip0_4418_8614)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.42 9.00047C20.28 8.99047 20.1 8.98047 19.9 8.98047C19.51 8.98047 19.2 9.29047 19.2 9.68047V14.3305C19.2 14.7205 19.51 15.0305 19.9 15.0305C20.1 15.0305 20.27 15.0205 20.44 15.0105C22 14.8305 22 13.7305 22 12.9305V11.0705C22 10.2705 22 9.17047 20.42 9.00047Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.93 4.78906H7.35C3.25 4.78906 2 6.03906 2 10.1391V13.8591C2 17.9591 3.25 19.2091 7.35 19.2091H12.93C17.03 19.2091 18.28 17.9591 18.28 13.8591V10.1391C18.28 6.03906 17.03 4.78906 12.93 4.78906ZM7.1 14.1791C7.02 14.5191 6.71 14.7491 6.37 14.7491C6.31 14.7491 6.25 14.7391 6.19 14.7291C5.79 14.6291 5.54 14.2191 5.64 13.8191C5.94 12.6291 5.94 11.3691 5.64 10.1791C5.54 9.77906 5.78 9.36906 6.19 9.26906C6.59 9.16906 7 9.41906 7.1 9.81906C7.46 11.2491 7.46 12.7491 7.1 14.1791Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BatteryEmpty__clip0_4418_8614", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BatteryEmpty_default = BatteryEmpty;
+export {
+  BatteryEmpty_default as default
+};

@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Paperclip2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Paperclip2__clip0_4418_3026)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.75992 8.80957L4.54992 10.0196C2.20992 12.3596 2.20992 16.1596 4.54992 18.5096", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.3298 12.1499L9.8598 14.6199C8.4898 15.9899 8.4898 18.1999 9.8598 19.5699C11.2298 20.9399 13.4398 20.9399 14.8098 19.5699L18.6998 15.6799C21.4298 12.9499 21.4298 8.50992 18.6998 5.77992C15.9698 3.04992 11.5298 3.04992 8.7998 5.77992", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Paperclip2__clip0_4418_3026", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Paperclip2_default = Paperclip2;
+export {
+  Paperclip2_default as default
+};

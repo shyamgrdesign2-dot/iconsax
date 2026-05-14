@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const UserSearch = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#UserSearch__clip0_3111_32724)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9999 14C6.98991 14 2.90991 17.36 2.90991 21.5C2.90991 21.78 3.12991 22 3.40991 22H20.5899C20.8699 22 21.0899 21.78 21.0899 21.5C21.0899 17.36 17.0099 14 11.9999 14Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.72 10.35L15.76 9.39C16.26 8.64 16.55 7.74 16.55 6.77C16.55 4.13 14.41 2 11.78 2C9.15 2 7 4.14 7 6.77C7 9.4 9.14 11.54 11.77 11.54C12.74 11.54 13.64 11.25 14.39 10.75L15.35 11.71C15.54 11.9 15.79 11.99 16.03 11.99C16.28 11.99 16.53 11.9 16.71 11.71C17.09 11.34 17.09 10.73 16.72 10.35Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "UserSearch__clip0_3111_32724", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var UserSearch_default = UserSearch;
+export {
+  UserSearch_default as default
+};

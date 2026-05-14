@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Blogger = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Blogger__clip0_4418_9008)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14 13.25H10C9.59 13.25 9.25 13.59 9.25 14C9.25 14.41 9.59 14.75 10 14.75H14C14.41 14.75 14.75 14.41 14.75 14C14.75 13.59 14.41 13.25 14 13.25Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10 10.75H12C12.41 10.75 12.75 10.41 12.75 10C12.75 9.59 12.41 9.25 12 9.25H10C9.59 9.25 9.25 9.59 9.25 10C9.25 10.41 9.59 10.75 10 10.75Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.19 2H7.82001C4.18001 2 2.01001 4.17 2.01001 7.81V16.18C2.01001 19.82 4.18001 21.99 7.82001 21.99H16.19C19.83 21.99 22 19.82 22 16.18V7.81C22 4.17 19.83 2 16.19 2ZM18 15C18 17 17 18 15 18H9C7 18 6 17 6 15V9C6 7 7 6 9 6H13C15 6 16 7 16 9V10C16 10.55 16.45 11 17 11C17.55 11 18 11.45 18 12V15Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Blogger__clip0_4418_9008", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Blogger_default = Blogger;
+export {
+  Blogger_default as default
+};

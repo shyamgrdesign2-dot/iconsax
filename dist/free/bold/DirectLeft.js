@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const DirectLeft = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#DirectLeft__clip0_4418_8231)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.2899 17.0198L19.5499 13.5398C19.0699 12.5698 19.0699 11.4398 19.5499 10.4698L21.2899 6.98983C22.7799 3.99983 19.5699 0.859829 16.6199 2.41983L15.0799 3.23983C14.8699 3.34983 14.6999 3.52983 14.5999 3.74983L8.89993 16.3898C8.66993 16.9098 8.87993 17.5198 9.37993 17.7798L16.6199 21.5898C19.5699 23.1498 22.7799 19.9998 21.2899 17.0198Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.69002 15.6004L11.42 7.32045C11.84 6.39045 10.84 5.45045 9.94002 5.93045L4.17002 8.96045C1.72002 10.2504 1.72002 13.7504 4.17002 15.0404L6.21002 16.1104C6.76002 16.4004 7.43002 16.1704 7.69002 15.6004Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "DirectLeft__clip0_4418_8231", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var DirectLeft_default = DirectLeft;
+export {
+  DirectLeft_default as default
+};

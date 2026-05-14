@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiShapeTriangle = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiShapeTriangle__clip0_3261_13887)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.26 6.78005L18.08 7.05005C17.24 7.24005 16.57 7.90005 16.38 8.75005L16.11 9.93005C16.08 10.05 15.9 10.05 15.87 9.93005L15.6 8.75005C15.41 7.91005 14.75 7.24005 13.9 7.05005L12.72 6.78005C12.6 6.75005 12.6 6.57005 12.72 6.54005L13.9 6.27005C14.74 6.08005 15.41 5.42005 15.6 4.57005L15.87 3.39005C15.9 3.27005 16.08 3.27005 16.11 3.39005L16.38 4.57005C16.57 5.41005 17.23 6.08005 18.08 6.27005L19.26 6.54005C19.38 6.57005 19.38 6.75005 19.26 6.78005Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.11 3.00005C10.59 2.96005 9.04003 3.71005 8.22003 5.26005H8.23003L3.19003 14.7101C1.67003 17.5601 3.73003 21.0001 6.96003 21.0001H17.03C20.26 21.0001 22.32 17.5601 20.8 14.7101L19.12 11.5501", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiShapeTriangle__clip0_3261_13887", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiShapeTriangle_default = AiShapeTriangle;
+export {
+  AiShapeTriangle_default as default
+};

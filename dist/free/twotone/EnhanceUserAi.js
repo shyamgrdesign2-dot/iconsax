@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const EnhanceUserAi = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#EnhanceUserAi__clip0_3280_13084)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.75 16.77L18.67 17.02C17.9 17.2 17.29 17.8 17.11 18.57L16.86 19.65C16.84 19.76 16.67 19.76 16.64 19.65L16.39 18.57C16.21 17.8 15.61 17.19 14.84 17.01L13.76 16.76C13.65 16.74 13.65 16.57 13.76 16.54L14.84 16.29C15.61 16.11 16.22 15.51 16.4 14.74L16.65 13.66C16.67 13.55 16.84 13.55 16.87 13.66L17.12 14.74C17.3 15.51 17.9 16.12 18.67 16.3L19.75 16.55C19.86 16.57 19.86 16.74 19.75 16.77Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 12C14.76 12 17 9.76 17 7C17 4.24 14.76 2 12 2C9.24 2 7 4.24 7 7C7 9.76 9.24 12 12 12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12 15C7.25997 15 3.40997 18.13 3.40997 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M20.59 22C20.59 21.09 20.38 20.23 19.99 19.43", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "EnhanceUserAi__clip0_3280_13084", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var EnhanceUserAi_default = EnhanceUserAi;
+export {
+  EnhanceUserAi_default as default
+};

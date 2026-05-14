@@ -1,0 +1,12 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ArrowCircleDown = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z", fill: "currentColor" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M12 15.0099C11.81 15.0099 11.62 14.9399 11.47 14.7899L7.94 11.2599C7.65 10.9699 7.65 10.4899 7.94 10.1999C8.23 9.90992 8.71 9.90992 9 10.1999L12 13.1999L15 10.1999C15.29 9.90992 15.77 9.90992 16.06 10.1999C16.35 10.4899 16.35 10.9699 16.06 11.2599L12.53 14.7899C12.38 14.9399 12.19 15.0099 12 15.0099Z", fill: "currentColor" }),
+  " "
+] });
+var ArrowCircleDown_default = ArrowCircleDown;
+export {
+  ArrowCircleDown_default as default
+};

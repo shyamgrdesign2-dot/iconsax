@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Hat2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Hat2__clip0_655_9755)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2C14.78 2 17.22 3.11 19.11 4.89C20.89 6.78 22 9.22 22 12V18.67", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.56 15.56V13.12H2V12.01C2 7.93001 4.4 4.45001 7.87 2.89001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.56 13.11V15.55C16.67 15.88 15.89 16.66 15.56 17.55H4C2.9 17.55 2 16.65 2 15.55V13.11H17.56Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9998 18.67C21.9998 20.56 20.5598 22 18.6698 22C16.7798 22 15.3398 20.56 15.3398 18.67C15.3398 18.34 15.4498 17.89 15.5598 17.56C15.8898 16.67 16.6698 15.89 17.5598 15.56C17.8898 15.45 18.3398 15.34 18.6698 15.34C20.5598 15.34 21.9998 16.78 21.9998 18.67Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.5605 10.89V15.56", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Hat2__clip0_655_9755", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Hat2_default = Hat2;
+export {
+  Hat2_default as default
+};

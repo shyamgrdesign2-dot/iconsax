@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MagicStar = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MagicStar__clip0_4418_6216)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2902 4.14097L17.2202 7.93095C17.2102 8.45095 17.5403 9.14097 17.9603 9.45097L20.4403 11.3309C22.0303 12.5309 21.7703 14.001 19.8703 14.601L16.6403 15.6109C16.1003 15.7809 15.5303 16.371 15.3903 16.921L14.6203 19.8609C14.0103 22.1809 12.4902 22.411 11.2302 20.371L9.47024 17.5209C9.15024 17.0009 8.39024 16.611 7.79024 16.641L4.45028 16.811C2.06028 16.931 1.38027 15.551 2.94027 13.731L4.92025 11.4309C5.29025 11.0009 5.46024 10.201 5.29024 9.66096L4.28029 6.43095C3.69029 4.53095 4.75028 3.48096 6.64028 4.10096L9.59029 5.07096C10.0903 5.23096 10.8403 5.12095 11.2603 4.81095L14.3403 2.59095C16.0003 1.39095 17.3302 2.09097 17.2902 4.14097Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.9099 22.0007L18.8799 18.9707", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MagicStar__clip0_4418_6216", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MagicStar_default = MagicStar;
+export {
+  MagicStar_default as default
+};

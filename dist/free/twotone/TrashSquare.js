@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const TrashSquare = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#TrashSquare__clip0_4418_6114)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 22H15C20 22 22 20 22 15V9C22 4 20 2 15 2H9C4 2 2 4 2 9V15C2 20 4 22 9 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M17.9001 9.04875C15.7201 8.82875 13.5201 8.71875 11.3301 8.71875C10.0301 8.71875 8.73009 8.78875 7.44009 8.91875L6.1001 9.04875", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M9.70996 8.38945L9.84996 7.52945C9.94996 6.90945 10.03 6.43945 11.14 6.43945H12.86C13.97 6.43945 14.0499 6.92945 14.1499 7.52945L14.2899 8.37946", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M16.49 9.12891L16.06 15.7289C15.99 16.7589 15.93 17.5589 14.1 17.5589H9.89C8.06 17.5589 7.99999 16.7589 7.92999 15.7289L7.5 9.12891", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "TrashSquare__clip0_4418_6114", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var TrashSquare_default = TrashSquare;
+export {
+  TrashSquare_default as default
+};

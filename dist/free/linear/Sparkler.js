@@ -1,0 +1,52 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Sparkler = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Sparkler__clip0_655_7312)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.7599 11.29L7.52992 12.8L8.83992 9.79998L5.66992 8.31998L9.12992 7.12998L7.51992 3.83998L10.8099 5.43998L11.9999 1.97998L13.1899 5.43998L16.4799 3.83998L14.8699 7.12998L18.3299 8.31998L15.1599 9.79998L16.4699 12.8L13.2399 11.31", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.24 17.85H10.75V10.84C10.75 10.15 11.31 9.59998 11.99 9.59998C12.67 9.59998 13.23 10.16 13.23 10.84V17.85H13.24Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 17.85V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 2L3.24 3.24", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.24 13.54L2 14.78", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.7598 13.54L21.9998 14.78", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9998 2L20.7598 3.24", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 8.31H3.2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9998 8.31H20.7998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.86023 6.18995C5.20265 6.18995 5.48023 5.91237 5.48023 5.56995C5.48023 5.22753 5.20265 4.94995 4.86023 4.94995C4.51782 4.94995 4.24023 5.22753 4.24023 5.56995C4.24023 5.91237 4.51782 6.18995 4.86023 6.18995Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.95008 11.91C5.29249 11.91 5.57008 11.6324 5.57008 11.29C5.57008 10.9476 5.29249 10.67 4.95008 10.67C4.60766 10.67 4.33008 10.9476 4.33008 11.29C4.33008 11.6324 4.60766 11.91 4.95008 11.91Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.73035 16.35C7.07277 16.35 7.35035 16.0724 7.35035 15.73C7.35035 15.3876 7.07277 15.11 6.73035 15.11C6.38793 15.11 6.11035 15.3876 6.11035 15.73C6.11035 16.0724 6.38793 16.35 6.73035 16.35Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.1395 6.18995C19.4819 6.18995 19.7595 5.91237 19.7595 5.56995C19.7595 5.22753 19.4819 4.94995 19.1395 4.94995C18.7971 4.94995 18.5195 5.22753 18.5195 5.56995C18.5195 5.91237 18.7971 6.18995 19.1395 6.18995Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.0497 11.91C19.3921 11.91 19.6697 11.6324 19.6697 11.29C19.6697 10.9476 19.3921 10.67 19.0497 10.67C18.7073 10.67 18.4297 10.9476 18.4297 11.29C18.4297 11.6324 18.7073 11.91 19.0497 11.91Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.2704 16.35C17.6128 16.35 17.8904 16.0724 17.8904 15.73C17.8904 15.3876 17.6128 15.11 17.2704 15.11C16.928 15.11 16.6504 15.3876 16.6504 15.73C16.6504 16.0724 16.928 16.35 17.2704 16.35Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Sparkler__clip0_655_7312", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Sparkler_default = Sparkler;
+export {
+  Sparkler_default as default
+};

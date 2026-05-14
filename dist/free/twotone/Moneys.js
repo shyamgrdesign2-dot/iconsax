@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Moneys = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Moneys__clip0_4418_169574)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.3 7.91949V13.0695C19.3 16.1495 17.54 17.4695 14.9 17.4695H6.10995C5.65995 17.4695 5.22996 17.4295 4.82996 17.3395C4.57996 17.2995 4.33996 17.2295 4.11996 17.1495C2.61996 16.5895 1.70996 15.2895 1.70996 13.0695V7.91949C1.70996 4.83949 3.46995 3.51953 6.10995 3.51953H14.9C17.14 3.51953 18.75 4.46953 19.18 6.63953C19.25 7.03953 19.3 7.44949 19.3 7.91949Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M22.3001 10.9196V16.0696C22.3001 19.1496 20.5401 20.4696 17.9001 20.4696H9.11008C8.37008 20.4696 7.70009 20.3697 7.12009 20.1497C5.93009 19.7097 5.12008 18.7997 4.83008 17.3397C5.23008 17.4297 5.66008 17.4696 6.11008 17.4696H14.9001C17.5401 17.4696 19.3001 16.1496 19.3001 13.0696V7.91962C19.3001 7.44962 19.2601 7.02965 19.1801 6.63965C21.0801 7.03965 22.3001 8.37962 22.3001 10.9196Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.4999 13.1404C11.9579 13.1404 13.1399 11.9584 13.1399 10.5004C13.1399 9.04233 11.9579 7.86035 10.4999 7.86035C9.04185 7.86035 7.85986 9.04233 7.85986 10.5004C7.85986 11.9584 9.04185 13.1404 10.4999 13.1404Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M4.77979 8.2998V12.6998", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.2202 8.2998V12.6998", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Moneys__clip0_4418_169574", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Moneys_default = Moneys;
+export {
+  Moneys_default as default
+};

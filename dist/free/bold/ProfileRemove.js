@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ProfileRemove = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ProfileRemove__clip0_3111_32732)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 2C9.38 2 7.25 4.13 7.25 6.75C7.25 9.32 9.26 11.4 11.88 11.49C11.96 11.48 12.04 11.48 12.1 11.49C12.12 11.49 12.13 11.49 12.15 11.49C12.16 11.49 12.16 11.49 12.17 11.49C14.73 11.4 16.74 9.32 16.75 6.75C16.75 4.13 14.62 2 12 2Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.08 14.1596C14.29 12.2996 9.73996 12.2996 6.92996 14.1596C5.65996 14.9996 4.95996 16.1496 4.95996 17.3796C4.95996 18.6096 5.65996 19.7496 6.91996 20.5896C8.31996 21.5296 10.16 21.9996 12 21.9996C13.84 21.9996 15.68 21.5296 17.08 20.5896C18.34 19.7396 19.04 18.5996 19.04 17.3596C19.03 16.1396 18.34 14.9896 17.08 14.1596ZM13.83 18.0696H10.18C9.79996 18.0696 9.48996 17.7596 9.48996 17.3796C9.48996 16.9996 9.79996 16.6896 10.18 16.6896H13.83C14.21 16.6896 14.52 16.9996 14.52 17.3796C14.52 17.7596 14.21 18.0696 13.83 18.0696Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ProfileRemove__clip0_3111_32732", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ProfileRemove_default = ProfileRemove;
+export {
+  ProfileRemove_default as default
+};

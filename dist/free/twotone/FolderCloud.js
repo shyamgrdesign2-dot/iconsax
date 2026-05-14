@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FolderCloud = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FolderCloud__clip0_4418_5515)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 22H7C3 22 2 21 2 17V7C2 3 3 2 7 2H8.5C10 2 10.33 2.44001 10.9 3.20001L12.4 5.20001C12.78 5.70001 13 6 14 6H17C21 6 22 7 22 11V13", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.7601 18.3204C11.4101 18.4904 11.4101 21.8904 13.7601 22.0604H19.3201C19.9901 22.0604 20.6501 21.8104 21.1401 21.3604C22.7901 19.9204 21.91 17.0404 19.74 16.7704C18.96 12.0804 12.1801 13.8604 13.7801 18.3304", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FolderCloud__clip0_4418_5515", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FolderCloud_default = FolderCloud;
+export {
+  FolderCloud_default as default
+};

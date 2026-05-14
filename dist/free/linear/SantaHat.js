@@ -1,0 +1,36 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SantaHat = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SantaHat__clip0_655_7295)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.09008 22C7.06008 22 7.85008 21.21 7.85008 20.24C7.85008 19.27 7.06008 18.48 6.09008 18.48C5.12008 18.48 4.33008 19.27 4.33008 20.24C4.33008 21.21 5.12008 22 6.09008 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.6704 20.24C19.6704 21.21 18.8804 22 17.9104 22C16.9404 22 16.1504 21.21 16.1504 20.24C16.1504 19.27 16.9404 18.48 17.9104 18.48C18.8804 18.48 19.6704 19.27 19.6704 20.24Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.73028 18.55L6.42028 15.06C6.26028 13.22 7.71028 11.63 9.56028 11.63H14.3803C16.2303 11.63 17.6803 13.21 17.5203 15.05L17.2203 18.58", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.71047 19C3.94047 17.91 3.23047 16.09 3.23047 13.08C3.23047 9.45 4.98047 7.32 6.92047 6.07C10.0105 4.08 14.0105 4.08 17.1005 6.07C19.0405 7.32 20.7905 9.45 20.7905 13.08C20.7905 16.14 20.0605 17.97 19.2705 19.05", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.08 4.76C14.13 4.58 14.15 4.39 14.15 4.2C14.15 2.99 13.17 2 11.95 2C10.73 2 9.75 2.98 9.75 4.2C9.75 4.4 9.78 4.6 9.83 4.78", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.67969 16.78C8.30969 16.12 10.1097 15.75 11.9997 15.75C13.8897 15.75 15.6597 16.11 17.2697 16.76", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.70996 8.15C5.12996 8.15 5.53996 8.28 5.86996 8.51L5.88996 8.53C6.55996 9.01 7.62996 9.01 8.29996 8.53C8.78996 8.17 9.48996 8.07 10.1 8.24C10.2 8.27 10.29 8.3 10.38 8.34C10.49 8.39 10.6 8.45 10.7 8.52L10.72 8.54C11.39 9.02 12.46 9.02 13.13 8.54C13.24 8.45 13.37 8.38 13.5 8.33C13.56 8.31 13.62 8.28 13.69 8.26C14.3 8.07 15.04 8.16 15.54 8.53L15.57 8.55C16.24 9.03 17.31 9.03 17.98 8.55C18.34 8.28 18.81 8.16 19.28 8.18", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SantaHat__clip0_655_7295", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SantaHat_default = SantaHat;
+export {
+  SantaHat_default as default
+};

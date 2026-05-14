@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SolanaSol = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SolanaSol__clip0_4418_5275)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.0002 3.5H5.50018C5.19018 3.5 4.89018 3.65 4.70018 3.9L3.20018 5.9C2.71018 6.56 3.18018 7.5 4.00018 7.5H18.5002C18.8102 7.5 19.1102 7.35 19.3002 7.1L20.8002 5.1C21.2902 4.44 20.8202 3.5 20.0002 3.5Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M4.00018 10H18.5002C18.8102 10 19.1102 10.15 19.3002 10.4L20.8002 12.4C21.2902 13.06 20.8202 14 20.0002 14H5.50018C5.19018 14 4.89018 13.85 4.70018 13.6L3.20018 11.6C2.71018 10.94 3.18018 10 4.00018 10Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.0002 16.5H5.50018C5.19018 16.5 4.89018 16.65 4.70018 16.9L3.20018 18.9C2.71018 19.56 3.18018 20.5 4.00018 20.5H18.5002C18.8102 20.5 19.1102 20.35 19.3002 20.1L20.8002 18.1C21.2902 17.44 20.8202 16.5 20.0002 16.5Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SolanaSol__clip0_4418_5275", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SolanaSol_default = SolanaSol;
+export {
+  SolanaSol_default as default
+};

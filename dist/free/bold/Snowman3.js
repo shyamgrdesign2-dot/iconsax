@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Snowman3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Snowman3__clip0_655_9436)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.6704 17.67C19.6704 16.11 20.8904 13.67 20.8904 10.89C20.8904 6 16.8904 2 12.0004 2C7.11035 2 3.11035 6 3.11035 10.89C3.11035 13.67 4.33035 16.11 6.33035 17.67", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.9999 22L17.6699 17.67", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.33 17.67L2 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.97035 9.78C9.97035 10.5 9.39035 11.08 8.67035 11.08C7.95035 11.08 7.36035 10.5 7.36035 9.78C7.36035 9.06 7.95035 8.47 8.67035 8.47C9.39035 8.47 9.97035 9.06 9.97035 9.78Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.6403 9.78C16.6403 10.5 16.0503 11.08 15.3303 11.08C14.6103 11.08 14.0303 10.5 14.0303 9.78C14.0303 9.06 14.6103 8.47 15.3303 8.47C16.0503 8.47 16.6403 9.06 16.6403 9.78Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.22016 15.53C9.03016 15.53 8.84016 15.46 8.69016 15.31C8.40016 15.02 8.40016 14.54 8.69016 14.25L11.4702 11.47C11.7602 11.18 12.2402 11.18 12.5302 11.47C12.8202 11.76 12.8202 12.24 12.5302 12.53L9.75016 15.31C9.60016 15.46 9.41016 15.53 9.22016 15.53Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Snowman3__clip0_655_9436", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Snowman3_default = Snowman3;
+export {
+  Snowman3_default as default
+};

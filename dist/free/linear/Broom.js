@@ -1,0 +1,34 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Broom = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Broom__clip0_4418_9797)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.87006 5.66912L6.45006 7.74914L4.89007 5.18914C4.32007 4.24914 4.62006 3.00914 5.56006 2.43914C6.50006 1.86914 7.74006 2.16913 8.31006 3.10913L9.87006 5.66912Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.82 9.1596L8.66 11.0796C6.82 12.1996 6.25999 14.4596 7.14999 16.2596L9.19999 20.4396C9.85999 21.7896 11.46 22.2596 12.74 21.4696L19.17 17.5596C20.46 16.7796 20.77 15.1496 19.88 13.9396L17.11 10.1996C15.91 8.57964 13.66 8.0396 11.82 9.1596Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.7567 5.09815L5.63208 8.21875L7.71248 11.6351L12.8371 8.51455L10.7567 5.09815Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.3101 16.8105L15.9601 19.5206", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.75 18.3691L13.4 21.0792", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.87 15.25L18.52 17.96", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Broom__clip0_4418_9797", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Broom_default = Broom;
+export {
+  Broom_default as default
+};

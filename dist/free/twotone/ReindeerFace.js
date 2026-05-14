@@ -1,0 +1,52 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ReindeerFace = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ReindeerFace__clip0_655_9660)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.7702 13.22V11.33C16.7702 9.53001 15.3402 8.07001 13.5902 8.07001H10.4202C8.66023 8.07001 7.24023 9.53001 7.24023 11.33V13.22L9.38023 21.92H14.6402L16.7802 13.22H16.7702Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.6907 17.9L8.7207 18.72", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.2695 18.04L15.4495 18.61", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0008 18.87C12.6608 18.87 13.2008 18.33 13.2008 17.67C13.2008 17.01 12.6608 16.47 12.0008 16.47C11.3408 16.47 10.8008 17.01 10.8008 17.67C10.8008 18.33 11.3408 18.87 12.0008 18.87Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.45898 12.56H10.659", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.3398 12.56H14.5398", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M6.94914 10.89H6.36914C4.98914 10.89 3.86914 9.77001 3.86914 8.39001V7.38L7.75914 9.26", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M17.0502 10.89H17.6302C19.0102 10.89 20.1302 9.77001 20.1302 8.39001V7.38L16.2402 9.26", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.33984 2V2.67C2.33984 3.9 3.32984 4.89 4.55984 4.89H8.67984C9.48984 4.89 10.1998 5.46 10.3698 6.26L10.6798 7.74", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.99023 2.67999V3.35999C4.99023 4.19999 5.67023 4.87999 6.51023 4.87999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.10938 2.67999V3.35999C7.10938 4.19999 7.78938 4.87999 8.62937 4.87999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.6603 2V2.67C21.6603 3.9 20.6703 4.89 19.4403 4.89H15.3203C14.5103 4.89 13.8003 5.46 13.6303 6.26L13.3203 7.74", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.0102 2.67999V3.35999C19.0102 4.19999 18.3302 4.87999 17.4902 4.87999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.8891 2.67999V3.35999C16.8891 4.19999 16.2091 4.87999 15.3691 4.87999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M12 18.98V21.85", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ReindeerFace__clip0_655_9660", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ReindeerFace_default = ReindeerFace;
+export {
+  ReindeerFace_default as default
+};

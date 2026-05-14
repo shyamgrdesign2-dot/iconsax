@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FolderCloud = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FolderCloud__clip0_4418_4294)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M21.9902 10.8402C21.9702 10.3602 21.8902 9.89023 21.7402 9.44023C21.0502 7.28023 19.0303 5.72023 16.6503 5.72023H13.8602C13.2802 5.72023 13.2402 5.66023 12.9302 5.25023L11.5303 3.39023C10.8803 2.52023 10.3702 1.99023 8.74023 1.99023H6.41022C3.97022 1.99023 1.99023 3.97023 1.99023 6.41023V9.43022V16.6402C1.99023 19.5902 4.39027 21.9902 7.34027 21.9902H16.6403C19.5903 21.9902 21.9902 19.5902 21.9902 16.6402V11.0602C22.0002 11.0002 22.0002 10.9102 21.9902 10.8402Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.5801 19.6995C13.4701 19.8495 13.4701 22.9095 15.5801 23.0595H20.5901C21.2001 23.0595 21.78 22.8395 22.23 22.4295C23.71 21.1395 22.92 18.5395 20.97 18.2995C20.27 14.0795 14.16 15.6795 15.61 19.6995", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FolderCloud__clip0_4418_4294", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FolderCloud_default = FolderCloud;
+export {
+  FolderCloud_default as default
+};

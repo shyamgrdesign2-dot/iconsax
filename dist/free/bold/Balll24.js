@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Balll24 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Balll24__clip0_655_9353)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.75 2V4.03C12.5 4.01 12.25 4 12 4C11.75 4 11.5 4.01 11.25 4.03V2C11.25 1.59 11.59 1.25 12 1.25C12.41 1.25 12.75 1.59 12.75 2Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.75 4.03C12.5 4.01 12.25 4 12 4C11.75 4 11.5 4.01 11.25 4.03C6.63 4.41 3 8.28 3 13C3 17.72 6.63 21.59 11.25 21.96V16H10.12C9.37 16 8.89 15.22 9.22 14.55L11.11 10.79C11.47 10.05 12.53 10.05 12.89 10.79L14.78 14.55C15.11 15.22 14.63 16 13.88 16H12.75V21.96C17.37 21.59 21 17.72 21 13C21 8.28 17.37 4.41 12.75 4.03Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Balll24__clip0_655_9353", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Balll24_default = Balll24;
+export {
+  Balll24_default as default
+};

@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const DirectDown = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#DirectDown__clip0_4418_4568)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.0202 2.7202L13.5402 4.4602C12.5702 4.9402 11.4402 4.9402 10.4702 4.4602L6.98022 2.7102C4.00022 1.2202 0.850218 4.4402 2.41022 7.3902L3.23022 8.9302C3.34022 9.1402 3.52022 9.3102 3.74022 9.4102L16.3902 15.1002C16.9102 15.3302 17.5202 15.1202 17.7802 14.6202L21.5902 7.3802C23.1402 4.4402 20.0002 1.2202 17.0202 2.7202Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M15.6 16.3093L7.31996 12.5793C6.38996 12.1593 5.44996 13.1593 5.92996 14.0593L8.96996 19.8293C10.26 22.2793 13.76 22.2793 15.05 19.8293L16.12 17.7893C16.4 17.2393 16.16 16.5693 15.6 16.3093Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "DirectDown__clip0_4418_4568", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var DirectDown_default = DirectDown;
+export {
+  DirectDown_default as default
+};

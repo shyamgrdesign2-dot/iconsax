@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+declare const ToggleOff: (props: SVGProps<SVGSVGElement>) => JSX.Element;
+export default ToggleOff;

@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Zoom = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Zoom__clip0_4418_6543)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", fillRule: "evenodd", clipRule: "evenodd", d: "M6 9.67975V12.4798C6 14.0198 7.25001 15.2598 8.79001 15.2498L12.47 15.2198C12.98 15.2198 13.39 14.7997 13.39 14.2997V11.5298C13.39 9.99975 12.15 8.75977 10.62 8.75977H6.92999C6.40999 8.75977 6 9.16975 6 9.67975Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", fillRule: "evenodd", clipRule: "evenodd", d: "M18 9.24023V14.7802L15.23 12.9302V11.0902L18 9.24023Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Zoom__clip0_4418_6543", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Zoom_default = Zoom;
+export {
+  Zoom_default as default
+};

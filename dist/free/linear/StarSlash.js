@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const StarSlash = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#StarSlash__clip0_4418_9903)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.28003 18.6506L5.85003 16.1806C5.98003 15.6006 5.75003 14.7906 5.33003 14.3706L2.85003 11.8906C1.39003 10.4306 1.86003 8.95062 3.90003 8.61062L7.09003 8.08063C7.62003 7.99063 8.26003 7.52063 8.50003 7.03063L10.26 3.51063C11.21 1.60063 12.77 1.60063 13.73 3.51063L15.49 7.03063C15.6 7.26063 15.81 7.48063 16.04 7.67063", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.1 8.60938C22.14 8.94938 22.62 10.4294 21.15 11.8894L18.67 14.3694C18.25 14.7894 18.02 15.5994 18.15 16.1794L18.86 19.2494C19.42 21.6794 18.13 22.6194 15.98 21.3494L12.99 19.5794C12.45 19.2594 11.56 19.2594 11.01 19.5794L8.02002 21.3494", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 2L2 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "StarSlash__clip0_4418_9903", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var StarSlash_default = StarSlash;
+export {
+  StarSlash_default as default
+};

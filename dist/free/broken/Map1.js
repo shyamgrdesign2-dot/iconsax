@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Map1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Map1__clip0_4418_3347)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.27004 5.48998L3.30004 6.04998C2.75004 6.36998 2.29004 7.14998 2.29004 7.78998V17.52C2.29004 19.42 3.64004 20.2 5.28004 19.26L7.63004 17.92C8.14004 17.63 8.99004 17.6 9.52004 17.87L14.77 20.5C15.3 20.76 16.15 20.74 16.66 20.45L20.99 17.97C21.54 17.65 22 16.87 22 16.23V6.48998C22 4.58998 20.65 3.80998 19.01 4.74998L16.66 6.08998C16.15 6.37998 15.3 6.40998 14.77 6.13998L9.52004 3.51998C8.99004 3.25998 8.14004 3.27998 7.63004 3.56998", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.56006 4V17", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.73 6.61914V19.9991", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Map1__clip0_4418_3347", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Map1_default = Map1;
+export {
+  Map1_default as default
+};

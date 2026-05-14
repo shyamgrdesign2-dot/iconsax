@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SafeHome = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SafeHome__clip0_4418_3703)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.9998 17.5596V15.3695C22.9998 14.9495 22.6898 14.4895 22.3098 14.3295L20.5198 13.5995L19.5198 13.1895C18.8898 12.9395 18.1898 12.9395 17.5598 13.1895L14.7798 14.3295C14.3998 14.4895 14.0898 14.9495 14.0898 15.3695V17.5596C14.0898 18.8096 14.5498 20.0195 15.3398 20.9995C16.0698 21.9295 17.1099 22.6495 18.2899 22.9695C18.4499 23.0095 18.6298 23.0095 18.7998 22.9695C19.7898 22.6995 20.6698 22.1495 21.3598 21.4395", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.02979 11.0093C1.86979 10.0793 2.33978 8.82931 3.07978 8.23931L9.6598 2.9793C10.6698 2.1693 12.3098 2.16931 13.3198 2.98931L19.8998 8.23931C20.6298 8.82931 21.1098 10.0793 20.9498 11.0093L20.5198 13.5993L19.5198 13.1893C18.8898 12.9393 18.1898 12.9393 17.5598 13.1893L14.7798 14.3293C14.3998 14.4893 14.0898 14.9493 14.0898 15.3693V17.5594C14.0898 18.8094 14.5498 20.0193 15.3398 20.9993H6.17979C4.80979 20.9993 3.5198 19.9094 3.2898 18.5594L2.73978 15.2393", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SafeHome__clip0_4418_3703", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SafeHome_default = SafeHome;
+export {
+  SafeHome_default as default
+};

@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Dislike = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Dislike__clip0_4418_3797)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.52022 12.0508C2.02022 13.4508 2.92022 14.6508 4.42022 14.6508H8.42022C9.02022 14.6508 9.52022 15.1508 9.42022 15.8508L8.92022 19.0508C8.72022 19.9508 9.32022 20.9508 10.2202 21.2508C11.0202 21.5508 12.0202 21.1508 12.4202 20.5508L16.5202 14.4508", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5198 5.65039L13.4198 3.25039C13.0198 2.85039 12.1198 2.65039 11.5198 2.65039H7.71978C6.51978 2.65039 5.21979 3.55039 4.91979 4.75039L3.77979 8.22039", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.6201 5.65V15.45C21.6201 16.85 21.0201 17.35 19.6201 17.35H18.6201C17.2201 17.35 16.6201 16.85 16.6201 15.45V5.65C16.6201 4.25 17.2201 3.75 18.6201 3.75H19.6201C21.0201 3.75 21.6201 4.25 21.6201 5.65Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Dislike__clip0_4418_3797", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Dislike_default = Dislike;
+export {
+  Dislike_default as default
+};

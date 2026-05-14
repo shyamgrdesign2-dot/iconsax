@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Messenger = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Messenger__clip0_4418_5343)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M5.68024 18.44V20.29C5.68024 21.06 6.50023 21.54 7.17023 21.16L9.03027 20.11C9.97027 20.38 10.9602 20.52 11.9902 20.52C17.5102 20.52 21.9902 16.37 21.9902 11.26C21.9902 6.14999 17.5102 2 11.9902 2C6.47023 2 1.99023 6.14999 1.99023 11.26C2.00023 14.15 3.44024 16.74 5.68024 18.44Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.0201 9.56017L8.48003 12.5802C8.17003 12.9502 8.51003 13.5002 8.98003 13.3902L10.99 12.9002C11.12 12.8702 11.25 12.8902 11.36 12.9502L12.37 13.5402C12.58 13.6602 12.8501 13.6202 13.0001 13.4302L15.5001 10.4402C15.8101 10.0702 15.46 9.51018 14.99 9.64018L13.17 10.1102C13.05 10.1402 12.9201 10.1302 12.8101 10.0702L11.6301 9.45017C11.4301 9.33017 11.1701 9.38017 11.0201 9.56017Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Messenger__clip0_4418_5343", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Messenger_default = Messenger;
+export {
+  Messenger_default as default
+};

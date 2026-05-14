@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Lollipop = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Lollipop__clip0_655_7310)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.1504 7.25C10.1804 8.22 10.1804 9.8 11.1504 10.77C12.1204 11.74 13.7004 11.74 14.6704 10.77", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.39055 5.48999C7.45055 7.42999 7.45055 10.59 9.39055 12.53C11.3305 14.47 14.4905 14.47 16.4305 12.53", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.9104 9.01001C13.4004 8.52001 13.4004 7.74001 12.9104 7.25001C12.4204 6.76001 11.6404 6.76001 11.1504 7.25001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.6696 10.77C16.1296 9.31002 16.1296 6.95002 14.6696 5.49002C13.2096 4.03002 10.8496 4.03002 9.38965 5.49002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.4297 5.03003C18.7897 7.41003 18.4597 10.49 16.4297 12.52", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0001 14.76C15.5201 14.76 18.3801 11.9 18.3801 8.38C18.3801 4.86 15.5201 2 12.0001 2C8.48012 2 5.62012 4.86 5.62012 8.38C5.62012 11.9 8.48012 14.76 12.0001 14.76Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 14.76V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.0002 18.32L8.59016 20.02C7.82016 20.41 6.91016 19.84 6.91016 18.98V17.65C6.91016 16.79 7.82016 16.22 8.59016 16.61L12.0002 18.31V18.32Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 18.32L15.41 20.02C16.18 20.41 17.09 19.84 17.09 18.98V17.65C17.09 16.79 16.18 16.22 15.41 16.61L12 18.31V18.32Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Lollipop__clip0_655_7310", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Lollipop_default = Lollipop;
+export {
+  Lollipop_default as default
+};

@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const QuoteUpCircle = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#QuoteUpCircle__clip0_4418_9118)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 11.8398H14.32C13.61 11.8398 13.13 11.2998 13.13 10.6498V9.15973C13.13 8.50973 13.61 7.96973 14.32 7.96973H15.81C16.46 7.96973 17 8.50973 17 9.15973V11.8398Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17 11.8398C17 14.6298 16.48 15.0998 14.91 16.0298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.86 11.8398H8.17998C7.46998 11.8398 6.98999 11.2998 6.98999 10.6498V9.15973C6.98999 8.50973 7.46998 7.96973 8.17998 7.96973H9.66998C10.32 7.96973 10.86 8.50973 10.86 9.15973V11.8398Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.86 11.8398C10.86 14.6298 10.34 15.0998 8.77002 16.0298", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "QuoteUpCircle__clip0_4418_9118", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var QuoteUpCircle_default = QuoteUpCircle;
+export {
+  QuoteUpCircle_default as default
+};

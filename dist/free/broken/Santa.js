@@ -1,0 +1,40 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Santa = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Santa__clip0_655_9762)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.7793 18.11C9.7793 19.33 10.7793 20.33 11.9993 20.33C13.2193 20.33 14.2193 19.33 14.2193 18.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9.77984 14.22C9.77984 13 8.77984 12 7.55984 12C6.33984 12 5.33984 13 5.33984 14.22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.6705 14.22C18.6705 13 17.6705 12 16.4505 12C15.2305 12 14.2305 13 14.2305 14.22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 18.11C2 20.22 3.78 22 5.89 22C8 22 9.78 20.22 9.78 18.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2207 18.11C14.2207 20.22 16.0007 22 18.1107 22C20.2207 22 22.0007 20.22 22.0007 18.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 6.44C15.67 6.44 19.11 7.55 22 9.55", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 9.56C3.76 8.34 5.73 7.45 7.82 6.94", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.6699 7.67V2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33008 7.67V2", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Santa__clip0_655_9762", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Santa_default = Santa;
+export {
+  Santa_default as default
+};

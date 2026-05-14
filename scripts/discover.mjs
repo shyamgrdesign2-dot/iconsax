@@ -21,8 +21,8 @@ import { mcpCall, parseSearch } from "./lib/mcp.mjs";
 
 const STATE_DIR = path.resolve("crawl-state");
 fs.mkdirSync(STATE_DIR, { recursive: true });
-const STATE_FILE = path.join(STATE_DIR, "discover.json");
-const NAMES_FILE = path.join(STATE_DIR, "names.json");
+const STATE_FILE = path.join(STATE_DIR, "discover-pro.json");
+const NAMES_FILE = path.join(STATE_DIR, "names-pro.json");
 
 const LIMIT = 50;
 const ALPHABET = "abcdefghijklmnopqrstuvwxyz0123456789".split("");

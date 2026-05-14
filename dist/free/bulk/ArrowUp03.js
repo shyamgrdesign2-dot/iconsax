@@ -1,0 +1,12 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ArrowUp03 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M9.32999 18H14.67C17.99 18 19.34 15.65 17.69 12.78L16.95 11.5C16.77 11.19 16.44 11 16.08 11H7.91999C7.55999 11 7.22999 11.19 7.04999 11.5L6.30999 12.78C4.65999 15.65 6.00999 18 9.32999 18Z", fill: "currentColor" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M8.79 9.99957H15.22C15.61 9.99957 15.85 9.57957 15.65 9.24957L15.01 8.14957C13.36 5.27957 10.64 5.27957 8.99 8.14957L8.35 9.24957C8.16 9.57957 8.4 9.99957 8.79 9.99957Z", fill: "currentColor" }),
+  " "
+] });
+var ArrowUp03_default = ArrowUp03;
+export {
+  ArrowUp03_default as default
+};

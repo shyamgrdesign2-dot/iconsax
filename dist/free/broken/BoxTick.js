@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const BoxTick = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#BoxTick__clip0_4418_3393)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.16992 7.43945L11.9999 12.5494L20.7699 7.46942", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 21.6091V12.5391", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.39014 14.83V9.17C2.39014 7.79 3.38012 6.11002 4.59012 5.44002L9.93011 2.48C11.0701 1.84 12.9301 1.84 14.0701 2.48L19.4101 5.44002C20.6201 6.11002 21.6101 7.79 21.6101 9.17V14.83C21.6101 14.88 21.6101 14.92 21.6001 14.97C20.9001 14.36 20.0001 14 19.0001 14C18.0601 14 17.1901 14.33 16.5001 14.88C15.5801 15.61 15.0001 16.74 15.0001 18C15.0001 18.75 15.2101 19.46 15.5801 20.06C15.6701 20.22 15.7801 20.37 15.9001 20.51L14.0701 21.52C12.9301 22.16 11.0701 22.16 9.93011 21.52L4.59012 18.56", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M23.0002 17.9091C23.0202 18.6591 22.8202 19.3691 22.4602 19.9791C22.2602 20.3391 21.9902 20.6691 21.6902 20.9391C21.0002 21.5791 20.0902 21.9691 19.0802 21.9991C17.6202 22.0291 16.3302 21.2791 15.6202 20.1291C15.2402 19.5391 15.0102 18.8291 15.0002 18.0791C14.9702 16.8191 15.5302 15.6791 16.4302 14.9291C17.1102 14.3691 17.9702 14.0191 18.9102 13.9991C21.1202 13.9491 22.9502 15.6991 23.0002 17.9091Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.4404 18.0288L18.4504 18.9888L20.5404 16.9688", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "BoxTick__clip0_4418_3393", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var BoxTick_default = BoxTick;
+export {
+  BoxTick_default as default
+};

@@ -1,0 +1,6 @@
+import { jsx } from "react/jsx-runtime";
+const TestTube02 = (props) => /* @__PURE__ */ jsx("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: /* @__PURE__ */ jsx("path", { d: "M13.8887 2L14.6998 2.81113M14.6998 2.81113L21.1889 9.3002M14.6998 2.81113L9.42743 8.0835M21.1889 9.3002L22 10.1113M21.1889 9.3002L18.7555 11.7336M9.42743 8.0835L18.7555 11.7336M9.42743 8.0835L6.99403 10.5169M18.7555 11.7336L9.833 20.6561C8.04109 22.448 5.13584 22.448 3.34393 20.6561C1.55202 18.8642 1.55202 15.9589 3.34393 14.167L4.56063 12.9503M6.99403 10.5169L8.6163 12.1392M6.99403 10.5169L4.56063 12.9503M4.56063 12.9503L6.1829 14.5726", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }) });
+var TestTube02_default = TestTube02;
+export {
+  TestTube02_default as default
+};

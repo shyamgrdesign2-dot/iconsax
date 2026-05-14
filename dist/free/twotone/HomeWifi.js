@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const HomeWifi = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#HomeWifi__clip0_4418_6143)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.0698 2.81984L3.13979 8.36989C2.35979 8.98989 1.85978 10.2999 2.02978 11.2799L3.35976 19.2399C3.59976 20.6599 4.95977 21.81 6.39977 21.81H17.5998C19.0298 21.81 20.3998 20.6499 20.6398 19.2399L21.9698 11.2799C22.1298 10.2999 21.6298 8.98989 20.8598 8.36989L13.9298 2.82985C12.8598 1.96985 11.1298 1.96984 10.0698 2.81984Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M9.87988 14.3802C11.1499 13.1702 12.8499 13.1702 14.1199 14.3802", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.24 12.2592C15.7 11.7292 15.1 11.3192 14.48 11.0192C12.89 10.2592 11.11 10.2592 9.51001 11.0192C8.89001 11.3192 8.3 11.7292 7.75 12.2592", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M11.9955 16.5H12.0045", stroke: "currentColor", strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "HomeWifi__clip0_4418_6143", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var HomeWifi_default = HomeWifi;
+export {
+  HomeWifi_default as default
+};

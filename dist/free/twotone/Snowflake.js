@@ -1,0 +1,52 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Snowflake = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Snowflake__clip0_4418_5496)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.5 12C15.5 12.64 15.33 13.23 15.03 13.75C14.42 14.8 13.29 15.5 12 15.5C10.71 15.5 9.58 14.8 8.97 13.75C8.67 13.23 8.5 12.64 8.5 12C8.5 11.36 8.67 10.77 8.97 10.25C9.58 9.2 10.71 8.5 12 8.5C13.29 8.5 14.42 9.2 15.03 10.25C15.33 10.77 15.5 11.36 15.5 12Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsxs("g", { opacity: "0.4", children: [
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M12 8.5V3", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M12 21V15.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M10 3H14", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M10 21H14", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M8.96996 10.25L4.20996 7.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M19.7898 16.5L15.0298 13.75", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M3.20996 9.22952L5.20996 5.76953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M18.79 18.2295L20.79 14.7695", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M19.7898 7.5L15.0298 10.25", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M8.96996 13.75L4.20996 16.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M20.79 9.22952L18.79 5.76953", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " ",
+      /* @__PURE__ */ jsx("path", { d: "M5.20996 18.2295L3.20996 14.7695", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Snowflake__clip0_4418_5496", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Snowflake_default = Snowflake;
+export {
+  Snowflake_default as default
+};

@@ -1,0 +1,13 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Eye = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  /* @__PURE__ */ jsx("path", { d: "M19.1018 10.0865C20.2994 11.1101 20.2994 12.8899 19.1018 13.9135C17.4507 15.3246 14.8834 17 12 17C9.11664 17 6.54929 15.3246 4.89825 13.9135C3.70059 12.8899 3.70058 11.1101 4.89824 10.0865C6.54929 8.67537 9.11664 7 12 7C14.8834 7 17.4507 8.67537 19.1018 10.0865Z", stroke: "currentColor", strokeWidth: "1.5" }),
+  /* @__PURE__ */ jsx("circle", { cx: "12", cy: "12", r: "2", stroke: "currentColor", strokeWidth: "1.5" }),
+  /* @__PURE__ */ jsx("path", { d: "M12 2V4", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+  /* @__PURE__ */ jsx("path", { d: "M12 20V22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+  /* @__PURE__ */ jsx("path", { d: "M21 5L19.5 6.5M3 5L4.5 6.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+  /* @__PURE__ */ jsx("path", { d: "M21 19L19.5 17.5M3 19L4.5 17.5", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" })
+] });
+var Eye_default = Eye;
+export {
+  Eye_default as default
+};

@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const GalleryRemove = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#GalleryRemove__clip0_4418_9261)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M9 10C10.1046 10 11 9.10457 11 8C11 6.89543 10.1046 6 9 6C7.89543 6 7 6.89543 7 8C7 9.10457 7.89543 10 9 10Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13 2H9C4 2 2 4 2 9V15C2 20 4 22 9 22H15C20 22 22 20 22 15V10", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5601 6.93957L20.4401 3.05957", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.4401 6.93957L16.5601 3.05957", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.67004 18.9496L7.60004 15.6396C8.39004 15.1096 9.53004 15.1696 10.24 15.7796L10.57 16.0696C11.35 16.7396 12.61 16.7396 13.39 16.0696L17.55 12.4996C18.33 11.8296 19.59 11.8296 20.37 12.4996L22 13.8996", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "GalleryRemove__clip0_4418_9261", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var GalleryRemove_default = GalleryRemove;
+export {
+  GalleryRemove_default as default
+};

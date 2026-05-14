@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MoneroXmr = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MoneroXmr__clip0_4418_5288)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.5397 14.999C20.2597 19.059 16.4697 21.999 11.9997 21.999C7.53973 21.999 3.75973 19.079 2.46973 15.039H3.04973L6.99973 14.999V11.759C6.99973 10.839 8.14973 10.409 8.74973 11.109L11.9997 14.999L15.2497 11.109C15.8497 10.409 16.9997 10.839 16.9997 11.759V14.999H21.5397Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M22 12C22 13.05 21.84 14.05 21.54 15H17V11.76C17 10.84 15.85 10.41 15.25 11.11L12 15L8.75 11.11C8.15 10.41 7 10.84 7 11.76V15L3.05 15.04H2.47C2.17 14.08 2 13.06 2 12C2 6.48 6.48 2 12 2C17.52 2 22 6.48 22 12Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MoneroXmr__clip0_4418_5288", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MoneroXmr_default = MoneroXmr;
+export {
+  MoneroXmr_default as default
+};

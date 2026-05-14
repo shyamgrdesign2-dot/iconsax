@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Paper3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Paper3__clip0_655_9761)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.22 22C3 22 2 21 2 19.78C2 18.56 3 17.56 4.22 17.56M8.67 6.44C9.89 6.44 10.89 5.44 10.89 4.22C10.89 3 9.89 2 8.67 2M8.67 6.44H19.78C21 6.44 22 5.44 22 4.22C22 3 21 2 19.78 2H8.67M8.67 6.44H17.56M8.67 2C7.78 2 7.11 2.44 6.67 3.11C6.67 3.22 6.56 3.22 6.56 3.33C6.45 3.55 6.34 3.89 6.34 4.22V19.78C6.34 20.22 6.23 20.67 6.01 21C5.9 21.11 5.79 21.22 5.79 21.33C5.35 21.77 4.79 22 4.23 22H15.34C16.56 22 17.56 21 17.56 19.78V10.49", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Paper3__clip0_655_9761", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Paper3_default = Paper3;
+export {
+  Paper3_default as default
+};

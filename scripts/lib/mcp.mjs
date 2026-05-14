@@ -68,15 +68,27 @@ export async function mcpCall(toolName, args, { retries = 4, retryDelayMs = 800 
 
 /**
  * Parse search response markdown into a list of {name, style, category}.
- * Expected lines: "📦 **<name>** [<style>] — <category>"
+ * Handles two formats:
+ *   1. search_icons / search_pro_icons: "📦 **<name>** [<style>] — <category>"
+ *   2. get_icons_by_category:           "📦 **<name>** [<style>]"  (category in header)
  */
-export function parseSearch(text) {
+export function parseSearch(text, contextCategory) {
   if (text.includes("No icons found")) return [];
   const out = [];
-  const re = /\*\*([^*]+)\*\*\s+\[([^\]]+)\]\s+[—-]\s+([\w-]+)/g;
+  // Pull the category from the response header if present (e.g. `# 📦 "arrow" category`).
+  const headerMatch = text.match(/#\s*📦\s*"([^"]+)"\s*category/);
+  const headerCat = headerMatch ? headerMatch[1] : contextCategory;
+  const reFull = /\*\*([^*]+)\*\*\s+\[([^\]]+)\]\s+[—-]\s+([\w-]+)/g;
+  const reShort = /\*\*([^*]+)\*\*\s+\[([^\]]+)\]/g;
   let m;
-  while ((m = re.exec(text)) !== null) {
+  while ((m = reFull.exec(text)) !== null) {
     out.push({ name: m[1].trim(), style: m[2].trim(), category: m[3].trim() });
+  }
+  if (out.length === 0) {
+    // Fall back to short form (no inline category).
+    while ((m = reShort.exec(text)) !== null) {
+      out.push({ name: m[1].trim(), style: m[2].trim(), category: headerCat || "" });
+    }
   }
   return out;
 }

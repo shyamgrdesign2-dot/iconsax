@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const LocationMinus = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#LocationMinus__clip0_4418_8216)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.62 8.7C19.58 4.07 15.54 2 12 2C12 2 12 2 11.99 2C8.45999 2 4.42999 4.07 3.37999 8.69C2.19999 13.85 5.35999 18.22 8.21999 20.98C9.27999 22 10.64 22.51 12 22.51C13.36 22.51 14.72 22 15.77 20.98C18.63 18.22 21.79 13.86 20.62 8.7ZM14.75 11.75H9.24999C8.83999 11.75 8.49999 11.41 8.49999 11C8.49999 10.59 8.83999 10.25 9.24999 10.25H14.75C15.16 10.25 15.5 10.59 15.5 11C15.5 11.41 15.16 11.75 14.75 11.75Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "LocationMinus__clip0_4418_8216", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var LocationMinus_default = LocationMinus;
+export {
+  LocationMinus_default as default
+};

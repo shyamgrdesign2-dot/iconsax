@@ -1,0 +1,46 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiSyringe = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiSyringe__clip0_3261_13386)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.13 19.01L19.99 19.27C19.17 19.46 18.53 20.1 18.34 20.92L18.07 22.06C18.04 22.18 17.87 22.18 17.84 22.06L17.58 20.92C17.39 20.1 16.75 19.46 15.93 19.27L14.79 19C14.67 18.97 14.67 18.8 14.79 18.77L15.93 18.51C16.75 18.32 17.39 17.68 17.58 16.86L17.85 15.72C17.88 15.6 18.05 15.6 18.08 15.72L18.34 16.86C18.53 17.68 19.17 18.32 19.99 18.51L21.13 18.78C21.25 18.81 21.25 18.98 21.13 19.01Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.16 22H9C4 22 3 19.94 3 15.82V9.63999C3 4.93999 4.67 3.67999 8 3.48999H16C19.33 3.66999 21 4.93999 21 9.63999V14.83", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8 1.98999V4.98999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16 1.98999V4.98999", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.61 12.6001L13.43 14.7801L12.35 15.8701C11.58 16.6401 10.74 16.4601 10.13 15.8501L9.24 14.9501L9.09 14.7901C8.76 14.4001 8.61 13.9301 8.76 13.4501C8.84 13.2101 8.98 12.9601 9.22 12.7301L12.48 9.47009L13.16 10.1401L14.95 11.9301L15.61 12.6001Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.24 16.1801L9.79 16.6301C9.54 16.8801 9.14 16.8801 8.89 16.6301L8.44 16.1801C8.19 15.9301 8.19 15.5301 8.44 15.2801L8.89 14.8301", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.33002 17.75L8.68002 16.4", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.07 13.0401L15.62 12.5901", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.48 9.46001L12.03 9.01001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.74 10.1301L14.95 11.9201L13.16 10.1301L14.95 8.34009L16.74 10.1301Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.41 10.8L16.74 10.13", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.94 8.34004L14.27 7.67004", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiSyringe__clip0_3261_13386", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiSyringe_default = AiSyringe;
+export {
+  AiSyringe_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SearchStatus = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SearchStatus__clip0_3186_7047)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.61 19.6599C15.59 19.6599 19.62 15.6299 19.62 10.6499C19.62 5.66989 15.59 1.63989 10.61 1.63989C5.62997 1.63989 1.59998 5.66989 1.59998 10.6499C1.59998 15.6299 5.62997 19.6599 10.61 19.6599Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.31 19.02C22.05 18.29 21.32 17.78 20.32 17.63C19.54 17.5 18.82 17.72 18.33 18.21C17.84 18.71 17.63 19.44 17.76 20.23C18.01 21.72 18.81 22.16 19.26 22.29C19.39 22.33 19.55 22.36 19.75 22.36C20.24 22.36 20.91 22.16 21.64 21.36C22.32 20.61 22.57 19.75 22.31 19.02Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.61 9.8999H7.60999C7.19999 9.8999 6.85999 9.5599 6.85999 9.1499C6.85999 8.7399 7.19999 8.3999 7.60999 8.3999H13.61C14.02 8.3999 14.36 8.7399 14.36 9.1499C14.36 9.5599 14.02 9.8999 13.61 9.8999Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.61 12.8999H7.60999C7.19999 12.8999 6.85999 12.5599 6.85999 12.1499C6.85999 11.7399 7.19999 11.3999 7.60999 11.3999H10.61C11.02 11.3999 11.36 11.7399 11.36 12.1499C11.36 12.5599 11.02 12.8999 10.61 12.8999Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SearchStatus__clip0_3186_7047", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SearchStatus_default = SearchStatus;
+export {
+  SearchStatus_default as default
+};

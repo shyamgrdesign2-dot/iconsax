@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ClipboardImport = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#ClipboardImport__clip0_4418_4845)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M16.24 3.65039H7.76004C5.29004 3.65039 3.29004 5.66039 3.29004 8.12039V17.5304C3.29004 19.9904 5.30004 22.0004 7.76004 22.0004H16.23C18.7 22.0004 20.7 19.9904 20.7 17.5304V8.12039C20.71 5.65039 18.7 3.65039 16.24 3.65039Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.3498 2H9.64977C8.60977 2 7.75977 2.84 7.75977 3.88V4.82C7.75977 5.86 8.59977 6.7 9.63977 6.7H14.3498C15.3898 6.7 16.2298 5.86 16.2298 4.82V3.88C16.2398 2.84 15.3898 2 14.3498 2Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.9999 13.2495C14.5899 13.2495 14.2499 13.5895 14.2499 13.9995V15.1895L9.52994 10.4695C9.23994 10.1795 8.75994 10.1795 8.46994 10.4695C8.17994 10.7595 8.17994 11.2395 8.46994 11.5295L13.1899 16.2495H11.9999C11.5899 16.2495 11.2499 16.5895 11.2499 16.9995C11.2499 17.4095 11.5899 17.7495 11.9999 17.7495H14.9999C15.4099 17.7495 15.7499 17.4095 15.7499 16.9995V13.9995C15.7499 13.5895 15.4099 13.2495 14.9999 13.2495Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "ClipboardImport__clip0_4418_4845", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var ClipboardImport_default = ClipboardImport;
+export {
+  ClipboardImport_default as default
+};

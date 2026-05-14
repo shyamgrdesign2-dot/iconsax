@@ -1,0 +1,42 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SantaMouth = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SantaMouth__clip0_655_9819)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.98945 10.91V12.37C4.98945 14.05 4.89945 15.74 4.71945 17.41L4.68945 17.69", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.4107 11.08V12.37C17.4107 14.05 17.5007 15.74 17.6807 17.41L17.7407 17.96C17.9307 19.67 16.6007 21.17 14.8807 21.17H12.7807C12.5107 21.18 12.2607 21.29 12.0807 21.47L11.6707 21.87C11.5107 22.04 11.2407 22.04 11.0707 21.87L10.6707 21.47C10.4807 21.29 10.2307 21.18 9.9707 21.18H7.5307C6.8407 21.17 6.2107 20.93 5.7207 20.54", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.43945 15.49V11.22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.9609 11.22V15.49", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.3492 17.21H12.1992C11.6492 17.21 11.1992 16.76 11.1992 16.21V14.51H12.9292C14.2592 14.51 15.3492 15.59 15.3492 16.93V17.21Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.41078 17.21H10.0208C10.6708 17.21 11.2008 16.68 11.2008 16.03V14.51H9.38078C8.09078 14.51 7.05078 15.55 7.05078 16.84C7.05078 17.04 7.21078 17.2 7.41078 17.2V17.21Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.4809 3.89001C16.1409 4.47001 15.9609 5.13001 15.9609 5.81001V7.08001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.41992 7.08001V5.56001C6.41992 3.60001 8.00992 2.01001 9.96992 2.01001H17.9199", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.7694 8.65999C17.7694 8.65999 17.7694 8.64999 17.7694 8.63999C17.7694 7.78999 17.0794 7.10999 16.2394 7.10999C15.7294 7.10999 15.2694 7.35999 14.9894 7.74999C14.7094 7.37999 14.2694 7.14999 13.7694 7.14999C13.2694 7.14999 12.8194 7.38999 12.5394 7.76999C12.2594 7.38999 11.8094 7.14999 11.3094 7.14999C10.8094 7.14999 10.3594 7.38999 10.0794 7.76999C9.79937 7.38999 9.34938 7.14999 8.84938 7.14999C8.34938 7.14999 7.89937 7.38999 7.61937 7.76999C7.33937 7.38999 6.88937 7.14999 6.38937 7.14999C5.53937 7.14999 4.85938 7.83999 4.85938 8.67999C4.85938 8.91999 4.91937 9.14998 5.01937 9.35998C4.91937 9.55998 4.85938 9.78999 4.85938 10.04C4.85938 10.89 5.54937 11.57 6.38937 11.57C6.88937 11.57 7.33937 11.33 7.61937 10.95C7.89937 11.33 8.34938 11.57 8.84938 11.57C9.34938 11.57 9.79937 11.33 10.0794 10.95C10.3594 11.33 10.8094 11.57 11.3094 11.57C11.8094 11.57 12.2594 11.33 12.5394 10.95C12.8194 11.33 13.2694 11.57 13.7694 11.57C14.2694 11.57 14.7194 11.33 14.9994 10.95C15.2794 11.33 15.7294 11.57 16.2294 11.57C17.0794 11.57 17.7594 10.88 17.7594 10.04C17.7594 9.79999 17.6994 9.56998 17.5994 9.35998C17.6994 9.15998 17.7594 8.92999 17.7594 8.67999C17.7594 8.67999 17.7594 8.66999 17.7594 8.65999H17.7694Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.9205 4.88C18.7105 4.88 19.3605 4.24 19.3605 3.44C19.3605 2.64 18.7205 2 17.9205 2C17.1205 2 16.4805 2.64 16.4805 3.44C16.4805 4.24 17.1205 4.88 17.9205 4.88Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SantaMouth__clip0_655_9819", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SantaMouth_default = SantaMouth;
+export {
+  SantaMouth_default as default
+};

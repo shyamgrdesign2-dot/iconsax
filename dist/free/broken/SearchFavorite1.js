@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SearchFavorite1 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SearchFavorite1__clip0_3186_7004)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.23997 11.6399C7.85997 10.4499 8.30998 8.95995 9.55998 8.55995C10.22 8.33995 11.03 8.52995 11.5 9.16995C11.93 8.50995 12.78 8.35995 13.43 8.55995C14.69 8.95995 15.13 10.4499 14.75 11.6399C14.15 13.5399 12.07 14.5199 11.5 14.5199C10.93 14.5199 8.84997 13.5599 8.23997 11.6399Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.5 2C16.75 2 21 6.25 21 11.5C21 16.75 16.75 21 11.5 21C6.25 21 2 16.75 2 11.5C2 7.8 4.11 4.6 7.2 3.03", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 22L20 20", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SearchFavorite1__clip0_3186_7004", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SearchFavorite1_default = SearchFavorite1;
+export {
+  SearchFavorite1_default as default
+};

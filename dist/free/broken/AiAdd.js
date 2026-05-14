@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiAdd = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiAdd__clip0_3280_13002)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.86 13.67C21.95 13.13 22 12.57 22 12C22 6.5 17.5 2 12 2M14.29 21.73C13.56 21.91 12.79 22 12 22C6.5 22 2 17.5 2 12C2 8.84265 3.48297 6.01484 5.78678 4.17873", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8 12H16", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 16V8", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.17 18.5L20.97 18.78C20.11 18.98 19.44 19.64 19.24 20.5L18.96 21.7C18.93 21.82 18.75 21.82 18.72 21.7L18.44 20.5C18.24 19.64 17.58 18.97 16.72 18.77L15.52 18.49C15.4 18.46 15.4 18.28 15.52 18.25L16.72 17.97C17.58 17.77 18.25 17.11 18.45 16.25L18.73 15.05C18.76 14.93 18.94 14.93 18.97 15.05L19.25 16.25C19.45 17.11 20.11 17.78 20.97 17.98L22.17 18.26C22.29 18.29 22.29 18.47 22.17 18.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiAdd__clip0_3280_13002", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiAdd_default = AiAdd;
+export {
+  AiAdd_default as default
+};

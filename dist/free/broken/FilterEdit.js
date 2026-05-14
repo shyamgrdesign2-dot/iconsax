@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const FilterEdit = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#FilterEdit__clip0_4418_3700)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.33008 2H18.67C19.78 2 20.6901 2.90999 20.6901 4.01999V6.23999C20.6901 7.04999 20.1801 8.06 19.6801 8.56", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.41 20.7892L12.0001 21.6992C10.6901 22.5092 8.87006 21.5992 8.87006 19.9792V14.6292C8.87006 13.9192 8.47006 13.0092 8.06006 12.5092L4.22003 8.46921C3.71003 7.95921 3.31006 7.05922 3.31006 6.44922", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M17.0802 11.8894L13.5401 15.4294C13.4001 15.5694 13.2701 15.8294 13.2401 16.0194L13.0501 17.3694C12.9801 17.8594 13.3202 18.1994 13.8102 18.1294L15.1601 17.9394C15.3501 17.9094 15.6202 17.7794 15.7502 17.6394L19.2901 14.0994C19.9001 13.4894 20.1901 12.7794 19.2901 11.8794C18.4001 10.9894 17.6902 11.2794 17.0802 11.8894Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.5801 12.3887C16.8801 13.4687 17.72 14.3086 18.8 14.6086", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "FilterEdit__clip0_4418_3700", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var FilterEdit_default = FilterEdit;
+export {
+  FilterEdit_default as default
+};

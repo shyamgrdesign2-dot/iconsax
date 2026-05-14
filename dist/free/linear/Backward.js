@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Backward = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Backward__clip0_4418_9193)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 8.34043V15.6604C22 17.1604 20.37 18.1004 19.07 17.3504L15.9 15.5304L12.73 13.7004C12.53 13.5804 12.37 13.4504 12.24 13.2904V10.7304C12.37 10.5704 12.53 10.4404 12.73 10.3204L15.9 8.49042L19.07 6.67044C20.37 5.90044 22 6.84043 22 8.34043Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.24 8.34043V15.6604C12.24 17.1604 10.61 18.1004 9.30999 17.3504L6.14001 15.5304L2.97 13.7004C1.67 12.9504 1.67 11.0804 2.97 10.3204L6.14001 8.49042L9.30999 6.67044C10.61 5.90044 12.24 6.84043 12.24 8.34043Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Backward__clip0_4418_9193", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Backward_default = Backward;
+export {
+  Backward_default as default
+};

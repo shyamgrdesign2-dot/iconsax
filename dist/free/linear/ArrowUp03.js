@@ -1,0 +1,10 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ArrowUp03 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M12.0002 18.0003H9.33017C6.02017 18.0003 4.66017 15.6503 6.32017 12.7803L7.66017 10.4703L9.00017 8.16031C10.6602 5.29031 13.3702 5.29031 15.0302 8.16031L16.3702 10.4703L17.7102 12.7803C19.3702 15.6503 18.0102 18.0003 14.7002 18.0003H12.0002Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round", strokeLinejoin: "round" }),
+  " "
+] });
+var ArrowUp03_default = ArrowUp03;
+export {
+  ArrowUp03_default as default
+};

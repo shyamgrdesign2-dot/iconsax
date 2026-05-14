@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SearchFavorite = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SearchFavorite__clip0_3186_6988)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.69994 11.16C7.31994 9.96997 7.76994 8.47997 9.01994 8.07997C9.67994 7.85997 10.4899 8.04997 10.9599 8.68997C11.3899 8.02997 12.2399 7.87997 12.8899 8.07997C14.1499 8.47997 14.5899 9.96997 14.2099 11.16C13.6099 13.06 11.5299 14.04 10.9599 14.04C10.3899 14.04 8.30994 13.08 7.69994 11.16Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.97 2.02002C15.94 2.02002 19.97 6.05002 19.97 11.02C19.97 15.99 15.94 20.02 10.97 20.02C5.99997 20.02 1.96997 15.99 1.96997 11.02C1.96997 7.52002 3.96997 4.48002 6.89997 2.99002", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.8699 20.48C19.1499 22.14 20.3299 22.48 21.4599 21.24C22.4899 20.1 22.0999 18.98 20.5699 18.75C19.4399 18.57 18.6799 19.35 18.8699 20.49V20.48Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SearchFavorite__clip0_3186_6988", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SearchFavorite_default = SearchFavorite;
+export {
+  SearchFavorite_default as default
+};

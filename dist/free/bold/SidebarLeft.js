@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const SidebarLeft = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#SidebarLeft__clip0_4418_8541)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 7.8093V16.1893C2 17.6793 2.36 18.9193 3.05 19.8693C3.34 20.2893 3.71 20.6593 4.13 20.9493C4.95 21.5493 5.99 21.8993 7.22 21.9793V2.0293C3.94 2.2393 2 4.3693 2 7.8093Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.95 4.13C20.66 3.71 20.29 3.34 19.87 3.05C18.92 2.36 17.68 2 16.19 2H8.71997V22H16.19C19.83 22 22 19.83 22 16.19V7.81C22 6.32 21.64 5.08 20.95 4.13ZM15.5 14.03C15.79 14.32 15.79 14.8 15.5 15.09C15.35 15.24 15.16 15.31 14.97 15.31C14.78 15.31 14.59 15.24 14.44 15.09L11.88 12.53C11.59 12.24 11.59 11.76 11.88 11.47L14.44 8.91C14.73 8.62 15.21 8.62 15.5 8.91C15.79 9.2 15.79 9.68 15.5 9.97L13.48 12L15.5 14.03Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "SidebarLeft__clip0_4418_8541", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var SidebarLeft_default = SidebarLeft;
+export {
+  SidebarLeft_default as default
+};

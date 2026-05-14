@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Ball26 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Ball26__clip0_655_7169)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0004 2L19.1104 4.89", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M3.13965 7.52999C4.19965 7.35999 5.25965 7.69999 6.10965 8.43999C7.43965 9.76999 7.43965 11.88 6.10965 13.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.11035 13.22C7.44035 11.89 9.55035 11.89 10.7804 13.22C12.0004 14.55 12.1104 16.66 10.7804 17.89", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.7803 17.89C12.1103 16.56 14.2203 16.56 15.4503 17.89C16.2303 18.67 16.5603 19.89 16.3403 21", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.11035 2.78C9.11035 2.67 10.1104 3.00001 10.8904 3.78C12.2204 5.11001 12.2204 7.22 10.8904 8.45", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.7803 8.44C12.1103 7.11 14.2203 7.11 15.4503 8.44C16.6703 9.77 16.7803 11.88 15.4503 13.11", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M15.5596 13.22C16.8896 11.89 18.9996 11.89 20.2296 13.22C20.9496 13.94 21.2896 14.85 21.2496 15.77", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Ball26__clip0_655_7169", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Ball26_default = Ball26;
+export {
+  Ball26_default as default
+};

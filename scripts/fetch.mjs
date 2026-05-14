@@ -11,10 +11,20 @@ import fs from "node:fs";
 import path from "node:path";
 import { mcpCall, parseGetIcon, STYLES } from "./lib/mcp.mjs";
 
-const NAMES_FILE = path.resolve("crawl-state/names.json");
-const SVG_ROOT = path.resolve("svg");
-const MANIFEST = path.resolve("icons.json");
+const SOURCE = process.env.SOURCE || "pro"; // "free" or "pro"
+const TOOL = SOURCE === "free" ? "get_icon" : "get_pro_icon";
+const NAMES_FILE = path.resolve(`crawl-state/names-${SOURCE}.json`);
+const SVG_ROOT = path.resolve(`svg/${SOURCE}`);
+const MANIFEST = path.resolve(`icons-${SOURCE}.json`);
 const CONCURRENCY = Number(process.env.CONCURRENCY || 12);
+
+if (!fs.existsSync(NAMES_FILE)) {
+  // Fall back to legacy single-source names.json (for backwards compatibility).
+  const legacy = path.resolve("crawl-state/names.json");
+  if (SOURCE === "pro" && fs.existsSync(legacy)) {
+    fs.copyFileSync(legacy, NAMES_FILE);
+  }
+}
 
 if (!fs.existsSync(NAMES_FILE)) {
   console.error("Run `npm run crawl:discover` first.");
@@ -29,7 +39,12 @@ console.log(`[fetch] ${allNames.length} names to process. concurrency=${CONCURRE
 const manifest = fs.existsSync(MANIFEST) ? JSON.parse(fs.readFileSync(MANIFEST, "utf8")) : {};
 
 function allFilesPresent(name) {
-  for (const s of STYLES) {
+  // "Complete" if every style we already know about is on disk. For first-time
+  // fetches we don't yet know the style set, so we require all 6 to be safe;
+  // subsequent runs use the manifest to skip icons that only have a subset.
+  const known = manifest[name]?.styles;
+  const required = known && known.length ? known : STYLES;
+  for (const s of required) {
     if (!fs.existsSync(path.join(SVG_ROOT, s, `${name}.svg`))) return false;
   }
   return true;
@@ -39,7 +54,7 @@ function svgPath(style, name) { return path.join(SVG_ROOT, style, `${name}.svg`)
 
 async function fetchOne(name) {
   if (allFilesPresent(name) && manifest[name]) return { name, skipped: true };
-  const text = await mcpCall("get_pro_icon", { name });
+  const text = await mcpCall(TOOL, { name });
   const parsed = parseGetIcon(text);
   const stylesWritten = [];
   for (const [style, svg] of Object.entries(parsed.styles)) {

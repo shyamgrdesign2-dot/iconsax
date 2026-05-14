@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const DirectNotification = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#DirectNotification__clip0_4418_3317)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M1.97998 13.0002H5.76998C6.52998 13.0002 7.21998 13.4302 7.55998 14.1102L8.44998 15.9002C8.99998 17.0002 9.99998 17.0002 10.24 17.0002H13.77C14.53 17.0002 15.22 16.5702 15.56 15.8902L16.45 14.1002C16.79 13.4202 17.48 12.9902 18.24 12.9902H21.98", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19 2C17.34 2 16 3.34 16 5C16 6.66 17.34 8 19 8C20.66 8 22 6.66 22 5C22 4.66 21.94 4.32 21.84 4.02", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2.68994 19C3.64994 21.1 5.64994 22 8.99994 22H14.9999C19.9999 22 21.9999 20 21.9999 15V10", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14 2H9C4 2 2 4 2 9V15", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "DirectNotification__clip0_4418_3317", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var DirectNotification_default = DirectNotification;
+export {
+  DirectNotification_default as default
+};

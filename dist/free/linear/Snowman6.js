@@ -1,0 +1,38 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Snowman6 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Snowman6__clip0_655_7259)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9996 22C14.4496 22 16.4396 20.01 16.4396 17.56C16.4396 15.11 14.4496 13.12 11.9996 13.12C9.54957 13.12 7.55957 15.11 7.55957 17.56C7.55957 20.01 9.54957 22 11.9996 22Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9999 13.11C13.8399 13.11 15.3299 11.62 15.3299 9.78001C15.3299 7.94001 13.8399 6.45001 11.9999 6.45001C10.1599 6.45001 8.66992 7.94001 8.66992 9.78001C8.66992 11.62 10.1599 13.11 11.9999 13.11Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M14.2203 6.44H9.78027V3.11C9.78027 2.44 10.2203 2 10.8903 2H13.1103C13.7803 2 14.2203 2.44 14.2203 3.11V6.44Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.55957 6.44H16.4496", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.0003 13.11H19.7803V10.89", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M19.7798 13.11L16.3398 16.55", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 13.11H4.22V10.89", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.67047 16.56L4.23047 13.12", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Snowman6__clip0_655_7259", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Snowman6_default = Snowman6;
+export {
+  Snowman6_default as default
+};

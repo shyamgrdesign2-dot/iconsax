@@ -1,0 +1,26 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Stick3 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Stick3__clip0_655_9799)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.8401 3.85998L19.3401 6.92998C19.2401 7.12998 19.2801 7.36998 19.4301 7.51998L21.8501 10.01C22.2001 10.37 21.9001 10.96 21.4101 10.89L18.0301 10.44C17.8201 10.41 17.6101 10.52 17.5001 10.71L15.8301 13.75C15.5901 14.18 14.9401 14.08 14.8601 13.59L14.2501 10.18C14.2101 9.95998 14.0401 9.78998 13.8301 9.75998L10.4201 9.14998C9.93012 9.05998 9.83012 8.40998 10.2601 8.17998L13.3001 6.50998C13.4901 6.40998 13.6001 6.19998 13.5701 5.97998L13.1201 2.59998C13.0501 2.10998 13.6501 1.80998 14.0001 2.15998L16.4901 4.57998C16.6501 4.72998 16.8901 4.76998 17.0801 4.66998L20.1501 3.16998C20.6001 2.94998 21.0701 3.41998 20.8501 3.86998L20.8401 3.85998Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M7.95094 13.32L3.17094 16C2.57094 16.34 2.45094 17.16 2.94094 17.65L6.34094 21.05C6.83094 21.54 7.65094 21.43 7.99094 20.82L12.3509 13.07C12.8709 12.15 11.8509 11.13 10.9309 11.65", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Stick3__clip0_655_9799", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Stick3_default = Stick3;
+export {
+  Stick3_default as default
+};

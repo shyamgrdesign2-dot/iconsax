@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Hashtag = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Hashtag__clip0_4418_8848)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.05005 10.1408V11.3008H11.31V8.05078H10.15C8.99005 8.05078 8.05005 8.99078 8.05005 10.1408Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M8.05005 13.8592C8.05005 15.0092 8.99005 15.9492 10.14 15.9492H11.3V12.6992H8.05005V13.8592Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M12.7 15.9492H13.86C15.01 15.9492 15.95 15.0092 15.95 13.8592V12.6992H12.7V15.9492Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.19 2H7.81C4.17 2 2 4.17 2 7.81V16.18C2 19.83 4.17 22 7.81 22H16.18C19.82 22 21.99 19.83 21.99 16.19V7.81C22 4.17 19.83 2 16.19 2ZM17.35 13.86C17.35 15.78 15.78 17.35 13.86 17.35H10.14C8.22 17.35 6.65 15.79 6.65 13.86V10.14C6.65 8.22 8.22 6.65 10.14 6.65H13.86C15.78 6.65 17.35 8.21 17.35 10.14V13.86Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.86 8.05078H12.7V11.3108H15.96V10.1508C15.95 8.99078 15.01 8.05078 13.86 8.05078Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Hashtag__clip0_4418_8848", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Hashtag_default = Hashtag;
+export {
+  Hashtag_default as default
+};

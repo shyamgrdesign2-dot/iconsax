@@ -1,0 +1,32 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const LocationSlash = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#LocationSlash__clip0_4418_3344)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.4199 12.9995C9.49988 12.4595 8.87988 11.4595 8.87988 10.3095C8.87988 8.58945 10.2699 7.18945 11.9999 7.18945C13.1499 7.18945 14.1499 7.80945 14.6899 8.73945", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.50977 3.83971C10.0498 1.04971 15.7098 1.42971 18.6798 4.97971", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M5.99008 17.8102C4.15008 15.3002 2.81008 12.0902 3.63008 8.49023", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.3801 8.5C21.5301 13.58 18.3701 17.88 15.6001 20.54C13.5901 22.48 10.4101 22.48 8.39014 20.54", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22 2L2 22", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "LocationSlash__clip0_4418_3344", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var LocationSlash_default = LocationSlash;
+export {
+  LocationSlash_default as default
+};

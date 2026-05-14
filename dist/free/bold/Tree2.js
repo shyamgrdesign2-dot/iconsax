@@ -1,0 +1,24 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Tree2 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Tree2__clip0_655_9457)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M18.6302 15.71L15.7102 12.21C15.1502 11.54 15.6302 10.51 16.5002 10.51H16.8202C17.6702 10.51 18.1602 9.54 17.6502 8.85L12.8202 2.41C12.4102 1.86 11.5802 1.86 11.1602 2.41L6.33015 8.85C5.82015 9.53 6.31015 10.51 7.16015 10.51H7.48015C8.36015 10.51 8.84015 11.53 8.27015 12.21L5.35015 15.71C4.79015 16.38 5.27015 17.41 6.14015 17.41H11.2302V22.01C11.2302 22.42 11.5702 22.76 11.9802 22.76C12.3902 22.76 12.7302 22.42 12.7302 22.01V17.41H17.8202C18.7002 17.41 19.1802 16.39 18.6102 15.71H18.6302Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Tree2__clip0_655_9457", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Tree2_default = Tree2;
+export {
+  Tree2_default as default
+};

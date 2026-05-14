@@ -1,0 +1,28 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MonitorRecorder = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MonitorRecorder__clip0_4418_5142)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M20.97 7.19V13.37H2V7.19C2 4.88 3.88 3 6.19 3H16.78C19.09 3 20.97 4.88 20.97 7.19Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M2 13.3691V13.5591C2 15.8791 3.88 17.7491 6.19 17.7491H9.79C10.34 17.7491 10.79 18.1991 10.79 18.7491V19.5691C10.79 20.1191 10.34 20.5691 9.79 20.5691H7.53C7.14 20.5691 6.82 20.8891 6.82 21.2791C6.82 21.6691 7.14 21.9891 7.53 21.9891H15.46C15.85 21.9891 16.17 21.6691 16.17 21.2791C16.17 20.8891 15.85 20.5691 15.46 20.5691H13.21C12.66 20.5691 12.21 20.1191 12.21 19.5691V18.7491C12.21 18.1991 12.66 17.7491 13.21 17.7491H16.78C19.1 17.7491 20.97 15.8691 20.97 13.5591V13.3691H2Z", fill: "currentColor" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M21.99 2.35962L20.86 3.14962V2.72962C20.86 1.77962 20.09 1.01962 19.15 1.01962H14.87C13.84 1.00962 13 1.84962 13 2.87962V6.15962C13 7.01962 13.43 7.86962 14.71 7.86962H19.14C20.09 7.86962 20.85 7.09962 20.85 6.15962V5.72962L21.98 6.51962C22.55 6.90962 23 6.66962 23 5.98962V2.88962C23 2.20962 22.55 1.97962 21.99 2.35962Z", fill: "currentColor" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MonitorRecorder__clip0_4418_5142", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MonitorRecorder_default = MonitorRecorder;
+export {
+  MonitorRecorder_default as default
+};

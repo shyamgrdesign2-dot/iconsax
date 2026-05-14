@@ -1,0 +1,12 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const ArrowRight02 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.23 8.51953L8.17999 12.3095V17.9195C8.17999 18.8795 9.33999 19.3595 10.02 18.6795L15.2 13.4995C16.03 12.6695 16.03 11.3195 15.2 10.4895L13.23 8.51953Z", fill: "currentColor" }),
+  " ",
+  /* @__PURE__ */ jsx("path", { d: "M8.17999 6.07993V12.3099L13.23 8.51993L10.02 5.30993C9.33999 4.63993 8.17999 5.11993 8.17999 6.07993Z", fill: "currentColor" }),
+  " "
+] });
+var ArrowRight02_default = ArrowRight02;
+export {
+  ArrowRight02_default as default
+};

@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const MusicalNoteAi = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#MusicalNoteAi__clip0_3261_13251)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M20.86 17.42L19.77 17.67C18.99 17.85 18.37 18.46 18.19 19.25L17.94 20.34C17.92 20.45 17.74 20.45 17.72 20.34L17.47 19.25C17.29 18.47 16.68 17.85 15.89 17.67L14.8 17.42C14.69 17.4 14.69 17.22 14.8 17.2L15.89 16.95C16.67 16.77 17.29 16.16 17.47 15.37L17.72 14.28C17.74 14.17 17.92 14.17 17.94 14.28L18.19 15.37C18.37 16.15 18.98 16.77 19.77 16.95L20.86 17.2C20.97 17.22 20.97 17.4 20.86 17.42Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.75997 21.5C8.84997 21.5 10.55 19.8 10.55 17.71C10.55 15.62 8.84997 13.92 6.75997 13.92C4.66997 13.92 2.96997 15.62 2.96997 17.71C2.96997 19.8 4.66997 21.5 6.75997 21.5Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M10.55 10.61L18.2 7.64003C19.13 7.28003 19.9 6.16003 19.9 5.16003C19.9 3.29003 18.02 2.00003 16.28 2.68003L12.59 4.11003C11.36 4.59003 10.56 5.77003 10.56 7.08003V10.61H10.55Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M10.55 8V17.71", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "MusicalNoteAi__clip0_3261_13251", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var MusicalNoteAi_default = MusicalNoteAi;
+export {
+  MusicalNoteAi_default as default
+};

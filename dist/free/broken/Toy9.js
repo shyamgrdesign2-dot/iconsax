@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const Toy9 = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#Toy9__clip0_655_9805)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4.66969 6.44C5.99969 3.77 8.88969 2 11.9997 2C12.3297 2 12.7797 2 13.1097 2.11C16.4397 2.55 19.2197 5 19.9997 8.22C20.2197 8.89 20.3297 9.55 20.3297 10.33C20.3297 13.66 18.3297 16.55 15.4397 17.89C14.3297 18.45 13.2197 18.67 11.9997 18.67C10.7797 18.67 9.55969 18.45 8.55969 17.89C7.66969 17.45 6.88969 16.89 6.11969 16.22C4.55969 14.66 3.67969 12.66 3.67969 10.33", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M16.0009 17.67L17.0809 20.67C17.3109 21.32 16.8309 22.01 16.1409 22.01H7.87091C7.18091 22.01 6.69091 21.32 6.93091 20.67L8.01091 17.67", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9993 10.89C13.2293 10.89 14.2193 9.90001 14.2193 8.67001C14.2193 7.44001 13.2293 6.45001 11.9993 6.45001C10.7693 6.45001 9.7793 7.44001 9.7793 8.67001C9.7793 9.90001 10.7693 10.89 11.9993 10.89Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9999 18.67C13.8399 18.67 15.3299 17.18 15.3299 15.34C15.3299 13.5 13.8399 12.01 11.9999 12.01C10.1599 12.01 8.66992 13.5 8.66992 15.34C8.66992 17.18 10.1599 18.67 11.9999 18.67Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "Toy9__clip0_655_9805", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var Toy9_default = Toy9;
+export {
+  Toy9_default as default
+};

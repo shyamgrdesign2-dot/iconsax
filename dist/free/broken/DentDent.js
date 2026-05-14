@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const DentDent = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#DentDent__clip0_4418_4105)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.9997 18.1496C11.2797 18.1496 10.6797 17.5596 10.6797 16.8296V7.1696C10.6797 6.4496 11.2697 5.84961 11.9997 5.84961C12.7197 5.84961 13.3197 6.4396 13.3197 7.1696V16.8296C13.3197 17.5596 12.7197 18.1496 11.9997 18.1496Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.68001 8.93096C7.04001 8.30096 7.85002 8.09096 8.48002 8.45096L16.85 13.281C17.48 13.641 17.69 14.451 17.33 15.081C16.97 15.711 16.16 15.921 15.53 15.561L7.16002 10.731C6.53002 10.361 6.31001 9.55096 6.68001 8.93096Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M6.67948 15.0712C6.31948 14.4412 6.52948 13.6312 7.15948 13.2712L15.5295 8.4412C16.1595 8.0812 16.9695 8.29119 17.3295 8.92119C17.6895 9.55119 17.4795 10.3612 16.8495 10.7212L8.47948 15.5512C7.84948 15.9212 7.03948 15.7012 6.67948 15.0712Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M4 6C2.75 7.67 2 9.75 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2C10.57 2 9.2 2.30001 7.97 2.85001", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "DentDent__clip0_4418_4105", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var DentDent_default = DentDent;
+export {
+  DentDent_default as default
+};

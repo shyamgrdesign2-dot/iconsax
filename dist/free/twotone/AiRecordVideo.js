@@ -1,0 +1,30 @@
+import { jsx, jsxs } from "react/jsx-runtime";
+const AiRecordVideo = (props) => /* @__PURE__ */ jsxs("svg", { xmlns: "http://www.w3.org/2000/svg", width: 24, height: 24, viewBox: "0 0 24 24", fill: "none", ...props, children: [
+  " ",
+  /* @__PURE__ */ jsxs("g", { clipPath: "url(#AiRecordVideo__clip0_3280_13069)", children: [
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M22.51 19.01L21.37 19.27C20.55 19.46 19.91 20.1 19.72 20.92L19.45 22.06C19.42 22.18 19.25 22.18 19.22 22.06L18.96 20.92C18.77 20.1 18.13 19.46 17.31 19.27L16.17 19C16.05 18.97 16.05 18.8 16.17 18.77L17.31 18.51C18.13 18.32 18.77 17.68 18.96 16.86L19.23 15.72C19.26 15.6 19.43 15.6 19.46 15.72L19.72 16.86C19.91 17.68 20.55 18.32 21.37 18.51L22.51 18.78C22.63 18.81 22.63 18.98 22.51 19.01Z", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M11.28 15.53H8.52003C7.25003 15.53 6.22003 14.5 6.22003 13.23V10.47C6.22003 9.19998 7.25003 8.16998 8.52003 8.16998H11.28C12.55 8.16998 13.58 9.19998 13.58 10.47V13.23C13.58 14.5 12.55 15.53 11.28 15.53Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { d: "M13.58 10.93V12.77L15.62 14.13C15.92 14.33 16.34 14.11 16.34 13.74V9.94C16.34 9.57 15.93 9.35 15.62 9.55L13.58 10.92V10.93Z", stroke: "currentColor", strokeWidth: "1.5", strokeLinecap: "round", strokeLinejoin: "round" }),
+    " ",
+    /* @__PURE__ */ jsx("path", { opacity: "0.4", d: "M13.58 21.85H6.86002C3.85002 21.85 1.40002 19.41 1.40002 16.39V7.30998C1.40002 4.28998 3.84002 1.84998 6.86002 1.84998H15.7C18.71 1.84998 21.16 4.28998 21.16 7.30998V12.3", stroke: "currentColor", strokeWidth: "1.5", strokeMiterlimit: "10", strokeLinecap: "round" }),
+    " "
+  ] }),
+  " ",
+  /* @__PURE__ */ jsxs("defs", { children: [
+    " ",
+    /* @__PURE__ */ jsxs("clipPath", { id: "AiRecordVideo__clip0_3280_13069", children: [
+      " ",
+      /* @__PURE__ */ jsx("rect", { width: "24", height: "24", fill: "currentColor" }),
+      " "
+    ] }),
+    " "
+  ] }),
+  " "
+] });
+var AiRecordVideo_default = AiRecordVideo;
+export {
+  AiRecordVideo_default as default
+};

@@ -1,85 +1,102 @@
 # Iconsax Icons
 
-Iconsax Pro icon set packaged as React components plus raw SVGs.
+A unified icon library packaged as React components plus raw SVGs.
 
-Six styles per icon: `bold`, `broken`, `bulk`, `linear`, `outline`, `twotone`.
+Three sources, each in its own namespace:
 
-> The Iconsax MCP API exposes these six styles only — there is no separate
-> "rounded vs straight" axis on the API. Each icon is available in all six
-> stroke/fill treatments above.
+| Source | Names | Styles | Notes |
+|--------|------:|--------|-------|
+| `free` | 1,207 | 6 (bold · broken · bulk · linear · outline · twotone) | Iconsax free set |
+| `pro`  | 5,468 | 6 (bold · broken · bulk · linear · outline · twotone) | Iconsax Pro set (requires an Iconsax Pro license to crawl) |
+| `tp`   | 72    | 3 (bulk · line · solid) | Custom TP Medical icons |
+
+> 25,164 React components / raw SVGs total. Many icons (especially in `pro`)
+> only ship with a subset of styles — see `icons-pro.json` / `icons-free.json`
+> / `icons-tp.json` for per-icon style availability.
 
 ## Install
 
-This package is hosted directly on GitHub, so install it via the GitHub URL:
-
 ```bash
 npm install github:shyamgrdesign2-dot/iconsax
-# or pin a tag / branch:
-npm install github:shyamgrdesign2-dot/iconsax#v0.1.0
+# or pin a tag (recommended):
+npm install github:shyamgrdesign2-dot/iconsax#v0.2.0
 ```
 
 ## Usage
 
 ```tsx
-// Subpath import — bundles only the style you use.
-import { AiHome, ArrowRight2 } from "@iconsax/icons/linear";
+// Subpath imports — your bundler tree-shakes unused icons.
+import { AiHome }    from "@iconsax/icons/pro/linear";
+import { Home }      from "@iconsax/icons/free/bold";
+import { Ambulance } from "@iconsax/icons/tp/line";
 
 export const Header = () => (
   <header>
-    <AiHome width={32} height={32} stroke="currentColor" />
-    <ArrowRight2 />
+    <AiHome    width={32} height={32} />
+    <Home      width={32} height={32} />
+    <Ambulance width={32} height={32} color="#7c3aed" />
   </header>
 );
 ```
 
 ```tsx
-// Or grab the namespace from the root export.
-import { Bold, Outline } from "@iconsax/icons";
+// Or use namespaced imports.
+import { Pro, Free, Tp } from "@iconsax/icons";
 
-<Bold.AiHome />
-<Outline.AiHome />
+<Pro.Linear.AiHome />
+<Free.Bold.Home />
+<Tp.Solid.Brain />
 ```
+
+All icons accept the standard React `SVGProps<SVGSVGElement>`:
 
 ```tsx
-// All standard SVG props are forwarded.
-<AiHome width={48} height={48} color="#7c3aed" className="my-icon" />
+<AiHome width={48} height={48} stroke="currentColor" className="my-icon" />
 ```
+
+The icons render `stroke="currentColor"` / `fill="currentColor"` so they
+inherit the surrounding text color out of the box.
 
 ### Raw SVGs
 
-Every SVG is also shipped on disk under `svg/<style>/<name>.svg`, so you can
-import them directly with your bundler's SVG loader or copy them out:
+Every SVG is shipped on disk under `svg/<source>/<style>/<name>.svg`:
 
 ```ts
-import linearHomeUrl from "@iconsax/icons/svg/linear/ai-home.svg";
+import linearHomeUrl from "@iconsax/icons/svg/pro/linear/ai-home.svg";
 ```
 
 ## What's in the box
 
-- `dist/` — compiled React components (ESM + CJS + `.d.ts`).
-- `src/` — TypeScript source (one component per icon, per style).
-- `svg/` — raw SVG files, organised by style.
-- `icons.json` — manifest of every icon name and the styles it is available in.
+- `dist/<source>/<style>/<Component>.{js,d.ts}` — compiled React components (ESM + types).
+- `svg/<source>/<style>/<name>.svg` — raw SVG files.
+- `icons-<source>.json` — manifest for each source (category + available styles per icon).
+- `scripts/` — crawler, importer, generator, build.
 
-## How this was built (and how to regenerate)
+## Regenerating from scratch
 
-The icons are sourced from the [Iconsax](https://iconsax.io) MCP server. To
-re-crawl from scratch (e.g. when Iconsax adds new icons):
+When Iconsax adds new icons or TP gets new custom icons:
 
 ```bash
-cp .env.example .env   # fill in ICONSAX_TOKEN
+cp .env.example .env   # fill in ICONSAX_TOKEN (your Iconsax Pro API key)
 npm install
-npm run crawl:discover   # enumerate every icon name
-npm run crawl:fetch      # fetch SVGs (6 styles per name)
-npm run generate         # produce React components in src/
-npm run build            # compile dist/ (ESM + CJS + types)
+
+# 1. Refresh Iconsax sources (resumable; skips icons already on disk).
+npm run crawl:free
+npm run crawl:pro
+
+# 2. Refresh TP Medical icons from the source repo on disk.
+npm run import:tp
+
+# 3. Regenerate components and rebuild dist/.
+npm run generate
+npm run build
 ```
 
-The crawler is resumable — it persists progress in `crawl-state/` and skips
+The crawlers are resumable — they persist progress in `crawl-state/` and skip
 already-downloaded SVGs on re-runs.
 
 ## License
 
-The icons themselves are licensed by Iconsax under the terms of your Iconsax
-subscription. This packaging code is provided as-is for use within projects
-that hold a valid Iconsax license.
+The Iconsax icons themselves are licensed by Iconsax under the terms of your
+Iconsax subscription. The TP Medical icons are owned by TP. This packaging
+code is provided for use within projects that hold the appropriate licenses.
